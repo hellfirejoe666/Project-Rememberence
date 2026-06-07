@@ -100,7 +100,20 @@
         </div>
         <div id="map" class="content-panel" style="display: none;">
             <h1>Cosmic Map</h1>
-            <p>Placeholder for Map module: Navigate planes (X-Y-Z, Y-Z-Q).</p>
+            <div class="map-search-panel">
+                <label for="search-category">Search Category</label>
+                <select id="search-category"></select>
+                <label for="search-query">Custom query</label>
+                <input type="text" id="search-query" placeholder="e.g. buildings, dungeons, worlds">
+                <button id="search-generate">Search</button>
+                <div class="map-results-grid">
+                    <div id="search-results" class="search-results"></div>
+                    <div class="map-canvas-panel">
+                        <canvas id="map-canvas" width="360" height="360"></canvas>
+                        <div id="map-legend" class="map-legend"></div>
+                    </div>
+                </div>
+            </div>
         </div>
        <div id="board-hub" class="content-panel" style="display: none;">
     <h1>Enter the Grid</h1>

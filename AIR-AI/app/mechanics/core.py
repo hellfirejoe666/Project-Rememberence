@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 
 @dataclass
 class StatBlock:
@@ -34,7 +34,7 @@ class SpiritDefinition:
     types: List[Dict[str, str]] = field(default_factory=list)
     traits: List[str] = field(default_factory=list)
     attack_pattern: Optional[str] = None
-    base_stats: Dict[str, int] = field(default_factory=dict)
+    base_stats: Dict[str, Any] = field(default_factory=dict)
 
     def as_dict(self):
         return {

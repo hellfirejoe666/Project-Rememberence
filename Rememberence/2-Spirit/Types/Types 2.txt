@@ -1,0 +1,1044 @@
+Types of Souls
+
+#) Type; [Materia]
+
+As we are mind, so too we are the forces of nature, the matter that the mind perceives.
+
+------------------------------------
+When an item or entity is created, it starts with a number of traits equal to its current tier level and may never have a number of traits beyond its tier level. For instance, a weapon crafted at the Novice tier would have 1 trait. As the item or entity progresses through tiers, it gains an additional trait for each tier level it advances. These may be chosen at random for NPCs with a d6. The same trait can be taken more than once, multiplying the effcts of that trait. Active traits require an amount of MP to activate equal to what ever Biorhythm is controlling the effect, while passive effects are always on if their conditions are met.
+
+
+------------------------------------
+1) Thunder; [Voltara]
+
+The storm is within your soul, and the lightning surges fourth from your intentions. Thunder type spirits have the storm woven into their being, and resonate with all things electric. They are deeper thinkers about the vibrational nature of all things large and very small. They may discover they are quick to find the root of situations, although this sometimes makes them jump to conclusions. Quick thinking and snap judgements are characteristic of Thunder spirits. Active and energetic, they tend to be the life of the party. Whether that is through shocking displays of stupidity, or a sudden burst of profound inspiration, it all depends on who is wielding them.
+
+Thunder spirits embody the themes of intensity, sudden insight, and the electrifying energy of storms, reflecting an association with transformation, depth, and powerful emotions. They represent the quick, often intuitive understanding of situations, the electric surge of inspiration or action, and the dual nature of being both profoundly insightful and impulsively reactive. Thunder spirits symbolize the storm within, the sudden flashes of brilliance or folly, teaching about the power of quick thinking, the importance of depth in perception, and the balance between intuition and rash judgment.
+
+	Society: Thunder spirits are seen as symbols of sudden change, enlightenment, and the balance between wisdom and impulsivity. Their presence in society often signifies moments of transformation or the need for quick, decisive action.
+
+	Events: They are central to myths and Events involving sudden revelations or the dual nature of lightning - both destructive and illuminating.
+Habitat: Preferring environments charged with energy, like storm clouds or areas with electrical phenomena, they thrive where the air crackles with potential.
+
+	Habitat: Preferring environments charged with energy, like storm clouds or areas with electrical phenomena, they thrive where the air crackles with potential.
+
+	Narrative:  Encounters with Thunder spirits might prompt players to make quick decisions, offer sudden insights, or serve as a caution against rash actions, emphasizing themes of intuition, depth, and the balance between action and thought.
+
+Stats:
+HP + SPL
+ATK + KNO
+DEF + WIS
+SPD + DIV
+MP + SEX
+Attack: Diag
+
+Traits; 
+
+Active:
+	1) Stun, the target may not move for a number of turns equal to SPL.
+
+	2) Storm, the caster may increase their ATK and SPD by an amount equal to SPL for a number of turns equal to SPL.
+
+	3) Flash, the caster may increase or decrease non-combat checks by SPL.
+
+	4) Static, the caster may target an area where hostile entities lose SPD and ATK equal to SPL for a number of turns equal to SPL.
+
+	5) Lightning, the caster may select a number of targets up to SPL in their attack pattern and reduce their SPD by SPL.
+
+	6) Shock, the caster may double knockback by an amount equal to SPL for a number of turns equal to SPL.
+
+Passive:
+	Positive: Electric, this spirit gains Charge counters each turn equal to the number of abilities used in their last turn which can be spent to increase MP and the damage of future abilities.
+
+	Negative: Overload, if the number of Charge counters on this spirit is greater than the number of abilities they used in their previous turn they receive damage equal to the number of counters and end their turn.
+
+------------------------------------
+2) Warrior; [Warraga]
+
+Raising your weapon to the enemy, you shall not be tamed! By no man, nor beast, nor god! Warriors bring with them a fierce battle instinct, and a strong arm to any situation. Warrior spirits are strict negotiators, just as much as any spirit who fights on the battlefield. The warrior is a master of confrontation, not always aiming to slaughter their opponent, but to become stronger along with them, if the situation calls for it. While having the capacity to easily overtake anyone who stands in the way of their pursuits. They have mastered the capacity for physical and verbal force, while knowing when and where to apply it.
+
+Warrior spirits embody a steadfast, determined, and sometimes stubborn mentality, known for their unyielding resolve in battle and negotiation. They represent persistence and strength, not just in physical combat but in all forms of confrontation. Warriors are not just fighters; they are also strategists and diplomats, using force or words as needed, embodying the balance between power and restraint.
+
+	Society: Warriors are icons of strength, resilience, and direct confrontation, often revered for their ability to face challenges head-on, embodying the spirit of determination and practical problem-solving.
+
+	Events: Celebrated in stories of heroism, their trials and triumphs are central to cultural narratives, often depicted in rites that test both physical prowess and mental fortitude.
+
+	Habitat: Preferring environments where their skills are tested, like battlefields or strategic locations, they thrive in scenarios that demand strength and tactical acumen.
+
+	Narrative: Meeting a Warrior spirit might prompt players to confront their own challenges directly, learn the art of negotiation through strength, or understand the balance between aggression and restraint, teaching lessons in perseverance, strategic thinking, and personal growth through adversity.
+
+Stats:
+HP + MNF
+ATK + STR
+DEF + VIT
+SPD + SEX
+MP + EGO
+Attack: Omni
+
+Traits;
+
+Active:
+	1) MultiStrike, The caster may make a number of additional attacks equal to STR.
+
+	2) Berserker, the caster may increase a target's ATK and DEF by STR while reducing their SPD by STR.
+
+	3) Tactical, the caster may increase their SPD by twice STR while dodging or their DEF by twice STR while blocking once per turn.
+
+	4) Intimidate, the caster may reduce all the combat and non-combat checks of a target in their attack pattern by STR.
+
+	5) Duelist, a target in the caster's attack pattern may only target the caster  for a number of turns equal to STR.
+
+	6) Resolve, the caster's DEF and HP are increased by STR for a number of turns equal to STR.
+
+Passive:
+	Positive: Hardened, this spirit automatically preforms a Critical Success after three consecutive successful checks of any kind.
+
+	Negative: Stubborn, after a Critical Success this spirit may not preform another Critical Success for a number of turns equal to the number of actions they took in the previous turn.
+
+------------------------------------
+3) Spellcaster; [Cultia]
+
+Sorceries are your specialty, to help or hinder is a matter of who's taking advantage. Verbal and mental mastery is the domain of the Spellcaster, who speak their truth into being. Using various runes and compounds to create powerful magics. They have a profound thirst for knowledge, and will seek it at all costs. They tend to hoard their knowledge for fear that others may use it unwisely. It is not uncommon for Spellcasters to work with words as librarians or teachers, often preferring to be with books over people. Though they often keep to themselves, they are powerful beyond comprehension when they unleash the mysteries they hold.
+
+Spellcaster spirits embody the themes of knowledge, mastery over magic, and the ethical considerations of power, reflecting traits of meticulousness, service, and a quest for perfection. They represent the power of spoken and mental mastery, using their understanding of the universe to craft spells and enchantments. Spellcasters are driven by an insatiable thirst for knowledge, often hoarding it due to fears of misuse, symbolizing the dual nature of knowledge as both a tool for good and a potential for harm.
+
+	Society: Spellcasters are revered for their magical prowess and knowledge, often seen as keepers of ancient secrets, embodying the balance between power and responsibility.
+
+	Events: Central to tales of magical quests, ethical dilemmas, or the pursuit of forbidden knowledge, their stories often explore themes of power, wisdom, and isolation.
+
+	Habitat: They are found in environments conducive to study and solitude, like arcane libraries or secluded towers, where they can delve deep into their research.
+
+	Narrative: Encounters with Spellcasters might prompt players to seek knowledge, confront the ethical use of power, or learn about the perils of isolation, teaching about the value of wisdom, the dangers of unchecked power, and the importance of sharing knowledge.
+
+Stats:
+HP + BEU
+ATK + KNO
+DEF + DIV
+SPD + SEX
+MP + SPL
+Attack: Corner Lateral
+
+Traits;
+
+Active:
+	1) Shroud, the caster may not be the target of spells or abilities for a number of turns equal to SPL.
+
+	2) Barrage, the caster may choose a number of targets in their attack pattern equal to SPL these attacks are always a Critical Success.
+
+	3) Protect, for a number of turns equal to SPL the caster may negate non-physical damage up to SPL.
+
+	4) Whisper, the caster may increase or decrease any non-combat checks in their attack pattern by SPL.
+
+	5) Swap, the caster may choose a target within a number of spaces in their attack pattern equal to SPL and switch positions with them.
+
+	6) Librarian, the caster may preform a number of additional perception checks equal to SPL.
+
+Passive:
+	Positive: Arcane, this spirit restores MP each turn equal to the number of active effects in their attack pattern.
+
+	Negative: Magipsychosis, when this spirit uses any abilities each successive ability has its MP cost multiplied by the total number of abilities used that turn.
+
+------------------------------------
+4) Pyro; [Plasmara]
+
+Calling the inner fire, and the furious passion that comes with it. Fire, fire, burning brighter, the Pyro have a nearly unhealthy fascination with flames. Whether that's the light of a candle burning subtly, or a wildfire raging brazenly. They are excitable and energetic spirits, who tend to burst with emotion at times where it may be unwarranted. Though if they can tame their flame, they can spark a fire in even the coldest heart with their passion. The brightest blaze burns half as long, and they must keep their cool, or risk burning out too quickly.
+
+Pyro spirits embody fiery passion, energy, and sometimes uncontrollable nature. They represent the element of fire in all its forms, from the gentle flicker of a candle to the wild, destructive force of a forest fire. Pyro spirits are characterized by their intense emotions, enthusiasm, and the potential for both creation and destruction. They symbolize the dual nature of passion - its ability to inspire and its risk of burning out if not managed.
+
+	Society: Pyros are symbols of passion, transformation, and the raw energy of fire, often seen as leaders or catalysts for change, embodying the spirit of enthusiasm.
+
+	Events: Central to narratives about emotional intensity, transformation through fire, or the dangers of uncontrolled passion, their stories often explore themes of self-control and the power of fire.
+
+	Habitat: They thrive in environments where fire is a natural element, like volcanic areas or deserts, or where fire Events are common, reflecting their deep connection to fire.
+
+	Narrative: Encounters with Pyro spirits might prompt players to ignite their own passion, learn to manage intense emotions, or understand the balance between fire's creative and destructive forces, teaching about the power of passion, the importance of self-regulation, and the transformative nature of fire.
+
+Stats:
+HP + EGO
+ATK + KNO
+DEF + WIS
+SPD + STR
+MP + SPL
+Attack: Spread
+
+Traits;
+
+Active:
+	1) Inferno, the caster may deal damage to a target equal to SPL for a number of turns equal to SPL.
+
+	2) Flames, for a number of turns equal to SPL when the caster is attacked the target may take damage equal to SPL.
+
+	3) Embers, once per turn the caster may increase any non-combat checks in their attack pattern by twice SPL.
+
+	4) Wildfire, the caster may target an area equal to SPL and all entities in that area receive damage equal to SPL for a number of turns equal to SPL.
+
+	5) Cinders, the caster may reduce their HP by SPL to remove a number of counters up to SPL from a target.
+
+	6) Passion, the caster may increase their ATK and SPD by SPL while reducing their DEF by SPL for a number of turns equal to SPL.
+
+Passive:
+	Positive: Flameborn, this spirit gains HP each turn equal to the number of active effects that do damage per turn in their movement pattern.
+
+	Negative: Burnout, this spirit loses MP per turn equal to the number of abilities they used in their previous turn multiplied by the number of active effects in their movement pattern.
+
+------------------------------------
+5) Plant; [Herbalia]
+
+Like the blossoming forests, your plants grow with the full force of nature. Plant type spirits have a tendency to build foundations, taking root, then growing over large areas by spreading seeds. Growing through broken cities, and ancient ruins, the breath of nature at it's most simplistic. The first plant spirits who emerged from the primordial chaos would float on top of the waters and spread their leaves. Plant type spirits represent natural growth in both it's beauty, and capacity for destruction. Signifiers of the end of decay, and a resurgence of growth.
+
+Plant spirits embody the themes of foundation, growth, and the cyclical nature of life, reflecting an association with structure, ambition, and the enduring qualities of nature. They represent the power of natural expansion, the beauty and resilience of life, and the inevitable cycle of decay and rebirth. Plant spirits symbolize the enduring spirit of nature, the slow but unstoppable force of growth, and the balance between creation and destruction, teaching about patience, the value of foundations, and the natural order of life's cycles.
+
+	Society: Plants are revered for their ability to endure, adapt, and thrive, embodying themes of patience, structural integrity, and the cyclical nature of existence.
+
+	Events: Central to tales of ecological renewal, the balance of nature, or the slow but inevitable march of life, their stories often explore themes of rebirth, resilience, and the natural order.
+
+	Habitat: They are found where nature is reclaiming or has reclaimed land, from ancient ruins to vibrant forests, reflecting their role in ecological renewal.
+
+	Narrative: Encounters with Plant spirits might prompt players to reflect on the importance of patience, the strength found in foundations, or the acceptance of life's cycles, teaching about the enduring power of nature, the slow progress of growth, and the balance between life and decay.
+
+Stats:
+HP + FND
+ATK + BEU
+DEF + STR
+SPD + EGO
+MP + MNF
+Attack: Area
+
+Traits;
+
+Active:
+	1) Poison, if the caster takes damage this turn the target takes damage equal to the caster's MNF for a number of turns equal to MNF.
+
+	2) Rooted, the caster may increase their DEF by twice MNF and reduce their SPD by MNF.
+
+	3) LeachSeed, the caster may target an area equal to MNF while entities in that area reduce their DEF and SPD by MNF and the caster gains HP equal to the number of entities.
+
+	4) Photosynthesis, the caster may increase their HP and MP by MNF each turn for a number of turns equal to MNF as long as they are in light.
+
+	5) Bloom, for a number of turns equal to MNF targets in the caster's attack pattern may receive damage equal to MNF each turn.
+
+	6) Entangle, when the caster is dealt damage this turn they may reduce that damage by MNF and deal damage equal to MNF to an entity in their attack pattern.
+ 
+Passive:
+	Positive: Nature, this spirit gains HP per turn equal to the number of abilities they used in the previous turn.
+
+	Negative: Nurture, this spirit loses MP each turn equal to the number of active effects in their attack pattern.
+
+------------------------------------
+6) Fairy; [Powdara]
+
+From here or there? From to or frow? The secrets shared, the fairies know. Beings from between worlds, the fairies have gained access to ancient wisdom that extends beyond the reach of time. They carry with them insight, be it in the form of catastrophic mischief, or in the form of riddles and poems. Those drawn to the fairy have an inclination toward pulling pranks, and getting away with it. They may also take objects out of phase, making them effectively disappear for days, weeks, or even years. Only to reappear as if they had just vanished moments ago. Mysterious beings that strive to make life more interesting for anyone they meet.
+
+Fairy spirits embody freedom, whimsy, and interworld connections, reflecting themes of exploration and knowledge. They symbolize ancient wisdom, playful magic, and transcending boundaries, teaching about curiosity, life's mysteries, and the interconnectedness of all things.
+
+	Society: Fairies are revered for their freedom, their connections to otherworldly knowledge, and their playful nature, embodying the spirit of adventure and curiosity.
+
+	Events: Central to tales of exploration, the uncovering of hidden truths, or the playful side of magic, their stories often explore themes of discovery, the joy of learning, and the interconnectedness of all things.
+
+	Habitat: They are found in places where reality is thin, like mystical forests or enchanted gardens, reflecting their role as bridge-makers between worlds.
+
+	Narrative: Encounters with Fairy spirits might prompt players to embrace the unknown, find joy in exploration, or learn through playful or mysterious means, teaching about the value of curiosity, the unexpected beauty in life, and the web of connections that binds all things.
+
+Stats:
+HP + UND
+ATK + KNO
+DEF + WIS
+SPD + SEX
+MP + DIV
+Attack: Diag
+
+Traits;
+
+Active:
+	1) Flying, the caster may move over a number of walls equal to DIV and may not be targeted without Reach.
+
+	2) Dusting, the caster may choose either to restore a target's HP by DIV reduce a target's DEF by DIV or increase a non-combat check by DIV.
+
+	3) Shifted, the caster may negate a number of combat steps equal to DIV while this effect is active.
+
+	4) Riddle, once per turn the caster may gain a number of Riddle counters equal to DIV which can be used for any check involving DIV.
+
+	5) Trickster, a target in the caster's attack pattern chooses one of ATK/DEF/SPD and the caster sets that value to a number between 0 and their DIV.
+
+	6) Whisp, as long as the caster isn't targeted they may negate a target spell or ability cast for less than DIV.
+
+Passive:
+	Positive: Lumos, this spirit may move through a number of objects equal to the number of abilities they used in the previous turn.
+
+	Negative: Capricious, if this spirit deals or receives damage from a spell or ability they lose MP equal to half it's cost.
+
+------------------------------------
+7) Beast; [Creatura]
+
+Thoughts are primal, like the beasts of the jungle and plains. A vicious hunter, never missing their kill. Beast type spirits are those who act as if on instinct. Whether they are prey or predator, they think through action. All animals who lack higher thinking are considered beast type. Spirits who have lost their higher reasoning, by some magic, or toxin, may also be considered beast type. Mindless animals who act more on stimulus than on thought. Everything from rabbits to lions are beasts we've known. They survive with the most blatant expression of their nature, because that's all they've got.
+
+Beast spirits embody the primal, instinct-driven nature often associated with earthy and sometimes stubborn qualities. They represent raw survival instincts, the essence of nature's unfiltered expressions of life. Beasts act on instinct, whether as predators or prey, symbolizing the purest form of existence where action precedes thought. This type includes all creatures driven by primal urges, reflecting a life lived through the most basic expressions of survival and instinct.
+
+	Society: Beasts are revered for their strength, their unyielding survival instincts, and their connection to the raw, untamed aspects of nature, embodying the wild essence of life.
+
+	Events: Central to tales of survival, the wild heart of nature, or the transformation into more primal forms, their stories often explore themes of instinct versus intellect, the beauty of raw life, and the balance between civilization and wilderness.
+
+	Habitat: They thrive in environments where survival is a daily challenge, from dense jungles to expansive plains, reflecting their deep connection to the wild.
+
+	Narrative: Encounters with Beast spirits might prompt players to reconnect with their primal instincts, understand the beauty in nature's raw expressions, or face the consequences of losing higher reasoning, teaching about the balance between instinct and intellect, the value of survival skills, and the essence of life's most basic forms.
+
+Stats:
+HP + DIV
+ATK + STR
+DEF + FND
+SPD + KNO
+MP + MNF
+Attack: Diag
+
+Traits;
+
+Active:
+	1) Trample, the target's SPD is reduced by the caster's STR and does not recover in their next turn. 
+
+	2) Prey, the caster may increase their SPD by STR for a number of turns equal to STR.
+
+	3) Predator, the caster may deal additional damage equal to the number of spaces they moved this turn up to twice STR.
+
+	4) Pack, the caster may increase the ATK and SPD of allies within their attack pattern equal to STR.
+
+	5) Scent, for a number of turns equal to STR the caster may reduce the target's DEF by STR during the combat step.
+
+	6) Territorial, the caster may target an area up to STR where allied entities gain HP equal to STR and hostile entities have their DEF reduced by STR.
+
+Passive:
+	Positive: Wild, this spirit gains HP equal to half the number of spaces they moved outdoors in the previous turn.
+
+	Negative: Instinctual, if this spirit's HP is less than half then they lose HP equal to the number of abilities they used in the previous turn.
+
+------------------------------------
+8) Aqua; [Liquidia]
+
+Water, Acid, Mercury, Fluids bend to the Aqua's will. Even the mightiest spirits are made of mostly water. Fluid in their expression, and tidal in the depth of their feeling, the Aqua have dominion of the waves. Like a stream in the forest leads to sea, so too the Aqua leads to dynamic wisdom, and artistic inspiration. They derive joy from life by expressing their creative nature, but in their expression they expose the darkest depths of the soul. This may leave them somewhat lonesome for others who share their perspective, but as long as they continue in their pursuits, they will find the meaning they strive for.
+
+Aqua spirits embody fluidity, emotional depth, and creative expression, reflecting themes of innovation and intuition. They symbolize water's adaptability, emotional currents driving inspiration, and the subconscious's depths, teaching about emotional intelligence, introspection, and profound connections.
+
+	Society: Aquas are revered for their fluid nature, their deep emotional connections, and their ability to inspire through creativity, embodying themes of innovation, intuition, and emotional intelligence.
+
+	Events: Central to tales of emotional exploration, artistic inspiration, or the journey into the subconscious, their stories often explore themes of self-discovery, the power of creativity, and the fluidity of life's experiences.
+
+	Habitat: They are found in environments shaped by water, from the gentle flow of rivers to the vast expanses of oceans, reflecting their connection to water's life-giving and transformative properties.
+
+	Narrative: Encounters with Aqua spirits might prompt players to delve into their emotions, harness their creativity, or seek deeper connections, teaching about the importance of emotional exploration, the value of introspection, and the transformative nature of artistic expression.
+
+Stats: 
+HP + WIS
+ATK + KNO
+DEF + SEX
+SPD + DIV
+MP + SPL
+Attack: Lateral
+
+Traits;
+
+Active:
+	1) Ripple, the caster may not be the target of a number of spells or abilities equal to MNF for a number of turns equal to MNF.
+
+	2) Mirror, for a number of turns equal to MNE the caster may increase their DEF by MNF and reflect damage recieved up to MNF.
+
+	3) Liquify, the caster may select a space in their attack pattern within a number of spaces equal to MNF and move there while increasing their SPD by MNF.
+
+	4) Currents, the caster selects a target in their attack pattern within a number of spaces equal to MNF and moves the target to the caster's location.
+
+	5) Acidic, targets in melee range of the caster lose DEF equal to MNF for a number of turns equal to MNF.
+
+	6) Hydrate, the caster may increase or decrease non-combat checks in their attack pattern up to MNF and increase a target's MP by MNF.
+
+Passive:
+	Positive: Fluidity, this spirit increases their MP and DEF based on the number of abilities they used in their previous turn.
+
+	Negative: Emotional, after a preforming a Critical Success the next check is always a Critical Failure and after preforming a Critical Failure the next check is always a Critical Success.
+
+------------------------------------
+9) Undead; [Plaguara]
+
+Once alive, once dead. Not anymore... The undead represent old ideas coming back to light twisted and deformed. Those things that may have been buried or hidden from the world, simply waiting to walk among the living once more. Secrets untold that dwell in the recesses of the mind. They are the skeletons in the closet that will someday be aired. You might think you have them tamed, and buried deep, but they always have a tendency to come back to bite you. Don't mess around with the undead, or you'll soon be joining their ranks.
+
+Undead spirits are the embodiment of persistence, decay, and the haunting return of the past. They represent unresolved issues, fears, or secrets that refuse to stay buried, often returning in forms more twisted and malevolent than before.
+
+	Society: Undead are often feared or revered for their connection to the past, embodying themes of inevitability, the cycle of life and death, and the consequences of actions long forgotten.
+
+	Events: They might be central to tales of hauntings, the return of ancient evils, or the unearthing of long-buried truths, often serving as warnings about the past's influence on the present.
+
+	Habitat: Found in places associated with death or decay, like graveyards, abandoned places, or sites of historical tragedy.
+
+	Narrative: Encountering Undead spirits could signify unresolved issues, the return of past mistakes, or the need to confront one's fears or secrets, teaching about the importance of dealing with the past and the consequences of ignoring it.
+
+Stats:
+HP + UND
+ATK + VIT
+DEF + MNF
+SPD + EGO
+MP + FND
+Attack: Diag
+
+Traits;
+
+Active:
+	1) Feeding, when the caster deals damage it's HP is increased by an amount up to MNF.
+
+	2) Necrosis, for a number of turns equal to MNF the target loses HP equal to the number of spaces they move up to MNF.
+
+	3) Syphon, targets in the caster's attack pattern lose MP equal to MNF and the caster gains MP equal to the combined total lost.
+
+	4) Deathwalk, if the caster would be destroyed while under this efect they may instead set their HP to MNF they may not enter combat until end of turn.
+
+	5) Regret, the caster may target an area where entities within that area have their SPD reduced by twice MNF for a number of turns equal to MNF.
+
+	6) Undying, the caster may increase their DEF by twice MNF remove a number of counters equal to MNF and reduce their SPD by MNF.
+
+Passive:
+	Positive: Unyielding, this spirit regenerates HP and MP equal to the amount of SPD they have remaining at the end of their turn.
+
+	Negative: Cursed, this spirit loses HP and MP equal to the number of spaces they moved in their previous turn.
+
+------------------------------------
+10) Fiend; [Mutatia]
+
+Manifestations of the darkest aspects in the nature of spirits. Fiends come in many shapes and forms. Wickedness drives these spirits to malicious ends. They are a thirst for revenge fulfilled to bring only sorrow. They are a letter sent, to a man who never came home. They are monsters of unspoken words, and paths un-tread. The Living evil that strives to devour every single soul. That which makes even the most humble of beings dogmatic and egotistical. The carefully planned betrayal, effective and cruel. Fiend type spirits are malevolent to their core, and to let them close to you is to sleep with the virile creature who will be your undoing.
+
+Fiend spirits embody the darkest aspects of existence, reflecting themes of transformation, intensity, and the shadow side of life. They represent the essence of malice, revenge, and the darker emotions like betrayal and sorrow. Fiends are the physical manifestations of unspoken fears, unfulfilled desires, and the destructive impulses within all beings. They symbolize the deep, often hidden, parts of the psyche that can lead to downfall if not confronted or controlled, teaching about the power of negative emotions and the need for inner transformation.
+
+	Society: Fiends are often feared or revered for their embodiment of darker emotions, symbolizing the intensity of negative feelings, betrayal, and the transformative nature of facing one's shadow self.
+
+	Events: Central to tales of revenge, betrayal, or the confrontation with one's darker side, their stories often explore themes of transformation through adversity, the consequences of revenge, and the power of negative emotions.
+
+	Habitat: Found in environments associated with despair, darkness, or significant emotional turmoil, like abandoned places, battlefields, or sites of tragedy.
+
+	Narrative: Encounters with Fiend spirits might prompt players to confront their fears, darker impulses, or the consequences of revenge, teaching about the destructive potential of unchecked emotions, the importance of self-awareness, and the path to personal transformation.
+
+Stats: 
+HP + SEX
+ATK + EGO
+DEF + VIT
+SPD + BEU
+MP + STR
+Attack: Corner Lateral
+
+Traits;
+
+Active:
+	1) Terror, the target's ATK/DEF/SPD are reduced by caster's WIS for a number of turns equal to WIS.
+
+	2) Reever, the target loses MP equal to WIS and the caster gains MP equal to WIS for a number of turns equal to WIS.
+
+	3) Betrayer, for a number of turns equal to WIS the target takes additional damage equal to WIS from all attacks.
+
+	4) Malevolence, for a number of turns equal to WIS the caster gains ATK and SPD equal to WIS and their DEF is reduced by WIS.
+
+	5) Nightmare, the caster may spawn a number of Fiend tokens equal to WIS which have ATK/DEF/SPD equal to WIS until end of turn.
+
+	6) Cruelty, the caster may increase their damage during the combat step equal to WIS for each combat step this turn.
+
+Passive:
+	Positive: Bringer, this spirit gains ATK and HP equal to the amount of damage dealt to them in the previous turn while in darkness.
+
+	Negative: Relentless, this spirit must attack each turn if able or lose MP equal to their DEF.
+
+------------------------------------
+11) Insect; [Infestia]
+
+Swarming bugs of all kinds, they infest, multiply, and consume. They are instinctive hunger and reproduction run a muck. Thoughtless yet almost mechanically organized, they form either hives, or nests, from which they multiply and spread. If you meet an Insect type spirit, don't let it grow to a catalyst, or it will expand beyond your control. If they grow beyond your awareness, infesting the hidden corners beware, for they came in swarms, and the villagers couldn't respond in time to save their crops, or their herds, or themselves...
+
+Insect spirits embody the relentless, instinctual drive to consume and multiply, symbolizing uncontrolled growth and the raw, mechanical organization of nature's smallest but most numerous creatures. They represent a pioneering spirit, but in a form that's about expansion through sheer numbers rather than individual bravery. These spirits are a reminder of nature's capacity for sudden, overwhelming change.
+
+	Society: Insects are often seen as symbols of rapid, unchecked growth, adaptability, and the primal, less heroic aspects of nature, embodying themes of fertility, chaos, and the balance of life.
+
+	Events: They might feature in Events or stories as warnings against overpopulation or as symbols of nature's fertility gone wild, like in The Swarm's Reckoning.
+
+	Habitat: Found in places where resources are abundant, conducive to their rapid reproduction and expansion, such as forests, fields, or any fertile environment.
+
+	Narrative: Encounters with Insect spirits could symbolize the need for vigilance against small threats, the balance between growth and destruction, or the consequences of ignoring minor issues until they become unmanageable, teaching about the importance of balance, the raw force of nature, and the vigilance required in life.
+
+Stats:
+HP + SPL
+ATK + VIT
+DEF + EGO
+SPD + STR
+MP + KNO
+Attack: Spread
+
+Traits;
+
+Active:
+	1) Swarm, targets in the caster's attack pattern take damage equal to the caster's SPL for a number of turns equal to the caster's SPL.
+
+	2) Nest, the caster may spawn a number of Insect tokens equal to SPL for a number of turns equal to SPL.
+
+	3) Mandibles, the caster may deal additional damage equal to SPL for a number of turns equal to SPL.
+
+	4) Hivemind, allied spirits in the caster's attack pattern gain ATK/DEF/SPD equal to SPL until end of turn.
+
+	5) Pestilence, the caster may target an area where entities take damage equal to SPL for a number of turns equal to SPL.
+
+	6) Cocoon, the caster may increase their DEF by twice SPL if they reduce their ATK and SPD by SPL.
+
+Passive:
+	Positive: Evolve, this spirit gains ATK and SPD equal to the number of active effects in their attack pattern at the end of their previous turn.
+
+	Negative: Frenzy, if this spirit has no active effects in their attack pattern they lose MP equal to the number of spaces they moved in their last turn.
+
+------------------------------------
+12) Vortex; [Gasaga]
+
+Swirling through the air like the breath of a ferocious storm, the skies themselves sway with inspiration. The vortex type are the hurricane, fierce and beautiful. The tornado, terrifying and grandiose. Vortex spirits have the wind itself at their call, to lift themselves and others to new heights, or to grasp the breath from your very lungs. They are inspiration in the whispers through the trees, and the grace found in cloth on the wind. They are both a blistering typhoon, and a gentle breeze, depending on where you meet them.
+
+Vortex spirits embody the dynamic, often chaotic energy of wind and storms, symbolizing both destruction and inspiration. They represent dynamic energy and pioneering spirit through their ability to move, uplift, or devastate. These spirits are the physical manifestation of change, embodying the force of nature that can both inspire awe and instill fear.
+
+	Society: Vortex spirits are often seen as symbols of change, inspiration, and the volatile nature of power, embodying themes of creation and destruction, reflecting both awe and fear.
+
+	Events: Might be revered or feared in Events or stories about the power of nature, the unpredictability of inspiration, or the force of change, like Dance of the Whirlwind.
+
+	Habitat: Found in open environments where wind can freely flow, such as mountains, plains, or over the sea, reflecting their connection to the sky and air.
+
+	Narrative: Encounters with Vortex spirits could signify periods of rapid change, the need for innovation, or a cautionary tale about the destructive potential of unchecked energy, teaching about embracing change, the power of inspiration, and balancing creation with destruction.
+
+Stats:
+HP + WIS
+ATK + KNO
+DEF + UND
+SPD + DIV
+MP + MNF
+Attack: Omni
+
+Traits; 
+
+Active:
+	1) Flying, the caster may move over a number of walls equal to UND.
+
+	2) Tempest, the caster may target an area up to UND where entities lose SPD equal to twice UND if UND is greater than their DEF.
+
+	3) Twister, the target gains Flying equal to UND and their SPD is increased by UND until end of turn.
+
+	4) Rotation, the caster may increase their DEF by UND knockback by UND until end of turn.
+
+	5) Gusts, the target gains SPD equal to twice UND until end of turn as long as they do not receive damage.
+
+	6) Skywalker, the caster may select an area up to UND where allied entities gain MP equal to UND and hostile entities lose SPD equal to UND.
+
+Passive:
+	Positive: Swiftness, this spirit gains MP each turn equal to the number of spaces they moved in the previous turn.
+
+	Negative: Diffuse, this spirit loses MP each turn equal to the number of checks they were involved with in the previous turn.
+
+------------------------------------
+13) Dragoon; [Devotia]
+
+Knights of an antient order, who share their souls with dragons. Legendary in their combat prowess, they roam the lands bringing justice to all who transgress against truth. A blade of divine fire from another plane that keeps even the angels aligned with profound purpose. They are a force of honor, and integrity of character. Warriors of serene providence on a mission of eternal importance. To enlighten the whole of creation to it's divine origins.
+
+Dragoon spirits embody honor, divine purpose, and the quest for truth, reflecting themes of spirituality and idealism. They symbolize human valor fused with draconic might, justice, and the mission to enlighten about divine origins, teaching about integrity, higher ideals, and purpose's transformative power.
+
+	Society: Dragoons are revered as symbols of honor, divine purpose, and the pursuit of truth, embodying themes of spirituality, idealism, and the battle between good and evil.
+
+	Events: Often featured in stories or Events about heroic quests, spiritual enlightenment, or the battle between good and evil, like The Chronicles of Devotia.
+
+	Habitat: Found in places of historical or spiritual significance, such as ancient battlefields, sacred temples, or mystical realms.
+
+	Narrative: Encountering Dragoon spirits could signify the need for integrity, the pursuit of higher ideals, or the call to a greater purpose, teaching about the importance of honor, the balance of strength and spirit, and the transformative power of truth.
+
+Stats:
+HP + DIV
+ATK + STR
+DEF + VIT
+SPD + SPL
+MP + WIS
+Attack: Omni
+
+Traits;
+
+Active:
+	1) Vigilance, the caster may move and cast a number of times equal to DIV after attacking.
+
+	2) Dragonkin, the caster and allies in their attack pattern gain ATK and DEF equal to DIV until end of turn.
+
+	3) Lancer, Once per turn the caster may deal additional damage equal to twice DIV during the combat step.
+
+	4) Leap, the caster can move to any point in their attack pattern while increasing their ATK and SPD by DIV.
+
+	5) Judgement, the caster may multiply their ATK by DIV if the target's HP is less than half but the check is always considered a Critical Failure.
+
+	6) Uplift, the caster may increase or decrease any combat or non-combat checks in their attack pattern by DIV as long as the result is less than DIV.
+
+Passive:
+	Positive: Valor, this spirit gains ATK and DEF equal to the number of hostile entities in their attack pattern.
+
+	Negative: Honor, this spirit loses ATK and DEF if the number of allied entities is greater than the number of hostile entities equal to the difference.
+
+------------------------------------
+14) Metal; [Mechara]
+
+Technological monstrosities are only half the picture, some have learned to make themselves in the image of beauty. Those who have mastered the forms of metal have taken one step closer to technological ingenuity that places them on par with the gods themselves. Molding beings with living metal grants their wielder multitudes of power, through mechanical augmentation. Unlike beings of pure spirit, these have physical form, and it's only a matter of time before they develop a will of their own, assuming they haven't already.
+
+Metal spirits embody the themes of innovation, technological advancement, and the fusion of organic and mechanical elements, reflecting an association with progress, intellect, and the future. They represent the pinnacle of craftsmanship in metal, the merging of life with technology, and the potential for self-awareness in machines. Metal spirits symbolize the quest for perfection through technology, the balance between the organic and the mechanical, and the transformative power of innovation, teaching about the potential of human ingenuity, the ethical considerations of technological advancement, and the evolving nature of existence.
+
+	Society: Metal spirits are seen as symbols of technological progress, the blending of life with machines, and the pursuit of perfection, embodying themes of intellect, progress, and the future.
+
+	Events: Central to stories or Events about technological breakthroughs, the ethical dilemmas of progress, or the merging of life and machine, like The Forges of Mechara.
+
+	Habitat: Found in environments of technological advancement, such as futuristic cities, advanced labs, or cybernetic workshops.
+
+	Narrative: Encounters with Metal spirits could signify the need for innovation, the exploration of technology's limits, or the ethical considerations of technological advancement, teaching about human ingenuity, the balance between organic and mechanical, and the transformative power of technology.
+
+Stats:
+HP + UND
+ATK + KNO
+DEF + SEX
+SPD + VIT
+MP + FND
+Attack: Corner Diag
+
+Traits;
+
+Active:
+	1) Living Armor, The caster may be equipped to another spirit for a number of turns up to their SPL or Nanite counters.
+
+	2) Augmentation, the caster may increase or decrease any combat or non-combat checks they are involved with up to their SPL or Nanite counters.
+
+	3) Repair, the caster may increase their HP up to their SPL or Nanite counters twice per turn.
+
+	4) Cybernetic, the caster may increase their SPD or ATK by SPL or Nanite counters for a number of turns equal to SPL or Nanite counters.
+
+	5) Metallic, for a number of turns equal to SPL or Nanite counters the caster may negate damage up to SPL or Nanite counters.
+
+	6) Technomancy, the caster may control constructs within melee range whose level is less than SPL or Nanite counters for a number of turns equal to SPL or Nanite counters.
+
+Passive:
+	Positive: Adaptation, this spirit gains a number of Nanite counters each turn equal to the number of checks they were involved with in the previous turn.
+
+	Negative: Dependency, if this spirit doesn't have any Nanite counters on them at the end of their turn their MP is reduced to 0 and their next check is a Critical Failure.
+
+------------------------------------
+15) Rock; [Petrifica]
+
+The stones of temples, and the concrete of cities, become bodies for spirits of Rock. Those things made of living stone, who's rigid forms stand strong against the test of time. Though they may be eroded in the wind and sea, to build your house upon them is to ensure it rests on firm foundations. Symbols of much needed structure, and personal integrity, spirits of rock are more often than not loyal, and reliable. Careful if you try to trip them up, because if you make the wrong move, they may come down on you like a ton of bricks.
+
+Rock spirits embody the themes of stability, endurance, and foundational strength, reflecting an association with structure, reliability, and the enduring nature of time. They represent the unyielding nature of stone, the slow but steady force of geological time, and the importance of solid foundations. Rock spirits symbolize the steadfastness of character, the reliability of natural laws, and the power of patience and persistence, teaching about the value of integrity, the importance of building on solid ground, and the enduring qualities that withstand the test of time.
+
+	Society: Rock spirits are seen as symbols of reliability, structure, and the enduring nature of time, embodying themes of integrity and stability.
+
+	Events: Central to stories or Events about enduring challenges, the importance of integrity, or building strong foundations, like The Pillars of Petrifica.
+
+	Habitat: Found in environments that symbolize permanence or resilience, such as mountains, ancient ruins, or natural stone formations.
+
+	Narrative: Encounters with Rock spirits could signify the need for stability, the importance of integrity, or the value of enduring patience, teaching about the strength of character, the reliability of natural laws, and the power of persistence.
+
+Stats:
+HP + FND
+ATK + STR
+DEF + MNF
+SPD + EGO
+MP + KNO
+Attack: Lateral
+
+Traits;
+
+Active:
+	1) Defender, the caster may block for a number of spirits in their movement pattern equal to STR.
+
+	2) Landslide, the caster may target an area where entities take additional damage equal to STR while their SPD is reduced by STR.
+
+	3) Rockwall, allied entities in the caster's attack pattern restore HP equal to STR and increase DEF by twice STR until end of turn.
+
+	4) Seismic, the caster may choose a target in their attack pattern and apply knockback to that entity equal to twice STR.
+
+	5) Pillars, for a number of turns equal to STR allied entities in the caster's attack pattern gain DEF equal to STR and hostile entities in the caster's attack pattern lose ATK equal to STR.
+
+	6) Erosion, the target has their DEF reduced by STR and their MP is reduced by STR for a number of turns equal to STR.
+
+Passive:
+	Positive: Enduring, this spirit increases their DEF by the total number of counters on them in their previous turn.
+
+	Negative: Immovable, this spirit loses MP each turn equal to the number of spaces they move.
+
+------------------------------------
+16) Normal; [Forsaga]
+
+These types of spirits are the most basic, and easy to work with. While the normal types may seem boring, they control their own will with profound intent. Symbols of unconscious will and learning to control it with deliberate focus. These are the things which hold you, even if you don't understand why. Both an inherent sense of dangers ahead, and a manifestation of purposeful will focused on a single goal. Normal types manifest the most genuine form of those who wield them, and despite their simplicity, don't underestimate their strength. May the force be with you.
+
+Normal spirits are the embodiment of simplicity, yet they carry profound intent and will. They represent the fundamental aspects of existence, the unconscious will, and the deliberate focus of one's purpose. While they might seem unremarkable at first glance, Normal spirits symbolize the raw, genuine essence of those who wield them, embodying both the inherent sense of danger and the focused drive towards a singular goal. They teach about the power of simplicity, the strength found in one's core being, and the importance of understanding and controlling one's own will.
+
+	Society: Normal spirits are often overlooked due to their simplicity, yet they are revered for their representation of pure will and the essence of existence, embodying themes of authenticity, self-awareness, and the power of intention.
+
+	Events: They might be central to stories or Events about self-discovery, the journey to understand one's true will, or the power of simplicity in a complex world, like The Path of Forsaga.
+
+	Habitat: Found in everyday environments, symbolizing their connection to the ordinary yet profound aspects of life.
+
+	Narrative: Encounters with Normal spirits could signify moments of self-reflection, the need to focus on one's true intentions, or the realization of one's inherent strengths, teaching about the power of simplicity, the importance of self-awareness, and the strength found in authenticity.
+
+Stats: 
+HP + KNO
+ATK + STR
+DEF + FND
+SPD + VIT
+MP + UND
+Attack: Omni
+
+Traits;
+
+Active:
+	1) Battle-Cry, target allied spirit gains ATK/DEF/SPD equal to the caster's STR plus Force counters until end of turn.
+
+	2) Willpower, once per turn the caster may negate target spell or ability cast for less than STR plus Force counters.
+
+	3) Steadfast, the caster's DEF is increased by STR plus Force counters and may not receive Critical Hits/Fails for a number of turns equal to STR plus Force counters.
+
+	4) Focus, the caster may increase their ATK and DEF by STR plus Force counters for a number of turns equal to STR plus Force counters.
+
+	5) Intention, this effect is treated as the nearest active effect to the caster for a number of turns equal to STR plus Force counters.
+
+	6) Pressure, the caster may multiply their ATK and SPD by STR plus Force counters and all checks are treated as Critical Failures until end of turn.
+
+Passive:
+	Positive: Adaptable, this spirit gains Force counters equal to the number of checks they were involved with in the previous turn.
+
+	Negative: Unassuming, if this spirit ends their turn with no Force counters their MP and SPD are reduced to 0 until their next turn.
+
+------------------------------------
+17) Psychic; [Mentalia]
+
+Inner intuition and sensory perception beyond the foundational biological senses. Contemplation of grand ideals, and abstraction of reasoning is their domain. They are both thinkers and philosophers, who through their understanding of the universe can divine the ideas and thoughts of others. Articulation and complex contemplation make them most useful as advisors, spies, preachers, and media personalities. Though they tend to avoid confronting the negative things they see in others, as many others do with themselves. Psychics can take from themselves the thoughts of others, and bend those to their will, if only their mind is weak enough.
+
+Psychic spirits embody the themes of intuition, higher reasoning, and the ability to perceive beyond the physical, reflecting an association with analysis, detail, and service. They represent the power of the mind, philosophical contemplation, and the ability to influence or understand others' thoughts. Psychics are adept in roles requiring deep insight, communication, or manipulation, symbolizing the power of intellect and the ethical considerations of mental influence.
+
+	Society: Psychics symbolize intellect, perception beyond the physical, and the ethical use of mental influence, embodying an analytical and service-oriented nature.
+
+	Events: Often featured in stories or Events about wisdom, foresight, or the ethical dilemmas of mind-reading, like The Counsel of Mentalia.
+
+	Habitat: Found in places conducive to thought and contemplation, such as libraries, monasteries, or quiet, isolated areas.
+
+	Narrative: Encountering Psychic spirits could signify a need for deeper understanding, the importance of ethical considerations in using one's abilities, or the power of the mind, teaching about the value of intellect, the responsibilities of knowledge, and the impact of one's thoughts on others.
+
+Stats: 
+HP + STR
+ATK + KNO
+DEF + BEU
+SPD + SPL
+MP + DIV
+Attack: Corner Lateral
+
+Traits;
+
+Active:
+	1) Confusion, targets in the caster's attack pattern may take action at random for a number of turns equal to MNF.
+
+	2) Telepathy, the caster may move a number of counters up to MNF to and from any entity in their attack pattern.
+
+	3) Telekinesis, the caster may apply Flying and Knockback to a number of objects in their attack pattern equal to MNF.
+
+	4) Mindpalace, the caster may increase their DEF by MNF and negate a target active effect cast for less than MNF.
+
+	5) Pulsar, once per turn the caster may multiply damage dealt to a target by MNF but this check is always considered a Critical Failure.
+
+	6) Insight, once per turn he caster may increase or decrease any non-combat checks in their attack pattern up to twice MNF.
+
+Passive:
+	Positive: Intuition, this spirit gains MP equal to the number of abilities they used in the previous turn for each check they are involved with this turn.
+
+	Negative: Overthinking, this spirit has their SPD and non-combat checks reduced by the number of abilities they used in the previous turn.
+
+------------------------------------
+18) Ghost; [Mistara]
+
+Hun... You're Dead... Those beings who once walked among the living, now only their memory remains. Either in the hearts and minds of their ancestors, or in the fabric of the world on which they acted. They are both shadows of the forgotten past, and of loved ones lost to the passage of time. Whispers in the dark, and a gentle hand on your shoulder in the night, they represent memory, and discovering things once forgotten. If one listens to Ghost type spirits, they may reveal undiscovered truths which have been hidden from view, and you might not like what they have to say. These are the sleeping ideas of dormant myths, simply waiting to rise once more. To know them, is to know the illusions of the past.
+
+Ghost spirits embody the themes of memory, loss, and the ethereal connection to the past, reflecting an association with emotional depth, nostalgia, and the protective nature of memories. They represent not just the spirits of the deceased but also the lingering ideas, emotions, and truths from bygone eras. Ghosts are both a reminder of what was and a bridge to understanding the past's influence on the present, symbolizing the power of memory and the haunting beauty of history.
+
+	Society: Ghosts symbolize memory, the passage of time, and the emotional depth of human experience, embodying protective and nostalgic traits.
+
+	Events: Often featured in Events or stories about remembering the dead, uncovering hidden truths, or dealing with unresolved pasts, like The Whispers of Mist.
+
+	Habitat: Found in places with strong historical or emotional resonance, like ancient ruins, old homes, or battlefields.
+
+	Narrative: Encountering Ghost spirits could signify a need to confront past issues, the importance of remembering, or the revelation of hidden truths, teaching about the value of memory, the impact of history on the present, and the emotional depth of human experience.
+
+Stats: 
+HP + MNF
+ATK + UND
+DEF + SEX
+SPD + DIV
+MP + EGO
+Attack: Corner Diag
+
+Traits;
+
+Active:
+	1) Phase, the caster may move through a number of walls equal to DIV.
+
+	2) Etherwalk, targets within the caster's attack pattern have their DEF reduced by twice DIV during the combat step.
+
+	3) Memories, once per turn the caster may spawn a token that has the same ATK/DEF/SPD as the target for a number of turns equal to DIV.
+
+	4) Soulbound, the target and the caster become linked for a number of turns equal to DIV where all changes to HP and MP are shared.
+
+	5) Evil-Eye, the target has their ATK and DEF reduced by DIV and their SPD increased by DIV for a number of turns equal to DIV.
+
+	6) Lingering, allied entities in the caster's attack pattern gain DEF equal to twice DIV until end of turn.
+
+Passive:
+	Positive: Presence, this spirit increases their SPD by the number of abilities they used in the previous turn as long as they remain untargeted.
+
+	Negative: Regrets, this spirit loses MP each turn equal to the number of abilities they used in the previous turn as long as they remain targeted.
+
+------------------------------------
+19) Crystal; [Gemia]
+
+Living crystals, Sweet as sugar, or as cold as steel. Even to a lesser extent the formation of ice. Crystals of all kinds are at their whim. Reflections of decisions once undertaken, in both awe and mystery. The Crystal type represents introspection, and coming to self awareness. The formulation of an individual who has considered all the angles, and is prepared to meet all aspects of themselves with honesty and trust. If confronted they may pull away and reflect you back at yourself, so be prepared for what you might see.
+
+Crystal spirits embody an introspective, protective, and reflective nature, known for their depth and emotional complexity. They represent self-awareness, the crystallization of one's inner self, and the multifaceted nature of identity. Crystals are not just about hardness or beauty but also about clarity and the ability to reflect, symbolizing a journey towards understanding oneself and others.
+
+	Society: Crystals symbolize introspection, protection, and the multifaceted nature of identity, reflecting emotional depth and protective instincts.
+
+	Events: Might be revered in Events or stories about self-discovery, protection, or the reflective nature of life, like The Mirror of Gemia.
+
+	Habitat: Found in places where natural crystals form or where reflection and stillness are prevalent, like caves, underwater, or in serene landscapes.
+
+	Narrative: Encountering Crystal spirits could signify a need for self-reflection, the importance of understanding one's true self, or a warning about the dangers of superficial judgments, teaching about the value of introspection, the beauty in complexity, and the strength found in self-awareness.
+
+Stats:
+HP + KNO
+ATK + VIT
+DEF + SEX
+SPD + DIV
+MP + BEU
+Attack: Lateral
+
+Traits; 
+
+Active:
+	1) Shroud, The caster may not be the target of spells or abilities for a number of turns equal to SEX.
+
+	2) Reflect, the caster may reflect an amount of damage equal to SEX back to the damage source.
+
+	3) Clarity, during the combat step the caster may increase damage dealt to a target up to SEX.
+
+	4) Facets, once per turn the caster may choose a new target for any spell or ability in their attack pattern cast for less than SEX.
+
+	5) Shatter, for a number of turns equal to SEX the target loses DEF equal to SEX and must be the target of any attacks in their movement pattern.
+
+	6) Recursion, for each time the caster is dealt damage they gain a number of counters equal to SEX and at the end of their turn they regenerate HP equal to the number of counters.
+
+Passive:
+	Positive: Unbroken, this spirit reduces counters applied to them equal to their remaining SPD at the end of turn.
+
+	Negative: Brittle, this spirit loses DEF and HP each turn equal to the number of combat steps they were involved with in their previous turn.
+
+------------------------------------
+20) Blood; [Vitalia]
+
+When they say that Blood is the physical manifestation of lifeforce, there is a reason why. The Blood was always held sacred as the very essence of the soul. To be met with rivers or oceans of blood is to be threatened with the revelation of mortality. That which feeds life and flows from the heart, which is what gives it divine providence. Leak not your blood upon the ground, because you never know who might turn the rest of it against you.
+
+Blood spirits embody the essence of life force, vitality, and the sacred nature of life, reflecting themes of vitality, courage, and leadership. They represent the raw power of life, the connection to one's essence, and the divine or mystical aspects of existence. Blood spirits are both a symbol of life's sanctity and a reminder of mortality, embodying the idea that life is both precious and fleeting.
+
+	Society: Blood spirits symbolize vitality, the sacredness of life, and the raw power of existence, embodying courage and life-affirming energy.
+
+	Events: Might be revered in Events or stories about life, sacrifice, or the power of life force, like The Covenant of Vitalia.
+
+	Habitat: Found in places where life is most vibrant or where life and death intersect, like battlefields, sacred groves, or places of healing.
+
+	Narrative: Encountering Blood spirits could signify a confrontation with one's mortality, the importance of vitality, or the power of life force, teaching about the value of life, the courage to face one's end, and the sacredness of existence.
+
+Stats:
+HP + MNF
+ATK + SPL
+DEF + EGO
+SPD + STR
+MP + UND
+Attack: Area
+
+Traits;
+
+Active:
+	1) LifeLink, if this spirit does damage it may recover HP up to EGO.
+
+	2) Bloodrush, the caster's SPD is increased by EGO for a number of turns equal to EGO.
+
+	3) Bloodwalk, if the caster deals damage they may increase their MP up to EGO.
+
+	4) Pact, target ally entity is linked to the caster for a number of turns equal to EGO where any damage dealt to the target is drained from the caster's MP instead.
+
+	5) Mortality, for a number of turns equal to EGO the caster may target an area where all damage dealt regenerates the caster instead.
+
+	6) Crimson, allied entities in the caster's attack pattern gain HP equal to EGO while hostile entities in the Caster's attack pattern lose HP equal to EGO.
+
+Passive:
+	Positive: Vitality, this spirit gains HP equal to the number of abilities used in their previous turn.
+
+	Negative: Bleeding, this spirit receives damage at the end of each turn equal to the amount of SPD they used that turn.
+
+------------------------------------
+21) Ice; [Solidia]
+
+Frost and snow, the Artic bear, and the Yeti who are Trolls of the highest mountains, Ice Is their weapon, Snow is their Cloak. Those frigid landscapes barren of warmth and comfort, they are the cold embrace of space, but in their serenity they inspire profound awe and thankfulness of what keeps you from them. Both the embrace of frozen winds, and the beauty of frozen canyons. They are the ice and sleet which captures a single moment in eternal frost.
+
+Ice spirits embody serenity, preservation, and cold's beauty, reflecting themes of introspection and emotional depth. They symbolize frozen landscapes' stillness, moments preserved in frost, and icy environments' awe, teaching about stillness's value, beauty in harshness, and emotional introspection.
+
+	Society: Ice spirits symbolize serenity, preservation, and cold's beauty, embodying themes of introspection and emotional depth.
+
+	Events: Often depicted in stories or Events about the beauty of winter, the stillness of nature, or the preservation of memories, like The Winter's Tale of Solidia.
+
+	Habitat: Found in cold, serene environments such as snowy mountains, icy plains, or frozen lakes.
+
+	Narrative: Encountering Ice spirits could signify the need for introspection, the appreciation of beauty in adversity, or the value of preserving moments, teaching about the balance of warmth and cold, the power of preservation, and the peace in solitude.
+
+Stats:
+HP + FND
+ATK + SPL
+DEF + UND
+SPD + EGO
+MP + SEX
+Attack: Lateral
+
+Traits;
+
+Active:
+	1) Frostbite, Reduces the target's DEF and SPD by the caster's SPL for a number of turns equal to SPL.
+
+	2) Glacial, the caster may target an area up to SPL and entities can not enter that area for a number of turns equal to SPL.
+
+	3) Hailstorm, the caster may target an area where entities have their SPD reduced by SPL and all their perception checks are Critical Failures.
+
+	4) Flash-Freeze, targets in the caster's attack pattern have their SPD reduced by twice SPL for a number of turns equal to SPL.
+
+	5) Arctic, for a number of turns equal to SPL targets in melee range of the caster have their ATK reduced by twice SPL.
+
+	6) Blizzard, in an area around the caster equal to SPL for a number of turns equal to SPL all entities are incapable of targeting beyond melee range.
+
+Passive:
+	Positive: Frozen, this spirit regenerates MP each turn equal to their remaining SPD at the end of the turn.
+
+	Negative: Pyrophobia, this spirit loses HP each turn equal to the number of damage over time counters applied to them at the end of the turn.
+
+------------------------------------
+22) Holy; [Blessara]
+
+May divinity shine within you, for these souls are the most pure, and hold Honor in high regard. Those who embrace their inner light, and that which shines fourth from potential. The Holy type hold high moral values dearly, and are the most prolific defenders of the innocent. Tamper not with the strings of another's fate, for they have woven it by their own hand, and it would be corrupt to twist it before them.
+
+Holy spirits embody the themes of purity, honor, and divine justice, reflecting an association with balance, justice, and harmony. They represent the highest moral values, the light of righteousness, and the defense of the innocent. Holy spirits are characterized by their unwavering commitment to fairness and the protection of others' destinies, symbolizing the ideal of not interfering with another's fate unless it's to uphold justice or protect the innocent.
+
+	Society: Holy spirits symbolize purity, honor, and divine justice, embodying the quest for balance and fairness.
+
+	Events: Often featured in stories or Events about justice, moral righteousness, or the defense of the innocent, like The Oath of Blessara.
+
+	Habitat: Found in places of worship, sanctuaries, or wherever justice and peace are sought.
+
+	Narrative: Encountering Holy spirits could signify a call to uphold justice, the importance of moral integrity, or the need to protect others' rights, teaching about the value of honor, the responsibilities of power, and the balance between intervention and respect for others' paths.
+
+Stats:
+HP + DIV
+ATK + UND
+DEF + WIS
+SPD + EGO
+MP + BEU
+Attack: Corner Lateral
+
+Traits;
+
+Active:
+	1) Vigilance, the caster may move and cast a number of times equal to FND after attacking.
+
+	2) Intervention, the caster may increase the HP and DEF of a target in their attack pattern by FND for a number of turns equal to FND.
+
+	3) Retribution, a target in the caster's attack pattern receives increased damage from all attacks equal to FND for a number of turns equal to FND.
+
+	4) Sanctuary, the caster may target an area where all allied entities gain HP equal to FND for a number of turns equal to FND.
+
+	5) Revelation, the caster may increase any perception checks by FND for a number of turns equal to FND.
+
+	6) Blessing, target allied entity gains ATK/DEF/SPD equal to FND for a number of turns equal to FND.
+
+Passive:
+	Positive: Divinity, allied entities in this spirit's attack pattern gain HP equal to the number of spaces this spirit moved in their last turn.
+
+	Negative: Morality, this spirit loses MP equal to twice the value of their last non-combat check when their Loyalty with another entity is reduced.
+
+------------------------------------
+23) Curse; [Hexia]
+
+Who cares what you think? Magick is what magick does. Not you or me or anyone else can stop what has been started. It's far too late... Those things you have set in motion, are now beyond your control, least you destroy yourself standing in their way. This circle knows no bound, and it calls you in the voices of chaotic bliss! Don't forget who you are, or the curse will drag you to the bottom of hell itself...
+
+Curse spirits embody the themes of inevitability, the consequences of actions, and the chaotic balance of power, reflecting an association with justice, balance, and sometimes, the darker aspects of fairness where actions have unavoidable repercussions. They represent the uncontrollable aspects of magic, the irreversible nature of certain deeds, and the chaos that ensues when one tries to defy natural or magical laws. Curse spirits symbolize the idea that once a path is chosen, its outcomes are beyond control, teaching about the weight of choices and the balance between order and chaos.
+
+	Society: Curse spirits symbolize the inevitability of consequences, the chaotic balance of power, embodying the darker aspects of justice and fairness.
+
+	Events: Often depicted in stories or Events about the consequences of actions, the power of curses, or the balance between order and chaos, like The Binding of Hexia.
+
+	Habitat: Found in places where chaos and order intersect, such as ancient ruins, cursed lands, or where significant events have left a mark.
+
+	Narrative: Encountering Curse spirits could signify the consequences of one's actions, the need to accept certain outcomes, or the chaotic nature of power, teaching about the importance of foresight, the weight of decisions, and the balance between control and letting go.
+
+Stats:
+HP + FND
+ATK + KNO
+DEF + MNF
+SPD + VIT
+MP + SEX
+Attack: Corner Diag
+
+Traits;
+
+Active:
+	1) Fear, Target's ATK/DEF/SPD is reduced by caster's MNF for a number of turns equal to MNF.
+
+	2) Hex, the target chooses one of ATK/DEF/SPD and reduces it by MNF they lose HP equal to MNF for a number of turns equal to MNF for a number of turns equal to MNF.
+
+	3) Backlash, when receiving damage under this effect the caster may reflect an amount of damage up to twice MNF back to the source.
+
+	4) Inevitable, a target in the caster's attack pattern may not declare attacks for a number of turns equal to MNF but they may still use skills and abilities.
+
+	5) Chaos, once per turn the caster may redirect any spell or ability cast for less than MNF to a target of their choice as long as their MP is full.
+
+	6) Corruption, a target in the caster's attack pattern loses HP and MP equal to MNF for a number of turns equal to MNF but all their checks are Critical Successes.
+
+Passive:
+	Positive: Wickedness, when this spirit's HP is less than half their ATK/DEF/SPD ae increased by the amount of MP they used in their previous turn.
+
+	Negative: Chaotic, once per turn this spirit increases all counters on itself equal to the number of spaces they moved in the previous turn.
+
+------------------------------------
+24) Avatar; [Runaga]
+
+Those who are among the Avatar spirits merge their Types with forces around them. Melding the powers they make to become the most balanced form of themselves, knowing that no other is the same as any other. Those who have a natural intuition about what derives meaning in all things. Consciousness in the flows and patterns of the cosmos themselves. Avatar spirits are those who seek the ultimate balance of chaos and order.
+
+Avatar spirits embody the themes of unity, balance, and cosmic consciousness, reflecting an association with exploration, understanding, and the search for meaning. They represent the fusion of various energies, the quest for equilibrium between chaos and order, and an intuitive grasp of the universe's underlying patterns. Avatars symbolize the journey towards self-realization through understanding the interconnectedness of all elements, teaching about the importance of balance, the exploration of one's inner and outer worlds, and the pursuit of a harmonious existence with the cosmos.
+
+	Society: Avatar spirits symbolize unity, balance, and cosmic consciousness, embodying the quest for understanding and meaning.
+
+	Events: Often featured in stories or Events about achieving balance, cosmic journeys, or the search for inner truth, like The Path of Runaga.
+
+	Habitat: Found in places that resonate with cosmic energy, such as ancient temples, starlit plains, or locations where ley lines converge.
+
+	Narrative: Encountering Avatar spirits could signify a need for balance, a call to explore deeper meanings, or a journey towards self-realization, teaching about the importance of harmony, the exploration of one's place in the universe, and the pursuit of a balanced existence.
+
+Stats:
+HP + VIT
+ATK + STR
+DEF + FND
+SPD + SEX
+MP + WIS
+Attack: Omni
+
+Traits;
+
+Active:
+	1) MultiStrike, the caster may declare a number of additional attacks up to DIV.
+
+	2) Balance, once per turn the caster may increase ATK or DEF equal to twice DIV.
+
+	3) Resonance, boost the spells or abilities of a target allied spirit by DIV until end of turn.
+
+	4) Mindfulness, the caster may increase their SPD and ATK by DIV during the combat step until end of turn.
+
+	5) Energy-Wave, the caster may multiply damage dealt by DIV for a number of turns equal to DIV but all their checks are Critical Failures during that time.
+
+	6) Equilibrium, the caster may target an area equal to DIV where allies gain MP and reduce counters equal to DIV each turn for a number of turns equal to DIV.
+
+Passive:
+	Positive: Cosmic, this spirit gains Avatar counters each turn equal to the number of different Types in their attack pattern which can be used to boost abilities or restore MP.
+
+	Negative: Duality, if this spirit preforms or receives a Critical Hit/Fail all damage dealt to them is doubled until end of turn.
+
+------------------------------------

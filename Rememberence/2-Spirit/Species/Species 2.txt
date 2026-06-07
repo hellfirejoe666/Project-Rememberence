@@ -1,0 +1,1564 @@
+Spirit of a Species
+
+#) Species; [Material]
+
+How are we what we are, is it this flesh? 
+Or are we only illusions of ourselves?
+
+------------------------------------
+When an item or entity is created, it starts with a number of traits equal to its current tier level and may never have a number of traits beyond its tier level. For instance, a weapon crafted at the Novice tier would have 1 trait. As the item or entity progresses through tiers, it gains an additional trait for each tier level it advances. These may be chosen at random for NPCs with a d6. The same trait can be taken more than once, multiplying the effcts of that trait. Active traits require an amount of MP to activate equal to what ever Biorhythm is controlling the effect, while passive effects are always on if their conditions are met.
+
+------------------------------------
+1) Avious; [Avium]
+
+Though bird-like, not all can fly. Inquirers of ancient wisdom, and the messengers of fate. The Avious are guardians of the sky, and watchers of the worlds below. Often signs of coming wisdom or change, as moving to new places, be it physical or of the mind. If there is a bird who is out of place and acting unusually, it may be an Avious delivering to you unique wisdom. Dreams of an Avious can denote being overwhelmed if they are flocking you. Alternatively they may represent new wisdom if they appear singularly, or as a guide. Avious of flames, often called the phoenix, represent rebirth and growth. While Avious of death, such as the Crow, represent loss, or the disintegration of old ideals.
+
+Avious are bird-like entities, not all capable of flight, known as inquirers of ancient wisdom and messengers of fate. They are guardians of the sky, observing and influencing the world below. Their presence often heralds wisdom, change, or significant life transitions. An Avious out of place might be delivering unique insights, while dreams of them could signify feeling overwhelmed or receiving new wisdom.
+
+	 Society: Avious serve as omens, guides, and symbols of transformation, embodying the spirit of vigilance, wisdom, and the heralding of new beginnings.
+
+	Events: They might be celebrated in "The Festival of Flight," where their role in guiding and delivering messages is honored, or in rites of passage symbolizing personal transformation.
+
+	Habitat: Prefer high places like mountains or tall trees, symbolizing their connection to the sky and their role as overseers.
+
+	Narrative: Encountering an Avious could represent impending change, the need for wisdom, or the cycle of life and rebirth. It teaches about embracing change, seeking higher knowledge, and understanding the cycles of life and death.
+
+Stats:
+HP = 13
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 17
+Move: Diag
+
+Traits; 
+
+Active: 
+	1) Horus, the caster's MP recovers each turn equal to UND for a number of turns equal to UND.
+
+	2) Messenger, the caster's SPD is increased by UND until end of turn as long as the caster is not currently targeted.
+
+	3) Visions, The caster may increase their DEF or SPD up to UND when blocking or dodging.
+
+	4) Arise, If this spirit would be destroyed this turn an amount of MP up to UND may be converted to HP and may not be recovered for a number of turns equal to UND.
+
+	5) Omen, the target's SPD is reduced by the caster's UND for a number of turns equal to UND.
+
+	6) Whisper, the caster may move an additional number of spaces within their movement pattern up to UND without consuming SPD.
+
+Passive:
+	Positive: Insight, these spirits may make a number of additional perception checks per turn equal to DIV.
+
+	Negative: Earthbound, these spirits lose SPD equal to FND when evading indoors. 
+
+------------------------------------
+2) Merr; [Merrium]
+
+Beings of the deep, who once lured sailors and fishermen alike to their watery doom. A symbol of curiosity and misguided intuition. A creature of water acting unusually may be influenced by the Merr, a message of danger unexplored, and of deeper ideas yet undiscovered. Beware their domain, be it the oceans of water, or the endless sea of the unconscious mind. That which lurks there can drive even the most profound and stable mind to absolute madness, if unprepared for the reflection of their own short comings. "What does one see, When one peers into the depths? It is the Merr... Rising like a tide, with the ferocity of a blistering arctic storm! 
+...If only for the taste of our very souls,"  ~Fisherman's legend. 
+
+Merr are enigmatic beings of the deep, embodying a cunning intelligence and adaptability. They symbolize curiosity and the dangers of unchecked intuition, navigating the watery realms with guile and instinct.
+
+	 Society: As lore keepers of the underwater world, Merr use their siren-like abilities to manipulate and guide, showcasing a mastery akin to navigating complex social mazes.
+
+	Events: They celebrate "The Depths Festival," honoring survival through storms and human threats, reflecting a heritage of overcoming adversity with intelligence.
+
+	Habitat: Preferring the ocean's darkest parts, Merr create hidden communities in underwater ruins, illustrating their resourcefulness.
+
+	Narrative: Merr signify journeys into the psyche or forbidden knowledge, teaching lessons on curiosity's dual nature - enlightenment or destruction.
+
+Stats:
+HP = 12
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 18
+Move: Corner Lateral
+
+Traits; 
+
+Active:
+	1) Siren, ATK and SPD are increased by WIS until end of turn.
+
+	2) Currents, the caster's SPD is multiplied by WIS until end of turn but they may not block while this effect is active.
+
+	3) Pressure, the caster may declare an additional target for each point of damage up to WIS they inflict this turn.
+
+	4) Lure, the caster may force themselves to be the target of attacks for a number of turns equal to WIS.
+
+	5) Echo, the caster may increase their MP up to WIS for each combat action this turn.
+
+	6) Abyss, for a number of turns equal to WIS targets within the caster's movement pattern may not target anything.
+
+Passive:
+	Positive: Depths, when becoming the target of an attack this spirit may prevent an amount of damage up to SPL once per turn.
+
+	Negative: Lament, when declared the target of more attacks this turn than FND reduce this spirit's DEF by FND.
+
+------------------------------------
+3) Geneshan; [Geneshite]
+
+If we were to harm another living being, it would be as spiritual death. Once we have died, we can only become stronger, thus reborn. Peace and inner strength abound us. Dreams of our kind be them with trunk, or be them with horn, show your inner power. A force within you forged from a sturdy foundation. We know you for your higher values, your distinct respect for the life force around you, and within you. Spirits of Life and honor, we represent the fortitude of honesty and balance through understanding. Once you have come to know us, you will have come one step closer to yourself.
+
+Geneshan are embodiments of strength and spiritual resilience. They are creatures of peace, inner strength, and a profound connection to life's essence, symbolizing reliability and a deep-seated respect for all living things.
+
+	 Society: Geneshan are often seen as the spiritual guides or protectors, their presence fostering peace and understanding. They are known for their unwavering integrity and commitment to balance.
+
+	Events: They celebrate "The Renewal Festival," where they honor the cycle of life, death, and rebirth.
+
+	Habitat: Preferring lush, fertile lands or serene forests, Geneshan create environments that nurture life.
+
+	Narrative: Encountering a Geneshan could signify a journey towards self-discovery, inner peace, or the need for resilience in the face of adversity, teaching lessons on the strength found in tranquility and the power of life's continuity.
+
+Stats:
+HP = 18
+ATK = 2
+DEF = 5
+SPD = 2
+MP = 12
+Move: Lateral
+
+Traits; 
+
+Active:
+	1) Revitalize, the caster's HP recovers each turn equal to MNF for a number of turns equal to MNF.
+
+	2) Restore, the caster may reduce or increase the number of counters on a target up to MNF.
+
+	3) Resolve, the caster's DEF is increased by MNF for a number of turns equal to MNF allies gain half that.
+
+	4) Recurrence, once per turn the caster may reduce their HP or MP to MNF while increasing the other by the difference.
+
+	5) Harmony, the caster may choose a number of allied spirits up to MNF who gain MP per turn equal to MNF for a number of turns equal to MNF.
+
+	6) Nurtue, the caster may increase the DEF of allied tokens and constructs by MNF for a number of turns equal to MNF.
+
+Passive:
+	Positive: Embrace, once per turn this spirit may increase the HP of a target by BEU.
+
+	Negative: Burden, when destroying another entity this spirit's SPD is reduced by VIT until end of turn.
+
+------------------------------------
+4) Iniris; [Inirium]
+
+Bringers of luck and omens of things to come, the Iniris are wanderers who spread good fortune to those who cross their path. Just don't get on their bad side or your luck may change for the worse. They are both messengers, and tricksters, only involving themselves with those who they find interesting. If you keep them entertained they will work with you in terms of opening doors once hidden, and revealing things once unimagined. They may bring to you opportunities that you had previously never considered. Remember to be specific, or they might enjoy turning your life into quite the mess. It's not so much that they want to harm you, but rather that they revel in uncanny circumstance.
+
+Iniris are embodiments of agility, luck, and the whimsical nature of fate, channeled into beings that influence fortune and destiny. They symbolize the unpredictability of life, the joy of the unexpected, and the power of chance, often appearing as playful, elusive figures that dance on the edges of perception.
+
+	 Society: Iniris are seen as both harbingers of luck and agents of chaos, their presence bringing both excitement and caution. Their society, if one could call it that, values spontaneity, the thrill of the unknown, and the art of influencing fate.
+
+	Events: They celebrate "The Festival of Whims," where games of chance, storytelling of unexpected fortunes, and acts of spontaneous kindness or mischief are performed, showcasing their heritage of playing with the threads of destiny.
+
+	Habitat: Preferring places where the unexpected might occur, like crossroads, bustling markets, or the edges of forests, Iniris thrive where life's unpredictability is at its peak, associated with places of quick movement and change.
+
+	Narrative: Encountering an Iniris could signify a turning point in one's journey, where luck, fate, or a twist of fortune plays a significant role, teaching lessons on the importance of adaptability, the joy of the unexpected, and the thin line between good and bad luck.
+
+Stats:
+HP = 10
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 20
+Move: Diag
+
+Traits;
+
+Active:
+	1) Lucky, the caster's SPD is increased by UND until end of turn.
+
+	2) Misfortune, the target's SPD is reduced by UND until their next turn.
+
+	3) Whimsy, the caster may not be targeted from outside their attack pattern for a number of turns equal to UND.
+
+	4) Opportunity, the caster may prevent the combat step if the target's Level is less than UND.
+
+	5) Unpredictable, the caster may swap the target's SPD with the caster's UND for a number of turns up to UND.
+
+	6) Predetermine, the caster my invert any combat or non combat check if the value of that check is less than UND.
+
+Passive:
+	Positive: Favor, once per turn flip a coin and if successful this spirit my increase any non combat check by SPL.
+
+	Negative: Whim, once per turn flip a coin and if unsuccessful this spirit has any non combat checks reduced by SPL.
+
+------------------------------------
+5) Reptoid; [Reptillium]
+
+Cunning to the core, the Reptoids have infiltrated nearly every organization in the known universe. They have no home and thus no strict loyalties. But they almost always move as one, cycling though system after system, consuming everything in their path. What are they planning? Some believe that the Reptoids are ruling both the entertainment industries and governments worldwide. Though no definitive proof has been presented, we can be sure that the signs of these spirits are unmistakable. Cunning wit, and a sharp tongue. Unrivaled cynicism toward the suffering of others, and a disregard for their safety. Ambitions for control, or power, however fleeting. If you encounter a Reptoid, your own will must be resolute, or they will surely take advantage of your weaknesses.
+
+Reptoids are the embodiment of serpentine cunning, infiltrating the fabric of societies with a stealth that belies their presence. They are the shadows within systems, moving silently, adapting seamlessly to any environment. They symbolize the snake's ability to shed its skin, representing transformation, deceit, and the pursuit of power through subtle manipulation. Often perceived as enigmatic, their true intentions are as hidden as their origins, leaving a trail of whispers and conspiracy.
+
+	 Society: Reptoids are the unseen influencers, the manipulators behind the scenes, embodying stealth, adaptability, and cunning. Their existence values secrecy, strategic planning, and the use of power through indirect means, much like how a snake operates in the wild.
+
+	Events: They might in "The Shedding," where they symbolically or literally shed their skins, representing renewal, adaptation, and the shedding of past identities or allegiances.
+
+	Habitat: Preferring urban environments, political centers, or any place where power and information flow, Reptoids thrive where they can blend in, varied terrains but with an emphasis on society.
+
+	Narrative: Encountering a Reptoid could signify a test of one's own integrity, the need to navigate through deception, or the revelation of hidden truths about power structures, teaching lessons on the nature of power, the importance of vigilance, and the dangers of unchecked ambition.
+
+Stats:
+HP = 20
+ATK = 4 
+DEF = 2
+SPD = 3
+MP = 10
+Move: Lateral
+
+Traits; 
+
+Active:
+	1) Imitate, the caster may use the target's Type rather than their own for a number of turns equal to MNF.
+
+	2) Spite, the target loses HP equal to MNF for a number of turns equal to MNF as long as the caster doesn't attack.
+
+	3) Shedding, the caster may adopt a target's total HP for a number of turns equal to MNF.
+
+	4) Plots, the caster may reduce the target's SPD by MNF for a number of turns equal to MNF.
+
+	5) Lenses, the caster may increase SPD by MNF for a number of turns equal to MNF as long as they are outside combat.
+
+	6) Edge, the caster may swap their ATK or SPD with DEF for a number of turns equal to MNF.
+
+Passive:
+	Positive: Guile, this spirit increases any non-combat check by SPL if the target has a positive loyalty rating.
+
+	Negative: Ambition, this spirit loses loyalty equal to SPL for all entities and factions each turn.
+
+------------------------------------
+6) Wolfin; [Wolfite]
+
+Children of the moon, and protectors of the forests, the Wolfin are loyal to their core. If you come to them with a pure heart, they are among the greatest allies. Never show them a wink of fear however, or they will eat you alive. Companionship and strong family ties are symbolic of the Wolfin. Pack animals, and intelligent hunters, they can sniff out secrets, and reveal even the most well hidden truths. Often symbols of mystery, or inquiry, they bring with them profound insight, and the recognition of primal instincts present in every living thing.
+
+Wolfins are lunar children and forest guardians, embodying loyalty and fierce protection. They value purity of heart, making them exceptional allies if approached with sincerity. However, they are quick to sense fear, which can provoke their predatory instincts. Wolfins symbolize strong family bonds, intelligence, and the uncovering of hidden truths, representing the balance between civilization and primal nature.
+
+	 Society: Wolfins serve as protectors, guides, and symbols of loyalty, embodying the themes of family, community, and the instinctual side of life, reflective of loyalty and guardianship.
+
+	Events: They might be celebrated in "The Moonlit Gathering," where communities honor their connection to nature, family, and the uncovering of truths, or in rites of passage involving courage and loyalty.
+
+	Habitat: Prefer forested areas or places with strong lunar influence, symbolizing their connection to moons and nature.
+
+	Narrative: Encountering a Wolfin could signify a need for loyalty, the uncovering of secrets, or a call to embrace one's primal instincts. It teaches about the importance of trust, the power of community, and the balance between civilization and nature's raw power.
+
+Stats:
+HP = 17
+ATK = 5
+DEF = 2
+SPD = 2
+MP = 13
+Move: Corner Diag
+
+Traits;
+
+Active:
+	1) Howl, ATK/DEF/SPD is increased by DIV until end of turn.
+
+	2) Tactics, the caster may select a number of allies up to DIV within it's movement pattern who gain DEF equal to DIV until end of turn.
+
+	3) Scent, the caster may increase their ATK or DEF by DIV as long as their SPD is greater than the taget's SPD.
+
+	4) Instinct, the caster may decrease any combat or non-combat check by twice DIV for an automatic Critical Hit.
+
+	5) Lunar, the caster may increase a target's MP by DIV for a number of turns equal to DIV until the target becomes the target of an attack.
+
+	6) Bark, the caster may increase their ATK by twice DIV when defending.
+
+Passive
+	Positive: Bond, allies within the movement pattern of this spirit gain ATK up to MNF divided between those affected.
+
+	Negative: Primal, if a hostile entity with DEF lower than this spirit's ATK is within this spirit's attack pattern they must be targeted.
+
+------------------------------------
+7) Goki; [Gokium]
+
+Strong warriors, and fierce guardians, they are among the most powerful of the spirits, in terms of their unwavering will, and sense of personal integrity. They don't back down from a challenge, and always rise to the occasion when protecting their friends or family. It is unwise to face them in combat because no matter the game they're playing, and they do like games, they play to win. If that means defending someone, or themselves, it is not a game they're willing to lose. This may sometimes make them sore winners in other situations, but they can tame that aspect of their personality with defined effort. "Goki only value three things. Strength, Courage, and Humility," 
+
+Gokis are formidable warriors known for their strong will, integrity, and combat prowess. They thrive on challenges, especially in defense of those they care about, and are relentless in their pursuits, whether in battle or in games. Valuing strength, courage, and humility, Gokis are fierce competitors who strive to win but also recognize the importance of humility in victory.
+
+
+	 Society: Gokis serve as protectors and warriors, embodying the spirit of agility, intelligence, and competitive nature.
+
+	Events: They might engage in "The Trials of Valor," where they test their strength, courage, and humility, often through competitive games or combat scenarios.
+
+	Habitat: Prefer environments where they can hone their skills, often mountainous or rugged terrains that challenge their physical and mental abilities.
+
+	Narrative: Encountering a Goki could symbolize a test of one's own strength, courage, or humility. It teaches lessons on the balance between competition and grace, the importance of defending one's values, and the growth that comes from both victory and defeat.
+
+Stats:
+HP = 16
+ATK = 4
+DEF = 3
+SPD = 2
+MP = 14
+Move: Omni
+
+Traits; 
+
+Active:
+	1) Pride, ATK and DEF are increased by EGO until end of turn.
+
+	2) Challenge, the caster may choose a target who may then only attack the caster for a number of turns equal to EGO.
+
+	3) Stance, the caster may increase their DEF by double EGO but may not move either.
+
+	4) Humility, the caster may reduce their HP by EGO to increase a targett's HP by EGO.
+
+	5) Withdrawal, if the target's HP is less than the caster's HP the caster may increase their SPD by EGO for a number of turns equal to EGO.
+
+	6) Victory, the caster may increase their ATK/DEF/SPD by EGO for each attack this turn as long as they don't take HP damage. 
+
+Passive:
+	Positive: Unyielding,  each time this spirit takes damage when HP is below half this spirit's ATK and DEF are increased by STR until end of turn.
+
+	Negative: Competitive, when losing any combat or non-combat check this spirit loses MP equal to the value of the check.
+
+------------------------------------
+8) Tigris; [Tigrite]
+
+The curious and compassionate may find themselves drawn to the Tigris. They are spirits of strength, wisdom, and majesty. They may appear in the form of a tiger, usually white, and may be protectors, or guides. If there are lessons you have to learn, and goals to achieve, then you may find Tigris spirits useful. They will not only point you in the direction of your objectives, but will also give you the encouragement to pursue them. Be weary however, as they also bring with them the potential for inflated ego, and over confidence in one's own perspective, whether it is deserved or not. We've become scattered, maybe you know our small friends. They say people are weird, and don't listen. I knew you couldn't train people, they're too morbid.
+
+Tigris are embodiments of courage and mystical wisdom, channeled into a guiding force. They symbolize strength, independence, and a profound connection to the spiritual realm, often appearing as majestic white tigers.
+
+	 Society: Tigris are often revered as protectors or spiritual guides, their presence inspiring both awe and respect. Their society values courage, wisdom, and the pursuit of personal growth.
+
+	Events: They celebrate "The Festival of the White Tiger," where stories of courage, spiritual quests, and personal enlightenment are shared, showcasing their heritage of guiding others towards their destinies.
+
+	Habitat: Preferring secluded, mystical places like hidden valleys or enchanted forests, Tigris create sanctuaries that reflect their connection to both the physical and spiritual worlds, much like the Tiger's association with wilderness and mystery.
+
+	Narrative: Encountering a Tigris could signify a journey towards personal courage, spiritual enlightenment, or the need for balance in one's life, teaching lessons on the power of self-belief and the dangers of unchecked ego.
+
+Stats:
+HP = 14
+ATK = 3
+DEF = 2
+SPD = 4
+MP = 16
+Move: Lateral
+
+Traits;
+
+Active:
+	1) Stalk, the caster's SPD and DEF are increased by SPL until end of turn.
+
+	2) Wild-Heart, the caster may increase the ATK and SPD of allies or reduce the DEF and SPD of hostiles by SPL until end of turn.
+
+	3) Inspire, the caster may increase a target's combat and non-combat checks by SPL once per turn.
+
+	4) Prowl, increase the caster's SPD by twice SPL for a number of turns equal to SPL unless the caster becomes the target of an attack.
+
+	5) Tenacity, increase the caster's DEF by twice SPL for a number of turns equal to SPL unless the caster declares an attack.
+
+	6) Predator, the caster may change their movement pattern to one of either Diagonal or Corner Diagonal for a number of turns equal to SPL.
+
+Passive:
+	Positive: Mystery, allied spirits within the movement pattern of this spirit gain MP equal to FND each turn they don't attack.
+
+	Negative: Aloof, after three successful combat or non-combat checks in a row this spirit automatically has a Critical Failure.
+
+------------------------------------
+9) Demon; [Demonite]
+
+These are the wicked souls who can never find rest. These are the Demons cast into pigs. These are the shadows in the night. Lose not your light, for these are waiting in the darkness. The spirits of evil, and prolific in their sins. Monsters of shadow, symbols of pain and fear, they have no mercy, and hold no loyalties. Only power sways them, and even those who surpass them must be weary of their deceptions. They are neither to be trusted, nor to be brought into confidence. These spirits defy conventions, and deny the integrity of all things structural. Those malevolent beings who are at their peak when bringing other to their knees, masters of manipulation and deceit. They may be controlled through a profound will, but never falter or they will crush your soul.
+
+Demons are the dark reflections of chaos, power, and the essence of corruption. They are the embodiments of unrestrained desire, the shadows that lurk where light fears to tread. They symbolize the raw, untamed power twisted into beings of malice and deceit. Often appearing as figures of dread, they inspire fear and awe, their presence a reminder of the darker aspects of power and the potential for destruction.
+
+	 Society: Demons are seen as agents of chaos, corrupters of order, and embodiments of raw, malevolent power. Their existence values strength, cunning, and the subversion of established norms, creatures of both awe and terror but in a more sinister light.
+
+	Events: They observe "The Reckoning," where under the cover of darkness, they enact Events to spread chaos or to empower themselves, showcasing their heritage of bringing discord and fear.
+
+	Habitat: Preferring places of desolation, ruins, or the dark corners of the world, Demons dwell where chaos reigns, with an emphasis on corruption and decay.
+
+	Narrative: Encountering a Demon could signify a confrontation with one's own darker impulses, the need to resist corruption, or the revelation of the destructive potential of unchecked power, teaching lessons on the balance of power, the nature of temptation, and the consequences of succumbing to one's darker nature.
+
+Stats:
+HP = 19
+ATK = 6
+DEF = 1
+SPD = 2
+MP = 11
+Move: Corner Lateral
+
+Traits; 
+
+Active:
+	1) Spawn, conjure a number of demon tokens amounting to DIV, who have ATK/DEF/SPD equal to DIV.
+
+	2) Pact, the caster may reduce their HP by DIV and choose a target who will take damage instead of the caster until end of turn.
+
+	3) Grasp, the caster may choose a number of targets in their attack pattern up to DIV who have their SPD reduced by DIV for a number of turns equal to DIV.
+
+	4) Rend, if the target takes damage this turn then they also lose MP equal to the damage up to twice the caster's DIV.
+
+	5) Disorder, targets in the caster's movement pattern may not attack the caster for a number of turns equal to DIV.
+
+	6) Deception, the caster may increase any combat or non-combat check by DIV as long as their DIV is higher than the target's Level.
+
+Passive:
+	Positive: Compel, if a target within this spirit's movement pattern has DEF lower than SPL their DEF is reduced by SPL until end of turn.
+
+	Negative: Unstable, if an ability would cost MP greater than SPL then MP and SPD are reduced by SPL.
+
+------------------------------------
+10) Grimm; [Grimium]
+
+We are those who speak with the choirs of the dead, these spirits of lost prophets and philosophers. We are the guides for your immortal soul into the after life, and those who will bring back those lost, in dreams and metaphor. We are symbols of crossing and of those long lost to history. The bringers of what you desire in loosing what you no longer need, and in the resurrection of ancient ideals. We are both your past, and your inevitable end, that of eternal rest, and eternal rebirth. We are the cosmic need for decay and renewal, a constant symphony of death and rebirth. For lost souls we weep. On crimson wings so stained with blood, we rise. When a soul is released from mortal coil, we come calling. Take our hands young immortal!!
+
+Grimms are spirits connected to the afterlife, acting as guides for souls and conduits for the wisdom of deceased prophets and philosophers. They symbolize the transition between life and death, the resurrection of ancient wisdom, and the cycle of decay and renewal. Grimms are both heralds of endings and beginnings, embodying the eternal dance of death and rebirth.
+
+	 Society: Grimms serve as psychopomps, guiding souls, and as keepers of ancient knowledge, embodying the themes of transition, loss, rebirth, and a connection to time and cycles.
+
+	Events: They might be honored in "The Ceremony of Passage," where the community reflects on life's impermanence and the wisdom of ancestors, or in Events for the dead.
+
+	Habitat: Often found in places associated with death or transition, like graveyards, ancient ruins, or mystical thresholds between worlds.
+
+	Narrative: Encountering a Grimm could signify a personal transformation, the need to let go, or the call to embrace new beginnings. It teaches about the inevitability of change, the value of past wisdom, and the beauty in life's cyclical nature.
+
+Stats:
+HP = 14
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 16
+Move: Diag
+
+Traits; 
+
+Active:
+	1) Reap, Full essences carried by the Caster may be summoned as tokens amounting to WIS.
+
+	2) Ferryman, reduce the target's HP by WIS and increase their SPD by WIS for a number of turns equal to WIS.
+
+	3) Recurrence, The target takes damage equal to WIS when the deal damage for a number of turns equal to WIS.
+
+	4) Cloak, increase a target's DEF up to WIS for a number of turns equal to WIS as long as they don't take damage.
+
+	5) Requiem, reduce a target's SPD by WIS and increase their ATK by WIS for a number of turns equal to WIS.
+
+	6) Mistwalk, the target may move through a number of objects equal to WIS while their HP is reduced by WIS for a number of turns equal to WIS.
+
+Passive:
+	Positive: Soulbound, when an entity is destroyed within this spirit's movement pattern they gain MP up to DIV.
+
+	Negative: Wayward, if HP is less than half then this spirit loses MP equal to WIS each turn.
+
+------------------------------------
+11) Drakian; [Drakium]
+
+The descendants of dragons who once walked with gods. Now scattered, they live on with the memory of what once was, a kingdom of gold and a belly of fire. They may have detached from their origins, but they never lost their soul. As the essence of that which lurks beyond the unknown and holders of a mysterious treasure, they are keepers of wisdom, and teachers of profound lessons. They are sage in their understanding of life and that which could be. Representatives of potential as revealed by facing the unknown. They are as much beings of profound secrets, as they are of divine revelation. For once you have faced the Drakians, you have faced the dragons within yourself. Tread carefully, because you might not like what you find.
+
+Drakians are the heirs to draconic majesty, embodying the raw power, ancient wisdom, and mystical aura of dragons. They represent the enduring legacy of a time when dragons ruled with might and magic, now channeled into beings of profound insight and potential. They symbolize the depth of knowledge, the fire of transformation, and the mystery of the unknown, often appearing as wise, formidable figures with an aura of ancient power.
+
+	 Society: Drakians are revered as sages, guardians of ancient lore, and embodiments of potential. Their society values wisdom, the pursuit of knowledge, and the balance between power and responsibility, reflecting both might and mystique.
+
+	Events: They celebrate "The Revelation Festival," where stories of old, tests of wisdom, and the sharing of profound secrets are central, showcasing their heritage of dragon kind's legacy.
+
+	Habitat: Preferring places of power like ancient ruins, volcanic regions, or mystical forests, Drakians dwell where the world's energies are strongest, with an emphasis on mystical significance.
+
+	Narrative: Encountering a Drakian could signify a journey towards self-discovery, the uncovering of hidden truths, or the need to confront one's inner strengths and fears, teaching lessons on the power of knowledge, the courage to face the unknown, and the potential for transformation.
+
+Stats:
+HP = 17
+ATK = 5
+DEF = 2
+SPD = 2
+MP = 13
+Move: Omni
+
+Traits;
+
+Active:
+	1) Resurgence, If HP is less than MP the difference up to DIV may be removed from MP and added to HP.
+
+	2) Collector, increase the caster's ATK by DIV for a number of turns equal to DIV as long as the caster has a number of counters greater than DIV.
+
+	3) Breath, the caster may deal additional damage to a target up to twice DIV while reducing the caster's DEF by DIV for a number of turns equal to DIV.
+
+	4) Scales, increase the caster's DEF by DIV for a number of turns equal to DIV and they may not use MP during this time.
+
+	5) Mindwalk, the caster may gain MP equal to DIV when succeeding in a check with a value greater than DIV.
+
+	6) Dominate, reduce the target's ATK by DIV and increase their SPD by DIV until end of turn.
+
+Passive:
+	Positive: Legacy, this spirit gains MP each turn equal to  half WIS for each ally within their movement pattern and if their MP is max their HP increases instead.
+
+	Negative: Greed, if this spirit ends it's turn with a number of counters greater than WIS reduce this spirits MP by twice WIS and remove half that many counters.
+
+------------------------------------
+12) Chimera; [Chimerium]
+
+Forged rather than born, those who learned to create themselves could now shake the very foundations of realms. Living only to realize the purpose of their existence... Amalgamate all worlds into one... They are chaos incarnate, the twisted flesh of incompatible beliefs, or beings. Cognitive dissonance with a profound and inflated sense of self importance. Though they can be useful as markers of twisted ideology, their nature makes them difficult to pin down. The sudden realization that someone is not who you thought they were is a Chimera of the mind and flesh. They are grotesque fusions of known and unknown, that make even the familiar unknowable. In those times when they become visible, you may want to rethink your perceptions until you can clearly define what you are seeing, as they might not be exactly what they appear.
+
+Chimeras are beings forged rather than born, embodying chaos and the fusion of incompatible elements. They exist to amalgamate all worlds into one, representing cognitive dissonance and inflated self-importance. Chimeras symbolize the merging of known and unknown, making the familiar strange. They serve as markers of twisted ideologies, challenging perceptions and identities, often revealing that things are not as they seem.
+
+	 Society: Chimeras embody themes of chaos, identity confusion, and the blending of different realities, reflecting resilience but in a distorted, chaotic form.
+
+	Events: Might be referenced in cautionary tales or Events aimed at understanding or combating chaos and confusion, like "The Ceremony of Clarity."
+
+	Habitat: Prefer environments that are in flux or chaotic, symbolizing their nature of blending and distorting.
+
+	Narrative: Encountering a Chimera could signify a need to reevaluate one's understanding of reality, the presence of hidden truths, or the confrontation with one's own contradictions, teaching about the complexity of identity, the dangers of unchecked chaos, and the importance of clarity.
+
+Stats:
+HP = 21
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 9
+Move: Lateral
+
+Traits;
+ 
+Active:
+	1) Amalgamate, ATK/DEF/SPD are increased by half of target's ATK/DEF/SPD multiplied by half DIV.
+
+	2) Distort, reduce the target's SPD by DIV and increase the caster's SPD by half that.
+
+	3) Emulate, the effect of this ability becomes the target active effect for a number of turns equal to DIV.
+
+	4) Ethereal, targets within the caster's movement pattern may take additional damage equal to DIV and the caster's DEF is reduced by DIV for a number of turns equal to DIV.
+
+	5) Alchemy, the target may not be targeted by spells or abilities for a number of turns equal to DIV as long as the caster doesn't move either.
+
+	6) Crisis, the target may choose one of ATK/DEF/SPD and reduce it by the caster's DIV for a number of turns equal to DIV.
+
+Passive:
+	Positive: Adaptation, at the beginning of each turn increase one of the ATK/DEF/SPD of the caster by FND as long as the ATK/DEF/SPD of an entity in their movement pattern is higher.
+
+	Negative: Disruptive, if this spirit ends it's turn without using an ability it loses MP equal to FND.
+
+------------------------------------
+13) Mannequin; [Mannequite]
+
+Faceless, motionless, they sit in silence. They are ghosts of empty lives, and of lost opportunities. Endless empty voids and the endless pit of soulless husks, they are the idea of being cast out, and rejection. A desire to smother all life in emptiness, nihilism given form. To encounter one in a dream could represent a sense of disunity with your unconscious. Obscure and unknown, they are empty vessels of what remains unknowable. If they are brought under a profound will, they may obscure those who wield them as puppets. When they represent both a loss of control, and of hidden hands pulling invisible strings. These are when the Mannequin become the most profound and the most dangerous. For a puppet can be smashed a thousand times, and it matters not, as long as the puppeteer remains.
+
+Mannequins are embodiments of silent grace and ethereal presence, channeled into a form that represents emptiness and the unknown. They symbolize the quiet, often overlooked aspects of existence, the void between moments, and the hidden influences that shape our lives, often appearing as faceless, motionless figures.
+
+	 Society: Mannequins are often seen as symbols of what is hidden or ignored, their presence instilling a sense of unease or mystery. Their society, if it could be called such, values the unseen, the silent, and the manipulation from the shadows, creatures of subtlety and quiet movement.
+
+	Events: They observe "The Faceless Festival," where the concept of identity, the impact of the unseen, and the power of influence are explored, showcasing their heritage of existing in the periphery of awareness.
+
+	Habitat: Preferring abandoned places, forgotten corners of cities, or the edges of perception, Mannequins exist in spaces that are overlooked or forgotten, hidden places but with an emphasis on the void and emptiness.
+
+	Narrative: Encountering a Mannequin could signify a journey towards understanding one's hidden desires, the fear of insignificance, or the need to confront what is suppressed or ignored within oneself, teaching lessons on the power of subtlety and the impact of the unseen.
+
+Stats:
+HP = 8
+ATK = 1
+DEF = 2
+SPD = 6
+MP = 22
+Move: Corner Diag
+
+Traits; 
+
+Active:
+	1) Unmoving, SPD is converted into DEF until the caster's next turn.
+
+	2) Voidwalk, this spirit may negate the combat step for a number of turns equal to MNF.
+
+	3) Puppeteer, reduce a target's ATK or SPD by MNF for a number of turns equal to MNF.
+
+	4) Absence, the caster may spawn a number of tokens up to MNF with their ATK/DEF/SPD for a number of turns equal to MNF.
+
+	5) Silence, targets within the caster's movement pattern may not Charge for a number of turns equal to MNF.
+
+	6) Faceless, the caster receives half damage and the target may not use abilities for a number of turns equal to MNF but the caster loses HP while the target gains MP equal to MNF for the duration.
+
+Passive:
+	Positive: Presence, this spirit may reduce damage by an amount up to DIV if their MP is full.
+
+	Negative: Emptiness, if this spirit ends more than three turns without using an ability their HP is reduced by DIV.
+
+------------------------------------
+14) Pixie; [Pixium]
+
+Do you seek with your eyes? Do you seek with your mind? Have you ever seen inside? I see things so pretty, and oh so nasty too! I make a Pixy oath with you, I will guide you straight and true. You will find I am not a fleeting light to you. But if you falter, I will surely run you through. Be of faith, or of written tome, now we seek our secret home. A living flame or a spoken love, now we're fleeting like a dove. Things once seen now unseen, if you listen you'll be redeemed. Though we wander and see you've been, if you've lived upon a whim. Unspoken truth, and hidden lies, we will open up your lazy eyes. Once you see, you can not un see, the Pixie line in front of thee. A written word, or a crooked tongue, we will sing a solemn song. To see between this world it seams, both this, and that of dreams.
+
+Pixies are whimsical yet cunning beings, intelligent, with a magical flair. They are masters of perception, able to see beyond the veil of reality, navigating both the physical and ethereal realms with ease.
+
+	 Society: Pixies serve as guides through the unseen, using their magic to manipulate perceptions or environments. They are both tricksters and sages, often leading individuals on paths of enlightenment or confusion.
+
+	Events: They celebrate "The Festival of Illusion," where they showcase their ability to alter reality, teaching through misdirection and revelation.
+
+	Habitat: Preferring enchanted forests or hidden glades, Pixies create homes that are as much illusion as they are physical.
+
+	Narrative: Encountering a Pixie might signify a journey into the realms of magic or self-discovery, teaching lessons on perception, truth, and the power of seeing beyond the obvious.
+
+Stats:
+HP = 9
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 21
+Move: Diag
+
+Traits; 
+
+Active:
+	1) Mischief, Choose one of target's ATK/DEF/SPD and replace it with Caster's SPL until end of turn.
+
+	2) Glimmer, for a number of turns equal to SPL the caster my target entities with effects cast for less than SPL that would otherwise prevent it.
+
+	3) Feywalk, reduce the target's DEF by SPL for a number of turns equal to SPL if the target is within the caster's movement pattern.
+
+	4) Afterimage, spawn a token with HP equal to SPL until end of turn any damage the caster would receive this turn is applied to the token instead.
+
+	5) Dreamweaver, for a number of turns equal to SPL the caster may spawn one object token per turn with the active effects of a target in their movement pattern.
+
+	6) Stageplay, for a number of turns equal to SPL the caster's SPD is increased be SPL and their attacks ignore DEF but they may not activate other abilities.
+
+Passive:
+	Positive:  Fey Sight, increase this spirit's SPD by DIV if an ability was used within their movement pattern this turn.
+
+	Negative: Capricious, if this spirit ends their turn without using an ability reduce their ATK by DIV until their next turn.
+
+------------------------------------
+15) Grizzly; [Grizzlite]
+
+The last place you want to be, is on the angry side of a Grizzly. Fierce protective spirits, and powerful symbols of inner strength. They are both the protective parent, and the strong teacher. Markers of that which encourages us to rise in the face of danger, and realize our inner potential. They are the bears, who will protect that which is close to them with incomparable ferocity. It makes them powerful allies and dangerous foes, who are not afraid to confront any dangers put before them. In dreams they represent power and an indomitable will, often guiding you to obstacles you need to overcome, of which you are perfectly capable. They may also serve as a warning of dangers ahead, and having the courage to face your curiosity, knowing when to tell it no, and when it is wise to pursue anyway. The Grizzly are excellent spirits when in need of encouragement, or when seeking inner bravery.
+
+Grizzlies are fierce protective spirits symbolizing inner strength, courage, and the protective nature of a parent or teacher. They embody the drive to face dangers, encouraging individuals to realize their potential and confront challenges head-on. As symbols of power and indomitable will, they guide towards overcoming obstacles, represent warnings of upcoming perils, and teach about managing curiosity wisely.
+
+	 Society: Grizzlies serve as protectors, teachers, and symbols of courage, embodying themes of strength, protection, and facing challenges, reflecting resilience and courage.
+
+	Events: They might be invoked in "The Ritual of Bravery," where individuals are encouraged to face fears, or in protective rites for families or communities.
+
+	Habitat: Prefer rugged, natural environments that symbolize their strength and resilience, like mountains or dense forests.
+
+	Narrative: Encountering a Grizzly could signify the need for courage, protection of loved ones, or facing personal challenges, teaching about inner strength, the importance of protection, and the balance between caution and bravery.
+
+Stats:
+HP = 23
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 7
+Move: Lateral
+
+Traits;
+
+Active:
+	1) Roar, Target's DEF is reduced by the Caster's STR until end of turn.
+
+	2) Protective, for a number of turns equal to STR increase the caster's DEF by STR while reducing their SPD by half that.
+
+	3) Advance, increase the caster's ATK by STR for each point of SPD used to advance on the target their next attack is automatically a Critical Failure.
+
+	4) Paternal, for a number of turns equal to STR an ally in the caster's movement pattern may reduce damage taken by half and the caster gains ATK equal to half that.
+
+	5) Brace, for a number of turns equal to STR the caster is immune to knockback up to STR and their DEF is increased by STR.
+
+	6) Courage, decrease the ATK of all of hostile entities within your attack pattern and increase the DEF of all allied entities within your movement pattern.
+
+Passive:
+	Positive: Resilient, this spirit's HP is increased up to VIT when dealing damage with melee attacks.
+
+	Negative: Overprotective, if an ally in this spirit's movement pattern takes damage this spirit's DEF is reduced by VIT and their ATK is increased by VIT.
+
+------------------------------------
+16) Faun; [Faunite]
+
+Bringers of Truth and seekers of knowledge know the Faun. Though they are never trusted, they can not tell a lie. Keepers of powerful magick, they reside where you least expect them. Hidden in the depths of the woods, or the pits of your soul, they are that which reveals the most difficult of truths. A mysterious force that lies in the revelation of knowledge, when it shakes the foundations of those who seek it. They are a breath of inspiration, and of deeper wisdom, symbols of Occult understanding. Though they may use such truths to lead you astray, and malign you against your better interests. Keep your head about you, and watch them closely, and the discoveries you make will be immeasurable. When you find the secrets they hold in their breast, you will be transformed in no small way.
+
+Fauns symbolize wisdom, the pursuit of knowledge, and the sometimes harsh realities that come with enlightenment. They navigate treacherous terrains of truth, often leading seekers to heights of understanding or into the depths of despair.
+
+	 Society: Fauns are the mystics, the guides, and the tricksters of the world. Their existence values the pursuit of truth, the uncovering of hidden knowledge, and the manipulation of perceptions. They represent the dual nature of wisdom - enlightening yet potentially misleading.
+
+	Events: They might celebrate "The Festival of Illumination," where they share cryptic wisdom, perform Events to reveal truths, or engage in games of wit and deception, symbolizing their role in enlightenment and the dangers of unchecked curiosity.
+
+	Habitat: Fauns thrive in mystical, often secluded environments like ancient forests or mystical groves, where the veil between the known and unknown is thin.
+
+	Narrative: Encountering a Faun could signify a moment of truth, the revelation of hidden knowledge, or a test of one's perception and wisdom. It teaches lessons on the power of knowledge, the importance of discernment, and the transformative nature of truth.
+
+Stats:
+HP = 7
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 23
+Move: Corner Diag
+
+Traits;
+
+Active:
+	1) Misdirection, Negate target attack if the caster's  DIV is greater than the attacker's ATK.
+
+	2) Enlighten, increase the target's next combat or non-combat check by twice DIV and all other  checks this turn are automatically critical failures.
+
+	3) Mystic, the caster may increase their SPD up to DIV for a number of turns equal to DIV when targeted.
+
+	4) Totem, once per turn the caster may spawn a token with HP/SPD equal to DIV that must be the target of hostile attacks for a number of turns equal to DIV.
+
+	5) Secrets, once per turn the caster may negate target effect cast for less than DIV or reduce a number of counters equal to DIV.
+
+	6) Riddle, the caster may swap their DEF for a target's SPD for a numer of turns equal to DIV as long as the caster doesn't attack during that time.
+
+Passive:
+	Positive: Seeker, when searching an area this spirit gains SPD equal to WIS for a number of turns equal to WIS.
+
+	Negative: Overthinkiing, when entering combat this spirit's SPD is reduced by WIS for a number of turns equal to WIS.
+
+------------------------------------
+17) Vampyre; [Vampyrium]
+
+With the taste of blood, oozing through a shallow wound, and the surge of pleasure that comes from drinking it in, our kind is most suited for vengeance, though we can also bring about swift justice. There is nothing we crave more than the blood of our enemies, or the souls of the damned. In consuming their flesh we grow our numbers, and in time we may become unstoppable. We will infect your institutions, as we infest your souls. Our craving for the work of your flesh can only be satiated by your unbounding devotion to the spirits of blood. We will harvest you to the benefit of our predecessors, and build our army of lost souls. We are the darkest ambitions of your being, and it's insatiable thirst for power beyond power. We all feed, I just have different tastes than yours.
+
+Vampyres embody the ultimate transformation, not just of the body but of the soul, into beings driven by primal, darker instincts. They are the personification of human fears and desires, representing the transformation from life to undeath, where survival instincts morph into a predatory nature. This transformation often symbolizes a shedding of one's humanity for power or survival, much like a snake's transformation through shedding its skin.
+
+	 Society: Vampyres are often seen as apex predators or outcasts, living embodiments of what happens when one's darker desires for power, immortality, or survival at any cost take over. They reflect the struggle between maintaining one's humanity or succumbing to their vampiric nature.
+
+	Events: They might engage in Events like "The Blood Feast," where they not only feed but also celebrate their transformation and the power it brings, symbolizing their ongoing rebirth into darkness.
+
+	Habitat: Preferring secluded or opulent environments, Vampyres thrive in places where they can exert control or remain hidden, preferring the shadows or a lair where it's both hidden and dominant.
+
+	Narrative: Encountering a Vampyre could represent a confrontation with one's own mortality, desires for power, or the darker aspects of one's nature. It teaches lessons on the cost of immortality, the balance between power and humanity, and the transformation that comes with embracing or fighting one's darker instincts.
+
+Stats:
+HP = 14
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 16
+Move: Corner Lateral
+
+Traits; 
+
+Active:
+	1) Drain, when dealing damage to a target the caster may restore their HP by an amount up to their MNF.
+
+	2) Harvest, for a number of turns equal to MNF the caster may increase their ATK by MNF times the number of entities they destroy during that time.
+
+	3) Nightwalk, the caster may increase their SPD by twice MNF at night.
+
+	4) Seduce, a target in the caster's attack pattern has their SPD reduced by MNF and their HP is restored by MNF for a number of turns equal to MNF.
+
+	5) Mistborn, the caster is immune to physical damage but nonphysical damage is doubled until end of turn.
+
+	6) Seal, the caster becomes linked to the target where all HP increases and decreases from any source are shared between them.
+
+Passive:
+	Positive: Hunger, this spirit gains MP each turn equal to the amount of damage they dealt in their previous turn.
+
+	Negative: Photophobia, this spirit has their ATK/DEF/SPD reduced by an amount equal to their MP during the day.
+
+------------------------------------
+18) Grey; [Gretium]
+
+We have always been, we will always be. We are the beings who walked before creation, and have forged the realms in our images. It is by us that all things have come to being. The spark of inspiration that predates all things. We are the ancestors of life itself, and that to which all life may one day return. Yet we walk among the shadows, unknown to those who are descended from us. We are the deepest reality of eternal emptiness, beyond the forms of chaos out of which you have emerged. We are that which lies beyond both the physical and metaphysical, that which lies at the boundaries of understanding and the terror of unknowingness of being. This is what we have come from, and we will reclaim our place as the rightful lords of all planes which have descended from us. There are times where we will bring both wisdom and fear. In such times, it would be wise to heed our warnings.
+
+Greys are ancient, primordial beings who predate creation itself, claiming to have shaped the very fabric of existence. They represent the spark of life and the void from which all things emerge, embodying both the wisdom of the ancients and the fear of the unknown. Greys are the unseen architects of reality, existing at the edge of comprehension, promising both enlightenment and the terror of the abyss.
+
+	 Society: Greys are the unseen influencers, the progenitors of existence, embodying the concept of origin and return. They value the balance between creation and destruction, knowledge and the unknown.
+
+	Events: They might engage in "The Rite of Reclamation," where they assert their ancient rights over creation, reminding all of their origins.
+
+	Habitat: Exist beyond conventional realms, often perceived in the shadows or at the edges of perception.
+
+	Narrative: Encountering a Grey could signify moments of profound realization, the confrontation with one's origins, or the fear of the void. It teaches lessons on the nature of existence, the cycle of life, and the power of the unknown.
+
+Stats:
+HP = 16
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 14
+Move: Diag
+
+Traits;
+
+Active:
+	1) Rebirth, If the Caster would be destroyed this turn and their MP is greater than DIV, then they may convert their MP, up to DIV, into HP and continue as if they had not been destroyed.
+
+	2) Witness, decrease a target's DEF by DIV or increase the caster's SPD by DIV for a number of turns equal to DIV.
+
+	3) Blackhole, the caster may negate target ability or active effect cast for less than DIV once per turn if their MP is full.
+
+	4) Memories, for a number of turns equal to DIV negate all critical success/failures with the caster whose non-critical total was less than DIV.
+
+	5) Creation, spawn a number tokens equal to DIV with ATK/DEF/SPD equal to DIV for a number of turns equal to DIV damage that would be dealt to them is dealt to the caster instead.
+
+	6) Oblivion, all targets in the caster's movement pattern have their SPD reduced by DIV while their ATK and DEF increased by DIV and they must attack allies for a number of turns equal to DIV.
+
+Passive:
+	Positive: Primordial, this spirit gains MP per turn equal to the number of active effects in their movement pattern and when their MP is full they gain HP instead.
+
+	Negative: Incomprehensible, every third check with this spirit is a Critical Failure where all damage to or from this spirit is negated until end of turn.
+
+------------------------------------
+19) Chrono; [Chronium]
+
+The Chrono are those who live beyond decay. Keepers of time, and listeners to the songs of ages. Those who know, what was, what is, and what could be, a power not normally granted to mortals. Those who are called ageless walk among the Chrono. They are beings who's words and actions resonate beyond time itself. They are those who can unveil the secrets behind the tapestries of fate, and keepers of the sands of time. They are both leaders, and judges, who work to bring balance to the passages of time. Symbols of eternity, and what it means for a spirit to live beyond the limits of their time. Messengers of things that were, and things yet to come, they will show you what lies in the endless ocean of potential that is your being. During and beyond the boundaries of your physical life. Which is not even close to the limits of your immortal being, both now and beyond time.
+
+Chrono are embodiments of eternal wisdom and the courage to face the mysteries of time, channeled into an understanding of the timeless. They symbolize strength, the enigma of existence, and a profound connection to the fabric of time, often appearing as beings of ethereal, ageless beauty.
+
+	 Society: Chrono are revered as keepers of time and arbiters of fate, their presence instilling both awe and a sense of the infinite. Their society values the courage to explore the unknown, wisdom beyond years, and the balance of temporal forces.
+
+	Events: They celebrate "The Festival of the Timeless," where the flow of time, the nature of existence, and the potential of all beings are contemplated, showcasing their heritage of navigating the currents of time.
+
+	Habitat: Preferring places where time seems to stand still or flow differently, like ancient ruins, timeless voids, or celestial realms, Chrono create sanctuaries that reflect their connection to the timeless nature of the universe, transcending physical boundaries.
+
+	Narrative: Encountering a Chrono could signify a journey towards understanding one's place in the universe, the courage to face one's destiny, or the need for wisdom in navigating life's endless possibilities, teaching lessons on the interconnectedness of all things across time.
+
+Start:
+HP = 12
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 18
+Move: Lateral
+
+Traits;
+
+Active:
+	1) Regress, The target may not Attack for a number of turns equal to DIV as long as the Caster does not either.
+
+	2) Shifting, the caster may relocate any entity in their movement pattern to anywhere in their attack pattern within a number of spaces equal to DIV.
+
+	3) Timewalk, the caster may choose one of ATK/DEF/SPD for a target where that value is either increased or decreased by the caster's DIV until end of turn.
+
+	4) Foresight, the caster gains DIV for each combat and non-combat check preformed by the caster while this effect is active and their SPD is increased by half DIV for a number of turns equal to DIV.
+
+	5) Temporal, the caster may target an area equal to DIV where all damage dealt within this area is reduced from the caster's MP instead.
+
+	6) Entropy, if the caster deals physical damage to a target this turn the target loses HP equal to DIV each time the caster deals damage to them for a number of turns equal to half DIV.
+
+Passive:
+	Positive: Timeless, this spirit gains MP each turn equal to the number of checks in the previous turn.
+
+	Negative: Flux, every third action by this spirit is a Critical Failure and they may not activate any abilities or be targeted until end of turn.
+
+------------------------------------
+20) Gargoyle; [Gargorite]
+
+Cursed beings who'd turn to stone in the light of day, guardians of the night, and keepers of dark magick. Powerful in their time, they denote the presence of secrets revealed. Symbols of being frozen by the light of truth when caught in a lie. They inversely represent a noble hand held fast by a curse of darkness. Souls trapped between a search for illumination, and being forced to dwell in utter darkness. A metaphor for one who has attained the truth, but can not share it without recourse due to the severity, or apparent insanity, of such truth. Unfortunate beings forced into silence by ancient chains that cast them into obscurity, and hid them from society. Though they are bound by the night and day, the mysteries they keep could shake the world to it's foundations. Perhaps rightfully so, but it is wise to keep one thing in mind. People fear what they do not understand...
+
+Gargoyles are the cursed progeny of draconic bloodlines, embodying the duality of might and restraint, illumination and shadow. They serve as sentinels of ancient enigmas, their stone forms by day symbolizing the burden of concealed truths, while their night-time vigils represent the power and enigma of darkness. They are metaphors for the struggle between enlightenment and the weight of knowledge, often seen as formidable, cryptic figures with a profound connection to both the arcane and the earthly.
+
+	 Society: Gargoyles are perceived as guardians of forgotten realms, wielders of dark arts, and symbols of the eternal conflict between revelation and secrecy. Their existence values the preservation of mysteries, the balance of power, and the endurance of curses.
+
+	Events: They might partake in "The Veil of Night," a ritual where, under the cloak of night, they exchange cryptic insights or perform rites to uphold their ancient curses, reflecting their heritage as keepers of the night's secrets.
+
+	Habitat: Preferring ancient ruins, desolate castles, or shadowy corners where light seldom touches, Gargoyles reside in places with an emphasis on concealment and the cursed.
+
+	Narrative: Encountering a Gargoyle could symbolize a confrontation with one's own hidden facets, the necessity to embrace inner darkness, or the unveiling of truths that could reshape perceptions, teaching lessons on the power of hidden knowledge, the price of truth, and the balance between light and shadow.
+
+Stats:
+HP = 21
+ATK = 4
+DEF = 1
+SPD = 4
+MP = 9
+Move: Omni
+
+Traits;
+
+Active:
+	1) Thick Skin, DEF is increased by twice STR until end of turn.
+
+	2) Stoneform, the caster may convert all their ATK and SPD to DEF for a number of turns equal to STR.
+
+	3) Darkness, the caster may increase their ATK and DEF by STR for a number of turns equal to STR while undetected.
+
+	4) Quiet, once per turn as long as this efect is active the caster may negate one spell or ability cast for less than STR for a number of turns equal to STR
+
+	5) Arcanus, reduce a target's DEF by twice STR for a number of turns equal to STR as long as the caster remains undetected otherwise the caster takes damage equal to STR.
+
+	6) Deterrent, the caster may increase an ally's DEF and SPD by STR until they receive damage where the effect ends and twice that damage is dealt to the damage source instead.
+
+Passive:
+	Positive: Ceremonial, this spirit gains an amount HP equal to FND each turn until it is full where they regenerate MP instead.
+
+	Negative: Accursed, while this spirit is in light their SPD and ATK are reduced by twice FND while their DEF is increased by FND.
+
+------------------------------------
+21) Mimic; [Mimicite]
+
+I Don't think that crate was here before... Shape shifters who copy the forms of those things around them which conceal their presence. They are specialized in imitation and misdirection, symbols of deception and of malicious lies. Monsters who take pleasure in the terror of unsuspecting wanderers, and who hide in the most unusual places. They could be a sudden realization that someone is not who they claimed they were, or the destabilization of past ideals. They are the sudden change of what is known, into something unrecognizable, ready to shred you and everything you believe into complete nothingness. Don't turn your back on them, or it could be your final mistake.
+
+Mimics are shape-shifting entities that disguise themselves as inanimate objects or beings, specializing in deception and misdirection. They symbolize the fear of the unknown, the sudden realization of betrayal, or the shattering of trust and reality. Mimics thrive on the terror they instill, often revealing themselves at the most inopportune moments to strike.
+
+	 Society: Mimics are the embodiment of deception, fear, and the unexpected, often lurking as hidden dangers within society, challenging perceptions and trust.
+
+	Events: They might not have traditional practices, but their existence could be celebrated or feared during "The Festival of Masks," where the theme of hidden truths and identities is explored.
+
+	Habitat: Found in any environment where they can blend in, often in places where people least expect danger, like treasure chests, furniture, or even mimicking other creatures.
+
+	Narrative: Encountering a Mimic could represent moments of betrayal, the loss of trust, or the fear of the unknown. It teaches lessons on vigilance, the nature of reality, and the danger of taking things at face value.
+
+Stats:
+HP =  5
+ATK = 3
+DEF = 1
+SPD = 5
+MP = 25
+Move: Corner Lateral
+
+Traits;
+
+Active:
+	1) Copy, The caster's ATK/DEF/SPD becomes the same as the target's for a number of turns equal to SPL.
+
+	2) Disguise, the caster may not attack or be attacked for a number of turns equal to SPL the caster takes damage equal to SPL each turn during this time.
+
+	3) Camouflage, the caster gains SPD equal to SPL while undetected and gains DEF equal to SPL while detected for a number of turns equal to SPL.
+
+	4) Panic, a target in the caster's movement pattern chooses one of ATK/DEF/SPD which is then reduced by the number of counters on them for a number of turns equal to SPL.
+
+	5) Domain, the caster may target an area where no allies may be targeted and enemies may only attack each other and the caster loses HP equal to the number of targets within the area for a number of turns equal to SPL.
+
+	6) Polymorph, the caster may reduce a target's SPD or ATK by SPL while increasing their DEF by SPL for a number of turns equal to SPL.
+
+Passive:
+	Positive: Inconspicuous, while undetected this spirit gains SPD equal to EGO and each turn it remains undetected it may remove a number of counters equal to EGO.
+
+	Negative: Revelation, when this spirit ends their turn with a number of counters greater than EGO they lose MP equal to EGO until it is empty where they lose HP instead.
+
+------------------------------------
+22) Elf; [Elfium]
+
+Spirits derived from the signs themselves, imbued with hidden magics from beyond the ages. They are both symbols of occult learnings, and of magic given form. Those who speak magic into reality, who's words seem to bring change merely in speaking them. Symbols of things unsaid being brought to light, and inevitably making things better. Of truths revealed which invigorate constructive change. Alternatively they may represent twisted magic forging darkness in their wake. Architects of both light when speaking truth, and shadow when that truth turns against those who brought it about. They are magic embodied, and the songs of witches given form. "Zi et Nuhi, maahlo ro'pow?"
+
+Elves are spirits born from ancient signs, embodying magic and the power of spoken word. They symbolize the revelation of hidden truths that can either foster constructive change or cast shadows of deceit. Representing both the light of revelation and the potential darkness of twisted magic, Elves are the embodiment of magic itself, bringing to life the songs and spells of old.
+
+	 Society: Elves are the spellcasters, the oracles, and the architects of magical change. They value the power of words, truth, and the transformative nature of magic.
+
+	Events: They might engage in "The Chanting of Realities," where they use their magical speech to alter reality, celebrating their ability to shape the world with words.
+
+	Habitat: Prefer environments rich in magical energy, like enchanted forests or mystical clearings.
+
+	Narrative: Encountering an Elf could signify a moment of magical revelation, the power of truth, or the consequences of misused magic. It teaches lessons on the duality of knowledge and power, and the impact of words.
+
+Stats:
+HP = 13
+ATK = 4
+DEF = 3
+SPD = 2
+MP = 17
+Move: Diag
+
+Traits;
+
+Active:
+	1) Lifeforce, a target in the caster's movement pattern gains HP equal to the caster's DIV.
+
+	2) Linguist, the caster's next combat or non-combat check is automatically a Critical Success but they can't preform a Critical Success for a number of turns equal to DIV.
+
+	3) Oracle, a target's DEF is reduced by DIV and their SPD is increased by DIV while within the caster's movement pattern for a number of turns equal to DIV.
+
+	4) Cosmos, the caster gains MP equal to the number of active effects in their movement pattern for a number of turns equal to DIV.
+
+	5) Enchantment, the caster may move a number of counters up to DIV from a target within their movement pattern and apply those counters to another target in their attack pattern.
+
+	6) Mythril, a number of allies up to DIV within the caster's movement pattern are immune to non-physical damage for a number of turns equal to DIV.
+
+Passive:
+	Positive: Manawalk, this spirit gains MP equal to KNO each turn if their HP is full.
+
+	Negative: Sensitive, non-physical damage on this spirit is doubled as long as their MP is not full.
+
+------------------------------------
+23) Ghoul; [Ghoulite]
+
+This is what happens when a Vampyre doesn't feed? Most unfortunate... Madness personified, twisted will and a thirst for vengeance gone unchecked. Blind rage and a thirst for blood. When you encounter the Ghoul, be warned, they are the manifestation of your inner drive for gruesome revenge, and for a bloody painful death. Symbols of what lies in the shadows of the soul, and of the twisted minds which make it so. They are blood lust given form to seek those forsaken souls who have given themselves to the drive for vengeance. Beings of chaos, and foragers of the graves of the forgotten dead, those who dwell in the pits of your darkest aspirations. When you meet them, you will know they are integral to your very being, and that you must become your own master, least they consume you.
+
+Ghouls represent the dark transformation of beings driven by an unquenchable thirst, revealing something more primal within. They are the embodiment of vengeance and survival at its most raw, where cunning turns into ferocity. Ghouls symbolize the shedding of one's former self into something driven by base instincts, consumed by hunger and rage.
+
+	 Society: Ghouls are often seen as the outcasts of the supernatural world, embodiments of what happens when one succumbs entirely to their darker urges. They represent the chaos that ensues when vengeance and survival instincts override all else.
+
+	Events: They might partake in "The Feast of Shadows," where they indulge in their hunger, not just for flesh but for the remnants of their past lives, symbolizing their eternal transformation and the cyclical nature of their existence.
+
+	Habitat: Preferring graveyards, battlefields, or anywhere death is prevalent, Ghouls dwell in places where they can feed on the forgotten, waiting patiently for their prey.
+
+	Narrative: Encountering a Ghoul could represent a confrontation with one's own darker desires for revenge or survival, challenging characters to face what they might become if they let their most base instincts take over, teaching lessons on control, the price of vengeance, and the need for balance between one's primal urges and higher self.
+
+Stats:
+HP = 6
+ATK = 6
+DEF = 2
+SPD = 1
+MP = 24
+Move: Diag
+
+Traits;
+
+Active:
+	1) Feast, If the caster destroys a target this turn they may take another action and their ATK/DEF/SPD is increased by MNF.
+
+	2) Vengeance, if the caster is dealt damage this turn they may add that amount up to MNF to their next combat or non-combat check.
+
+	3) Frenzied, for a number of turns equal to MNF the caster's ATK is increased and their DEF is decreased by MNF for each time they deal damage.
+
+	4) Graverobber, the caster may consume any Essence in their inventory to increase their ATK/DEF/SPD by the values of that Essence for a number of turns equal to MNF.
+
+	5) Carrion, the caster may spawn a number of Ghoul tokens equal to MNF and the caster's HP is reduced by MNF for each token spawned in this way.
+
+	6) Darkstalker, while this effect is active either the caster is immune to physical damage or they are immune to non-physical damage for a number of turns equal to MNF.
+
+
+Passive:
+	Positive: Madness, this spirit gains HP each turn equal to the number of entities destroyed in the previous turn.
+
+	Negative: Starvation, if the caster doesn't destroy another entity for a number of turns greater than STR they receive damage equal to half their ATK each turn.
+
+------------------------------------
+24) Bastet; [Bastite]
+
+Protectors of the innocent souls who travel into the spirit realms. They serve as guides who will show you the way. Whether to salvation, or your end is up to you. Protectors of the underworlds, and missionaries of lost souls seeking redemption. The Bastet are those who illuminate the darkness of death with the light of understanding. They are those who reveal the inner wisdom of death and rebirth, in guiding the innocent to light, and dragging the wicked into darkness. Warriors of the dead, and protectors of spiritual revelation, they show us what it means to walk with the dead. To return from the other side having gained the wisdom we require to survive ourselves. Taking the form of cats, you can expect them to be adventurous guides, and fickle lovers. Never underestimate the depth of their mystery however, or you risk revealing your own foolishness.
+
+Bastet are embodiments of courage and mystical wisdom, channeled into guardians of the spirit realms. They symbolize strength, mystery, and a profound connection to the afterlife, often appearing in the form of majestic, feline creatures.
+
+	 Society: Bastet are revered as protectors of the dead and guides of souls, their presence instilling both reverence and mystery. Their society values courage, spiritual wisdom, and the journey of souls, in the context of death and rebirth.
+
+	Events: They celebrate "The Festival of the Cat's Eye," where the mysteries of death, rebirth, and spiritual guidance are explored, showcasing their heritage of navigating the realms between life and death.
+
+	Habitat: Preferring ancient catacombs, sacred temples, or mystical forests, Bastet create sanctuaries that reflect their connection to both the physical and spiritual worlds, with an emphasis on the afterlife.
+
+	Narrative: Encountering a Bastet could signify a journey towards understanding death, spiritual enlightenment, or the need for courage in facing one's fears, teaching lessons on the cyclical nature of life and the importance of guidance in spiritual matters.
+
+Stats:
+HP = 24
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 6
+Move: Lateral
+
+Traits;
+
+Active:
+	1) Guide, target's SPD is increased by the caster's SPL until end of turn.
+
+	2) Cateye, the caster may search objects and entities within a number of spaces equal to SPL.
+
+	3) Nimble, the caster may increase a target's SPD by SPL while reducing their own ATK by SPL for a number of turns equal to SPL.
+
+	4) Pounce, the caster may jump to any target in their movement pattern within a number of spaces equal to SPL without using SPD.
+
+	5) Spiritwalk, target ally spirit gains DEF equal to twice SPL and any damage they receive is doubled and applied to the caster instead.
+
+	6) Depart, for a number of turns equal to SPL if an  entity is destroyed within the caster's movement pattern the caster gains ATK and SPD equal to SPL as long as this effect is active.
+
+Passive:
+	Positive: Nine Lives, once per turn if this entity would be destroyed they may instead set their HP to 1 and all counters to 0.
+
+	Negative: Curiosity, this spirit loses MP equal to the number of active effects in their movement pattern each turn until their MP is depleted where they lose HP instead.
+
+------------------------------------
+25) Phantom; [Phantilium]
+
+The lost souls of those long forgotten. The fallen soldier whose name was never remembered. The lonely maid whose story was never told. A child's final breath left unto the wind. These are the lost, and forsaken souls. They represent obscurity and unknowingness, shapeless and devoid of proper definition. Wisps of the world as it was, but not as it's now recalled. Those spirits who linger after death, only to have their narratives etched in the fabric of reality, rather than in the words and chapters of novels and history books. They are those things forgotten by the conscious, only to resurface later in unknowing actions. Those things which have not been finished that leave us without a sense of completion. They are incomplete thoughts and goals. Be aware of your phantoms, or they will surely haunt you.
+
+ Phantoms are the forgotten souls of those whose stories were never told or remembered, like soldiers, maids, or children whose lives ended in obscurity. They symbolize the unknown, the unfinished, and the overlooked aspects of life. Phantoms are ethereal, lacking clear form, representing the remnants of past realities that linger without recognition, influencing the present subconsciously.
+
+	 Society: Phantoms embody the themes of forgotten histories, incomplete narratives, and the subconscious influence of the past, reflecting memory with a focus on what's been lost or overlooked.
+
+	Events: They might be acknowledged in "The Festival of Remembrance," where communities reflect on forgotten stories or in Events aimed at completing unfinished business to prevent haunting.
+
+	Habitat: Exist in places where memories are strong but forgotten, like old battlefields, abandoned homes, or places of significant but unrecorded events.
+
+	Narrative: Encountering a Phantom could signify unresolved issues, the need to address forgotten aspects of one's life, or the haunting presence of the past. It teaches about the importance of acknowledging all parts of history, the danger of neglect, and the power of closure.
+
+Stats: 
+HP = 18
+ATK = 5
+DEF = 1
+SPD = 3
+MP = 12
+Move: Corner Diag
+
+Traits;
+
+Active:
+	1) Vanish, the caster may not be targeted, but they may not move either.
+
+	2) Retrospect, the caster may remove a number of Memory counters to reduce the DEF or SPD of a target in their movement pattern by that amount.
+
+	3) Intangible, the caster may remove a number of Memory counters to move through that many objects.
+
+	4) Haunt, the caster may remove a number of Memory counters to reduce a target's MP by twice that much.
+
+	5) Possession, the caster may remove a number of Memory counters to control any entity whose level is less than half that.
+
+	6) Unresolved, the caster may remove a number of Memory counters to increase their ATK/DEF/SPD by half that.
+
+Passive:
+	Positive: Phantasmal, once per turn this spirit negates damage dealt to it and gains a number of Memory counters equal to the damage negated in this way.
+
+	Negative: Lingering, if this spirit ends two or more turns with no Memory counters on it they receive fatal damage regardless of other effects they may have.
+
+------------------------------------
+26) Banshee; [Banshite]
+
+The castle wailed with the cries of the Banshee, ringing through the once great halls. Only to be met with silence. The Banshee cries again, and again, and again!! Wailing to the skies it's torment! You must run as the banshee cries, when your steps are silenced, because if a Banshee hears you... There's no escape... They are endless sorrow, with a thirst for misplaced justice. Endless oceans of loneliness, they seek only to take the life that was first taken from them. Those who cry to the skies their pain, and then strike down all who suffer not. Beings who wish for nothing more than to spread their sadness to all others, even if by force. They are symbols of sorrowful souls who are helplessly inclined to harm all those around them who do not share their suffering. They serve as a warning about the nature of spiteful torment, and the potential to become vengeful in our sorrow.
+
+Banshees are spirits embodying endless sorrow and a desire for vengeance, often found wailing in desolate places like abandoned castles or ruins. Their cries are not just expressions of grief but also warnings of impending doom. Banshees seek to spread their misery, targeting those who do not share their pain, symbolizing the destructive nature of unchecked sorrow and vengeance.
+
+	 Society: Banshees serve as omens of death or misfortune, embodying themes of sorrow, vengeance, and the dark side of grief, reflective of the cycles of life and death but with a focus on its darker aspects.
+
+	Events: They might be acknowledged in "The Mourning of the Lost," a ritual where communities reflect on loss and the dangers of harboring vengeance, or in tales told to warn against the perils of bitterness.
+
+	Habitat: Prefer desolate, eerie locations like abandoned structures or places marked by tragedy, such as schools, ruins, or hospitals.
+
+	Narrative: Encountering a Banshee could signify a warning about harboring grief or vengeance, teaching about the destructive power of sorrow, the need for healing, and the importance of moving beyond loss.
+
+Stats:
+HP = 12
+ATK = 3
+DEF = 2
+SPD = 4
+MP = 18
+Move: Corner Lateral
+
+Traits;
+
+Active:
+	1) Wail, the target's SPD and DEF is reduced by the caster's VIT.
+
+	2) Scream, the caster may increase any non-combat check by VIT but their next combat check will be a Critical Failure.
+
+	3) Despair, the caster may target an area where hostile entities have their SPD reduced by VIT and take damage equal to VIT each turn.
+
+	4) Gaze, the caster may reduce the target's DEF by twice VIT for a number of turns equal to VIT and when the effect ends the caster takes damage equal to VIT.
+
+	5) Suffer, targets within the caster's movement pattern lose MP equal to VIT and the caster gains HP equal to VIT for a number of turns equal to VIT.
+
+	6) Mourning, for a number of turns equal to VIT the target takes damage equal to the amount of SPD they use.
+
+Passive:
+	Positive: Sorrow, this spirit gains DEF equal to the number of effects they activated in the previous turn as long as their HP is less than half.
+
+	Negative: Vengeful, if this spirit's HP is more than half they may not activate a Critical Success.
+
+------------------------------------
+27) Angel; [Angelium]
+
+WE are the shepherds of lost sheep. The calming hand on your shoulder that stops a horrible crash on a drunken night. The time you shouldn't have lived, but somehow did. WE are there protecting those who have lost their way, and have nowhere left to go. WE are the beacons of light who call to those lost in darkness! WE are the hope of the down trodden! Symbols of faith, and of the light that comes from calling fourth honorable will in the face of all odds. We are the keepers of light and justice, the divine spark given form to walk among spirits without number. We have been called to this task by the hand of that which is present in all things. We will guide the sheep to their Shepard. We will strike down with holy justice on all who stand in our way. We will fight with endless fervor for those who stand beside us. Rejoice!! For when danger calls, we will answer!
+
+Angels are embodiments of divine grace, swift intervention, and the gentle guidance of the lost, channeled into beings of celestial purpose. They symbolize the light in darkness, the hope in despair, and the swiftness of divine justice, often appearing as luminous, ethereal figures that inspire awe and comfort.
+
+	 Society: Angels are revered as protectors, guides, and symbols of hope, their presence instilling faith and courage. Their society values compassion, swift action in times of need, and the embodiment of divine will, beings of gentleness and quick response.
+
+	Events: They celebrate "The Festival of Light," where acts of kindness, protection, and guidance are performed, showcasing their heritage of bringing light to darkness and hope to the hopeless.
+
+	Habitat: Preferring places where they can watch over the world, like high mountains, celestial realms, or places of worship, Angels are where they can best serve as beacons of light and justice, with a divine purpose.
+
+	Narrative: Encountering an Angel could signify a moment of divine intervention, a call to faith, or the need for hope in dire situations, teaching lessons on the power of compassion, the swiftness of justice, and the enduring light of goodness.
+
+Stats:
+HP = 25
+ATK = 1
+DEF = 4
+SPD = 4
+MP  = 5
+Move: Lateral
+
+Traits; 
+
+Active:
+	1) Grace, the caster's MP is recovered by DIV for a number of turns equal to DIV.
+
+	2) Intervention, the caster may negate target spell or ability cast for less than DIV.
+
+	3) Illuminate, the caster may reduce the DEF of a target in their movement pattern by an amount equal to DIV until end of turn.
+
+	4) Vigor, the caster may increase the HP of a target equal to DIV unless the target's HP is full where they remove a number of counters instead.
+
+	5) Judgement, the caster may deal additional damage to a target equal to DIV until end of turn.
+
+	6) Hope, for a number of turns equal to DIV allied spirits in the caster's movement pattern gain DEF equal to DIV.
+
+Passive:
+	Positive: Divinity, this spirit gains Divine counters each turn equal to DIV when MP is full and may spend these counters to increase any combat or non-combat check.
+
+	Negative: Responsibility, if this spirit has no Divine counters on them at the beginning of their next turn their SPD and MP are reduced to 0 until end of turn.
+
+------------------------------------
+28) Human; [Humite]
+
+Hairless apes with formidable intelligence and a proclivity for war. Their struggle against primitive drives has shaped them into a force of nature. Truly marvelous in their capacity for adaptation and ingenuity. Humans have come a long way from their prehistoric roots, adapting to control the physical world with science, and prevent disease with medicine. Most notable of Human achievements is their capacity for mass communication, which began changing them from a tribal warrior species, into something truly great. In time they developed the capacity for highly complex abstract reasoning that facilitated their expansion into a force of interstellar significance. Though they doubt their potential, the day will come when they leave their eternal mark on the cosmos. If only they are to try.
+
+Humans embody the spirit of the Horse, symbolizing endurance, the relentless pursuit of progress, and the strength to overcome challenges. Humans have journeyed far, their history marked by a continuous quest for advancement, resilience against adversity, and the unyielding spirit to explore and conquer new frontiers.
+
+	 Society: Humans are the innovators, the explorers, and the warriors of the cosmos. Their existence values adaptability, technological advancement, and the capacity for both creation and destruction. They represent the potential for growth, the drive to expand knowledge, and the ability to change the world around them.
+
+	Events: They might celebrate "The Festival of Discovery," where they honor their achievements in science, technology, and exploration, symbolizing their journey towards greater understanding and the endurance of their spirit.
+
+	Habitat: Humans thrive in diverse environments, from urban jungles to the frontiers of space, showcasing their adaptability and resilience in any setting.
+
+	Narrative: Encountering humans could signify themes of exploration, the quest for knowledge, the struggle between their primal instincts and higher reasoning, or the impact of technology on society. It teaches lessons on the balance between progress and preservation, the human spirit's resilience, and the potential for both greatness and downfall.
+
+Stats:
+HP = 15
+ATK = 3
+DEF = 3
+SPD = 3
+MP = 15
+Move: Omni
+
+Traits;
+
+Active:
+	1) Indomitable, the caster's ATK and DEF are increased by STR until end of turn.
+
+	2) Innovate, the caster my increase the HP or DEF of an allied object or entity within their movement pattern equal to STR.
+
+	3) Adapt, the effect of this ability becomes the same as the target effect but activated with STR for a number of turns equal to half STR.
+
+	4) Collaborate, for each other allied entity in the caster's movement pattern increase all checks by STR.
+
+	5) Overcome, when the caster's HP is less than half they may increase their DEF by STR for a number of turns equal to STR.
+
+	6) Explore, for a number of turns equal to STR the caster may increase their MP by the number of perception checks they preformed in the previous turn.
+
+Passive:
+	Positive: Curious, this spirit may increase any combat or non-combat check by KNO if they activated an effect in their last turn.
+
+	Negative: Hubris, this spirit automatically has a Critical Failure on all checks if they activated a number of abilities greater than KNO in their last turn.
+
+------------------------------------
+29) Jackal; [Jackalite]
+
+The Jackals are forged from the black sands of the River Styx, for only one purpose. To serve their True king. These are the drives that act for the pursuit of death and decay. Fear of succus and a drive to self destruct without actually knowing why. The Jackal are those things which pull you into those states of mind which serve only death. Black rot for the very fabric of your soul. They are terribly fierce warriors, and completely devoted to the prospect of destruction, be that of ideals, or of beings themselves. Only in properly confronting that precedent to decay with honesty, and bravery, can you overcome these beings who are servants of death itself. They are a warning, that if you do not confront your weaknesses, you will become your own worst enemy.
+
+Jackals are creatures born from the dark sands of the River Styx, driven by an innate purpose to serve death and decay. They embody the fear of succumbing to one's darker impulses and self-destruction. Jackals are fierce warriors, dedicated to destruction, whether of ideals or physical entities, symbolizing the internal battle against one's own decay and the need to confront personal weaknesses.
+
+	 Society: Jackals serve as agents of death and entropy, embodying themes of self-destruction, fear, and the internal struggle against one's darker nature, twisted into a loyalty to death.
+
+	Events: They might be depicted in cautionary tales or Events like "The Rite of Confrontation," where individuals face their fears and destructive tendencies to overcome them.
+
+	Habitat: Prefer environments associated with death or decay, like deserts, wastelands, or areas near the mythical River Styx.
+
+	Narrative: Encountering a Jackal could symbolize a personal crisis, the need to confront one's destructive tendencies, or the danger of neglecting personal growth. It teaches about the importance of self-awareness, courage in facing one's flaws, and the battle against inner decay.
+
+Stats:
+HP = 11
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 19
+Move: Corner Lateral
+
+Traits;
+
+Active:
+	1) Deathless, If the caster's HP would fall to 0 and MP is more than half, then they may increase HP by MNF.
+
+	2) Corrupt, reduce the DEF of an entity within the caster's movement pattern for a number of turns equal to MNF.
+
+	3) Fearmonger, a target may not attack the caster for a number of turns equal to MNF.
+
+	4) Reaver, if the caster destroys a target this turn increase their ATK/DEF by MNF until their next turn.
+
+	5) Devoid, the caster may spawn a number of Jackal tokens up to MNF for a number of turns equal to MNF who will attack each turn if able.
+
+	6) Sanguine, For a number of turns equal to MNF the caster may increase their ATK by MNF but reduces their HP by MNF.
+
+Passive:
+	Positive: Survivor, this spirit gains HP/MP equal to half of damage dealt in the previous turn.
+
+	Negative: Volatile, it this spirit spends more MP in a turn than twice their DIV their HP is reduced by twice DIV and that check becomes a critical failure.
+
+------------------------------------
+30) Troll; [Trollium]
+
+Horribly vile creatures. As large as Three Cows, and as mean as fifty Bulls. Though primitive, their tribal mentality, thick delipidated skin, and savage relentlessness makes them highly effective Tools of destruction. Don't let their grotesque appearance fool you however. These monstrosities can be highly intelligent, using traps, and facilitating complex hunting patterns. Some even have the capacity for nominal speech. They represent hunger in it's most crude, and repulsive form. To see them in dreams could represent an old idea that is all consuming that needs to be let go of. It's not so simple to dispense with these spirits however, because they multiply rapidly over time, and if they grow too large in number, they will completely overwhelm you. If you confront a Troll, be ready for a fight to the bitter end, because they are not taken down easily.
+
+
+Trolls embody a darker spirit, symbolizing relentless endurance, the brute force of nature, and the unyielding drive to survive and dominate. Trolls possess a raw, primal energy, but instead of grace, they exhibit a destructive force, representing the untamed aspects of survival and power.
+
+	 Society: Trolls are often seen as the brute force of nature, embodying raw power, destruction, and the primal need to consume and expand. They represent the darker side of survival instincts, where intelligence serves only to enhance their effectiveness in destruction.
+
+	Events: They might engage in "The Feast of Rampage," where they celebrate their strength and numbers, showcasing their relentless nature and the power of their collective might.
+
+	Habitat: Preferring rugged, harsh environments, Trolls thrive where they can dominate through sheer force, often in areas where their size and strength give them an advantage.
+
+	Narrative: Encountering a Troll could symbolize facing overwhelming challenges, the need to confront and overcome one's darker, more primal urges, or the consequences of unchecked growth and consumption. It teaches lessons on resilience, the struggle against one's baser instincts, and the importance of balance in power.
+
+Stats:
+HP = 25
+ATK = 2
+DEF = 5
+SPD = 2
+MP = 5
+Move: Lateral
+
+Traits;
+
+Active:
+	1) Rampage, the caster's ATK and SPD are increased by VIT until end of turn.
+
+	2) Rejuvenate, for a number of turns equal to VIT if the caster receives damage while this effect is active they may recover HP up to VIT after damage calculation.
+
+	3) Berserk, increase the caster's ATK by twice VIT and reduce their DEF by twice VIT.
+
+	4) Devour, after consuming a food item the caster may multiply their DEF by VIT until end of turn.
+
+	5) Stampede, if the caster received damage this turn they may increase their SPD and ATK by twice VIT but lose MP equal to the damage they deal under this effect.
+
+	6) Hoards, the caster may spawn a number of Troll tokens equal to VIT who must attack each turn if able and are destroyed if the cannot.
+
+Passive:
+	Positive: Toughness, this spirit regenerates HP each turn they are dealt damage equal to half the damage dealt.
+
+	Negative: Uncontrolled, this spirit loses MP equal to EGO each turn and if they end their turn with no MP they receive damage equal to EGO.
+
+------------------------------------
+31) Dwarf; [Dwarfite]
+
+One of the oldest Species, not much is known about them. Masters of masonry and philosophy, outside the battles of other Species. They are both passive when they are left alone, and unshakable on the battlefield. Their constructs and machines outlasting many of their forgotten cities. Few of them remain in the known worlds, but denote a distinct interest in knowledge, and forging the world in the image of their aspirations. Their hidden records hold many secrets about the foundations of worlds, but the whereabouts have long been lost to the passage of time. A message about knowing the unknowable, and distorting it wrongfully, only to have it collapse on you. To have the inevitable truth of time wash it into the realm of the forgotten, until rediscovered by those who seek it. If only they know where to look.
+
+Dwarves, ancient and enigmatic, embody an enduring spirit, symbolizing resilience, the relentless pursuit of knowledge, and the strength to forge ahead despite the odds. With tirelessly journeys across vast terrains, Dwarves have traversed the ages, their history a testament to their unyielding quest for wisdom and the mastery of craft. They represent the journey towards enlightenment, the enduring strength to build and rebuild, and the wisdom gained through time.
+
+	 Society: Dwarves are often seen as the keepers of ancient knowledge, the builders of civilization, and the philosophers of the material world. Their existence values endurance, craftsmanship, and the accumulation of knowledge, strength and endurance are valued for travel and work.
+
+	Events: They celebrate "The Forge Festival," where they honor their ancestors' crafts, share knowledge, and perhaps even reveal hidden truths or technologies, symbolizing their journey towards greater understanding and the endurance of their culture.
+
+	Habitat: Preferring mountainous regions or places where they can delve deep into the earth, Dwarves thrive in environments that require resilience and the ability to withstand the test of time.
+
+	Narrative: Encountering Dwarves could signify a quest for knowledge, the importance of resilience in the face of adversity, or the revelation of ancient secrets that could reshape the world, teaching lessons on the value of history, the endurance of spirit, and the pursuit of truth through hardship.
+
+Stats:
+HP = 26
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 4
+Move: Omni
+
+Traits;
+
+Active:
+	1) Invention, the caster's MP is recovered by KNO for a number of turns equal to KNO.
+
+	2) Craftsman, the caster may increase the DEF of a target by KNO for a number of turns equal to KNO and the caster loses MP equal to KNO each turn this effect is active.
+
+	3) Ancestral, the caster may boost all non-combat checks by KNO reduce their DEF by KNO and increase their SPD by KNO until end of turn.
+
+	4) Enduring, for a number of turns equal to KNO the caster may increase their DEF by twice KNO but any damage they receive is doubled.
+
+	5) Ageless, the caster may spawn a number of Dwarf tokens with ATK/DEF/SPD equal to KNO for a number of turns equal to KNO who are granted the same active traits as the caster.
+
+	6) Philosopher, the caster may increase one of ATK/DEF/SPD by KNO until end of turn as long as they have not received damage  this turn.
+
+Passive:
+	Positive: Resilient, this spirit may increase all combat and non-combat checks by FND as long their last two checks of any kind were successful.
+
+	Negative: Obsessive, if this spirit has three consecutive
+successful checks of any kind their next check is a Critical Failure.
+
+------------------------------------
+32) Goblin; [Goblium]
+
+The spirits of tormented souls who died too young. The essence of cruelty brought to bear on the victims of it's fragility. Forged from heartlessness Goblins represent the twisted creatures that result from years of psychological torment. Beings that now fear so greatly they themselves will only make things worse, they recede into shadows. If given time to fester in their suffering, and develop a taste for vengeance, they may grow in number, and in the boldness of their violence lash out arbitrarily. Alternatively they are well suited for the maintenance of stealth, and inquiry of lost secrets. Inclined toward stabbing their enemies in the dark, they are both valuable allies, and vicious enemies. Always be cautious, because they are easily swayed in where they point their anger.
+
+Goblins are spirits born from the souls of those who suffered premature, cruel deaths, embodying the psychological torment and fear that shaped them. They retreat into shadows, potentially growing in numbers and malice, becoming either stealthy allies or vengeful foes. Their existence is marked by a deep-seated fear and a penchant for stealth, making them adept at uncovering secrets or striking from the shadows.
+
+	 Society: Goblins are the embodiment of fear, vengeance, and stealth, often serving as spies, assassins, or outcasts within society due to their unpredictable nature.
+
+	Events: They might engage in "The Festival of Shadows," where they celebrate their ability to remain unseen and strike from the darkness, or mourn their lost innocence.
+
+	Habitat: Prefer dark, hidden places like caves, ruins, or the underbelly of cities where they can operate unseen.
+
+	Narrative: Encountering a Goblin could represent facing one's fears, the consequences of cruelty, or the need for caution in alliances. It teaches lessons on the impact of trauma, the duality of stealth as both protection and weapon, and the unpredictability of those driven by fear and vengeance.
+
+State:
+HP = 6
+ATK = 1
+DEF = 2
+SPD = 6
+MP = 24
+Move: Corner Lateral
+
+Traits;
+
+Active:
+	1) Elude, the caster's SPD is increased by twice SEX until end of turn.
+
+	2) Blindstrike, the caster may multiply their ATK by SEX as long as they remain undetected under this effect.
+
+	3) Vengeful, the caster may increase their SPD and ATK by twice SEX if they receive damage while this effect is active.
+
+	4) Nefarious, the caster may reduce the SPD or DEF of any target in their movement pattern by SEX as long as those attributes are higher than the caster's.
+
+	5) Multitude, the caster may spawn a number of Goblin tokens equal to SEX for a number of turns equal to SEX during which the caster may not be targeted.
+
+	6) Occulted, the caster may increase any non-combat checks by SEX as long as they haven't been in combat for a number of turns equal to SEX.
+
+Passive:
+	Positive: Evasive, this spirit increases their SPD equal to the number of entities in their movement pattern.
+
+	Negative: Skittish, after activating three or more spells or abilities their next spell or ability is automatically a critical failure.
+
+------------------------------------
+33) Imp; [Impium]
+
+Friendly and intuitive, though fierce fighters when in danger. Gain the trust of an Imp, and their loyalty rivals that of a Blood Hound. The essence of a friendship well maintained. They symbolize trust and honesty on one hand, while being the wrath desired by one who has been betrayed on the other. Both a pact that brings meaning over time, and a potential for devastating loss should it be cast aside. To find one in dreams could mean there are unresolved issues in your family or friendships that you should reconcile. They can represent both the positive and negative side of close relationships. NEVER DOUBLE CROSS THEM... EVER...
+
+Imps are intuitive and fiercely loyal once trust is earned. Their society values intelligence, quick thinking, and the ability to navigate complex social landscapes. Known for their strategic minds, Imps are both valuable allies and formidable foes, capable of turning any situation to their advantage.
+
+	 Society: They are the keepers of secrets, thriving in the underbellies of society. Their loyalty is legendary, but betray them at your peril, for their revenge is as cunning as their loyalty is deep. Often serving as advisors, spies, or tricksters, they use their intelligence to manipulate or solve problems.
+
+	Events: Imps celebrate festivals like "The Great Escape," honoring their ancestors' survival skills and cunning escapes, reflecting their heritage of overcoming adversity through intelligence.
+
+	Habitat: Imps prefer hidden, secure environments like underground networks or the nooks of larger structures, akin to a rat's burrow.
+
+	Narrative: They serve as guides through moral dilemmas or complex social puzzles, often teaching lessons on loyalty, betrayal, and the power of intelligence.
+
+Stats:
+HP = 22
+ATK = 4
+DEF = 1
+SPD = 4
+MP = 8
+Move: Corner Diag
+
+Traits;
+
+Active:
+	1) Absolution, the caster's ATK/DEF/SPD are increased by WIS until end of turn.
+
+	2) Deceptive, the caster can reduce any combat or non-combat check by their WIS as long as they are not involved in the check.
+
+	3) Loyal, for a number of turns equal to WIS the caster may increase their DEF by WIS when blocking for allies or increase their ATK by WIS when attacking.
+
+	4) Insightful, the caster may increase any non-combat check for allies in their movement pattern by WIS.
+
+	5) Escapist, for a number of turns equal to WIS the caster may increase their SPD by WIS for each successful dodge in the previous turn while under this effect.
+
+	6) Oath, the caster may choose a number of targets up to WIS within their movement pattern who gain SPD equal to WIS as long as the caster is not targeted.
+
+Passive:
+	Positive: Intuition, this spirit may apply Bond tokens to any target in their movement pattern where the number of hostile entities increases this spirit's ATK and allied entities increase their DEF.
+
+	Negative: Vindictive, this spirit will have Critical Failures on all non-combat checks if there are no entities with Bond tokens on them.
+
+------------------------------------
+34) Arachnos; [Arachnite]
+
+If there's nobody there to hear it, and a tree falls, does it make a sound? The Arachnos is born of that sound. You will never hear it coming. Spirits of darkness and shadow, they represent the essence of the silent kill, and of prolific growth. Being of spiders, they spread and consume at ferocious pace, but tend to self cannibalize. They are endlessly patient however, waiting extended periods of time for the kill. The Arachnos can mark an instance of troubles unmanaged, or overlooked, that return with toxic fangs. If ignored too long they tend to grow and multiply, which only makes being bitten later on that much worse. Clean them out when first encountered, or you may have a nest of horror waiting at your doorstep.
+
+Arachnos are embodiments of patience and silent predation, channeled into a relentless, creeping force. They symbolize resilience and a deep-seated connection to the earth, albeit through a lens of silent growth and lethal patience.
+
+	 Society: Arachnos are often seen as the unseen predators or silent conquerors, their presence instilling a sense of dread and caution. Their society values patience and strategic growth, with a focus on stealth and predation.
+
+	Events: They celebrate "The Web Festival," where the art of weaving traps and waiting for the right moment is honored, showcasing their heritage of overcoming adversity through patience and cunning.
+
+	Habitat: Preferring dark, secluded areas or dense forests, Arachnos create intricate webs that are as much a testament to their patience as they are to their connection with the land.
+
+	Narrative: Encountering an Arachnos could signify a test of vigilance, the consequences of neglect, or the power of patience, teaching lessons on the dual nature of growth - as both a force of life and a harbinger of silent danger.
+
+State:
+HP = 18
+ATK = 3
+DEF = 1
+SPD = 5
+MP = 12
+Move: Omni
+
+Traits;
+
+Active: 
+	1) Venom, The target loses HP equal to the caster's SPL for a number of turns equal to SPL.
+
+	2)  Webbing, the caster may prevent a target in their movement pattern from using spells or abilities for a number of turns equal to SPL.
+
+	3) Patience, the caster may multiply their ATK and DEF by SPL if the have not attacked for a number of turns equal to SPL.
+
+	4) Grasp, the caster may increase their SPD by twice SPL when in melee range of a target and the caster may not be detected under this effect.
+
+	5) Trapping, for a number of turns equal to SPL the caster may select a target in their movement pattern once per turn and that target may not attack.
+
+	6) Stitching, the caster may regenerate HP equal to SPL for a number of turns equal to SPL after receiving damage while under this effect.
+
+Passive:
+	Positive: Hunter, while this spirit is undetected their SPD is doubled and counters are depleted twice as fast.
+
+	Negative: Boneless, all negative counters on this spirit are increased by the number of combat and non-combat checks they were involved with in their last turn.
+
+------------------------------------
+35) Minotaur; [Minotite]
+ 
+Half Man, Half Taur!!! More metal than you could beat a hooker to death with!! And Twice as savage as eviscerating baby Jesus on Christmas eve!!! FUCK YEAH!!! Beating a cow to death with a busted table leg, and frying it over a pit of hellfire, the minotaur are savagery refined to an art. Intentional, deliberate, malevolence. Whether that's tearing a village to the ground, or desecrating your mother over your father's corpse. They are a vision of primal savagery made manifest in grotesque action. Willing to fight your enemies, if only to bathe in their blood. Just as willing to consume your flesh as well. Those who serve the Minotaur rest themselves in a kingdom of bones, upon a throne of severed limbs, only to rule a kingdom of the dead.
+ 
+Minotaurs are embodiments of raw power and primal ferocity, channeled into a relentless, savage force. They symbolize unyielding determination and a deep-seated connection to the earth, albeit through a lens of brutal conquest and survival.
+
+	 Society: Minotaurs are often seen as warriors or conquerors, their presence instilling both awe and fear. Their society values strength and survival, with a focus on dominance and power.
+
+	Events: They might celebrate "The Festival of the Horn," where feats of strength and combat are honored, showcasing their heritage of overcoming adversity through sheer force.
+
+	Habitat: Preferring rugged terrains or ancient ruins, Minotaurs carve out territories that are as much a testament to their strength as they are to their connection with the land.
+
+	Narrative: Encountering a Minotaur could signify a test of strength, survival, or the consequences of unchecked power, teaching lessons on the dual nature of strength - as both a tool for creation and destruction.
+
+Stats:
+HP = 21
+ATK = 4
+DEF = 4
+SPD = 1
+MP = 9
+Move: Omni
+
+Traits;
+
+Active:
+	1) Ferocious, the caster's ATK and DEF are increased by twice EGO until end of turn.
+
+	2) Rush, the caster may choose a location along their movement pattern within a number of spaces equal to EGO and move there while attacking all entities along their path.
+
+	3) Shatter, the caster may target an area where entities in that area lose SPD and MP equal to EGO.
+
+	4) Brute, the caster cannot have additional counters applied this turn and their DEF is increased by twice EGO until end of turn.
+
+	5) Taunt, the caster may increase their ATK by EGO and hostile entities in the caster's attack pattern must attack the caster for a number of turns equal to EGO.
+
+	6) Renegade, the caster's next spell or ability is considered a critical success but their ATK is reduced by EGO until end of turn.
+
+Passive:
+	Positive: Mighty, this spirit loses Rage counters and increases their ATK and DEF based on the number of times they dealt damage in the previous turn.
+
+	Negative: Enraged, this spirit receives Rage counters each time they take damage and if that damage is greater than the current number of Rage counters they must attack each turn if able until those counters are depleted.
+
+------------------------------------
+36) Orc; [Orcium]
+ 
+Thieves, Bandits, Pirates, There is nearly no limit to what an Orc will do for gold. Even releasing a horde of Trolls, if only for a shiny jewel. Put nothing past them, they would Feed your child to an Arachnos if they thought it would gain them favor. They are the kind of spirits who will get in close and then turn you over a pit. Cunning and ruthless, they will manipulate those around them to suit their own ends. Do not underestimate their capacity to organize into stable hierarchies, and to move strategically. They are thieves with silver tongues, and warriors with brutal tempers. Symbols of greed refined and aggressively focused. The first Orc may only be an informant, but the next thousand will be an invasion. Watch your borders when they arrive, or they will surely overwhelm you.
+
+Orcs are cunning, ruthless spirits driven by greed, willing to commit any act for wealth or power. They symbolize extreme greed and strategic manipulation, capable of organizing into formidable groups. Orcs are not just brute force but also possess silver tongues for deceit, making them dangerous in both direct conflict and through subterfuge. They represent the dark side of ambition, where greed is refined into aggressive, focused action.
+
+	 Society: Orcs embody themes of greed, cunning, and strategic warfare, reflecting determination twisted into selfish ambition.
+
+	Events: Might be depicted in cautionary tales or as antagonists in stories about the dangers of unchecked greed, like "An Orc's Bargain."
+
+	Habitat: Prefer environments that offer strategic advantages or hidden places for their schemes, like mountainous regions or dense forests.
+
+	Narrative: Encountering Orcs could signify a warning about greed, the need for vigilance against manipulation, or the consequences of selfish ambition, teaching about the balance between ambition and ethics, the importance of community over individual gain, and the dangers of underestimating one's enemies.
+
+Stats:
+HP = 14
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 16
+Move: Lateral
+
+Traits;
+
+Active:
+	1) Treachery, the target's SPD and ATK are raised by UND and reduced by EGO until end of turn.
+
+	2) Ambush, the caster may target an area up to EGO for a number of turns equal to UND if a hostile entity enters this area they receive damage equal to UND + EGO.
+
+	3) Plunder, when the caster deals damage they may increase their MP up to UND + EGO.
+
+	4) Deceive, the caster may summon a number of Orc tokens equal to UND for a number of turns equal to EGO and all non-combat checks with these tokens are critical successes.
+
+	5) Rally, allied entities in the caster's movement pattern have their DEF increased by EGO and their non-combat checks are increased by UND.
+
+	6) Bargain, the caster may not be attacked for a number of turns equal to EGO as long as their UND is greater than the target's ATK.
+
+Passive:
+	Positive: Greed, this spirit has a number of Treasure counters equal to the number of active effects in their movement pattern at the end of their turn.
+
+	Negative: Overconfident, if this spirit attempts to cast a spell or ability for more than the number of Treasure counters they have then they take damage equal to that amount.
+
+------------------------------------

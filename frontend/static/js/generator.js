@@ -44,6 +44,223 @@ async function apiClear() {
     }
 }
 
+let gameData = null;
+
+async function loadGameData() {
+    try {
+        const res = await fetch('/api/game-data');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        gameData = await res.json();
+        return gameData;
+    } catch (err) {
+        console.warn('Unable to load game metadata, falling back to built-in constants.', err);
+        gameData = null;
+        return null;
+    }
+}
+
+function applyGameDataToSelects(data) {
+    if (!data) return;
+    if (data.animals) populateSelect('animal-sign', data.animals);
+    if (data.stars) populateSelect('star-sign', data.stars);
+    if (data.species) {
+        populateSelect('species', data.species);
+        populateSelect('species2', data.species);
+    }
+    if (data.types) {
+        populateSelect('type', data.types);
+        populateSelect('type2', data.types);
+    }
+    if (data.diceTables) {
+        const categories = data.diceTables.map(dt => dt.title);
+        populateSelect('search-category', categories);
+    }
+}
+
+function displaySearchResults(response) {
+    const resultsEl = document.getElementById('search-results');
+    if (!resultsEl) return;
+    if (!response.results || !response.results.length) {
+        resultsEl.textContent = 'No search results returned.';
+        return;
+    }
+    resultsEl.innerHTML = `<h3>Search Category: ${response.category || 'Unknown'}</h3>` +
+        response.results.map(item => `<div class="search-result-item">${item}</div>`).join('');
+}
+
+function drawMapLayout(layout) {
+    const canvas = document.getElementById('map-canvas');
+    if (!canvas || !Array.isArray(layout) || !layout.length) return;
+    const ctx = canvas.getContext('2d');
+    const rows = layout.length;
+    const cols = layout[0].length;
+    const cellSize = Math.min(canvas.width / cols, canvas.height / rows);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    const colors = {
+        '.': '#2b2b2b',
+        '#': '#5d4a42',
+        '~': '#1f5b6d',
+        '^': '#1f6d2d',
+        '+': '#a1864f',
+        '?': '#6f3c82',
+    };
+
+    for (let y = 0; y < rows; y += 1) {
+        for (let x = 0; x < cols; x += 1) {
+            const tile = layout[y][x];
+            ctx.fillStyle = colors[tile] || '#333';
+            ctx.fillRect(x * cellSize, y * cellSize, cellSize, cellSize);
+        }
+    }
+
+    ctx.strokeStyle = 'rgba(255,255,255,0.12)';
+    for (let x = 0; x <= cols; x += 1) {
+        ctx.beginPath();
+        ctx.moveTo(x * cellSize, 0);
+        ctx.lineTo(x * cellSize, rows * cellSize);
+        ctx.stroke();
+    }
+    for (let y = 0; y <= rows; y += 1) {
+        ctx.beginPath();
+        ctx.moveTo(0, y * cellSize);
+        ctx.lineTo(cols * cellSize, y * cellSize);
+        ctx.stroke();
+    }
+}
+
+function renderMapLegend(legend) {
+    const legendEl = document.getElementById('map-legend');
+    if (!legendEl || !legend) return;
+    legendEl.innerHTML = Object.entries(legend).map(([key, value]) => {
+        return `<div class="legend-item"><span class="legend-swatch">${value}</span><span>${key}</span></div>`;
+    }).join('');
+}
+
+function displayMapResults(response) {
+    const resultsEl = document.getElementById('search-results');
+    if (!resultsEl) return;
+    const mapName = response.mapName || 'Unnamed Map';
+    const mapDescription = response.mapDescription || 'No description available.';
+    const details = response.mapDetails || [];
+
+    resultsEl.innerHTML = `
+        <h3>${mapName}</h3>
+        <p><strong>Category:</strong> ${response.category || 'Unknown'}</p>
+        <p><strong>Theme:</strong> ${response.mapTheme || 'Unknown'}</p>
+        <p>${mapDescription}</p>
+        <div class="search-results-list">
+            ${details.map(item => `<div class="search-result-item">${item}</div>`).join('')}
+        </div>
+    `;
+
+    if (response.mapLayout) {
+        drawMapLayout(response.mapLayout);
+    }
+    renderMapLegend(response.tileLegend);
+}
+
+async function performSearch() {
+    const category = document.getElementById('search-category').value;
+    const query = document.getElementById('search-query').value.trim();
+    const payload = {
+        category: query || category,
+        n: 3
+    };
+
+    try {
+        const res = await fetch('/api/generate/map', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        displayMapResults(data);
+    } catch (err) {
+        console.error('Map generation failed:', err);
+        document.getElementById('search-results').textContent = 'Map generation failed. Please try another category.';
+    }
+}
+
+function displayMapResults(response) {
+    const resultsEl = document.getElementById('search-results');
+    if (!resultsEl) return;
+    const mapName = response.mapName || 'Unnamed Map';
+    const mapDescription = response.mapDescription || 'No description available.';
+    const details = response.mapDetails || [];
+
+    resultsEl.innerHTML = `
+        <h3>${mapName}</h3>
+        <p><strong>Category:</strong> ${response.category || 'Unknown'}</p>
+        <p>${mapDescription}</p>
+        <div class="search-results-list">
+            ${details.map(item => `<div class="search-result-item">${item}</div>`).join('')}
+        </div>
+    `;
+}
+
+function applyCharacterToForm(character) {
+    document.getElementById('spirit-name').value = character.name || '';
+    document.getElementById('description').value = character.description || '';
+    document.getElementById('animal-sign').value = character.animal || '';
+    document.getElementById('star-sign').value = character.star || '';
+    document.getElementById('species').value = character.species || '';
+    document.getElementById('species2').value = character.species2 || '';
+    populateSpeciesActiveSkills(character.species || '', character.species2 || '');
+    document.getElementById('species-active-skill').value = character.speciesActive || '';
+    document.getElementById('type').value = character.type || '';
+    document.getElementById('type2').value = character.type2 || '';
+    populateTypeActiveSkills(character.type || '', character.type2 || '');
+    document.getElementById('type-active-skill').value = character.typeActive || '';
+    document.getElementById('melee-skill').value = character.meleeSkill || '';
+    document.getElementById('ranged-skill').value = character.rangedSkill || '';
+    document.getElementById('magic-skill').value = character.magicSkill || '';
+    document.getElementById('step-skill').value = character.stepSkill || '';
+    document.getElementById('special-skill').value = character.specialSkill || '';
+    document.getElementById('trance-skill').value = character.tranceSkill || '';
+    document.getElementById('level').value = character.level || 1;
+    fillSheet();
+}
+
+async function generateCharacter() {
+    const body = {
+        name: document.getElementById('spirit-name').value.trim() || undefined,
+        description: document.getElementById('description').value.trim() || undefined,
+        level: parseInt(document.getElementById('level').value) || 1,
+        animal: document.getElementById('animal-sign').value || undefined,
+        star: document.getElementById('star-sign').value || undefined,
+        species: document.getElementById('species').value || undefined,
+        type: document.getElementById('type').value || undefined,
+        meleeSkill: document.getElementById('melee-skill').value || undefined,
+        rangedSkill: document.getElementById('ranged-skill').value || undefined,
+        magicSkill: document.getElementById('magic-skill').value || undefined,
+        stepSkill: document.getElementById('step-skill').value || undefined,
+        specialSkill: document.getElementById('special-skill').value || undefined,
+        tranceSkill: document.getElementById('trance-skill').value || undefined,
+    };
+
+    try {
+        const res = await fetch('/api/character/generate', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(body)
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const result = await res.json();
+        if (result.character) {
+            applyCharacterToForm(result.character);
+            alert('Character generated using Rememberence game data.');
+        } else {
+            alert('Character generation returned no data.');
+        }
+    } catch (err) {
+        console.error('Character generation failed:', err);
+        alert('Character generation failed. Falling back to local sheet builder.');
+        fillSheet();
+    }
+}
+
 
 function populateSelect(id, options) {
     const select = document.getElementById(id);
@@ -349,6 +566,51 @@ function fillSheet() {
     sheet += `Traits:\n${gearTraits.join('\n') || 'None'}\n\n`;
     sheet += `-----------------------------------------\n`;
 
+    // Species and Type descriptions (from loaded gameData or local constants)
+    const speciesDesc = (gameData && gameData.species && speciesData[spec]) ? (speciesData[spec].traits?.passive || []).join('; ') : (speciesData[spec]?.traits?.passive || []).join('; ');
+    const typeDesc = (gameData && gameData.types && typeData[type]) ? (typeData[type].description || '') : (typeData[type]?.description || '');
+    sheet += `\n-----------------------------------------\n[Species / Type Details]\n-----------------------------------------\n`;
+    sheet += `Species (${spec}): ${speciesDesc || 'No passive traits documented.'}\n`;
+    sheet += `Type (${type}): ${typeDesc || 'No description available.'}\n`;
+
+    // Runes list from gameData
+    if (gameData && gameData.runes && gameData.runes.length) {
+        sheet += `\n-----------------------------------------\n[Runes Available]\n-----------------------------------------\n`;
+        gameData.runes.slice(0, 40).forEach(r => {
+            sheet += `${r.code} — ${r.title || ''} ${r.effect ? `: ${r.effect}` : ''}\n`;
+        });
+        if (gameData.runes.length > 40) sheet += `...and ${gameData.runes.length - 40} more runes\n`;
+    }
+
+    // Kick off background fetch to enrich species/type descriptions
+    fetchAndAppendEntityDetails(spec, type);
+
+
+async function fetchAndAppendEntityDetails(spec, type) {
+    try {
+        const parts = [];
+        if (spec) {
+            const res = await fetch(`/api/species/${encodeURIComponent(spec)}`);
+            if (res.ok) {
+                const json = await res.json();
+                if (json) parts.push(`Species details: ${json.traits ? json.traits.join('; ') : json.description || ''}`);
+            }
+        }
+        if (type) {
+            const res = await fetch(`/api/types/${encodeURIComponent(type)}`);
+            if (res.ok) {
+                const json = await res.json();
+                if (json) parts.push(`Type details: ${json.traits ? json.traits.join('; ') : json.description || ''}`);
+            }
+        }
+        if (parts.length) {
+            const el = document.getElementById('character-sheet');
+            el.textContent += '\n\n[Enriched Details]\n' + parts.join('\n');
+        }
+    } catch (err) {
+        console.warn('Failed to fetch entity details:', err);
+    }
+}
     document.getElementById('character-sheet').textContent = sheet;
 }
 
@@ -565,6 +827,9 @@ async function simulateSpirits() {
 
 
 document.addEventListener('DOMContentLoaded', () => {
+    loadGameData().then((data) => {
+        applyGameDataToSelects(data);
+    });
     populateSelect('animal-sign', Object.keys(animalSigns));
     populateSelect('star-sign', Object.keys(starSigns));
     populateSelect('species', Object.keys(speciesData));
@@ -621,7 +886,11 @@ document.addEventListener('DOMContentLoaded', () => {
         fillSheet();
     });
 
-    document.getElementById('generate-sheet').addEventListener('click', fillSheet);
+    document.getElementById('generate-sheet').addEventListener('click', generateCharacter);
+    const searchButton = document.getElementById('search-generate');
+    if (searchButton) {
+        searchButton.addEventListener('click', performSearch);
+    }
     document.getElementById('save-state').addEventListener('click', saveState);
     document.getElementById('load-state').addEventListener('click', loadState);
     document.getElementById('delete-state').addEventListener('click', deleteState);

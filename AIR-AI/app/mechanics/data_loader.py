@@ -1,10 +1,12 @@
 import os
 import re
-from typing import Dict, Optional, Tuple
+from typing import Any, Dict, Optional, Tuple
 
 from .class_data import SkillCategory, SkillDefinition
 from .core import SpiritDefinition
+from .core_rules import CoreRules, parse_biorhythm_content, parse_dice_table_content
 from .icon_data import IconDefinition
+from .runes import RuneCollection, parse_rune_content
 
 DATA_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Rememberence'))
 
@@ -19,6 +21,8 @@ class RememberenceData:
         self.class_tiers: Dict[str, list] = {'macro': [], 'meta': []}
         self.icons: Dict[str, IconDefinition] = {}
         self.icon_lore: Dict[str, str] = {}
+        self.core_rules: CoreRules = CoreRules()
+        self.runes: RuneCollection = RuneCollection()
         self.classes_raw: str = ''
         self.raw_files: Dict[str, str] = {}
 
@@ -29,11 +33,13 @@ class RememberenceData:
         return loader
 
     def load(self):
+        self._load_core('0-Core')
         self._load_signs('1-Zodiac/Animal', self.animals, 'Animal')
         self._load_signs('1-Zodiac/Stars', self.stars, 'Star')
         self._load_types('2-Spirit/Types')
         self._load_species('2-Spirit/Species')
         self._load_classes('3-Classes/Classes.txt')
+        self._load_runes('4-Runes')
         self._load_icons('5-Icons')
 
     def _load_signs(self, relative_path: str, target: Dict[str, SpiritDefinition], category: str):
@@ -78,11 +84,39 @@ class RememberenceData:
             self.class_categories = categories
             self.class_tiers = tier_info
 
+    def _load_core(self, relative_path: str):
+        path = os.path.join(DATA_ROOT, relative_path)
+        if not os.path.isdir(path):
+            return
+        for candidate in sorted(os.listdir(path)):
+            if not candidate.lower().endswith('.txt'):
+                continue
+            full_path = os.path.join(path, candidate)
+            text = self._read_file(full_path)
+            relpath = os.path.relpath(full_path, DATA_ROOT)
+            self.raw_files[relpath] = text
+            self.core_rules.guide_sections[candidate] = text
+            if candidate == '5-Biorhythms.txt':
+                self.core_rules.biorhythms = parse_biorhythm_content(text)
+            elif candidate == '6-Dice Table.txt':
+                self.core_rules.dice_tables = parse_dice_table_content(text)
+
+    def _load_runes(self, relative_path: str):
+        path = os.path.join(DATA_ROOT, relative_path)
+        if not os.path.isdir(path):
+            return
+        rune_file = os.path.join(path, '0-Hidden Key.txt')
+        if os.path.isfile(rune_file):
+            text = self._read_file(rune_file)
+            self.raw_files[os.path.relpath(rune_file, DATA_ROOT)] = text
+            self.runes = parse_rune_content(text)
+
     def _load_icons(self, relative_path: str):
         path = os.path.join(DATA_ROOT, relative_path)
         if not os.path.isdir(path):
             return
-        for root, _, files in os.walk(path):
+        for root, dirs, files in os.walk(path):
+            dirs.sort()
             for candidate in sorted(files):
                 if not candidate.lower().endswith('.txt'):
                     continue
@@ -94,6 +128,19 @@ class RememberenceData:
                 self.icons[relpath] = icon
                 if candidate in ('Heroes.txt', 'Mirrors.txt', 'Mythos.txt', 'General.txt'):
                     self.icon_lore[relpath] = text
+                    self.icon_lore[candidate] = text
+        def icon_sort_key(item):
+            icon = item[1]
+            special_key = 1 if icon.filename.lower().endswith('key.txt') else 0
+            return (
+                icon.category or '',
+                special_key,
+                icon.filename or '',
+                (icon.faction.name if icon.faction else ''),
+                item[0],
+            )
+
+        self.icons = dict(sorted(self.icons.items(), key=icon_sort_key))
 
     def _read_file(self, path: str) -> str:
         with open(path, 'r', encoding='utf-8', errors='ignore') as handle:
@@ -174,9 +221,10 @@ class RememberenceData:
                 active_list = None
                 continue
 
-            stat_match = re.match(r'^(HP|ATK|DEF|SPD|MP)\s*[=+]\s*(\d+)', line)
+            stat_match = re.match(r'^(HP|ATK|DEF|SPD|MP)\s*[=+]\s*(\d+|[A-Z]+)', line)
             if stat_match:
-                current.base_stats[stat_match.group(1)] = int(stat_match.group(2))
+                value = stat_match.group(2)
+                current.base_stats[stat_match.group(1)] = int(value) if value.isdigit() else value
                 continue
 
         if current is not None and current.name not in entries:
@@ -218,9 +266,10 @@ class RememberenceData:
                 current.base_stats['move'] = line.split(':', 1)[1].strip()
                 continue
 
-            stat_match = re.match(r'^(HP|ATK|DEF|SPD|MP)\s*[=+]\s*(\d+)', line)
+            stat_match = re.match(r'^(HP|ATK|DEF|SPD|MP)\s*[=+]\s*(\d+|[A-Z]+)', line)
             if stat_match:
-                current.base_stats[stat_match.group(1)] = int(stat_match.group(2))
+                value = stat_match.group(2)
+                current.base_stats[stat_match.group(1)] = int(value) if value.isdigit() else value
                 continue
             if line.startswith('Traits;'):
                 current.traits.append(line.split(';', 1)[1].strip())

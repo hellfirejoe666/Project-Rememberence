@@ -6,11 +6,14 @@ import random
 import re
 
 from db import init_db, create_character, get_character, list_characters, delete_character
+from mechanics.data_loader import RememberenceData
+from mechanics.donjon import generate_name as generate_name_py, generate_text as generate_text_py, normalize_kind
+from mechanics.donjon_node import generate_name as generate_name_node, generate_text as generate_text_node
 from mechanics.generator import generate_character_payload
+from mechanics.map_generator import generate_map_layout
 from mechanics.rules import create_default_post, decay_loyalty, decay_spirit_thoughts
-from mechanics.generator import generate_character_payload
 
-FRONTEND_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend'))
+FRONTEND_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'frontend'))
 STATIC_DIR = os.path.join(FRONTEND_DIR, 'static')
 TEMPLATES_DIR = os.path.join(FRONTEND_DIR, 'templates')
 app = Flask(__name__, static_folder=STATIC_DIR, static_url_path='', template_folder=TEMPLATES_DIR)
@@ -27,6 +30,9 @@ DEFAULT_STATE = {
     "postCounters": {"lastId": 0},
     "lastSaved": 0
 }
+
+GAME_DATA = RememberenceData.load_default()
+
 
 def load_state_file():
     if os.path.exists(STATE_FILE):
@@ -146,6 +152,66 @@ def api_roll():
     return jsonify({'formula': formula, 'rolls': rolls, 'modifier': mod, 'total': total})
 
 
+def _serialize_biorhythm(bio):
+    return {
+        'name': bio.name,
+        'title': bio.title,
+        'dominant': bio.dominant,
+        'recessive': bio.recessive,
+        'description': bio.description,
+    }
+
+
+def _serialize_thought_parameter(tp):
+    return {
+        'name': tp.name,
+        'formula': tp.formula,
+        'negative': tp.negative,
+        'positive': tp.positive,
+        'description': tp.description,
+    }
+
+
+def _serialize_dice_table(entry):
+    return {
+        'title': entry.title,
+        'description': entry.description,
+        'values': entry.values,
+    }
+
+
+def _serialize_rune(rune):
+    return {
+        'index': rune.index,
+        'code': rune.code,
+        'title': rune.title,
+        'effect': rune.effect,
+        'description': rune.description,
+    }
+
+
+def _serialize_spirit_definition(sd):
+    if sd is None:
+        return None
+    # sd is a SpiritDefinition
+    try:
+        return sd.as_dict()
+    except Exception:
+        return {
+            'name': getattr(sd, 'name', None),
+            'label': getattr(sd, 'label', None),
+            'style': getattr(sd, 'style', None),
+            'category': getattr(sd, 'category', None),
+            'description': getattr(sd, 'description', None),
+            'biorhythms': getattr(sd, 'biorhythms', {}),
+            'species': getattr(sd, 'species', []),
+            'types': getattr(sd, 'types', []),
+            'traits': getattr(sd, 'traits', []),
+            'attack_pattern': getattr(sd, 'attack_pattern', None),
+            'base_stats': getattr(sd, 'base_stats', {}),
+        }
+
+
 @app.route('/api/state', methods=['GET'])
 def api_get_state():
     return jsonify(load_state_file())
@@ -175,6 +241,124 @@ def api_clear_state():
     return jsonify({'status': 'cleared'})
 
 
+@app.route('/api/game-data', methods=['GET'])
+def api_get_game_data():
+    return jsonify({
+        'animals': sorted(GAME_DATA.animals.keys()),
+        'stars': sorted(GAME_DATA.stars.keys()),
+        'types': sorted(GAME_DATA.types.keys()),
+        'species': sorted(GAME_DATA.species.keys()),
+        'classes': sorted(GAME_DATA.class_categories.keys()),
+        'biorhythms': [_serialize_biorhythm(b) for b in GAME_DATA.core_rules.biorhythms.values()],
+        'thoughtParameters': [_serialize_thought_parameter(tp) for tp in GAME_DATA.core_rules.thought_parameters],
+        'diceTables': [_serialize_dice_table(dt) for dt in GAME_DATA.core_rules.dice_tables.values()],
+        'runes': [_serialize_rune(r) for r in GAME_DATA.runes.runes.values()],
+    })
+
+
+@app.route('/api/biorhythms', methods=['GET'])
+def api_list_biorhythms():
+    return jsonify([_serialize_biorhythm(b) for b in GAME_DATA.core_rules.biorhythms.values()])
+
+
+@app.route('/api/dice-tables', methods=['GET'])
+def api_list_dice_tables():
+    return jsonify([_serialize_dice_table(dt) for dt in GAME_DATA.core_rules.dice_tables.values()])
+
+
+@app.route('/api/runes', methods=['GET'])
+def api_list_runes():
+    return jsonify([_serialize_rune(r) for r in GAME_DATA.runes.runes.values()])
+
+
+@app.route('/api/runes/<string:code>', methods=['GET'])
+def api_get_rune(code):
+    rune = GAME_DATA.runes.runes.get(code.upper()) or GAME_DATA.runes.runes.get(code)
+    if not rune:
+        return jsonify({'error': 'Rune not found'}), 404
+    return jsonify(_serialize_rune(rune))
+
+
+@app.route('/api/generate/name', methods=['POST'])
+def api_generate_name():
+    body = request.get_json(silent=True) or {}
+    kind = body.get('type') or body.get('kind')
+    n = int(body.get('n', 1))
+    try:
+        names = generate_name_node(kind, n, GAME_DATA)
+    except Exception:
+        names = generate_name_py(kind, n, GAME_DATA)
+    return jsonify({'type': kind, 'names': names})
+
+
+@app.route('/api/generate/text', methods=['POST'])
+def api_generate_text():
+    body = request.get_json(silent=True) or {}
+    kind = body.get('type') or body.get('kind')
+    n = int(body.get('n', 1))
+    try:
+        texts = generate_text_node(kind, n, GAME_DATA)
+    except Exception:
+        texts = generate_text_py(kind, n, GAME_DATA)
+    return jsonify({'type': kind, 'texts': texts})
+
+
+@app.route('/api/generate/search', methods=['POST'])
+def api_generate_search():
+    body = request.get_json(silent=True) or {}
+    kind = body.get('category') or body.get('type') or body.get('kind')
+    n = int(body.get('n', 1))
+    normalized = normalize_kind(kind, GAME_DATA)
+    try:
+        results = generate_text_node(normalized, n, GAME_DATA)
+    except Exception:
+        results = generate_text_py(normalized, n, GAME_DATA)
+    return jsonify({'category': normalized or kind, 'results': results})
+
+
+@app.route('/api/generate/map', methods=['POST'])
+def api_generate_map():
+    body = request.get_json(silent=True) or {}
+    kind = body.get('category') or body.get('type') or body.get('kind') or 'dungeons'
+    n = int(body.get('n', 3))
+    normalized = normalize_kind(kind, GAME_DATA)
+    try:
+        name = generate_name_node(normalized, 1, GAME_DATA)[0]
+    except Exception:
+        name = generate_name_py(normalized, 1, GAME_DATA)[0]
+    try:
+        details = generate_text_node(normalized, n, GAME_DATA)
+    except Exception:
+        details = generate_text_py(normalized, n, GAME_DATA)
+    map_layout = generate_map_layout(normalized, width=12, height=12)
+    return jsonify({
+        'category': normalized or kind,
+        'mapName': name,
+        'mapTheme': map_layout.get('theme'),
+        'mapDescription': map_layout.get('description') or (details[0] if details else ''),
+        'mapDetails': details,
+        'mapLayout': map_layout.get('layout'),
+        'tileLegend': map_layout.get('legend'),
+    })
+
+
+@app.route('/api/species/<string:name>', methods=['GET'])
+def api_get_species(name):
+    # case-insensitive lookup
+    for key, sd in GAME_DATA.species.items():
+        if key.lower() == name.lower():
+            return jsonify(_serialize_spirit_definition(sd))
+    return jsonify({'error': 'Species not found'}), 404
+
+
+@app.route('/api/types/<string:name>', methods=['GET'])
+def api_get_type(name):
+    for key, sd in GAME_DATA.types.items():
+        if key.lower() == name.lower():
+            return jsonify(_serialize_spirit_definition(sd))
+    return jsonify({'error': 'Type not found'}), 404
+
+
 @app.route('/api/spirits', methods=['GET'])
 def api_list_spirits():
     state = load_state_file()
@@ -198,7 +382,7 @@ def api_load_spirit(name):
 @app.route('/api/character/generate', methods=['POST'])
 def api_generate_character():
     body = request.get_json(silent=True) or {}
-    character = generate_character_payload(body)
+    character = generate_character_payload(body, GAME_DATA)
     return jsonify({'status': 'generated', 'character': character})
 
 
