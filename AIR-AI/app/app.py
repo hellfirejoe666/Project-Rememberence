@@ -1,4 +1,4 @@
-from flask import Flask, send_from_directory, request, jsonify
+from flask import Flask, render_template, send_from_directory, request, jsonify
 import json
 import os
 import time
@@ -7,8 +7,10 @@ import re
 
 from db import init_db, create_character, get_character, list_characters, delete_character
 
-STATIC_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), 'static'))
-app = Flask(__name__, static_folder=STATIC_DIR, static_url_path='')
+FRONTEND_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend'))
+STATIC_DIR = os.path.join(FRONTEND_DIR, 'static')
+TEMPLATES_DIR = os.path.join(FRONTEND_DIR, 'templates')
+app = Flask(__name__, static_folder=STATIC_DIR, static_url_path='', template_folder=TEMPLATES_DIR)
 
 # Initialize SQLite DB for characters
 init_db()
@@ -44,10 +46,10 @@ def save_state_file(data):
     print(f"State saved at {data['lastSaved']} — posts: {len(data.get('posts', []))}, spirits: {len(data.get('spirits', []))}")
     return data["lastSaved"]
 
-# Serve index.html at root
+# Serve the rendered homepage template
 @app.route('/')
 def serve_index():
-    return send_from_directory(app.static_folder, 'index.html')
+    return render_template('home.html')
 
 # Serve all static files (js, css, etc.)
 @app.route('/<path:path>')
@@ -122,6 +124,57 @@ def find_spirit(state, name):
         if spirit.get('name', '').lower() == name.lower():
             return spirit
     return None
+
+
+DEFAULT_ANIMALS = ['Rat', 'Ox', 'Tiger', 'Rabbit', 'Dragon', 'Snake', 'Horse', 'Goat', 'Monkey', 'Rooster', 'Dog', 'Boar']
+DEFAULT_STARS = ['Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo', 'Libra', 'Scorpio', 'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces']
+DEFAULT_SPECIES = ['Avious', 'Merr', 'Geneshan', 'Iniris', 'Reptoid', 'Wolfin', 'Goki', 'Tigris', 'Demon', 'Grimm', 'Drakian', 'Chimera', 'Mannequin']
+DEFAULT_TYPES = ['NaGi', 'NaFi', 'NaWi', 'NaZi', 'NaTe', 'NaDin', 'Neutral']
+DEFAULT_SKILLS = ['Strike', 'Guard', 'Whisper', 'Surge', 'Echo', 'Breach', 'Flow', 'Burst']
+
+
+def random_choice_from_list(values, default=None):
+    return random.choice(values) if values else default
+
+
+def generate_character_payload(body=None):
+    body = body if isinstance(body, dict) else {}
+    name = body.get('name') or f"{random_choice_from_list(['Astra','Nyx','Rune','Lira','Cora','Zeph','Nova','Vex'])}"
+    level = max(1, int(body.get('level', 1)))
+    animal = body.get('animal') or random_choice_from_list(DEFAULT_ANIMALS)
+    star = body.get('star') or random_choice_from_list(DEFAULT_STARS)
+    species = body.get('species') or random_choice_from_list(DEFAULT_SPECIES)
+    spirit_type = body.get('type') or random_choice_from_list(DEFAULT_TYPES)
+    description = body.get('description', 'A newly formed spirit of the weave.')
+    stats = {
+        'HP': 10 * level + random.randint(0, 10),
+        'ATK': 3 * level + random.randint(0, 4),
+        'DEF': 2 * level + random.randint(0, 3),
+        'SPD': 2 * level + random.randint(0, 3),
+        'MP': 8 * level + random.randint(0, 8)
+    }
+    spirit = {
+        'name': name,
+        'description': description,
+        'level': level,
+        'animal': animal,
+        'star': star,
+        'species': species,
+        'type': spirit_type,
+        'loyaltyMap': {},
+        'loyaltyRank': {},
+        'thoughts': {'State': 0},
+        'stats': stats,
+        'skills': {
+            'melee': body.get('meleeSkill') or random_choice_from_list(DEFAULT_SKILLS),
+            'ranged': body.get('rangedSkill') or random_choice_from_list(DEFAULT_SKILLS),
+            'magic': body.get('magicSkill') or random_choice_from_list(DEFAULT_SKILLS),
+            'step': body.get('stepSkill') or random_choice_from_list(DEFAULT_SKILLS),
+            'special': body.get('specialSkill') or random_choice_from_list(DEFAULT_SKILLS),
+            'trance': body.get('tranceSkill') or random_choice_from_list(DEFAULT_SKILLS)
+        }
+    }
+    return spirit
 
 
 def decay_spirit_thoughts(spirit):
@@ -208,6 +261,27 @@ def api_clear_state():
 def api_list_spirits():
     state = load_state_file()
     return jsonify(state.get('spirits', []))
+
+
+@app.route('/api/spirits/<string:name>', methods=['GET'])
+def api_get_spirit(name):
+    state = load_state_file()
+    spirit = find_spirit(state, name)
+    if not spirit:
+        return jsonify({'error': 'Spirit not found'}), 404
+    return jsonify(spirit)
+
+
+@app.route('/api/spirit/load/<string:name>', methods=['GET'])
+def api_load_spirit(name):
+    return api_get_spirit(name)
+
+
+@app.route('/api/character/generate', methods=['POST'])
+def api_generate_character():
+    body = request.get_json(silent=True) or {}
+    character = generate_character_payload(body)
+    return jsonify({'status': 'generated', 'character': character})
 
 
 @app.route('/api/spirits', methods=['POST'])
