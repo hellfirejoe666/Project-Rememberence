@@ -6,6 +6,9 @@ import random
 import re
 
 from db import init_db, create_character, get_character, list_characters, delete_character
+from mechanics.generator import generate_character_payload
+from mechanics.rules import create_default_post, decay_loyalty, decay_spirit_thoughts
+from mechanics.generator import generate_character_payload
 
 FRONTEND_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend'))
 STATIC_DIR = os.path.join(FRONTEND_DIR, 'static')
@@ -126,91 +129,6 @@ def find_spirit(state, name):
     return None
 
 
-DEFAULT_ANIMALS = ['Rat', 'Ox', 'Tiger', 'Rabbit', 'Dragon', 'Snake', 'Horse', 'Goat', 'Monkey', 'Rooster', 'Dog', 'Boar']
-DEFAULT_STARS = ['Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo', 'Libra', 'Scorpio', 'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces']
-DEFAULT_SPECIES = ['Avious', 'Merr', 'Geneshan', 'Iniris', 'Reptoid', 'Wolfin', 'Goki', 'Tigris', 'Demon', 'Grimm', 'Drakian', 'Chimera', 'Mannequin']
-DEFAULT_TYPES = ['NaGi', 'NaFi', 'NaWi', 'NaZi', 'NaTe', 'NaDin', 'Neutral']
-DEFAULT_SKILLS = ['Strike', 'Guard', 'Whisper', 'Surge', 'Echo', 'Breach', 'Flow', 'Burst']
-
-
-def random_choice_from_list(values, default=None):
-    return random.choice(values) if values else default
-
-
-def generate_character_payload(body=None):
-    body = body if isinstance(body, dict) else {}
-    name = body.get('name') or f"{random_choice_from_list(['Astra','Nyx','Rune','Lira','Cora','Zeph','Nova','Vex'])}"
-    level = max(1, int(body.get('level', 1)))
-    animal = body.get('animal') or random_choice_from_list(DEFAULT_ANIMALS)
-    star = body.get('star') or random_choice_from_list(DEFAULT_STARS)
-    species = body.get('species') or random_choice_from_list(DEFAULT_SPECIES)
-    spirit_type = body.get('type') or random_choice_from_list(DEFAULT_TYPES)
-    description = body.get('description', 'A newly formed spirit of the weave.')
-    stats = {
-        'HP': 10 * level + random.randint(0, 10),
-        'ATK': 3 * level + random.randint(0, 4),
-        'DEF': 2 * level + random.randint(0, 3),
-        'SPD': 2 * level + random.randint(0, 3),
-        'MP': 8 * level + random.randint(0, 8)
-    }
-    spirit = {
-        'name': name,
-        'description': description,
-        'level': level,
-        'animal': animal,
-        'star': star,
-        'species': species,
-        'type': spirit_type,
-        'loyaltyMap': {},
-        'loyaltyRank': {},
-        'thoughts': {'State': 0},
-        'stats': stats,
-        'skills': {
-            'melee': body.get('meleeSkill') or random_choice_from_list(DEFAULT_SKILLS),
-            'ranged': body.get('rangedSkill') or random_choice_from_list(DEFAULT_SKILLS),
-            'magic': body.get('magicSkill') or random_choice_from_list(DEFAULT_SKILLS),
-            'step': body.get('stepSkill') or random_choice_from_list(DEFAULT_SKILLS),
-            'special': body.get('specialSkill') or random_choice_from_list(DEFAULT_SKILLS),
-            'trance': body.get('tranceSkill') or random_choice_from_list(DEFAULT_SKILLS)
-        }
-    }
-    return spirit
-
-
-def decay_spirit_thoughts(spirit):
-    thought = spirit.get('thoughts', {})
-    if not isinstance(thought, dict):
-        thought = {}
-    for key, value in list(thought.items()):
-        if key == 'State':
-            continue
-        if isinstance(value, (int, float)):
-            change = -1 if value > 0 else 1
-            thought[key] = int(max(-100, min(100, value + change)))
-    thought['State'] = sum(int(v) for k, v in thought.items() if k != 'State')
-    spirit['thoughts'] = thought
-    return spirit
-
-
-def decay_loyalty(spirit):
-    if not isinstance(spirit.get('loyaltyMap'), dict):
-        spirit['loyaltyMap'] = {}
-    for target, score in list(spirit['loyaltyMap'].items()):
-        if not isinstance(score, (int, float)):
-            continue
-        drag = 1 if score > 0 else -1
-        new_score = int(max(-100, min(100, score - drag)))
-        spirit['loyaltyMap'][target] = new_score
-    return spirit
-
-
-def create_default_post(spirit):
-    return {
-        'id': int(time.time() * 1000),
-        'author': spirit.get('name', 'Spirit'),
-        'content': f"{spirit.get('name', 'A spirit')} murmurs in the weave.",
-        'timestamp': int(time.time())
-    }
 
 
 @app.route('/api/roll', methods=['POST'])

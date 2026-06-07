@@ -54,3 +54,49 @@ def test_api_spirit_simulate(tmp_path, monkeypatch):
     assert any(s['name'] == 'SimSpirit' for s in data['state']['spirits'])
     assert data['state']['spirits'][0]['loyaltyMap']['Player'] in (59, 60, 61, 62)
     assert isinstance(data['state']['posts'], list)
+
+
+def test_mechanics_class_data_loader():
+    from mechanics.data_loader import RememberenceData
+
+    data = RememberenceData.load_default()
+    assert 'Melee' in data.class_categories
+    melee = data.class_categories['Melee']
+    assert melee.control_stats == ['STR', 'FND']
+    assert any(skill.name == 'One Handed' for skill in melee.skills)
+    assert len(melee.skills) == 6
+
+
+def test_mechanics_icon_loader():
+    from mechanics.data_loader import RememberenceData
+
+    data = RememberenceData.load_default()
+    assert any(icon.name == 'Avian' for icon in data.icons.values())
+    avian = next(icon for icon in data.icons.values() if icon.name == 'Avian')
+    assert 'Biorhythms' in avian.sections
+    assert 'Combat' in avian.sections
+    assert 'Class Styles' in avian.sections
+    assert data.icon_lore.get('Heroes.txt')
+
+
+def test_mechanics_data_loader():
+    from mechanics.data_loader import RememberenceData
+
+    data = RememberenceData.load_default()
+    assert 'Rat' in data.animals
+    assert 'Aries' in data.stars
+    assert any('HP' in entry.base_stats for entry in data.types.values())
+
+
+def test_mechanics_generator_payload():
+    from mechanics.generator import generate_character_payload
+
+    payload = generate_character_payload({'level': 2})
+    assert payload['level'] == 2
+    assert payload['name']
+    assert payload['animal']
+    assert payload['star']
+    assert payload['type']
+    assert payload['species']
+    assert isinstance(payload['stats'], dict)
+    assert 'HP' in payload['stats']
