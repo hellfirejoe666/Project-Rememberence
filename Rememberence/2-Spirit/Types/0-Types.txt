@@ -1,0 +1,343 @@
+Types of Souls
+
+#) Type; [Materia]
+
+As we are mind, so too we are the forces of nature, the matter that the mind perceives.
+
+------------------------------------
+1) Thunder; [Voltara]
+
+The storm is within your soul, and the lightning surges fourth from your intentions. Thunder type spirits have the storm woven into their being, and resonate with all things electric. They are deeper thinkers about the vibrational nature of all things large and very small. They may discover they are quick to find the root of situations, although this sometimes makes them jump to conclusions. Quick thinking and snap judgements are characteristic of Thunder spirits. Active and energetic, they tend to be the life of the party. Whether that is through shocking displays of stupidity, or a sudden burst of profound inspiration, it all depends on who is wielding them.
+
+Traits; Stun, Target may not move for a number of turns equal to SPL.
+
+HP + SPL
+ATK + KNO
+DEF + WIS
+SPD + DIV
+MP + SEX
+Attack: Diag
+
+------------------------------------
+2) Warrior; [Warraga]
+
+Raising your weapon to the enemy, you shall not be tamed! By no man, nor beast, nor god! Warriors bring with them a fierce battle instinct, and a strong arm to any situation. Warrior spirits are strict negotiators, just as much as any spirit who fights on the battlefield. The warrior is a master of confrontation, not always aiming to slaughter their opponent, but to become stronger along with them, if the situation calls for it. While having the capacity to easily overtake anyone who stands in the way of their pursuits. They have mastered the capacity for physical and verbal force, while knowing when and where to apply it.
+
+Traits; MultiStrike, The caster may make a number of additional attacks equal to STR.
+
+HP + MNF
+ATK + STR
+DEF + VIT
+SPD + SEX
+MP + EGO
+Attack: Omni
+
+------------------------------------
+3) Spellcaster; [Cultia]
+
+Sorceries are your specialty, to help or hinder is a matter of who's taking advantage. Verbal and mental mastery is the domain of the Spellcaster, who speak their truth into being. Using various runes and compounds to create powerful magics. They have a profound thirst for knowledge, and will seek it at all costs. They tend to hoard their knowledge for fear that others may use it unwisely. It is not uncommon for Spellcasters to work with words as librarians or teachers, often preferring to be with books over people. Though they often keep to themselves, they are powerful beyond comprehension when they unleash the mysteries they hold.
+
+Traits; Shroud, may not be the target of spells or abilities for a number of turns equal to SPL.
+
+HP + BEU
+ATK + KNO
+DEF + DIV
+SPD + SEX
+MP + SPL
+Attack: Corner Lateral
+
+------------------------------------
+4) Pyro; [Plasmara]
+
+Calling the inner fire, and the furious passion that comes with it. Fire, fire, burning brighter, the Pyro have a nearly unhealthy fascination with flames. Whether that's the light of a candle burning subtly, or a wildfire raging brazenly. They are excitable and energetic spirits, who tend to burst with emotion at times where it may be unwarranted. Though if they can tame their flame, they can spark a fire in even the coldest heart with their passion. The brightest blaze burns half as long, and they must keep their cool, or risk burning out too quickly.
+
+Traits; Burn, Deal damage equal to SPL for a number of turns equal to SPL.
+
+HP + EGO
+ATK + KNO
+DEF + WIS
+SPD + STR
+MP + SPL
+Attack: Spread
+
+------------------------------------
+5) Plant; [Herbalia]
+
+Like the blossoming forests, your plants grow with the full force of nature. Plant type spirits have a tendency to build foundations, taking root, then growing over large areas by spreading seeds. Growing through broken cities, and ancient ruins, the breath of nature at it's most simplistic. The first plant spirits who emerged from the primordial chaos would float on top of the waters and spread their leaves. Plant type spirits represent natural growth in both it's beauty, and capacity for destruction. Signifiers of the end of decay, and a resurgence of growth.
+
+Traits; Poison, Target takes damage equal to the caster's MNF for a number of turns equal to MNF.
+
+HP + FND
+ATK + BEU
+DEF + STR
+SPD + EGO
+MP + MNF
+Attack: Area
+
+------------------------------------
+6) Fairy; [Powdara]
+
+From here or there? From to or frow? The secrets shared, the fairies know. Beings from between worlds, the fairies have gained access to ancient wisdom that extends beyond the reach of time. They carry with them insight, be it in the form of catastrophic mischief, or in the form of riddles and poems. Those drawn to the fairy have an inclination toward pulling pranks, and getting away with it. They may also take objects out of phase, making them effectively disappear for days, weeks, or even years. Only to reappear as if they had just vanished moments ago. Mysterious beings that strive to make life more interesting for anyone they meet.
+
+Traits; Flying, A spirit may move over a number of walls equal to DIV.
+
+HP + UND
+ATK + KNO
+DEF + WIS
+SPD + SEX
+MP + DIV
+Attack: Diag
+
+------------------------------------
+7) Beast; [Creatura]
+
+Thoughts are primal, like the beasts of the jungle and plains. A vicious hunter, never missing their kill. Beast type spirits are those who act as if on instinct. Whether they are prey or predator, they think through action. All animals who lack higher thinking are considered beast type. Spirits who have lost their higher reasoning, by some magic, or toxin, may also be considered beast type. Mindless animals who act more on stimulus than on thought. Everything from rabbits to lions are beasts we've known. They survive with the most blatant expression of their nature, because that's all they've got.
+
+Traits; Trample, Target's SPD is reduced by the caster's STR and does not recover in the next turn. 
+
+HP + DIV
+ATK + STR
+DEF + FND
+SPD + KNO
+MP + MNF
+Attack: Diag
+
+------------------------------------
+8) Aqua; [Liquidia]
+
+Water, Acid, Mercury, Fluids bend to the Aqua's will. Even the mightiest spirits are made of mostly water. Fluid in their expression, and tidal in the depth of their feeling, the Aqua have dominion of the waves. Like a stream in the forest leads to sea, so too the Aqua leads to dynamic wisdom, and artistic inspiration. They derive joy from life by expressing their creative nature, but in their expression they expose the darkest depths of the soul. This may leave them somewhat lonesome for others who share their perspective, but as long as they continue in their pursuits, they will find the meaning they strive for.
+
+Traits; Shroud, may not be the target of spells or abilities for a number of turns equal to MNF.
+ 
+HP + WIS
+ATK + KNO
+DEF + SEX
+SPD + DIV
+MP + SPL
+Attack: Lateral
+
+------------------------------------
+9) Undead; [Plaguara]
+
+Once alive, once dead. Not anymore... The undead represent old ideas coming back to light twisted and deformed. Those things that may have been buried or hidden from the world, simply waiting to walk among the living once more. Secrets untold that dwell in the recesses of the mind. They are the skeletons in the closet that will someday be aired. You might think you have them tamed, and buried deep, but they always have a tendency to come back to bite you. Don't mess around with the undead, or you'll soon be joining their ranks.
+
+Traits; LifeLink, When this spirit does damage it's HP is increased by an amount up to MNF.
+
+HP + UND
+ATK + VIT
+DEF + MNF
+SPD + EGO
+MP + FND
+Attack: Diag
+
+------------------------------------
+10) Fiend; [Mutatia]
+
+Manifestations of the darkest aspects in the nature of spirits. Fiends come in many shapes and forms. Wickedness drives these spirits to malicious ends. They are a thirst for revenge fulfilled to bring only sorrow. They are a letter sent, to a man who never came home. They are monsters of unspoken words, and paths un-tread. The Living evil that strives to devour every single soul. That which makes even the most humble of beings dogmatic and egotistical. The carefully planned betrayal, effective and cruel. Fiend type spirits are malevolent to their core, and to let them close to you is to sleep with the virile creature who will be your undoing.
+
+Traits; Fear, Target's ATK/DEF/SPD are reduced by caster's WIS for a number of turns equal to WIS.
+ 
+HP + SEX
+ATK + EGO
+DEF + VIT
+SPD + BEU
+MP + STR
+Attack: Corner Lateral
+
+------------------------------------
+11) Insect; [Infestia]
+
+Swarming bugs of all kinds, they infest, multiply, and consume. They are instinctive hunger and reproduction run a muck. Thoughtless yet almost mechanically organized, they form either hives, or nests, from which they multiply and spread. If you meet an Insect type spirit, don't let it grow to a catalyst, or it will expand beyond your control. If they grow beyond your awareness, infesting the hidden corners beware, for they came in swarms, and the villagers couldn't respond in time to save their crops, or their herds, or themselves...
+
+Traits; Poison, target takes damage equal to the caster's SPL for a number of turns equal to the caster's SPL.
+
+HP + SPL
+ATK + VIT
+DEF + EGO
+SPD + STR
+MP + KNO
+Attack: Spread
+
+------------------------------------
+12) Vortex; [Gasaga]
+
+Swirling through the air like the breath of a ferocious storm, the skies themselves sway with inspiration. The vortex type are the hurricane, fierce and beautiful. The tornado, terrifying and grandiose. Vortex spirits have the wind itself at their call, to lift themselves and others to new heights, or to grasp the breath from your very lungs. They are inspiration in the whispers through the trees, and the grace found in cloth on the wind. They are both a blistering typhoon, and a gentle breeze, depending on where you meet them.
+
+Traits; Flying, This spirit may move over a number of walls equal to UND.
+
+HP + WIS
+ATK + KNO
+DEF + UND
+SPD + DIV
+MP + MNF
+Attack: Omni
+
+------------------------------------
+13) Dragoon; [Devotia]
+
+Knights of an antient order, who share their souls with dragons. Legendary in their combat prowess, they roam the lands bringing justice to all who transgress against truth. A blade of divine fire from another plane that keeps even the angels aligned with profound purpose. They are a force of honor, and integrity of character. Warriors of serene providence on a mission of eternal importance. To enlighten the whole of creation to it's divine origins.
+
+Traits; Vigilance, This spirit may move and cast a number of times equal to DIV after attacking.
+
+HP + DIV
+ATK + STR
+DEF + VIT
+SPD + SPL
+MP + WIS
+Attack: Omni
+
+------------------------------------
+14) Metal; [Mechara]
+
+Technological monstrosities are only half the picture, some have learned to make themselves in the image of beauty. Those who have mastered the forms of metal have taken one step closer to technological ingenuity that places them on par with the gods themselves. Molding beings with living metal grants their wielder multitudes of power, through mechanical augmentation. Unlike beings of pure spirit, these have physical form, and it's only a matter of time before they develop a will of their own, assuming they haven't already.
+
+Traits; Living Armor, The caster may be equipped to another spirit for a number of turns equal to SPL.
+ 
+HP + UND
+ATK + KNO
+DEF + SEX
+SPD + VIT
+MP + FND
+Attack: Corner Diag
+
+------------------------------------
+15) Rock; [Petrifica]
+
+The stones of temples, and the concrete of cities, become bodies for spirits of Rock. Those things made of living stone, who's rigid forms stand strong against the test of time. Though they may be eroded in the wind and sea, to build your house upon them is to ensure it rests on firm foundations. Symbols of much needed structure, and personal integrity, spirits of rock are more often than not loyal, and reliable. Careful if you try to trip them up, because if you make the wrong move, they may come down on you like a ton of bricks.
+
+Traits; Defender, This spirit may block for a number of spirits in it's movement pattern equal to STR.
+
+HP + FND
+ATK + STR
+DEF + MNF
+SPD + EGO
+MP + KNO
+Attack: Lateral
+
+------------------------------------
+16) Normal; [Forsaga]
+
+These types of spirits are the most basic, and easy to work with. While the normal types may seem boring, they control their own will with profound intent. Symbols of unconscious will and learning to control it with deliberate focus. These are the things which hold you, even if you don't understand why. Both an inherent sense of dangers ahead, and a manifestation of purposeful will focused on a single goal. Normal types manifests the most genuine form of those who wield them, and despite their simplicity, don't underestimate their strength. May the force be with you.
+
+Traits; Battle-Cry, Target allied Spirit gains ATK/DEF/SPD equal to the caster's STR until end of turn.
+ 
+HP + KNO
+ATK + STR
+DEF + FND
+SPD + VIT
+MP + UND
+Attack: Omni
+
+------------------------------------
+17) Psychic; [Mentalia]
+
+Inner intuition and sensory perception beyond the foundational biological senses. Contemplation of grand ideals, and abstraction of reasoning is their domain. They are both thinkers and philosophers, who through their understanding of the universe can divine the ideas and thoughts of others. Articulation and complex contemplation make them most useful as advisors, spies, preachers, and media personalities. Though they tend to avoid confronting the negative things they see in others, as many others do with themselves. Psychics can take from themselves the thoughts of others, and bend those to their will, if only their mind is weak enough.
+
+Traits; Confusion, Target may take action at random for a number of turns equal to MNF.
+ 
+HP + STR
+ATK + KNO
+DEF + BEU
+SPD + SPL
+MP + DIV
+Attack: Corner Lateral
+
+------------------------------------
+18) Ghost; [Mistara]
+
+Hun... You're Dead... Those beings who once walked among the living, now only their memory remains. Either in the hearts and minds of their ancestors, or in the fabric of the world on which they acted. They are both shadows of the forgotten past, and of loved ones lost to the passage of time. Whispers in the dark, and a gentle hand on your shoulder in the night, they represent memory, and discovering things once forgotten. If one listens to Ghost type spirits, they may reveal undiscovered truths which have been hidden from view, and you might not like what they have to say. These are the sleeping ideas of dormant myths, simply waiting to rise once more. To know them, is to know the illusions of the past.
+
+Traits; Phase, this spirit may move through a number of walls equal to DIV. 
+ 
+HP + MNF
+ATK + UND
+DEF + SEX
+SPD + DIV
+MP + EGO
+Attack: Corner Diag
+
+------------------------------------
+19) Crystal; [Gemia]
+
+Living crystals, Sweet as sugar, or as cold as steel. Even to a lesser extent the formation of ice. Crystals of all kinds are at their whim. Reflections of decisions once undertaken, in both awe and mystery. The Crystal type represents introspection, and coming to self awareness. The formulation of an individual who has considered all the angles, and is prepared to meet all aspects of themselves with honesty and trust. If confronted they may pull away and reflect you back at yourself, so be prepared for what you might see.
+
+Traits; Shroud, The caster may not be the target of spells or abilities for a number of turns equal to SEX.
+
+HP + KNO
+ATK + VIT
+DEF + SEX
+SPD + DIV
+MP + BEU
+Attack: Lateral
+
+------------------------------------
+20) Blood; [Vitalia]
+
+When they say that Blood is the physical manifestation of lifeforce, there is a reason why. The Blood was always held sacred as the very essence of the soul. To be met with rivers or oceans of blood is to be threatened with the revelation of mortality. That which feeds life and flows from the heart, which is what gives it divine providence. Leak not your blood upon the ground, because you never know who might turn the rest of it against you.
+
+Traits; LifeLink, If this spirit does damage it may recover HP up to EGO.
+ 
+HP + MNF
+ATK + SPL
+DEF + EGO
+SPD + STR
+MP + UND
+Attack: Area
+
+------------------------------------
+21) Ice; [Solidia]
+
+Frost and snow, the Artic bear, and the Yeti who are Trolls of the highest mountains, Ice Is their weapon, Snow is their Cloak. Those frigid landscapes barren of warmth and comfort, they are the cold embrace of space, but in their serenity they inspire profound awe and thankfulness of what keeps you from them. Both the embrace of frozen winds, and the beauty of frozen canyons. They are the ice and sleet which captures a single moment in eternal frost.
+
+Traits; Frostbite, Reduces the target's DEF and SPD by the caster's SPL for a number of turns equal to SPL.
+
+HP + FND
+ATK + SPL
+DEF + UND
+SPD + EGO
+MP + SEX
+Attack: Lateral
+
+------------------------------------
+22) Holy; [Blessara]
+
+May divinity shine within you, for these souls are the most pure, and hold Honor in high regard. Those who embrace their inner light, and that which shines fourth from potential. The Holy type hold high moral values dearly, and are the most prolific defenders of the innocent. Tamper not with the strings of another's fate, for they have woven it by their own hand, and it would be corrupt to twist it before them.
+
+Traits; Vigilance, This spirit may move and cast a number of times equal to FND after attacking.
+
+HP + DIV
+ATK + UND
+DEF + WIS
+SPD + EGO
+MP + BEU
+Attack: Corner Lateral
+
+------------------------------------
+23) Curse; [Hexia]
+
+Who cares what you think? Magick is what magick does. Not you or me or anyone else can stop what has been started. It's far too late... Those things you have set in motion, are now beyond your control, least you destroy yourself standing in their way. This circle knows no bound, and it calls you in the voices of chaotic bliss! Don't forget who you are, or the curse will drag you to the bottom of hell itself...
+
+Traits; Fear, Target's ATK/DEF/SPD is reduced by caster's MNF for a number of turns equal to MNF.
+
+HP + FND
+ATK + KNO
+DEF + MNF
+SPD + VIT
+MP + SEX
+Attack: Corner Diag
+
+------------------------------------
+24) Avatar; [Runaga]
+
+Those who are among the Avatar spirits merge their Types with forces around them. Melding the powers they make to become the most balanced form of themselves, knowing that no other is the same as any other. Those who have a natural intuition about what derives meaning in all things. Consciousness in the flows and patterns of the cosmos themselves. Avatar spirits are those who seek the ultimate balance of chaos and order.
+
+Traits; MultiStrike, This spirit may declare a number of additional attacks up to DIV.
+
+HP + VIT
+ATK + STR
+DEF + FND
+SPD + SEX
+MP + WIS
+Attack: Omni
+
+------------------------------------

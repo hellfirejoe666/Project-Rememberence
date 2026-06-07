@@ -1,0 +1,235 @@
+"Ira"
+
+12 11 12 14
+
+5 6 4 4 6 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Cyberus]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Chimerium Mechara" Lvl 0
+Mod/Chimera/Metal [NoviceI]
++3/4/2 +KNO/SEX/VIT (+8/12/12)
+AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Steel Bloom" (1m/1m)
+(Cost: $440)
+
+Type: Metal
+
+HP  + UND
+ATK + KNO
+DEF + SEX
+SPD + VIT
+MP  + FND
+
+SEX = 8
+BEU = 6
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Critters" (1m/1m)
+(Cost: $1,220)
+
+Species: Chimera
+
+HP = 21
+ATK = 3
+DEF = 4
+SPD = 2
+MP  = 9
+
+SEX = 6
+BEU = 8
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Droids" (1m/1m)
+(Cost: $1,940)
+
+Species: Chimera
+Type: Metal
+
+HP = 21 + UND (28) g(196)
+ATK = 3 + KNO (8)  g(56)
+DEF = 4 + SEX (12) g(84)
+SPD = 2 + VIT (12) g(84)
+MP =  9 + FND (10) g(70)
+
+UND = 7
+KNO = 5
+SEX = 8
+VIT = 10
+FND = 1
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Walkers" (100k/100k)
+(Cost: $194,000)
+
+Species: Chimera
+Type: Metal
+
+HP = 210 + UND (280) g(1960)
+ATK = 30 + KNO (80)  g(560)
+DEF = 40 + SEX (120) g(840)
+SPD = 20 + VIT (120) g(840)
+MP =  90 + FND (100) g(700)
+
+UND = 70
+KNO = 50
+SEX = 80
+VIT = 100
+FND = 10
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Factory" (10k/10k)
+(Cost: $19,400,000)
+
+Species: Chimera
+Type: Metal
+
+HP = 2100 + UND (2800) g(19.6k)
+ATK = 300 + KNO (800)  g(5600)
+DEF = 400 + SEX (1200) g(8400)
+SPD = 200 + VIT (1200) g(8400)
+MP =  900 + FND (1000) g(7000)
+
+UND = 700
+KNO = 500
+SEX = 800
+VIT = 1000
+FND = 100
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Mecha Buster" (1k/1k)
+(Cost: $1,940,000,000)
+
+Species: Chimera
+Type: Metal
+
+HP = 21k + UND (28k) g(196k)
+ATK = 3k + KNO (8k)  g(56k)
+DEF = 4k + SEX (12k) g(84k)
+SPD = 2k + VIT (12k) g(84k)
+MP =  9k + FND (10k) g(70k)
+
+UND = 7k
+KNO = 5k
+SEX = 8k
+VIT = 10k
+FND = 1k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Fusion Spiral" (100/100)
+(Cost: $194,000,000,000)
+
+Species: Chimera
+Type: Metal
+
+HP = 210k + UND (280k) g(1960k)
+ATK = 30k + KNO (80k)  g(560k)
+DEF = 40k + SEX (120k) g(840k)
+SPD = 20k + VIT (120k) g(840k)
+MP =  90k + FND (100k) g(700k)
+
+UND = 70k
+KNO = 50k
+SEX = 80k
+VIT = 100k
+FND = 10k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Cyberus Mainframe" (10/10)
+(Cost: $19,400,000,000,000)
+
+Species: Chimera
+Type: Metal
+
+HP  = 2.1m + UND (2.8m) g(19.6m)
+ATK = 300k + KNO (800k) g(5.6m)
+DEF = 400k + SEX (1.2m) g(8.4m)
+SPD = 200k + VIT (1.2m) g(8.4m)
+MP  = 900k + FND (1m)   g(7m)
+
+UND = 700k
+KNO = 500k
+SEX = 800k
+VIT = 1m
+FND = 100k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: AmalgamateVIT, LivingArmorVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

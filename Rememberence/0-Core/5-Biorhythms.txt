@@ -1,0 +1,211 @@
+"Biorhythms"
+
+Every facet of your Spirit has rhythms and flows. Swaying their ability to communicate, gain favor, or influence desires. Among other things. This is a quick run-down. ~_^
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bio-States/Interactions:
+
+	Loyalty and State values fluctuate based on the differences between the interacting entities' biorhythms, influencing their relationship dynamics.
+
+Each interaction treats biorhythms as ATK for the initiator and DEF for the responder, with Loyalty functioning like HP, adjusting based on the interaction's outcome.
+
+Alternatively, comparing an entity's biorhythms internally provides insights into their personality without affecting loyalty, enhancing understanding of the entity's nature.
+
+These interactions can be randomized using dice to simulate unpredictability or for interactions with NPCs, affecting loyalty and potentially reshaping socio-political landscapes.
+
+An entity's biorhythms are initially set by their origin's time and place, evolving through mating habits and zodiac alignments, calculated randomly during exploration.
+
+In interactions, a higher biorhythm value is considered dominant, setting the tone, while the lower value acts recessively, modifying the interaction's effect.
+
+Entities can choose which biorhythm to use in interactions, or this can be randomized with a d12 for dynamic and introspective exchanges, reflecting the complexity of real-life conversations.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1) MNF (Manifestation):
+
+	Dominant: Entities with high MNF are the catalysts of change, often taking the lead in initiating actions or decisions. They set the pace in interactions, making them natural leaders or pioneers. Their dominant MNF would dictate the direction of social encounters, influencing others to follow or engage.
+
+	Recessive: Low MNF entities are more responsive, preferring to follow established paths or wait for cues from others. They excel in roles that require adaptability or support. Their approach is shaped by the dominant entity's initiative, often benefiting from clear leadership or guidance, making them effective in collaborative or follower roles.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2) SPL (Splendor):
+
+	Dominant: Entities with high SPL naturally draw attention, whether through their appearance, actions, or charisma. They command presence in social settings, often becoming focal points of interest or admiration. In interactions, their dominant SPL might lead them to initiate conversations or actions that captivate others, setting the tone for awe or fascination.
+
+	Recessive: Low SPL entities prefer to remain in the background, often unnoticed unless they choose otherwise. They might blend into environments or social gatherings, excelling in roles that require subtlety or anonymity. In social dynamics, their recessive SPL means they might adapt to or support the more splendid entities, benefiting from observing or subtly influencing from the sidelines.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3) BEU (Beauty):
+
+	Dominant: High BEU entities radiate an inner beauty that manifests as courage, kindness, or moral integrity. Their presence in interactions often fosters a nurturing environment, encouraging support and empathy. Their dominant BEU sets a standard of behavior, inspiring others towards altruism or ethical conduct.
+
+	Recessive: Entities with low BEU might exhibit a pragmatic or detached demeanor, less moved by others' plights. Their interactions could be seen as efficient but lacking warmth, focusing on personal gain or necessity rather than altruism. Their recessive BEU might lead to interactions where personal benefit or survival takes precedence over communal or moral considerations.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4) STR (Strength):
+
+	Dominant: Entities with high STR are characterized by their unyielding will, often standing resolute in the face of adversity. They inspire through their tenacity, making them natural leaders or protectors. Their dominant STR in interactions might mean they're the first to confront challenges, setting a tone of resilience or defiance.
+
+	Recessive: Low STR entities tend towards caution or submission, often aligning themselves with stronger entities for security or guidance. Their interactions are marked by a preference for stability or avoiding conflict, where they might defer to others' decisions or actions, seeking safety in numbers or under stronger leadership.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5) FND (Foundation):
+
+	Dominant: Entities with high FND are the bedrock of stability, holding firm to their principles even at great personal cost. They serve as moral or ideological pillars, often leading by example through their unwavering commitment. In interactions, their dominant FND sets a tone of integrity or rigidity, potentially rallying or polarizing others around their cause.
+
+	Recessive: Low FND entities are characterized by their adaptability, frequently adjusting their stance to fit current circumstances or advantages. They might be viewed as versatile or fickle, ready to shift allegiances or beliefs for immediate gain. Their interactions reflect a pragmatic approach, where flexibility in principles allows them to navigate or exploit changing environments effectively.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6) KNO (Knowledge):
+
+	Dominant: Entities with high KNO are relentless in their quest for truth, often embodying the archetype of the scholar or sage. Their life's pursuit is knowledge itself, influencing others through their wisdom or by fostering environments of learning. In interactions, their dominant KNO sets a tone of intellectual engagement, where sharing or seeking knowledge becomes the core of social exchanges.
+
+	Recessive: Low KNO entities embrace simplicity or ignorance, often prioritizing experiential learning or immediate gratification over deep understanding. They might be perceived as carefree or less concerned with the 'why' behind things. In social dynamics, their recessive KNO means interactions are more about living in the moment or practical application rather than theoretical exploration.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+7) UND (Understanding):
+
+	Dominant: Entities with high UND excel in empathy and problem-solving, quickly grasping others' perspectives and emotions. They naturally navigate social landscapes with a nuanced understanding, often acting as peacemakers or advisors. Their dominant UND in interactions creates an environment of mutual respect and insight, where they facilitate understanding and resolution.
+
+	Recessive: Low UND entities operate with a focus on self, often disregarding or being unaware of others' emotional states. Their interactions might be straightforward or even blunt, prioritizing personal goals or immediate needs over emotional considerations. In social settings, their recessive UND leads to interactions that might seem pragmatic or detached, less concerned with empathy or emotional nuance.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+8) WIS (Wisdom):
+
+	Dominant: Entities with high WIS possess a seasoned perspective, contemplating situations with a depth born from extensive experience. They are often seen as advisors or thinkers, advocating for patience and reflection before action. In social interactions, their dominant WIS fosters an environment of thoughtful decision-making, where they might guide or influence through their sage advice.
+
+	Recessive: Low WIS entities are marked by their immediacy and impulsiveness, often diving into situations with little forethought. Their approach to life is experiential, learning through action rather than contemplation. In social settings, their recessive WIS leads to interactions that are spontaneous or even reckless, where they might act first and reflect later, if at all.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+9) VIT (Virtue):
+
+	Dominant: Entities with high VIT are the embodiment of honor, staunchly committed to their word and moral principles. They are often seen as paragons of virtue, willing to endure personal hardship to maintain their integrity. In social interactions, their dominant VIT establishes a culture of trust and moral steadfastness, where their actions reflect their unwavering convictions.
+
+	Recessive: Low VIT entities might lean towards pragmatism or self-interest, where bending the truth or ethical lines becomes permissible for personal gain. Their approach to life might be seen as expedient or morally ambiguous, focusing on outcomes rather than the means. In social settings, their recessive VIT leads to interactions that could be perceived as opportunistic or lacking in moral depth, prioritizing personal benefit over ethical considerations.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+10) SEX (Sexuality):
+
+	Dominant: Entities with high SEX are characterized by their sensuality, often employing flirtation or sexual energy as a natural part of their social interactions. They might navigate the world with a confident allure, where sexuality is a tool for connection or influence. In social contexts, their dominant SEX creates an atmosphere where sexual expression is more open, potentially influencing others towards similar behaviors or attitudes.
+
+	Recessive: Low SEX entities prefer a more subdued or private expression of sexuality. They might seek intimacy in more exclusive or deep-seated connections, avoiding overt sexual displays. In social settings, their recessive SEX leads to interactions that prioritize emotional depth or platonic bonds, where sexuality plays a less prominent role in their social engagements.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11) DIV (Divinity):
+
+	Dominant: Entities with high DIV are profoundly attuned to their spiritual essence, often engaging with life from a perspective of higher consciousness or divine purpose. Their actions and thoughts are infused with a quest for deeper spiritual meaning or connection. In social settings, their dominant DIV might foster environments where metaphysical discussions or spiritual practices are central, influencing others towards introspection or spiritual exploration.
+
+	Recessive: Low DIV entities anchor themselves in the physical and observable, often skeptical or indifferent towards the divine or spiritual realms. They might see spiritual pursuits as distractions from real-world concerns, focusing instead on material success or empirical knowledge. In interactions, their recessive DIV leads to a pragmatic approach, where discussions and actions are grounded in practicality, potentially viewing spiritual matters as irrelevant or fanciful.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+12) EGO (Ego):
+
+	Dominant: Entities with high EGO are marked by a pronounced self-focus, often viewing themselves as central or superior in their interactions. Their decisions and actions frequently revolve around self-advancement or self-preservation, potentially leading to behaviors perceived as egotistical or self-absorbed. In social contexts, their dominant EGO might shape interactions where they seek to be the focal point, influencing others through their confidence or perceived importance.
+
+	Recessive: Low EGO entities prioritize others' needs or blend into the background, often at the expense of their own well-being. They might downplay their achievements, avoid conflict at personal cost, or sacrifice their own desires for harmony or to meet others' expectations. In social dynamics, their recessive EGO leads to interactions where they might be overlooked or undervalued, as they habitually put others first, sometimes to their own detriment.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thoughts:
+
+Each entity has six thought parameters, each calculated as the difference between two biorhythms where the first is negative and the second is positive:
+
+------------------------------------
+1) Environment (EGO - FND): 
+
+	EGO (Negative): Higher EGO makes the entity more self-focused, potentially less adaptive to its environment.
+
+	FND (Positive): Higher FND makes the entity more aware and adaptive to its surroundings.
+
+------------------------------------
+
+2) Emotion (DIV - BEU):
+
+	DIV (Negative): Higher DIV leads to less control over emotions, potentially more volatile interactions.
+
+	BEU (Positive): Higher BEU means better emotional control, leading to more stable interactions.
+
+------------------------------------
+
+3) Subconscious (UND - SPL):
+
+	UND (Negative): Higher UND indicates resistance to external influence, more individualistic.
+
+	SPL (Positive): Higher SPL suggests openness to group dynamics or external influence.
+
+------------------------------------
+4) Conscious (SEX - MNF):
+
+	SEX (Negative): Higher SEX might mean less action, more passive engagement.
+
+	MNF (Positive): Higher MNF implies more proactive engagement in actions or interactions.
+
+------------------------------------
+5) Abstraction (WIS - KNO):
+
+	WIS (Negative): Higher WIS leans towards experiential wisdom, potentially less reliance on formal knowledge.
+
+	KNO (Positive): Higher KNO indicates reliance on formal knowledge or education.
+
+------------------------------------
+6) Perception (STR - VIT):
+
+	STR (Negative): Higher STR views things more as utilities or tools.
+
+	VIT (Positive): Higher VIT interprets things within a narrative or story context.
+
+------------------------------------
+
+The sum of these parameters, where negative values from the first biorhythm are subtracted from the positive values of the second, determines an entity's state. A higher sum indicates a more positive or stable state, while a lower sum suggests negativity or instability.
+
+Each interaction can adjust these thought parameters. For example, an interaction emphasizing EGO might decrease the Environment parameter (since EGO is negative), making the entity more self-centered in future interactions.
+
+Interactions generate "Thought counters" that temporarily adjust these parameters, with negative counters reducing the positive effects and vice versa.
+
+An entity's state, influenced by these parameters, directly affects interaction outcomes. A positive state enhances performance, while a negative state might hinder it.
+
+Interactions adjust loyalty and thought parameters, influencing future interactions. This dynamic ensures entities adapt based on their internal state, leading to evolving social dynamics.
+
+This system ensures relationships, alliances, and conflicts evolve based on entities' internal states, creating a living, adaptive social environment where each interaction shapes the broader social landscape.
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Interaction Framework:
+
+1) Declaration of Interaction:
+Player Initiates: The player decides to interact with an entity (NPC, environment, or another player).
+Mode Selection: Choose the type of interaction (e.g., social, combat, environmental).
+
+2) Biorhythm Selection:
+Primary Biorhythm: Player selects or d12 assigns the primary biorhythm based on the interaction type.
+Secondary Biorhythm: Player or d12 selects a secondary biorhythm to modify the interaction.
+
+3) State Check:
+Current State: Assess the entity's current state (mood, energy level) which might influence the interaction's outcome or the choice of biorhythms.
+
+4) Thought Parameters Adjustment:
+Pre-Interaction: Review or adjust thought parameters based on recent interactions or time of day, reflecting current mental or emotional predispositions.
+
+5) Outcome Calculation:
+Biorhythm Comparison: Compare the initiator's biorhythms with the responder's. Higher value is dominant, setting the tone.
+Randomization: Use dice rolls or algorithms for unpredictability in NPC or environmental responses.
+
+6) Immediate Feedback:
+Outcome Display: Show the immediate result of the interaction (success, neutral, failure).
+Loyalty Adjustment: Loyalty points adjust based on the outcome, reflecting changes in relationship dynamics.
+
+7) Thought Parameters Update:
+Post-Interaction: Update thought parameters based on the interaction's nature and outcome. This might involve increasing/decreasing parameters like Environment, Emotion, etc.
+
+8) State Influence:
+State Shift: The interaction might shift the entity's state, affecting future interactions (e.g., from calm to agitated).
+
+9) Dynamic Social Impact:
+Faction or Social Dynamics: Reflect the interaction's impact on broader social or faction standings if applicable.
+
+10) Reflection and Learning:
+Player Reflection: Provide a moment for the player to reflect on the interaction's outcome, with a summary of changes in loyalty, state, and thoughts.
+
+11) End of Interaction:
+Closure: Conclude the interaction, setting the stage for the next action or interaction.
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

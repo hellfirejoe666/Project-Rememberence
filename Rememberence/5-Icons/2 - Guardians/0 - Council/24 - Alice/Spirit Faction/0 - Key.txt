@@ -1,0 +1,235 @@
+"Alice"
+
+3 7 24 22
+
+3 1 5 3 2 4
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Watcher]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Bastite Blessara" Lvl 0
+Mod/Bastet/Holy [NoviceI]
++4/2/3 +UND/WIS/EGO (+8/8/9)
+GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Bind Flower" (1m/1m)
+(Cost: $420)
+
+Type: Holy
+
+HP  + DIV
+ATK + UND
+DEF + WIS
+SPD + EGO
+MP  + BEU
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Meat" (1m/1m)
+(Cost: $1,200)
+
+Species: Bastet
+
+HP = 24
+ATK = 4
+DEF = 2
+SPD = 3
+MP  = 6
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Guides" (1m/1m)
+(Cost: $1,960)
+
+Species: Bastet
+Type: Holy
+
+HP = 24 + DIV (34) g(238)
+ATK = 4 + UND (8)  g(56)
+DEF = 2 + WIS (8)  g(56)
+SPD = 3 + EGO (9)  g(63)
+MP =  6 + BEU (13) g(91)
+
+DIV = 10
+UND = 4
+WIS = 6
+EGO = 6
+BEU = 7
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Kharon" (100k/100k)
+(Cost: $196,000)
+
+Species: Bastet
+Type: Holy
+
+HP = 240 + DIV (340) g(2380)
+ATK = 40 + UND (80)  g(560)
+DEF = 20 + WIS (80)  g(560)
+SPD = 30 + EGO (90)  g(630)
+MP =  60 + BEU (130) g(910)
+
+DIV = 100
+UND = 40
+WIS = 60
+EGO = 60
+BEU = 70
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Cairn" (10k/10k)
+(Cost: $19,600,000)
+
+Species: Bastet
+Type: Holy
+
+HP = 2400 + DIV (3400) g(23.8k)
+ATK = 400 + UND (800)  g(5600)
+DEF = 200 + WIS (800)  g(5600)
+SPD = 300 + EGO (900)  g(6300)
+MP =  600 + BEU (1300) g(9100)
+
+DIV = 1000
+UND = 400
+WIS = 600
+EGO = 600
+BEU = 700
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Passage" (1k/1k)
+(Cost: $1,960,000,000)
+
+Species: Bastet
+Type: Holy
+
+HP = 24k + DIV (34k) g(238k)
+ATK = 4k + UND (8k)  g(56k)
+DEF = 2k + WIS (8k)  g(56k)
+SPD = 3k + EGO (9k)  g(63k)
+MP =  6k + BEU (13k) g(91k)
+
+DIV = 10k
+UND = 4k
+WIS = 6k
+EGO = 6k
+BEU = 7k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Soul Well" (100/100)
+(Cost: $196,000,000,000)
+
+Species: Bastet
+Type: Holy
+
+HP = 240k + DIV (340k) g(2380k)
+ATK = 40k + UND (80k)  g(560k)
+DEF = 20k + WIS (80k)  g(560k)
+SPD = 30k + EGO (90k)  g(630k)
+MP =  60k + BEU (130k) g(910k)
+
+DIV = 100k
+UND = 40k
+WIS = 60k
+EGO = 60k
+BEU = 70k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Watcher's Bastion" (10/10)
+(Cost: $19,600,000,000,000)
+
+Species: Bastet
+Type: Holy
+
+HP  = 2.4m + DIV (3.4m) g(23.8m)
+ATK = 400k + UND (800k) g(5.6m)
+DEF = 200k + WIS (800k) g(5.6m)
+SPD = 300k + EGO (900k) g(6.3m)
+MP  = 600k + BEU (1.3m) g(9.1m)
+
+DIV = 1m
+UND = 400k
+WIS = 600k
+EGO = 600k
+BEU = 700k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: GuideDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

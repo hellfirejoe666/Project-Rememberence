@@ -1,0 +1,235 @@
+"Aiya"
+
+6 8 33 10
+
+2 4 4 3 4 5
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Hollows]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Impium Mutatia" Lvl 0
+Mod/Imp/Fiend [NoviceI]
++4/1/4 +EGO/VIT/BEU (+6/6/13)
+AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Infusion" (1m/1m)
+(Cost: $380)
+
+Type: Fiend
+
+HP  + SEX
+ATK + EGO
+DEF + VIT
+SPD + BEU
+MP  + STR
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Scavanger" (1m/1m)
+(Cost: $1,160)
+
+Species: Imp
+
+HP = 22
+ATK = 4
+DEF = 1
+SPD = 4
+MP  = 8
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Corner Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Experiment" (1m/1m)
+(Cost: $1,760)
+
+Species: Imp
+Type: Fiend
+
+HP = 22 + SEX (27) g(189)
+ATK = 4 + EGO (6)  g(42)
+DEF = 1 + VIT (6)  g(42)
+SPD = 4 + BEU (13) g(91)
+MP =  8 + STR (13) g(91)
+
+SEX = 5
+EGO = 2
+VIT = 5
+BEU = 9
+STR = 5
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Tank Cycle" (100k/100k)
+(Cost: $176,000)
+
+Species: Imp
+Type: Fiend
+
+HP = 220 + SEX (270) g(1890)
+ATK = 40 + EGO (60)  g(420)
+DEF = 10 + VIT (60)  g(420)
+SPD = 40 + BEU (130) g(910)
+MP =  80 + STR (130) g(910)
+
+SEX = 50
+EGO = 20
+VIT = 50
+BEU = 90
+STR = 50
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Splitter" (10k/10k)
+(Cost: $17,600,000)
+
+Species: Imp
+Type: Fiend
+
+HP = 2200 + SEX (2700) g(18.9k)
+ATK = 400 + EGO (600)  g(4200)
+DEF = 100 + VIT (600)  g(4200)
+SPD = 400 + BEU (1300) g(9100)
+MP =  800 + STR (1300) g(9100)
+
+SEX = 500
+EGO = 200
+VIT = 500
+BEU = 900
+STR = 500
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Magnus" (1k/1k)
+(Cost: $1,760,000,000)
+
+Species: Imp
+Type: Fiend
+
+HP = 22k + SEX (27k) g(189k)
+ATK = 4k + EGO (6k)  g(42k)
+DEF = 1k + VIT (6k)  g(42k)
+SPD = 4k + BEU (13k) g(91k)
+MP =  8k + STR (13k) g(91k)
+
+SEX = 5k
+EGO = 2k
+VIT = 5k
+BEU = 9k
+STR = 5k
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Psycho Spiral" (100/100)
+(Cost: $176,000,000,000)
+
+Species: Imp
+Type: Fiend
+
+HP = 220k + SEX (270k) g(1890k)
+ATK = 40k + EGO (60k)  g(420k)
+DEF = 10k + VIT (60k)  g(420k)
+SPD = 40k + BEU (130k) g(910k)
+MP =  80k + STR (130k) g(910k)
+
+SEX = 50k
+EGO = 20k
+VIT = 50k
+BEU = 90k
+STR = 50k
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Hollow Scar" (10/10)
+(Cost: $17,600,000,000,000)
+
+Species: Imp
+Type: Fiend
+
+HP  = 2.2m + SEX (270k) g(18.9m)
+ATK = 400k + EGO (60k)  g(4.2m)
+DEF = 100k + VIT (60k)  g(4.2m)
+SPD = 400k + BEU (130k) g(9.1m)
+MP =  800k + STR (130k) g(9.1m)
+
+SEX = 500k
+EGO = 200k
+VIT = 500k
+BEU = 900k
+STR = 500k
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: AbsolutionBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

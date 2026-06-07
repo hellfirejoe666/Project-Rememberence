@@ -1,0 +1,235 @@
+"Zohr"
+
+6 8 5 1
+
+5 5 2 3 2 2
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Tazeon]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Reptillium Voltara" Lvl 0
+Mod/Reptoid/Thunder [NoviceI]
++4/2/3 +KNO/WIS/DIV (+10/6/11)
+ImitateDIV, StunDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Charge Leaf" (1m/1m)
+(Cost: $400)
+
+Type: Thunder
+
+HP  + SPL
+ATK + KNO
+DEF + WIS
+SPD + DIV
+MP  + SEX
+
+SEX = 6
+BEU = 4
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Salamander" (1m/1m)
+(Cost: $1,180)
+
+Species: Reptoid
+
+HP = 20
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 10
+
+SEX = 4
+BEU = 6
+
+Product 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Mechanic" (1m/1m)
+(Cost: $1,940)
+
+Species: Reptoid
+Type: Thunder
+
+HP = 20 + SPL (28) g(196)
+ATK = 4 + KNO (10) g(70)
+DEF = 2 + WIS (6)  g(42)
+SPD = 3 + DIV (11) g(77)
+MP = 10 + SEX (15) g(105)
+
+SPL = 8
+KNO = 6
+WIS = 4
+DIV = 8
+SEX = 5
+
+Move: Lateral
+Attack: Diag
+
+Traits: ImitateDIV, StunSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Muscle" (100k/100k)
+(Cost: $194,000)
+
+Species: Reptoid
+Type: Thunder
+
+HP = 200 + SPL (280) g(1960)
+ATK = 40 + KNO (100) g(700)
+DEF = 20 + WIS (60)  g(420)
+SPD = 30 + DIV (110) g(770)
+MP = 100 + SEX (150) g(1050)
+
+SPL = 80
+KNO = 60
+WIS = 40
+DIV = 80
+SEX = 50
+
+Move: Lateral
+Attack: Diag
+
+Traits: ImitateDIV, StunSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Metropolis" (10k/10k)
+(Cost: $19,400,000)
+
+Species: Reptoid
+Type: Thunder
+
+HP = 2000 + SPL (2800) g(19.6k)
+ATK = 400 + KNO (1000) g(7000)
+DEF = 200 + WIS (600)  g(4200)
+SPD = 300 + DIV (1100) g(7700)
+MP = 1000 + SEX (1500) g(10.5k)
+
+SPL = 800
+KNO = 600
+WIS = 400
+DIV = 800
+SEX = 500
+
+Move: Lateral
+Attack: Diag
+
+Traits: ImitateDIV, StunSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Predator" (1k/1k)
+(Cost: $1,940,000,000)
+
+Species: Reptoid
+Type: Thunder
+
+HP = 20k + SPL (28k) g(196k)
+ATK = 4k + KNO (10k) g(70k)
+DEF = 2k + WIS (6k)  g(42k)
+SPD = 3k + DIV (11k) g(77k)
+MP = 10k + SEX (15k) g(105k)
+
+SPL = 8k
+KNO = 6k
+WIS = 4k
+DIV = 8k
+SEX = 5k
+
+Move: Lateral
+Attack: Diag
+
+Traits: ImitateDIV, StunSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Raptor" (100/100)
+(Cost: $194,000,000,000)
+
+Species: Reptoid
+Type: Thunder
+
+HP = 200k + SPL (280k) g(1960k)
+ATK = 40k + KNO (100k) g(700k)
+DEF = 20k + WIS (60k)  g(420k)
+SPD = 30k + DIV (110k) g(770k)
+MP = 100k + SEX (150k) g(1050k)
+
+SPL = 80k
+KNO = 60k
+WIS = 40k
+DIV = 80k
+SEX = 50k
+
+Move: Lateral
+Attack: Diag
+
+Traits: ImitateDIV, StunSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Tazeon Storm" (10/10)
+(Cost: $19,400,000,000,000)
+
+Species: Reptoid
+Type: Thunder
+
+HP  = 2m   + SPL (2.8m) g(19.6m)
+ATK = 400k + KNO (1m)   g(7m)
+DEF = 200k + WIS (600k) g(4.2m)
+SPD = 300k + DIV (1.1m) g(7.7m)
+MP  = 1m   + SEX (1.5m) g(10.5m)
+
+SPL = 800k
+KNO = 600k
+WIS = 400k
+DIV = 800k
+SEX = 500k
+
+Move: Lateral
+Attack: Diag
+
+Traits: ImitateDIV, StunSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

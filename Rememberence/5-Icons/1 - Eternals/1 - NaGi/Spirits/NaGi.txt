@@ -1,0 +1,210 @@
+(NaGi): Level = 0 {100b}
+[Eternal Stone]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Geneshan
+Element; Earth
+(Ox)
+Ability; Revitalize, HP recovers each turn equal to MNF.
+
+-----------------------------------------
+
+Type; Rock
+Color; Green
+(Capricorn)
+Attributes; Defender, This spirit may block for a number of spirits in it's movement pattern equal to STR.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 18 + FND (20) g(128){13,107,200,000,000}
+ATK = 2 + STR (5)  g(17) {1,740,800,000,000}
+DEF = 5 + MNF (9)  g(39) {3,993,600,000,000}
+SPD = 2 + EGO (8)  g(20) {2,048,000,000,000}
+MP = 12 + KNO (18) g(90) {9,216,000,000,000}
+
+Move: Lateral
+Attack: Lateral
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 4 {+ 20b}
+SPL = 6
+BEU = 3
+STR = 3 {+ 20b}
+FND = 2 {+ 20b}
+KNO = 6 {+ 20b}
+UND = 6
+WIS = 10
+VIT = 7
+SEX = 9
+DIV = 10
+EGO = 6 {+ 20b}
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = -4
+Emo = -7
+Sub = 0
+Con = -6
+Abs = -4
+Per = 4
+State/ -17
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/Fists, "Rock Buster"
+Ranged/Shot, "Face Crusher"
+Magic/Earth, "Deep Quake"
+Step/Acrobat, "Rolling Stones"
+Special/Green, "Land Slide"
+Trance/Armor, "Diamond Flesh"
+
+-----------------------------------------
+"Rock Buster" Lvl 1 {100b}
+Fists/Geneshan [DeityII]
++2/5/2, BreakerSTR, RevitalizeSTR
+
+-----------------------------------------
+"Face Crusher" Lvl 1 {100b}
+Shot/Geneshan [DeityII]
++2/5/2, ShockwaveSTR, RevitalizeSTR
+
+-----------------------------------------
+"Deep Quake" Lvl 1 {100b}
+Earth/Rock [DeityII]
++STR/MNF/EGO (+3/4/6)
+QuakeSTR, DefenderSTR, StunSTR
+
+-----------------------------------------
+"Rolling Stones" Lvl 1 {100b}
+Acrobat/Geneshan/Rock [DeityII]
++2/5/2 +STR/MNF/EGO (+5/9/8)
+Free RunSTR, RevitalizeSTR, DefenderSTR
+
+-----------------------------------------
+"Land Slide" Lvl 1 {100b}
+Green/Rock [DeityII]
++STR/MNF/EGO (+3/4/6)
+GrowthSTR, DefenderSTR, StunSTR
+
+-----------------------------------------
+"Diamond Flesh" Lvl 1 {100b}
+Armor/Geneshan/Rock [DeityII]
++2/5/2 +STR/MNF/EGO (+5/9/8)
+ProtectSTR, RevitalizeSTR, DefenderSTR
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Head/Geneshan
+Body/Geneshan
+Hands/Geneshan
+Legs/Geneshan
+Feet/Geneshan
+Other/Geneshan
+Total; 108/12/30/12/72
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	Na  (Target Area)
+	Gi  (Element Earth)
+	Ta  (Stun)
+	Vel (BioSTR)
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------

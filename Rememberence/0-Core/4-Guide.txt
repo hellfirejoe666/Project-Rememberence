@@ -1,0 +1,659 @@
+"Guide"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The turn flow is not that different from Magic or Yu-Gi-Oh. Anyone familiar with those games should catch on pretty quick ^_^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Primary turn order:
+
+Upkeep; In this case only your SPD is restored back to maximum. 
+
+Main phase 1; You can recharge your MP by sacrificing SPD at a 1-1 ratio, move around the board, use an ability, declare an attack etc. 
+
+Combat Phase; If you declare an attack during your Main Phase 1 you enter this step. You choose a target within your Attack pattern, and if you are attacking from within their pattern your ATK is compared to their DEF, and vice versa. Points exceeding DEF deal damage to HP. If you are attacking from outside the target's pattern, or from outside the target's range, your ATK is compared to their SPD, If ATK exceeds SPD, the target takes damage. 
+
+Main Phase 2; This is more or less a clean up step for end turn actions such as resting to exchange remaining SPD to MP, using last minute abilities, absorbing essences etc. 
+
+End Step; End your turn.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Combat Actions:
+
+Charge; You may preform this action during any Main Phase. Restore your MP by an amount of SPD.
+
+Attack; This action initiates the combat step. If you are attacking from within the target's Attack pattern, your ATK/DEF is compared to theirs. If the attacker's ATK exceeds the defender's DEF the difference is subtracted from the defender's HP.
+
+Guard; This action may be preformed when an attack has been declared on an entity, Block an attack. If the defender's ATK exceeds the attacker's DEF the difference is subtracted from the attacker's HP. 
+
+Dodge; This action may be preformed rather than the Guard action, Dodge an attack. If the attacker's ATK exceeds the evader's SPD the difference is subtracted from the evader's HP. If the evader's SPD exceeds attacker's ATK the evader may move a number of spaces within their movement pattern.
+
+Shield; This action may be preformed whenever an entity would receive damage. Convert an ammount of HP damage into MP damage. If MP reaches 0 the remaining damage is doubled.
+
+Deflect; This action is preformed by dodging after blocking, or blocking after dodging, during the same combat step. Combine DEF and SPD during damage calculation. Both Dodge and Block rules apply during this action.
+
+Burst; This action is preformed when declaring an attack. Use an amount of SPD to increase ATK during the combat step.
+
+Knockback; Any attack that deals damage may inflict knockback based on the amount of damage dealt. Move the target of the attack a number of spaces within the attacker's attack pattern up to the amount of damage dealt or until they hit an object where fall damage is applied. Knockback may be negated with SPD.
+
+Cast; This action is preformed any time you use Abilities, Magics, or Powers.
+
+Counter; When rolling bones during a combat check, if the Defender has a critical success they may Attack or Cast to end the Attacker's combat step.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Non-Combat:
+
+Search; Look around the area, and make discoveries using the dice table.
+
+Examine; Take a closer look at something you've discovered.
+
+Talk; Interact with other Icons or Spirits. The course of conversation, and the basic interactions are determined by each actor’s Bio-data and Loyalty.
+
+Battle; Enter/cancel Battle mode, most Spirits will not become hostile until attacked, you can not exit if Spirits on the board are hostile.
+
+Training; An entity may gain exp with a skill by using weapons or abilities of that skill.
+
+Trade; Preform transactions, exchanging abilities and goods for Monetary essence (Mono). Not all Spirits will trade with you, until you gain their Trust. 
+(minimum Loyalty + 20)
+
+Build; Use the forge, move units, construct cities, etc.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Counters:
+
+Any ability that applies an effect over time gives the subject a number of counters for that effect. For example, being poisoned for 20 gives you 20 poison counters. At the beginning of each turn the effect is applied, and at the end of each turn, a counter is removed. As the number of counters is decreased, the effect weakens. In the poison example it would do 20 damage in the first turn, 19 in the next turn, and so on as the counters are depleted. Applying the effect again from the same source resets the counters, while inflicting the same effect from a different source would have it's own counters.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Critical Hit/Fail:
+
+When throwing bones, an entity may preform a critical hit when rolling the highest possible value, and a critical fail when rolling the lowest possible value. Which ever stats are being used in the check are doubled for critical hits, and halved for critical failures. If an entity's ATK is 5 and they make a critical hit, their ATK may be cinsidered 10 when calculating the total. for example, when rolling 20 with a d20 instead of their ATK being calculated as 5, resulting in 25, their ATK would be considered 10, resulting in 30. A critical failure instead would result in an ATK of 5 becoming 2.5, and the result being 3.5 with a roll of 1 on a d20. This also applies to interaction, perception, and emotion checks, if the entities are throwing bones for the check. After determining critical hit/fail all other calculations are done normally.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Primary Leveling System:
+
+You may convert Mono, Monetary essence, into levels. Each level corresponds to factors of 1000 times the level to which you are advancing, up to level 20 when it is multiplied by 2000, 30 and above at 3000, 40 and above at 4000, and so on. Each level grants you one Stat point(Sp). Sp can be added to any of your Non-combat stats, your Biorhythms, MNF, SPL, BEU, STR, FND, KNO, UND, WIS, VIT, SEX, DIV, and EGO.
+
+The formula for leveling quickly goes as follows: (Lvl)*100*(Lvl)*(Progress)
+Exe: 100*100*100*75 = (Lvl/25 to Lvl/100) which comes out to $75,000,000.
+
+There is no level cap, so your stats can continue to increase endlessly, However the higher the level the more it costs in Mono. Level 1 might be 1,000 but level 50 is 250,000 which becomes considerably more difficult to get, imagine Level 1000 at 100,000,000 Mono O.o
+
+Fast progress costs considerably more, but makes advancing quickly much easier.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tier System:
+
+As you level up, the world around you grows, and you make progress up tiers that go through the following six stages, by factors of 10 levels.
+
+Novice   - (Lvl 1)
+Beginner - (Lvl 10)
+Mediate  - (lvl 100)
+Advanced - (Lvl 1k)
+Master   - (Lvl 10k)
+Deity    - (Lvl 100k)
+
+Once you reach the end of a tier, you progress to the next tier. Your Spirit, weapons, abilities, and skills all go through this process individually while leveling. As you reach higher levels, and tiers, the world around you increases in difficulty by multiplying base stats by tier/level. Inversely, a high tier character may tier/level restrict themselves to match lower tier situations. This modulates the game on base 10 in such a way that low level spirits and high level spirits can cross compete and cooperate.
+
+There are hypothetically unlimited tiers, even though the main game takes place in the first two. This was due to conceptual difficulty at first, but by reflecting the first tier, all the way up the chain, we can bring the impossible to imagine into perspective. There are worlds within worlds. As above, so below. As within, so without. In this way we can generate things at any tier of the game, and compete at any level, effectively and easily. By using this with a key, you can access near infinite iterations of that combination, at each and every tier of the game. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Temporal Event Module:
+
+Daily Structure:
+Upkeep (Morning): Entities plan their day and set basic actions.
+End Phase (Night): Entities conclude their activities and rest.
+
+Time Units:
+Minutes/Hours: Sub-actions like combat, trade, or conversation are measured in minutes or hours:
+5*12 minutes per hour: Allows for detailed action timing.
+2*12 hours per day: Divided into morning and night.
+
+Calendar and Cycles:
+Days: 2.5*12 days per month, creating varied event frequencies.
+Months: 12 months, each corresponding to a Star Sign.
+Years: 12 years per Cycle, each corresponding to an Animal Sign.
+
+Zodiac and Spirit Alignment Effects:
+
+Animal Signs (Years):
+Influence overarching themes or global events. For example, the Year of the Dragon might see an increase in quests or events related to power or conflict.
+
+Star Signs (Months):
+Determine more specific events or conditions, either enhancing or conflicting with the year's theme. These alignments may impact gameplay in various ways.
+
+Entity and Environment Alignment:
+Entities or environments aligned with the current signs receive bonuses:
+Species (Material): Benefits from the Animal Sign.
+Type (Materia): Influenced by the Star Sign.
+
+Dynamic Events:
+Strong alignments can result in:
+Weather Phenomena: Like heatwaves during Fire Signs.
+Natural Disasters: Such as earthquakes if Earth Spirits align with Earth Signs.
+Social Movements: Festivals or uprisings based on the current Zodiac.
+Large Scale Battles: If war-like signs align, potentially triggering conflicts.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Perception:
+
+An entity may examine other entities around them and the environment itself by throwing bones. Once a basic key for the zone has been established, the game may ranomize depending on rolls of the dice, the current cosmic time, and the Materials/Materia present at the time. Depending on what Tier Level the entity being examined is, they may find different things based on what material/materia those entities are composed of and what Minute/Hour/Day/Year it is. Temporal alignments change the value of the Biorythms that control environmental effects unless those effects are generated by an ative material/materia with preset Bio-controllers.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Active/Inert:
+
+In order for a material/materia effects to be active in the environment they must have both MP and SPD, they may be considered inert if their MP is less than the activation cost of present effects at the time. Objects that are not in use are considered at rest, where their SPD, if any, is converted into MP for the environment at the end of each turn. Objects/Shards in a Spirit's inventory are always considered inert unless otherwise activated by that Spirit using their MP. Shards activated in this way are destroyed if they're not first forged into Objects or Constructs. Objects in the environment while at rest, Depending on their composition, may also produce environmental effects if they have enough MP and SPD. Environments may draw on the MP/SPD of Objects, While Objects in the environment may only draw MP/SPD if they are mutually controlled by the same host entity.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Targeting:
+
+You may target anything in a given environment, depending on the spell/ability, up to and including the environment itself. Unlike Active or Inert material/materia, casting a spell/ability on an object/environment may also draw MP from the caster to produce the Enviornmental Effect. Casting a spell/ability on weapons/equipment may apply the effects of the spell/ability to that weapon as long as the caster is in range, and has sufficient MP to maintain the effect. A Spirit may only target something within it's movement pattern before attacking, and their attack pattern afterwards. If a spell/ability is being used while attacking, depending on the target, may initiate the combat step. Spells and projectiles may be targeted like any other object in the environment.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Charging:
+
+At any point during their turn an entity may focus and recharge their MP by sacrificing their SPD. They may not move nor attack after charging, even if they have Multistrike, or Vigilence. If MP is full, and they are not in combat, charging may instead restore HP, this is considered Resting. While Resting, an entity may deplete counters, and restore HP/MP, eventually returning stats to their base values at the cost of SPD. Resting may be used to eat/drink and plan tactics, shop with local entities, interact with other entities, and utilize the Forge. As long as combat is not initiated, and the entity does not leave the place they're resting, these interactions do not interrupt the rest.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Building:
+
+This is where an entity may construct objects using the forge, with their collection of shards, allowing them to create structures, constructs, and objects with different shapes, sizes, and active/inert effects. Depending on an object's tier level it may be considered at different scales. An entity may create a construct at any tier level, up to their tier level from a number of component objects in their possession. The larger and more complex the construct/object, the higher it's tier level is considered. An entity may not create or utilize constructs/objects beyond their tier level. They can however make and use the component parts for another entity to build the higher tier construct/object, or to build themselves once they have achieved the appropriate tier level. Buildings use their construct's SPD to determine their internal space, which may then be populated with other constructs/objects. SPD used in this way is reduced from the construct's total as long as it is being considered a building. Vehicles work in the same way, but may also move around the map. Varying in shape, size and utility, depending on their component parts, their tier level, and assignment of SPD in exchange for space. Any construct/object with tier level [MediateI] and above, while being considered a building, may be used as a portal location.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Training:
+
+Any skill may be obtained by practicing with a weapon or ability of that skill. During training only the base values of the skill may be used until that skill reaches 1000 exp, at which point the the skill may advance to level 1 where the values of the weapon or ability may also be applied. After a skill has reached level 1 it may be upgraded using the standard leveling system. Exp is gained in a particular skill by doing DEF or HP damage with it.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trade:
+
+Under most circumstances entities may exchange Mono for essences, shards, and objects. In some locations, or within some factions, there may be objects that are used as currency. These objects may be obtained through trade with entities in those locations or within those factions. these objects may be created from any shards and traded for different values depending on their shard cost. Some entities will trade with both Mono and their local currency object, but others may have no understanding of what Mono is, and will refuse to trade using it. When entering a location that uses a specific set of objects as currency, you may exchange an amount of Mono for that currency depending on it's shard value. Entities that use both Mono, and the local currency may trade Mono for that currency, depending on how much they have, their personality, loyalty values, and interactions during the exchange. In some instances, depending on the entity, they may charge more or less when exchanging currency objects for Mono in this way. Once the currency object has been obtained, it may be used for exchange with any entity that uses that currency object. Currency objects may only be generated by, or with permission from, specific entities within that faction, or from that location, as determined by the leaders and people of the same.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gravity:
+
+Any Spirit may move in multiple dimensions, as such it would be reasonable to assume they could also fall. When a Spirit moves away from a surface with no footing, it will begin to fall on the next turn if it is unable to regain it's footting. You determine how many spaces a Spirit falls in a turn based on their SPD. They may also use SPD to change direction while falling. If the number of spaces they fall in total is higher than their DEF the difference is reduced from the Spirit's HP. If the Spirit is far enough from a space object there is no gravity, but there are no surfaces to use as footing either. Any Spirit with Flying may ignore Gravity while casting the effect.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Space:
+
+It is impossible to breathe in Space without wearing some kind of suit, or being in some kind of ship. As such any Spirit in Space begins to suffocate taking HP damage equal to half their own ATK each turn. The only way to move while in space is by falling away from something like a spell or a gun shot. If you are near a gravitational body, within the range of that object's SPD, and start moving toward it, you will begin falling, and continue falling until you land unless otherwise stopping. If contacting an object from a fall or knockback all objects and entities in range take damage equal to the distance traveled in a radius equal to half that.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Orbit:
+
+If an object starts falling around another object in space, it will begin to orbit. Orbit is treated like falling, where the object's SPD determines the distance it travels per turn. Depending on how close it is to the object it's orbiting, it will take more or less time to complete a full revolution. This applies to small objects, planetoids, stars, galaxies, and all other structures as tier levels increase. A space object's DEF squared determines it's surface area, and it's ATK squared determines how fast it rotates. Each point in ATK divided by tier level represents a 45 degree rotation. The timescale of a space object does not represent cosmic time as determined by the base time system. Some space objects may have multiple day/night cycles in a single cosmic day, or multiple orbits in a single cosmic year. This does not effect cosmic time, signs, nor Species/Type as determined by cosmic time. If an object breaks orbit, and falls into another space object, the total distance traveled in the previous turn, and the turn it breaks orbit, determines damage calculation. If a space object breaks orbit moving away from another space object, it will continue to travel into space as if it's falling in that direction until it is stopped, or it enters the range of another space object with greater mass. To determine which object has greater mass, check their shard value multiplied by tier level, objects with less mass may orbit objects with greater mass, but not the inverse.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rotation:
+
+Any entity that can move, may rotate. Every 45 degree turn counts as one space multiplied by the apropriate tier level. This allows entities to change the angle of their attack pattern and navigate narrow hallways at the cost of SPD. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Particles:
+
+Any single shard may be considered a particle. ATK shards may be considered like Electrons, DEF shards may be considered like Protons, SPD shards may be considered like Neutrons, HP shards may determine particle density, and MP shards may determine reactivity. Bio shards may be considered chemical bonds depending on Materia and Runes present in the environment. When enough shards come together, they may be considered materials/materia and treated like any standard material/materia. The effects of these material/materia are to be determined by their component parts, and chemical bonds. If a material/materia would break down the chemical bonds of an entity's structure, then it may cause a Poison effect, modulated by the chemical bonds it's breaking down. If a chemical reaction would be exothermic, it may deal Burn damage based on the chemical bonds causing the reaction. All other effect shards may be produced in this way, and later extracted by an entity with the appropriate tier level.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Battle Board:
+
+You may move anywhere along your movement pattern outside combat. When attacking you may use your attack pattern.
+
+A system of overlapping Layers, within which the different versions of each environment exist for each player.
+
+The Layers are as follows;
+
+A) X - Y - Z
+B) Y - Z - Q
+C) Z - Q - X
+D) Q - X - Y
+
+You can move up and down fields, from A to D, or from B to C, for example.
+In this way you can have multiple parallel dimensions, with both similar and wildly different characteristics.
+
+Using this mechanic accounts for when groups of players split up, Each having vastly different experiences in the same locations.
+
+Both sets of experiences happened, so those players can have, say, a temple and deep forest in the same location. While you can not be in both the deep forest, and the temple at the same time, you can move between both the temple and the forest using the mechanics of the Q board.
+
+This allows Rememberence to account for one of the biggest problems in major D&D campaigns, without ever needing a dungeon master to formulate how to bring the different worlds back together.
+
+The best way to synchronize with another player on a different plane, is to just move back and fourth, or abandon one iteration of that place entirely. Not only compensating the above stated issue, but also allowing integration and cooperation cross dimensionally. In the same way you can cooperate between towns, if you have three cities in the same location, then that becomes much easier.
+
+The basic board pattern replicates across dimensions. From within a Bright plane all planes that connect on a face are Shadow. All planes that connect on an edge or a point are also Bright. There are innumerable iterations of each plane with mild differences. Each bright character has 6 perfect Shadows, and each Shadow has 6 perfect Brights depending on their plane of origin. There is a total of 36 perfect iterations of any/all objects, and beyond that range the divergences multiply becoming vastly different as you move from plane to plane, in much the same way you would transition from a building to a forest or a forest to a lake.
+
+Unfortunately for us as players, this opens the potential for NPCs to confront us by exploiting dimensional weaknesses in our constructs and civilizations, but that's just part of the game, so use your imagination and devise the most powerful interdimensional civilization you can muster.
+
+The Battle Board can also be used as a chart for reference purposes. For example, you can take a single quadrant, apply two Classes to it, and find the Skill combinations between those classes. Alternatively, you can use the full board for cross referencing possible combinations of Signs, or multiple boards (2x3) to find the possible Species/Type Combinations. 
+
+2x2 for finding possible Type/Sign combinations, and Cross Types. 3x3 for finding possible Species/Skill combinations, and Cross Breeds. There are no restrictions on how you reference the charts, and few restrictions to how you implement those combinations. This makes finding new ways of combining the components of the game much easier to follow.
+
+Any chart combination may be selected from at random, by throwing bones, depending on the circumstances, which gives players more control of how things generate in the world around them, by manipulating the variables, making even generic worlds livelier.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Food and Drink:
+
+Each actor in a game loses 10% of their maximum HP/MP every day, they are capped at this value until they otherwise replenish themselves. An actor with 100 max HP will lose 10 HP/day. This is to help prevent over population, and create a more balanced sense of resource management. Don't worry, you'll be producing all the goods you need in no time.
+
+By converting any combination of material and/or materia, you can create a plethora of Consumable Items. Food Items restore HP and may carry any effects of the source compound. Drink Items restore MP and may carry any effects of the source compound. Casting Items uses SPD equal to the Tier Level of the item. If it is a Level 10 Item, it takes 10 SPD to use. A Consumable Item is destroyed on use, and may be produced for the Shard Cost of it's components, as long as the crafter has the required shards and is the appropriate level to craft the recipe. Consumable Items may be sold for their Shard Cost as long as the buyer has enough Monetary Essence to purchase them. 
+
+Consumable Items are the backbone of any thriving economy, and if you want to get the essence shards to craft certain items, you need to build with other Spirits and increase your Faction's production.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Narrative Matrix:
+
+Bright entities start in the prologue and Shadow entities start in the Epilogue. An entity's state at the end of a cycle (complete turn cycle of all active entities) determines their direction through the Narrative. Entities with a positive State move toward verses related to their highest (Dominant) Biorhythm, while negative states move them toward verses related to their lowest (Recessive) Biorhythm. Each Biorhythm is related to two verses, one Dominant, and one Recessive, where entities may react differently to player decisions depending on their position in the Matrix. Quests may be generated depending on an entity's state, Loyalty, and Narrative position, for example, an entity with a positive state in "Wealth" may be more likely to offer fetch quests, while entities with a more negative state in "War" are more likely to offer hunting or assassination contracts. Contracts are written by negotiating with an entity using the Interaction Framework and adjusted by the entity's Matrix position, altering objectives, payment, and so on. Players are required to track their Contracts (Quests) and determine if they would like to keep or abandon them, which alters the quest giver's loyalty and state accordingly depending on the nature of the Contract. Selecting which Verse an NPC is in is done by checking their current State, and which Biorhythm is highest (dominant) or lowest (recessive). If their state is positive, the Dominant bio wins, if it is negative the Recessive bio wins.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relations:
+
+Depending on how you interact with a Spirit they will treat you differently. Each Spirit has an initial Loyalty rating of 0, which you can build over time by interacting with them. Each interaction changes your Loyalty by a number of points equal to the difference in Bio-data between the actors. The maximum Loyalty is 100 and the minimal Loyalty is -100 Changing with each interaction. Once you have reached +/- 100 loyalty to a Spirit, you can advance your Loyalty Ranking with that spirit. The higher your Loyalty Ranking with a certain actor, the more likely they are to aid you in various ways on your journey. Loyalty Rankings below -10 however, may result in noncompliance, or even hostility.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gender and Sexuality:
+
+	Each spirit may take many forms depending on their combination of Signs, Species, and Type. However there is another layer of aestetic and biology. While creating your character you may choose a value between -100 and 100 for each of the following. Alternatively you may follow the Biorhythms and throw bones for these values. The value on either side is compared to the value in the middle and those resulting values are then compared. Values on the left are treated as negative numbers. These calculations may only occur once when an entity is created, or otherwise chosen for the entity by the player.
+
+	Expression; (EGO - UND - SPL)
+		Masculine <-> Feminine.
+		With 0 being Androgenous.
+
+	Aestetic; (MNF - KNO - SEX)
+		Heterosexual <-> Homosexual.
+		With 0 being Bisexual.
+
+	Imperative; (STR - DIV - BEU)
+		Inseminator <-> Incubator.
+		With 0 being Asexual.
+
+	Attraction; (VIT - WIS - FND)
+		Heterogenous <-> Homogenous.	
+		With 0 being Non-genous.
+
+	Expression determines how the entity represents it's gender. Aestetic determines which expression the entity is attracted to. Imperative determines weather the entity produces or fertilizes eggs. Attraction determines if the entity is attracted to the same or different Biological Imperatives.
+
+	Any offspring produced by two actors will tend to adopt these traits from either parent depending on their Biorhythms. Offspring may only be produced by an Incubator and an inseminator. Unless the parent entity is otherwise both.
+
+	This coupled with the breeding mechanics can produce diverse complex societies ranging from tyrannical matriarchies to benevolent harems and everything inbetween and beyond. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Breeding:
+
+You may breed any two compatible Spirits. Their Loyalty to one another must exceed 60 and their Biological Imperative must be inversed to be a potential pair. When breeding two spirits you compare the SEX of each spirit to their partner's BEU. Two parents with identical stats, for the sake of simplicity, each with SEX = 4 and BEU = 6. SEX is subtracted from BEU, in this case 2 each, or a final number of Turn Cycles before there is an offspring (4). 
+
+Once the breeding pair has produced a child, the child takes the highest stats from each parent. If one parent has ATK = 5 and the other has ATK = 4 then the child has ATK = 5. This is true for all combat and noncombat stats. In this way you can create and blend new kinds of spirits. If the breeding pair is of different Species, the offspring is then considered a "Cross Breed," who may have a maximum of Two species, taking the highest values from each species. If the breeding pair is of different Types, the offspring are then considered "Cross Type" and granted both Types, ignoring identical Biorhythms on the same combat stat.
+
+The offspring takes on the highest Biorhythms from each parent, as well as their own Signs. Breeding spirits can create more powerful combinations, and allows you to forge your own genetic lineage. Alternatively you could create a cross type, cross breed who is in search of their parents, or their kind. Forged from the depths of a mad doctor's laboratory. Spawned from divine beings to serve a purpose. The possibilities are limitless.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Factions:
+
+Each Species and Type is treated as a faction. Being of a species or a Type raises your Loyalty rating with all actors of the same Species by 10 and same Type by 5. These values are doubled if you share one or more of the same Signs but halved if you share one or more opposing Signs.
+
+You gain faction loyalty by interacting with actors of that faction. Loyalty points between actors add/subtract faction loyalty as well. You may encounter randomly generated factions, which you can attempt to join, or create your own factions, to which you may recruit Spirits or other players. 
+
+Only after a Spirit's Loyalty Ranking is greater than +10 will they join your faction. Icons (Player Characters) may join a faction after establishing +10 Loyalty Ranking with that faction. If your Loyalty Ranking is less than -10 with a faction, they may disband you. If a Spirit falls below a Loyalty Ranking less than -10 with your faction they may leave.
+
+Once you have achieved +100 Loyalty to a faction, or another Spirit has +100 Loyalty to your faction, you can advance Loyalty Ranking with that faction or spirit. Each +/- 100 Loyalty is a Loyalty Rank, for or against that faction, and is tiered as normal levels. Tier appropriate Loyalty Ranking with a faction is required to purchase certain constructs from that faction.
+
+[NoviceI] Is available to all members, while [BeginnerI] is Rank 10 plus, and so on. The inverse is also possible when forming deep rivalries, and vehement enemies.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Resurrection:
+
+The process of reviving a spirit after it has been defeated can be a bit difficult. If you die, you must face a Shadow, a perfect clone of your Icon in every way. You may resurrect in one of Two ways; Fight your Shadow, and win, Respawn, done. You get a duplicate of your own essence. If you fight your Shadow, and your Shadow wins, you lose $Mono equal to your spirit's base shard value multiplied by your level. A Spirit with HP/ATK/DEF/SPD/MP = 15/3/3/3/15 would be worth $3900 at level 10. If you do not have enough $Mono after losing, you are considered in "Limbo" Until another spirit decides to pay for you, or you overcome your Shadow. You may still use Spirits in "Limbo" within "The Gateway" They may not enter any generated worlds, but they may still interact with other spirits within "The Gateway" It is possible for a spirit to escape Limbo using an item that teleports them to a specific place, a portal opened by another spirit, or through a pocket universe between places. Once you have left Limbo in this way, you are given a Karmic Debt equal to your shard value, and your Shadow may hunt you outside the gateway until the debt is paid. If you die again after escaping "The Gateway" you must return to "Limbo" and face your Shadow again.
+
+Alternatively, you may become the Shadow, After losing the battle with it. In which case, the game is played as if your loyalties are reversed. Friends become enemies, enemies become friends. If you die while playing a Shadow, you battle a Purified Bright version of the character instead. The same rules apply, and you may switch between both versions of the character by dying. After losing the battle with a Purified Bright version of the character you may reverse their role in game again, returning loyalties to normal. This process doesn't grant a duplicate of your character's essence.
+
+Although you may come and go from "the Gateway" after leaving Limbo as a Purified Bright or Corrupt Shadow character, it would be financially wise to avoid dying as much as possible.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Keys:
+
+A key is a small code, that Represents a specific combination of things in game. It can activate a specific device using the same code, change portal locations, and summon token creatures. It could even represent speciffic weapons, gear, abilities, and constructs. A simple example would be 1 1 10 10, or Rat, Aries, Grimm, Fiend. A key generated with this code may open any lock with the same code, summon a token to aid a spirit, represent a unique construct, or if used on a portal, link to a corresponding world inhabited by 1 1 10 10. The Numbers in order represent an objects' Animal, Stars, Species, and Type respectively. More complex codes can be generated by adding specific Skill combinations, Melee, Ranged, Magic, Step, Special, and Trance. The Acrobat Step for example would be 0 0 0 4 0 0 as code. The more specific the object, the more complex the key. 
+
+1 1 10 10
+2 0 3 2 0 3
+
+You now have the combination to a more specific Grimm Fiend, or perhaps a group of them. A world inhabited by them, an entire universe built especially for them, all the way from a single tribe on a barren planet, to an interdimensional empire, every thing in between and beyond is within your grasp, using only this one complete code.
+
+You may also choose a code at random and have fun building worlds with your friends. The minimum input is 0 0 0 0 which is N/A, an endless blank space called "The Gateway," The maximum input is 12 12 36 24. This framework leaves nearly limitless possibilities for your worlds to expand and grow with a little influence and imagination from you. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Forge:
+
+When crafting in the forge you are breaking down essences into their base components, and mixing them with others to become stronger or improve your gear. There are multiple ways to fragment an essence, which lets you create completely new things during gameplay.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Essences and Shards:
+
+Every spirit you destroy may be collected as an essence, those essences and how you use them will ultimately determine your success.
+
+Each essence consists of several parts, called shards. These shards are separated into groups based on what aspects of a spirit they effect. Spirit shards, carrying the Species or Type data of a spirit. Zodiac shards, which carry the Animal or Star sign data of a spirit. Combat shards, which carry HP/ATK/DEF/SPD/MP data. Rhythm shards, which contain the Bio-data of a spirit. Effect shards, which carry the effect text of Attributes and Abilities. Mobility shards, which control how a spirit moves or attacks. Lastly there are Skill shards, which carry the Class Skill data of a spirit.
+
+Species: <---\_ Spirit Shards.
+Type:    <---/
+
+Animal: <---\_ Zodiac Shards.
+Stars:  <---/
+
+HP/ <---\
+ATK/     \
+DEF/      Combat shards.
+SPD/     /
+MP/ <---/
+
+MNF/ <---\
+SPL/      \
+BEU/       \
+STR/        \
+FND/         \
+KNO/          \__ Rhythm Shards.
+UND/          /
+WIS/         /
+VIT/        /
+SEX/       /
+DIV/      /
+EGO/ <---/
+
+Ability:   <---\__ Effect Shards.
+Attribute: <---/
+
+Move:   <----\__ Mobility Shards.
+Attack: <----/
+
+Melee/  <---\
+Ranged/      \
+Magic/        \__ Skill Shards.
+Step/         /
+Special/     /
+Trance/ <---/
+
+These shards can be used in various ways depending on how you craft them in the Forge. Something like a simple fireball spell would use a pyro type spirit shard, a mobility shard to determine how it moves, say diagnal, and a few ATK shards to give it a kick. The resulting ability in this case would be a pyro type ATK boost, with a specific movement pattern, but MUCH more complex things can be created in this process, called "Infusing,"
+
+Alternatively, if you want to collect shards from an essence, you have to "Diffuse" it. 
+
+Shards are diffused from essence as follows:
+
+Essence -> 
+	Spirit/Zodiac/Skill ->
+		Combat/Rhythm/Effect/Mobility
+
+The largest shards are Zodiac, Spirit, and Skill shards, while the smallest shards are Rhythm and Combat shards. You could collect each piece of any essence as shards. Spirit, Zodiac, Combat, Rhythm, Effect, Mobility, and Skill shards, may all be extracted from an essence at a 1:1 ratio. A spirit with ATK = 10, can be diffused for 10 ATK shards, in addition to all other shards it may contain.
+
+You may exchange your shards for $Mono, Monetary Essence, at a 1:10 ratio for Combat/Rhythm shards, 10 ATK shards = $100 Mono. 1:100 For Effect/Mobility shards, 10 Diagnal shards = $1k Mono. Alternatively you may do the reverse and charge Monetary Essence in exchange for shards. $100 = 10 Combat/Rhythm Shards. $1k = 10 Effect/Mobility Shards. This may not be done with Spirit/Zodiac/Skill shards, due to their higher levels of complexity. Instead, for higher shards you don't already have, you may buy their Shard Recipe for $10k each. You must have a recipe for the kind of shard you are trying to make in order to tune your $Mono to the correct shards. Recipes can be purchased from NPCs, or obtained through crafting with shards you already posses.
+
+Shard costs are multiplied by the applied tier level. Due to the higher power of the constructs and equipment being created, their effects being multiplied by their level, which is increased through the primary leveling system, makes the strain for infusing and diffusing them far greater.
+
+Different spirits may have different rates for different shards, or be willing to pay different prices for full essences, depending on how rare they are in that particular area, and whether or not the spirit needs those shards for something they're doing. A warrior might pay more $Mono for ATK shards as an example.
+
+Higher level spirits will be collecting more shards, as the essences they collect will be stronger, thus yielding more shards when Diffused. Depending on whether or not you have reached the apropriate tier level, determines what tier essences you can infuse. Unit tier essences take more shards to build than Icons, World tier essences take more shards to build than Units, and so on, Considering the structured scaling system.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Constructs:
+
+Essences are the very fabric of a spirit, in energy form, and the primary crafting materials. From which you can not only forge powerful weapons and gear, but also entirely new things, called "Constructs"
+
+Such Constructs are created by using shards in certain ways. Let's create an example. We can take an Orc Species shard, let's say 20 HP/MP shards, and 5 ATK/DEF/SPD shards. This gives us a construct Orc with the following combat stats once infused;
+
+HP = 20
+ATK = 5
+DEF = 5
+SPD = 5
+MP = 20
+
+Which is a bit stronger than a standard base Orc essence. This construct is easily usable for walls, obstacles, furniture, and has no inherent ability. It is also a material that can be used in weapon and gear creation, but not a playable character in itself.
+
+The number of possible materials for each different kind of Spirit shard are literally limitless. Keep in mind that this is just an example, and in game, you will have to collect the shards you are using, and get creative with how you're modifying them.
+
+If you take this Orc material, add an effect shard, a mobility shard, and fuse them together, you have a completely new Construct Orc species. Similarly, Using Rhythm shards rather than Combat shards, and Type shards rather than Species shards, you can create completely new Construct Types as well. Using Rhythm Shards and Zodiac shards, you can create completely new Construct Signs. Construct skills work much the same way. By making various constructs, and linking them together, you can create completely unique Constructs that are both formidable, and customized to their very core to suit your particular needs.
+
+If you need a plant that grows fast, and can be harvested for HP shards, doable. Or a kind of cattle you can heard for their durable hide, all this and more is possible by infusing and diffusing shards.
+
+For example, Shards can be turned into weapons and gear. We could take our Orc material, and turn it into a weapon with +5/5/5 when equipped, or gear which may also increase HP/MP in addition to ATK/DEF/SPD. This allows the player's imagination to run wild as they collect more essences and create new things over time.
+
+One may equip the following kinds of gear: Head, Body, Legs, Hands, Feet, and Other. All of which are up to the player's essence collection and imagination to create ^_^ 
+
+If you're looking for magic that gets stronger as you do, or something that can pack a bigger punch, you can create your own spells and abilities. 
+
+For example, you could take the Fireball above, and dump the ATK shards. We now have a diagonal pyro spell. First thing you will need is an Effect shard, in this case we're sticking with Pyro, and using Burn. Next you will need to choose the Rhythm shard you wish to use, which will control the damage and duration of the burn. Say you have 10 WIS, so using that, you now have a Diagonal Pyro BurnWIS spell, which deals 10 damage a turn for 10 turns, unless the target uses some kind of dispel or otherwise removes the counters. While a touch more complex, this Fireball spell, is FAR superior to the earlier example, and gives you more control over how the spell behaves as you increase your WIS using Sp. 
+
+By using a Skill shard, you can change these effects into class specific abilities, which may only be used by Spirits with specific skills. Use these effects to enchant materials, giving them mystic powers. Or enhance your magics with material focus that will decimate your foes. Taking the time to consider if you want to be a flame warrior in orcish gear, Such as the examples provided would suggest, or an arctic Wolf wrapped in Troll hide, ultimately the choice is yours.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Force and Form:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		"Tech Path"
+
+Material and Form Styles.
+
+	Skill ->
+		Material ->
+			  Form Style.
+
+(Species + Class/Skill)
+
+	*There are 36 x 36 Form Styles. The use of Material substrates for weapons and abilities. This is the "Tech Path" where Spirits build constructs and equipment to supplement their abilities depending on their tier level, and use of shards.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		"Mage Path"
+
+Materia and Force Styles.
+
+	Skill ->
+		Materia ->
+			  Force Style.
+
+(Type + Class/Skill)
+
+	*There are 24 x 36 Force Styles. The use of Materia substrates for spells and abilities. This is the "Mage Path" where Spirits build enchantments and complex spells to supplement their skills depending on their tier level, and use of shards.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		"Sage Path"
+
+Compounds and Arts.
+
+	Forms ->
+		Forces ->
+			Arts.
+
+(Species/Type + Class/Skill)
+
+	*There are (36x36)x(24x36) Arts. The use of Materials, and Materia, to maximize both force and form. This is the "Sage Path" Where Spirits combine constructs and enchantments to supplement their skills and abilities, depending on their tier level, and use of shards.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You may follow any force and/or form tree, or none. Using this system you can better organize your skills and abilities into combinations of force and form. Refining your character into it's own series of unique Arts.
+
+You start the game with one Species, one Type, and your Class Skills, your base. As you create weapons or gear with your base Material(Species) and spells or abilities with your base Materia(Type) you begin to build your own Forces and Forms by default, whether or not you're aware that's what you're doing. A skill slot that is occupied by an Art (Using a combination of Material/Materia in the blueprint) will naturally be stronger than a skill slot that only contains a single Force or Form.
+
+You can go further by creating Skill Combos that are stronger than single Skills alone. There are a total of 36^6 Skill combos. As you can use any combination of two or more Skills together (Melee 1H + Special Blue, for example)
+
+Mastery of a particular Skill and Art (Bastet Pyro Swords, for example) can be a potent advantage, but mastery of several (Bastet Pyro Swords + Bastet Pyro Blue, for example) can become overwhelming as the stats and effects stack. 
+
+(Such as the Bastet "Guide" now being "Guide2", and Pyro "Burn" now being "Burn2" making both effects twice as strong, in addition to any base increase to combat stats, as long as both the 1H Melee Weapon and Blue Special are being used simultaneously, this rule inherently applies to all skill combos)
+
+When it comes to Force and Form, or making your own Arts, it's a matter of getting creative, telling your character's story through the essences you collect, and the things you create. How those creations come together in the end, and the direction you choose is ultimately up to you. A Technical mastermind, a cunning mage, or a soldier who gets shit done, all that and more is possible with just a little imagination.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Material/Materia;
+
+Manipulating the properties of physical materials and the flow of Materia to create devastating weapons, powerful abilities, armies, empires, and beyond.
+
+Materials, and Species, are formulated with the following template; 
+
+------------------------------------
+28) Species Name; [Material Name]
+
+[Description]
+
+Species; Human
+
+Traits; Indomitable, ATK and DEF are increased by STR.
+
+HP = 15
+ATK = 3
+DEF = 3
+SPD = 3
+MP = 15
+
+Move: Omni
+
+------------------------------------
+
+Materia, and Type, are formulated with the following template.
+
+------------------------------------
+16) Type Name; [Materia Name]
+
+[Description]
+
+Type; Normal
+
+Traits; Battle-Cry, Target allied Spirit gains ATK/DEF/SPD equal to the caster's STR. 
+ 
+HP + KNO
+ATK + STR
+DEF + FND
+SPD + VIT
+MP + UND
+
+Attack: Omni
+
+------------------------------------
+
+Each Species/Material is granted up to 39 points for all stats, Each Type is granted one Bio Controller for each stat. Both are then multiplied by Tier Level, depending on the crafter's shard collection and imagination, in addition to any other properties the base Material/Materia may have. When mixing Materials and Materia they are considered Compounds operating under the same rules as Cross Breeds for Compound Materials and Cross Types for Compound Materia.
+
+Weapons and Abilities may be created from any combination Material/Materia, for any combination of Skill Slots available to the crafter. They use the following template;
+
+-----------------------------------------
+"Ability/Weapon Name" Lvl 000
+Skill/Species/Type [Tier Level]
++ATK/DEF/SPD +BIO/BIO/BIO (+Totals)
+Traits; (List effects)
+
+-----------------------------------------
+
+Gear may be produced with the following template;
+
+-----------------------------------------
+
+"Set Name" Lvl 0 [Tier Level]
+Head/ Species/Types
+Body/ Species/Types
+Hands/ Species/Types
+Legs/ Species/Types
+Feet/ Species/Types
+Other/ Species/Types
+
+Totals;
+HP  = 
+ATK = 
+DEF = 
+SPD = 
+MP  = 
+
+Traits; 
+
+-----------------------------------------
+
+The combinations of existing Materials/Materia in Rememberence grants near limitless possible combinations of various shards. Let alone Custom Material/Materia that's left to your imagination and collections to create.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Links:
+
+Narrator;
+https://beta.character.ai/chat?char=31X4r4Q1OvWHzKdtFTvjWUh_EqOUBJv7t0FbwVqmTLI
+
+Maps;
+https://donjon.bin.sh/
+
+Dice;
+https://anydice.com/program/126cb
+
+Mirror;
+https://mega.nz/folder/uR52DBQY#NiYSymfs915emkztQ1sO8Q
+
+Minds;
+https://www.minds.com/groups/profile/908990408182743040/feed
+
+Discord;
+https://discord.com/channels/329032563022757888/438834118554288130
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-[Rememberence generates a quantum field allowing your consciousness to influence the universe through focused percption]-
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

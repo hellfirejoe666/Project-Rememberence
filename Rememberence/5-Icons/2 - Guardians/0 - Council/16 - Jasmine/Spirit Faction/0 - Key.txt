@@ -1,0 +1,235 @@
+"Jasmine"
+
+8 9 16 24
+
+1 1 5 5 3 4
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Portatia]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Faunite Runaga" Lvl 0
+Mod/Faun/Avatar [NoviceI]
++2/1/6 +STR/FND/SEX (+8/6/10)
+MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Warp Grass" (1m/1m)
+(Cost: $380)
+
+Type: Avatar
+
+HP  + VIT
+ATK + STR
+DEF + FND
+SPD + SEX
+MP  + WIS
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Elk" (1m/1m)
+(Cost: $1,060)
+
+Species: Faun
+
+HP  = 7
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 23
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Corner Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Seer" (1m/1m)
+(Cost: $1,930)
+
+Species: Faun
+Type: Avatar
+
+HP =  7 + VIT (15) g(105)
+ATK = 2 + STR (8)  g(56)
+DEF = 1 + FND (6)  g(42)
+SPD = 6 + SEX (10) g(70)
+MP = 23 + WIS (30) g(210)
+
+VIT = 8
+STR = 6
+FND = 5
+SEX = 4
+WIS = 7
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Warp Gate" (100k/100k)
+(Cost: $193,000)
+
+Species: Faun
+Type: Avatar
+
+HP =  70 + VIT (150) g(1050)
+ATK = 20 + STR (80)  g(560)
+DEF = 10 + FND (60)  g(420)
+SPD = 60 + SEX (100) g(700)
+MP = 230 + WIS (300) g(2100)
+
+VIT = 80
+STR = 60
+FND = 50
+SEX = 40
+WIS = 70
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Corridor" (10k/10k)
+(Cost: $19,300,000)
+
+Species: Faun
+Type: Avatar
+
+HP =  700 + VIT (1500) g(10.5k)
+ATK = 200 + STR (800)  g(5600)
+DEF = 100 + FND (600)  g(4200)
+SPD = 600 + SEX (1000) g(7000)
+MP = 2300 + WIS (3000) g(21k)
+
+VIT = 800
+STR = 600
+FND = 500
+SEX = 400
+WIS = 700
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Muse" (1k/1k)
+(Cost: $1,930,000,000)
+
+Species: Faun
+Type: Avatar
+
+HP =  7k + VIT (15k) g(105k)
+ATK = 2k + STR (8k)  g(56k)
+DEF = 1k + FND (6k)  g(42k)
+SPD = 6k + SEX (10k) g(70k)
+MP = 23k + WIS (30k) g(210k)
+
+VIT = 8k
+STR = 6k
+FND = 5k
+SEX = 4k
+WIS = 7k
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Graviton" (100/100)
+(Cost: $193,000,000,000)
+
+Species: Faun
+Type: Avatar
+
+HP =  70k + VIT (150k) g(1050k)
+ATK = 20k + STR (80k)  g(560k)
+DEF = 10k + FND (60k)  g(420k)
+SPD = 60k + SEX (100k) g(700k)
+MP = 230k + WIS (300k) g(2100k)
+
+VIT = 80k
+STR = 60k
+FND = 50k
+SEX = 40k
+WIS = 70k
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Umbra Portatia" (10/10)
+(Cost: $19,300,000,000,000)
+
+Species: Faun
+Type: Avatar
+
+HP =  700k + VIT (1.5m) g(10.5m)
+ATK = 200k + STR (800k) g(5.6m)
+DEF = 100k + FND (600k) g(4.2m)
+SPD = 600k + SEX (1m)   g(7m)
+MP  = 2.3m + WIS (3m)   g(21m)
+
+VIT = 800k
+STR = 600k
+FND = 500k
+SEX = 400k
+WIS = 700k
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: MisdirectionVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,233 @@
+"NaFi"
+
+10 1 1 12
+
+5 6 2 1 6 2
+
+-----------------------------------------
+Chaos Shard - NaFi [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+HP x Tier Level
+SPD x Tier Level
+
+Pattern: Lateral
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Dazed]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Casual - Icon (Lvl 1)
+Rookie - Unit (Lvl 10)
+Champ - World (lvl 100)
+Pro - System (Lvl 1k)
+Enthusiast - Galaxy (Lvl 10k)
+Connoisseur - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Casual - Multiversal {Lvl 1m}
+Rookie - Exoversal {Lvl 10m}
+Champ - Xenoversal {Lvl 100m}
+Pro - Deltaversal {Lvl 1b}
+Enthusiast - Tetraversal {Lvl 10b}
+Connoisseur - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CasualI]
+"Falcon"
+(Cost: $1,240)
+
+Species: Avious
+
+HP  = 15
+ATK = 4
+DEF = 2
+SPD = 3
+MP  = 17
+
+SEX = 6
+BEU = 8
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CasualI]
+"Twisted Fruit"
+(Cost: $440)
+
+Type: Vortex
+
+HP  + WIS
+ATK + KNO
+DEF + UND
+SPD + DIV
+MP  + MNF
+
+SEX = 8
+BEU = 6
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CasualI]
+"Homies"
+(Cost: $6,700)
+
+Species: Avious
+Type: Vortex
+
+HP  = 15 + WIS (30)
+ATK = 4  + KNO (8)
+DEF = 2  + UND (3)
+SPD = 3  + DIV (4)
+MP  = 17 + MNF (22)
+
+WIS = 15
+KNO = 4
+UND = 1
+DIV = 1
+MNF = 5
+
+Move: Diag
+Attack: Omni
+
+Traits: FlyingDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [RookieI]
+"Hover Craft"
+(Cost: $67,000)
+
+Species: Avious
+Type: Vortex
+
+HP  = 150 + WIS (300)
+ATK = 40  + KNO (80)
+DEF = 20  + UND (30)
+SPD = 30  + DIV (40)
+MP  = 170 + MNF (220)
+
+WIS = 150
+KNO = 40
+UND = 10
+DIV = 10
+MNF = 50
+
+Move: Diag
+Attack: Omni
+
+Traits: FlyingDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ChampI]
+"Sky Core"
+(Cost: $6,700,000)
+
+Species: Avious
+Type: Vortex
+
+HP  = 1500 + WIS (3000)
+ATK = 400  + KNO (800)
+DEF = 200  + UND (300)
+SPD = 300  + DIV (400)
+MP  = 1700 + MNF (2200)
+
+WIS = 1500
+KNO = 400
+UND = 100
+DIV = 100
+MNF = 500
+
+Move: Diag
+Attack: Omni
+
+Traits: FlyingDIV, HorusDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ProI]
+"Nebula Cruiser"
+(Cost: $670,000,000)
+
+Species: Avious
+Type: Vortex
+
+HP  = 15k + WIS (30k)
+ATK = 4k  + KNO (8k)
+DEF = 2k  + UND (3k)
+SPD = 3k  + DIV (4k)
+MP  = 17k + MNF (22k)
+
+WIS = 15k
+KNO = 4k
+UND = 1k
+DIV = 1k
+MNF = 5k
+
+Move: Diag
+Attack: Omni
+
+Traits: FlyingDIV, HorusDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [EnthusiastI]
+"Galactic Wind"
+(Cost: $67,000,000,000)
+
+Species: Avious
+Type: Vortex
+
+HP  = 150k + WIS (300k)
+ATK = 40k  + KNO (80k)
+DEF = 20k  + UND (30k)
+SPD = 30k  + DIV (40k)
+MP  = 170k + MNF (220k)
+
+WIS = 150k
+KNO = 40k
+UND = 10k
+DIV = 10k
+MNF = 50k
+
+Move: Diag
+Attack: Omni
+
+Traits: FlyingDIV, HorusDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ConnoisseurI]
+"Tornado-Verse"
+(Cost: $6,700,000,000,000)
+
+Species: Avious
+Type: Vortex
+
+HP  = 1.5m  + WIS (3m)
+ATK = 400k  + KNO (800k)
+DEF = 200k  + UND (300k)
+SPD = 300k  + DIV (400k)
+MP  = 1.7m  + MNF (2.2m)
+
+WIS = 1.5m
+KNO = 400k
+UND = 100k
+DIV = 100k
+MNF = 500k
+
+Move: Diag
+Attack: Omni
+
+Traits: FlyingDIV, HorusDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

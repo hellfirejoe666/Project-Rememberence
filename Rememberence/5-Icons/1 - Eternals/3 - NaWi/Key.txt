@@ -1,0 +1,233 @@
+"NaWi"
+
+4 5 4 4
+
+1 1 3 3 4 4
+
+-----------------------------------------
+Chaos Shard - NaWi [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+HP x Tier Level
+ATK x Tier Level
+
+Pattern: Spread
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Inferno]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Guest - Icon (Lvl 1)
+Dancer - Unit (Lvl 10)
+Bouncer - World (lvl 100)
+Manager - System (Lvl 1k)
+Sponsor - Galaxy (Lvl 10k)
+CEO - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Guest - Multiversal {Lvl 1m}
+Dancer - Exoversal {Lvl 10m}
+Bouncer - Xenoversal {Lvl 100m}
+Manager - Deltaversal {Lvl 1b}
+Sponsor - Tetraversal {Lvl 10b}
+CEO - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [GuestI]
+"Foxy"
+(Cost: $1,180)
+
+Species: Iniris
+
+HP  = 10
+ATK = 2
+DEF = 1
+SPD = 6
+MP  = 20
+
+SEX = 4
+BEU = 6
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [GuestI]
+"Blaze Fruit"
+(Cost: $400)
+
+Type: Pyro
+
+HP  + EGO
+ATK + KNO
+DEF + WIS
+SPD + STR
+MP  + SPL
+
+SEX = 6
+BEU = 4
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [GuestI]
+"Seductress"
+(Cost: $7,640)
+
+Species: Iniris
+Type: Pyro
+
+HP  = 10 + EGO (20)
+ATK = 2  + KNO (4)
+DEF = 1  + WIS (3)
+SPD = 6  + STR (8)
+MP  = 20 + SPL (30)
+
+EGO = 10
+KNO = 2
+WIS = 2
+STR = 2
+SPL = 10
+
+Move: Diag
+Attack: Spread
+
+Traits: BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DancerI]
+"Hot Rod"
+(Cost: $76,400)
+
+Species: Iniris
+Type: Pyro
+
+HP  = 100 + EGO (200)
+ATK = 20  + KNO (40)
+DEF = 10  + WIS (30)
+SPD = 60  + STR (80)
+MP  = 200 + SPL (300)
+
+EGO = 100
+KNO = 20
+WIS = 20
+STR = 20
+SPL = 100
+
+Move: Diag
+Attack: Spread
+
+Traits: BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BouncerI]
+"Blaze Core"
+(Cost: $7,640,000)
+
+Species: Iniris
+Type: Pyro
+
+HP  = 1000 + EGO (2000)
+ATK = 200  + KNO (400)
+DEF = 100  + WIS (300)
+SPD = 600  + STR (800)
+MP  = 2000 + SPL (3000)
+
+EGO = 1000
+KNO = 200
+WIS = 200
+STR = 200
+SPL = 1000
+
+Move: Diag
+Attack: Spread
+
+Traits: BurnSPL, LuckySPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ManagerI]
+"Star Burner"
+(Cost:$764,000,000)
+
+Species: Iniris
+Type: Pyro
+
+HP  = 10k + EGO (20k)
+ATK = 2k  + KNO (4k)
+DEF = 1k  + WIS (3k)
+SPD = 6k  + STR (8k)
+MP  = 20k  + SPL (30k)
+
+EGO = 10k
+KNO = 2k
+WIS = 2k
+STR = 2k
+SPL = 10k
+
+Move: Diag
+Attack: Spread
+
+Traits: BurnSPL, LuckySPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [SponsorI]
+"Galaxy Flare"
+(Cost:$76,400,000,000)
+
+Species: Iniris
+Type: Pyro
+
+HP  = 100k + EGO (200k)
+ATK = 20k  + KNO (40k)
+DEF = 10k  + WIS (30k)
+SPD = 60k  + STR (80k)
+MP  = 200k + SPL (300k)
+
+EGO = 100k
+KNO = 20k
+WIS = 20k
+STR = 20k
+SPL = 100k
+
+Move: Diag
+Attack: Spread
+
+Traits: BurnSPL, LuckySPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CEOI]
+"Inferno-Verse"
+(Cost:$7,640,000,000,000)
+
+Species: Iniris
+Type: Pyro
+
+HP  = 1m + EGO (2m)
+ATK = 200k + KNO (400k)
+DEF = 100k + WIS (300k)
+SPD = 600k + STR (800k)
+MP  = 2m + SPL (3m)
+
+EGO = 1m
+KNO = 200k
+WIS = 200k
+STR = 200k
+SPL = 1m
+
+Move: Diag
+Attack: Spread
+
+Traits: BurnSPL, LuckySPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

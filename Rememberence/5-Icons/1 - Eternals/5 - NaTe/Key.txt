@@ -1,0 +1,233 @@
+"NaTe"
+
+7 7 27 22
+
+4 2 5 6 1 3
+
+-----------------------------------------
+Chaos Shard - NaTe [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+MP x Tier Level
+SPD x Tier Level
+
+Pattern: Corner Lateral
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Templar]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Reborn - Icon (Lvl 1)
+Baptised - Unit (Lvl 10)
+Enlightened - World (lvl 100)
+Empowered - System (Lvl 1k)
+Acolyte - Galaxy (Lvl 10k)
+Saint - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Reborn - Multiversal {Lvl 1m}
+Baptised - Exoversal {Lvl 10m}
+Enlightened - Xenoversal {Lvl 100m}
+Empowered - Deltaversal {Lvl 1b}
+Acolyte - Tetraversal {Lvl 10b}
+Saint - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [RebornI]
+"Conscience"
+(Cost: $1,160)
+
+Species: Angel
+
+HP  = 25
+ATK = 1
+DEF = 4
+SPD = 4
+MP  = 5
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [RebornI]
+"Divine Fruit"
+(Cost: $380)
+
+Type: Holy
+
+HP  + DIV
+ATK + UND
+DEF + WIS
+SPD + EGO
+MP  + BEU
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [RebornI]
+"Knights"
+(Cost: $7,440)
+
+Species: Angel
+Type: Holy
+
+HP  = 25 + DIV (30)
+ATK = 1  + UND (3)
+DEF = 4  + WIS (5)
+SPD = 4  + EGO (5)
+MP  = 5  + BEU (20)
+
+DIV = 5
+UND = 2
+WIS = 1
+EGO = 1
+BEU = 15
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: VigilanceBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BaptisedI]
+"Calvary"
+(Cost: $74,400)
+
+Species: Angel
+Type: Holy
+
+HP  = 250 + DIV (300)
+ATK = 10  + UND (30)
+DEF = 40  + WIS (50)
+SPD = 40  + EGO (50)
+MP  = 50  + BEU (200)
+
+DIV = 50
+UND = 20
+WIS = 10
+EGO = 10
+BEU = 150
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: VigilanceBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [EnlightenedI]
+"Holy Core"
+(Cost: $7,440,000)
+
+Species: Angel
+Type: Holy
+
+HP  = 2500 + DIV (3000)
+ATK = 100  + UND (300)
+DEF = 400  + WIS (500)
+SPD = 400  + EGO (500)
+MP  = 500  + BEU (2000)
+
+DIV = 500
+UND = 200
+WIS = 100
+EGO = 100
+BEU = 1500
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: VigilanceBEU, LifeLinkBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [EmpoweredI]
+"Celestial Temple"
+(Cost: $744,000,000)
+
+Species: Angel
+Type: Holy
+
+HP  = 25k + DIV (30k)
+ATK = 1k  + UND (3k)
+DEF = 4k  + WIS (5k)
+SPD = 4k  + EGO (5k)
+MP  = 5k  + BEU (20k)
+
+DIV = 5k
+UND = 2k
+WIS = 1k
+EGO = 1k
+BEU = 15k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: VigilanceBEU, LifeLinkBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AcolyteI]
+"Cherub"
+(Cost: $74,400,000,000)
+
+Species: Angel
+Type: Holy
+
+HP  = 250k + DIV (300k)
+ATK = 10k  + UND (30k)
+DEF = 40k  + WIS (50k)
+SPD = 40k  + EGO (50k)
+MP  = 50k  + BEU (200k)
+
+DIV = 50k
+UND = 20k
+WIS = 10k
+EGO = 10k
+BEU = 150k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: VigilanceBEU, LifeLinkBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [SaintI]
+"Eden-Verse"
+(Cost: $7,440,000,000,000)
+
+Species: Angel
+Type: Holy
+
+HP  = 2.5m + DIV (3m)
+ATK = 100k + UND (300k)
+DEF = 400k + WIS (500k)
+SPD = 400k + EGO (500k)
+MP  = 500k + BEU (2m)
+
+DIV = 500k
+UND = 200k
+WIS = 100k
+EGO = 100k
+BEU = 1.5m
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: VigilanceBEU, LifeLinkBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

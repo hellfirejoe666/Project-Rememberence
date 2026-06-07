@@ -1,0 +1,235 @@
+"Daniel"
+
+5 8 17 10
+
+1 5 6 4 4 3
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Chaotica]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Vampyrium Mutatia" Lvl 0
+Mod/Vampyre/Fiend [NoviceI]
++4/2/3 +EGO/VIT/BEU (+7/6/11)
+DrainSEX, FearSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Wicked Spice" (1m/1m)
+(Cost: $420)
+
+Type: Fiend
+
+HP  + SEX
+ATK + EGO
+DEF + VIT
+SPD + BEU
+MP  + STR
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Bats" (1m/1m)
+(Cost: $1,100)
+
+Species: Vampyre
+
+HP = 14
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 16
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Servator" (1m/1m)
+(Cost: $1,880)
+
+Species: Vampyre
+Type: Fiend
+
+HP = 14 + SEX (20) g(140)
+ATK = 4 + EGO (7)  g(49)
+DEF = 2 + VIT (6)  g(42)
+SPD = 3 + BEU (11) g(77)
+MP = 16 + STR (20) g(140)
+
+SEX = 6
+EGO = 3
+VIT = 4
+BEU = 8
+STR = 4
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: DrainBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Mustang" (100k/100k)
+(Cost: $188,000)
+
+Species: Vampyre
+Type: Fiend
+
+HP = 140 + SEX (200) g(1400)
+ATK = 40 + EGO (70)  g(490)
+DEF = 20 + VIT (60)  g(420)
+SPD = 30 + BEU (110) g(770)
+MP = 160 + STR (200) g(1400)
+
+SEX = 60
+EGO = 30
+VIT = 40
+BEU = 80
+STR = 40
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: DrainBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Oratory" (10k/10k)
+(Cost: $18,800,000)
+
+Species: Vampyre
+Type: Fiend
+
+HP = 1400 + SEX (2000) g(14k)
+ATK = 400 + EGO (700)  g(4900)
+DEF = 200 + VIT (600)  g(4200)
+SPD = 300 + BEU (1100) g(7700)
+MP = 1600 + STR (2000) g(14k)
+
+SEX = 600
+EGO = 300
+VIT = 400
+BEU = 800
+STR = 400
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: DrainBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Blood Moon" (1k/1k)
+(Cost: $1,880,000,000)
+
+Species: Vampyre
+Type: Fiend
+
+HP = 14k + SEX (20k) g(140k)
+ATK = 4k + EGO (7k)  g(49k)
+DEF = 2k + VIT (6k)  g(42k)
+SPD = 3k + BEU (11k) g(77k)
+MP = 16k + STR (20k) g(140k)
+
+SEX = 6k
+EGO = 3k
+VIT = 4k
+BEU = 8k
+STR = 4k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: DrainBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Terror Field" (100/100)
+(Cost: $188,000,000,000)
+
+Species: Vampyre
+Type: Fiend
+
+HP = 140k + SEX (200k) g(1.4m)
+ATK = 40k + EGO (70k)  g(490k)
+DEF = 20k + VIT (60k)  g(420k)
+SPD = 30k + BEU (110k) g(770k)
+MP = 160k + STR (200k) g(1.4m)
+
+SEX = 60k
+EGO = 30k
+VIT = 40k
+BEU = 80k
+STR = 40k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: DrainBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Labyrinth Chaotica" (10/10)
+(Cost: $18,800,000,000,000)
+
+Species: Vampyre
+Type: Fiend
+
+HP  = 1.4m + SEX (2m)   g(14m)
+ATK = 400k + EGO (700k) g(4.9m)
+DEF = 200k + VIT (600k) g(4.2m)
+SPD = 300k + BEU (1.1m) g(7.7m)
+MP  = 1.6m + STR (2m)   g(14m)
+
+SEX = 600k
+EGO = 300k
+VIT = 400k
+BEU = 800k
+STR = 400k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: DrainBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,235 @@
+"Alabaster"
+
+5 8 9 10
+
+2 1 6 4 5 4
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Hellena]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Demonite Mutatia" Lvl 0
+Mod/Demon/Fiend [NoviceI]
++6/1/2 +EGO/VIT/BEU (+9/5/10)
+SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Remnant" (1m/1m)
+(Cost: $440)
+
+Type: Fiend
+
+HP  + SEX
+ATK + EGO
+DEF + VIT
+SPD + BEU
+MP  + STR
+
+SEX = 8
+BEU = 6
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Crawlers" (1m/1m)
+(Cost: $1,120)
+
+Species: Demon
+
+HP = 19
+ATK = 6
+DEF = 1
+SPD = 2
+MP = 11
+
+SEX = 6
+BEU = 8
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Risen" (1m/1m)
+(Cost: $1,940)
+
+Species: Demon
+Type: Fiend
+
+HP = 19 + SEX (25) g(175)
+ATK = 6 + EGO (9)  g(63)
+DEF = 1 + VIT (5)  g(35)
+SPD = 2 + BEU (10) g(70)
+MP = 11 + STR (21) g(147)
+
+SEX = 6
+EGO = 3
+VIT = 4
+BEU = 8
+STR = 4
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Keepers" (100k/100k)
+(Cost: $194,000)
+
+Species: Demon
+Type: Fiend
+
+HP = 190 + SEX (250) g(1750)
+ATK = 60 + EGO (90)  g(630)
+DEF = 10 + VIT (50)  g(350)
+SPD = 20 + BEU (100) g(700)
+MP = 110 + STR (210) g(1470)
+
+SEX = 60
+EGO = 30
+VIT = 40
+BEU = 80
+STR = 40
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Collectors" (10k/10k)
+(Cost: $19,400,000)
+
+Species: Demon
+Type: Fiend
+
+HP = 1900 + SEX (2500) g(17.5k)
+ATK = 600 + EGO (900)  g(6300)
+DEF = 100 + VIT (500)  g(3500)
+SPD = 200 + BEU (1000) g(7000)
+MP = 1100 + STR (2100) g(14.7k)
+
+SEX = 600
+EGO = 300
+VIT = 400
+BEU = 800
+STR = 400
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Diffuser" (1k/1k)
+(Cost: $1,940,000,000)
+
+Species: Demon
+Type: Fiend
+
+HP = 19k + SEX (25k) g(175k)
+ATK = 6k + EGO (9k)  g(63k)
+DEF = 1k + VIT (5k)  g(35k)
+SPD = 2k + BEU (10k) g(70k)
+MP = 11k + STR (21k) g(147k)
+
+SEX = 6k
+EGO = 3k
+VIT = 4k
+BEU = 8k
+STR = 4k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Infuser" (100/100)
+(Cost: $194,000,000,000)
+
+Species: Demon
+Type: Fiend
+
+HP = 190k + SEX (250k) g(1750k)
+ATK = 60k + EGO (90k)  g(630k)
+DEF = 10k + VIT (50k)  g(350k)
+SPD = 20k + BEU (100k) g(700k)
+MP = 110k + STR (210k) g(1470k)
+
+SEX = 60k
+EGO = 30k
+VIT = 40k
+BEU = 80k
+STR = 40k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Hellena of Abyss" (10/10)
+(Cost: $19,400,000,000,000)
+
+Species: Demon
+Type: Fiend
+
+HP  = 1.9m + SEX (2.5m) g(17.5m)
+ATK = 600k + EGO (900k) g(6.3m)
+DEF = 100k + VIT (500k) g(3.5m)
+SPD = 200k + BEU (1m)   g(7m)
+MP  = 1.1m + STR (2.1m) g(14.7m)
+
+SEX = 600k
+EGO = 300k
+VIT = 400k
+BEU = 800k
+STR = 400k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnBEU, FearBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

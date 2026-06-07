@@ -1,0 +1,235 @@
+"Avian"
+
+10 5 1 12
+
+2 1 2 5 5 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Avalon]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Avium Gasaga" Lvl 0
+Mod/Avious/Vortex [NoviceI]
++4/2/3 +KNO/UND/DIV (+7/9/8)
+HorusUND, FlyingUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Twist Root" (1m/1m)
+(Cost: $400)
+
+Type: Vortex
+
+HP  + WIS
+ATK + KNO
+DEF + UND
+SPD + DIV
+MP  + MNF
+
+SEX = 6
+BEU = 4
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Hawk" (1m/1m)
+(Cost: $1,100)
+
+Species: Avious
+
+HP  = 15
+ATK = 4
+DEF = 2
+SPD = 3
+MP  = 17
+
+SEX = 4
+BEU = 6
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Citizen" (1m/1m)
+(Cost: $1,960)
+
+Species: Avious
+Type: Vortex
+
+HP = 15 + WIS (20) g(140)
+ATK = 4 + KNO (7)  g(49)
+DEF = 2 + UND (9)  g(63)
+SPD = 3 + DIV (8)  g(56)
+MP = 17 + MNF (28) g(196)
+
+WIS = 5
+KNO = 3
+UND = 7
+DIV = 5
+MNF = 11
+
+Move: Diag
+Attack: Omni
+
+Traits: HorusMNF, FlyingMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Sky Blade" (100k/100k)
+(Cost: $196,000)
+
+Species: Avious
+Type: Vortex
+
+HP = 150 + WIS (200) g(1400)
+ATK = 40 + KNO (70)  g(490)
+DEF = 20 + UND (90)  g(630)
+SPD = 30 + DIV (80)  g(560)
+MP = 170 + MNF (280) g(1960)
+
+WIS = 50
+KNO = 30
+UND = 70
+DIV = 50
+MNF = 110
+
+Move: Diag
+Attack: Omni
+
+Traits: HorusMNF, FlyingMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Outpost" (10k/10k)
+(Cost: $19,600,000)
+
+Species: Avious
+Type: Vortex
+
+HP = 1500 + WIS (2000) g(14k)
+ATK = 400 + KNO (700)  g(4.9k)
+DEF = 200 + UND (900)  g(6.3k)
+SPD = 300 + DIV (800)  g(5.6k)
+MP = 1700 + MNF (2800) g(19.6k)
+
+WIS = 500
+KNO = 300
+UND = 700
+DIV = 500
+MNF = 1100
+
+Move: Diag
+Attack: Omni
+
+Traits: HorusMNF, FlyingMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Avalon Star" (1k/1k)
+(Cost: $1,960,000,000)
+
+Species: Avious
+Type: Vortex
+
+HP = 15k + WIS (20k) g(140k)
+ATK = 4k + KNO (7k)  g(49k)
+DEF = 2k + UND (9k)  g(63k)
+SPD = 3k + DIV (8k)  g(56k)
+MP = 17k + MNF (28k) g(196k)
+
+WIS = 5k
+KNO = 3k
+UND = 7k
+DIV = 5k
+MNF = 11k
+
+Move: Diag
+Attack: Omni
+
+Traits: HorusMNF, FlyingMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Spiral Archive" (100/100)
+(Cost: $196,000,000,000)
+
+Species: Avious
+Type: Vortex
+
+HP = 150k + WIS (200k) g(1400k)
+ATK = 40k + KNO (70k)  g(490k)
+DEF = 20k + UND (90k)  g(630k)
+SPD = 30k + DIV (80k)  g(560k)
+MP = 170k + MNF (280k) g(1960k)
+
+WIS = 50k
+KNO = 30k
+UND = 70k
+DIV = 50k
+MNF = 110k
+
+Move: Diag
+Attack: Omni
+
+Traits: HorusMNF, FlyingMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Avalon Empire" (10/10)
+(Cost: $19,600,000,000,000)
+
+Species: Avious
+Type: Vortex
+
+HP  = 1.5m + WIS (2m)    g(14m)
+ATK = 400k + KNO (700k)  g(4.9m)
+DEF = 200k + UND (900k)  g(6.3m)
+SPD = 300k + DIV (800k)  g(5.6m)
+MP  = 1.7m + MNF (2.8m)  g(19.6m)
+
+WIS = 500k
+KNO = 300k
+UND = 700k
+DIV = 500k
+MNF = 1.1m
+
+Move: Diag
+Attack: Omni
+
+Traits: HorusMNF, FlyingMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,235 @@
+"Guy"
+
+3 1 19 12
+
+4 1 2 5 6 3
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Temporius]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Chronium Gasaga" Lvl 0
+Mod/Chronos/Vortex [NoviceI]
++3/4/2 +KNO/WIS/SEX (+13/10/13)
+RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Stopper" (1m/1m)
+(Cost: $420)
+
+Type: Vortex
+
+HP  + UND
+ATK + KNO
+DEF + WIS
+SPD + SEX
+MP  + DIV
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Wyrm" (1m/1m)
+(Cost: $1,100)
+
+Species: Chrono
+
+HP = 12
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 18
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Sandman" (1m/1m)
+(Cost: $1,980)
+
+Species: Chrono
+Type: Vortex
+
+HP = 12 + UND (14) g(98)
+ATK = 3 + KNO (13) g(91)
+DEF = 4 + WIS (10) g(70)
+SPD = 2 + SEX (13) g(91)
+MP = 18 + DIV (24) g(168)
+
+UND = 2
+KNO = 10
+WIS = 6
+SEX = 11
+DIV = 6
+
+Move: Lateral
+Attack: Omni
+
+Traits: RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Buggy" (100k/100k)
+(Cost: $198,000)
+
+Species: Chrono
+Type: Vortex
+
+HP = 120 + UND (140) g(980)
+ATK = 30 + KNO (130) g(910)
+DEF = 40 + WIS (100) g(700)
+SPD = 20 + SEX (130) g(910)
+MP = 180 + DIV (240) g(1680)
+
+UND = 20
+KNO = 100
+WIS = 60
+SEX = 110
+DIV = 60
+
+Move: Lateral
+Attack: Omni
+
+Traits: RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Citadel" (10k/10k)
+(Cost: $19,800,000)
+
+Species: Chrono
+Type: Vortex
+
+HP = 1200 + UND (1400) g(9800)
+ATK = 300 + KNO (1300) g(9100)
+DEF = 400 + WIS (1000) g(7000)
+SPD = 200 + SEX (1300) g(9100)
+MP = 1800 + DIV (2400) g(16.8k)
+
+UND = 200
+KNO = 1000
+WIS = 600
+SEX = 1100
+DIV = 600
+
+Move: Lateral
+Attack: Omni
+
+Traits: RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Wyrmhole" (1k/1k)
+(Cost: $1,980,000,000)
+
+Species: Chrono
+Type: Vortex
+
+HP = 12k + UND (14k) g(98k)
+ATK = 3k + KNO (13k) g(91k)
+DEF = 4k + WIS (10k) g(70k)
+SPD = 2k + SEX (13k) g(91k)
+MP = 18k + DIV (24k) g(168k)
+
+UND = 2k
+KNO = 10k
+WIS = 6k
+SEX = 11k
+DIV = 6k
+
+Move: Lateral
+Attack: Omni
+
+Traits: RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Time Sync" (100/100)
+(Cost: $198,000,000,000)
+
+Species: Chrono
+Type: Vortex
+
+HP = 120k + UND (140k) g(980k)
+ATK = 30k + KNO (130k) g(910k)
+DEF = 40k + WIS (100k) g(700k)
+SPD = 20k + SEX (130k) g(910k)
+MP = 180k + DIV (240k) g(1680k)
+
+UND = 20k
+KNO = 100k
+WIS = 60k
+SEX = 110k
+DIV = 60k
+
+Move: Lateral
+Attack: Omni
+
+Traits: RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Temporius Infinitum" (10/10)
+(Cost: $19,800,000,000,000)
+
+Species: Chrono
+Type: Vortex
+
+HP  = 1.2m + UND (1.4m) g(9.8m)
+ATK = 300k + KNO (1.3m) g(9.1m)
+DEF = 400k + WIS (1m)   g(7m)
+SPD = 200k + SEX (1.3m) g(9.1m)
+MP  = 1.8m + DIV (2.4m) g(16.8m)
+
+UND = 200k
+KNO = 1m
+WIS = 600k
+SEX = 1.1m
+DIV = 600k
+
+Move: Lateral
+Attack: Omni
+
+Traits: RegressSEX, FlyingSEX
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

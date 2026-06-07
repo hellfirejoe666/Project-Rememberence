@@ -1,0 +1,81 @@
+"Book of Vika"
+
+~Act One~
+
+1.	Prologue;
+	""
+
+2.	Governance;
+	""
+
+3.	Religion;
+	""
+
+4.	Logic;
+	""
+
+5.	Wisdom;
+	""
+
+6.	Wealth;
+	""
+
+~Act Two~
+
+7.	Matter;
+	""
+
+8.	Illusion;
+	""
+
+9.	War;
+	""
+
+10.	Space;
+	""
+
+11.	Vision;
+	""
+
+12.	Peace;
+	""
+
+~Act Three~
+
+13.	Decay;
+	""
+
+14.	Time;
+	""
+
+15.	Signs;
+	""
+
+16.	Life;
+	""
+
+17.	Blood;
+	""
+
+18.	Spirit;
+	""
+
+~Act Four~
+
+19.	Minds;
+	""
+
+20.	Owners;
+	""
+
+21.	Lessons;
+	""
+
+22.	Truth;
+	""
+
+23.	Mystic;
+	""
+
+24.	Epilogue;
+	""

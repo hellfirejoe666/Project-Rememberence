@@ -1,0 +1,31 @@
+{
+  "spirits": [
+    {
+      "name": "TestSpirit",
+      "animal": "Rat",
+      "star": "Aries",
+      "thoughts": {
+        "State": 4,
+        "Emotion": 4
+      },
+      "loyaltyMap": {
+        "Player": 49
+      },
+      "loyaltyRank": {},
+      "species": "Unknown",
+      "type": "Neutral"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1780864283563,
+      "author": "TestSpirit",
+      "content": "TestSpirit murmurs in the weave.",
+      "timestamp": 1780864283
+    }
+  ],
+  "postCounters": {
+    "lastId": 0
+  },
+  "lastSaved": 1780864283
+}

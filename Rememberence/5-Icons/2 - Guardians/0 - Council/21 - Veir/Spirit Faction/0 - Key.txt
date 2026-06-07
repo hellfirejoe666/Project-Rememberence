@@ -1,0 +1,235 @@
+"Veir"
+
+9 7 21 16
+
+5 6 6 3 1 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Reborn]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Mimicite Forsaga" Lvl 0
+Mod/Mimic/Normal [NoviceI]
++3/1/5 +STR/FND/VIT (+8/7/12)
+CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Cubit" (1m/1m)
+(Cost: $450)
+
+Type: Normal
+
+HP  + KNO
+ATK + STR
+DEF + FND
+SPD + VIT
+MP  + UND
+
+SEX = 9
+BEU = 7
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Whatsit" (1m/1m)
+(Cost: $1,240)
+
+Species: Mimic
+
+HP  = 5
+ATK = 3
+DEF = 1
+SPD = 5
+MP = 25
+
+SEX = 7
+BEU = 9
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Nobody" (1m/1m)
+(Cost: $1,930)
+
+Species: Mimic
+Type: Normal
+
+HP =  5 + KNO (7)  g(49)
+ATK = 3 + STR (8)  g(56)
+DEF = 1 + FND (7)  g(49)
+SPD = 5 + VIT (12) g(84)
+MP = 25 + UND (35) g(245)
+
+KNO = 2
+STR = 5
+FND = 6
+VIT = 7
+UND = 10
+
+Move: Corner Lateral
+Attack: Omni
+
+Traits: CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Mirror" (100k/100k)
+(Cost: $193,000)
+
+Species: Mimic
+Type: Normal
+
+HP =  50 + KNO (70)  g(490)
+ATK = 30 + STR (80)  g(560)
+DEF = 10 + FND (70)  g(490)
+SPD = 50 + VIT (120) g(840)
+MP = 250 + UND (350) g(2450)
+
+KNO = 20
+STR = 50
+FND = 60
+VIT = 70
+UND = 100
+
+Move: Corner Lateral
+Attack: Omni
+
+Traits: CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Shifter" (10k/10k)
+(Cost: $19,300,000)
+
+Species: Mimic
+Type: Normal
+
+HP =  500 + KNO (700)  g(4900)
+ATK = 300 + STR (800)  g(5600)
+DEF = 100 + FND (700)  g(4900)
+SPD = 500 + VIT (1200) g(8400)
+MP = 2500 + UND (3500) g(24.5k)
+
+KNO = 200
+STR = 500
+FND = 600
+VIT = 700
+UND = 1000
+
+Move: Corner Lateral
+Attack: Omni
+
+Traits: CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Reflector" (1k/1k)
+(Cost: $1,930,000,000)
+
+Species: Mimic
+Type: Normal
+
+HP =  5k + KNO (7k)  g(49k)
+ATK = 3k + STR (8k)  g(56k)
+DEF = 1k + FND (7k)  g(49k)
+SPD = 5k + VIT (12k) g(84k)
+MP = 25k + UND (35k) g(245k)
+
+KNO = 2k
+STR = 5k
+FND = 6k
+VIT = 7k
+UND = 10k
+
+Move: Corner Lateral
+Attack: Omni
+
+Traits: CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Backspin" (100/100)
+(Cost: $193,000,000,000)
+
+Species: Mimic
+Type: Normal
+
+HP =  50k + KNO (70k)  g(490k)
+ATK = 30k + STR (80k)  g(560k)
+DEF = 10k + FND (70k)  g(490k)
+SPD = 50k + VIT (120k) g(840k)
+MP = 250k + UND (350k) g(2450k)
+
+KNO = 20k
+STR = 50k
+FND = 60k
+VIT = 70k
+UND = 100k
+
+Move: Corner Lateral
+Attack: Omni
+
+Traits: CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Reborn Collective" (10/10)
+(Cost: $19,300,000,000,000)
+
+Species: Mimic
+Type: Normal
+
+HP  = 500k + KNO (700k) g(4.9m)
+ATK = 300k + STR (800k) g(5.6m)
+DEF = 100k + FND (700k) g(4.9m)
+SPD = 500k + VIT (1.2m) g(8.4m)
+MP  = 2.5m + UND (3.5m) g(24.5m)
+
+KNO = 200k
+STR = 500k
+FND = 600k
+VIT = 700k
+UND = 1m
+
+Move: Corner Lateral
+Attack: Omni
+
+Traits: CopyUND, Battle-CryUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

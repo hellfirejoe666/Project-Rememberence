@@ -1,0 +1,208 @@
+(Cassedy): Level = 0 {100k}
+[It's where you go, not where you're from]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Grey
+Element; Light
+(Goat)
+Ability; Rebirth, If the Caster would be destroyed this turn and their MP is greater than DIV, then they may convert their MP, up to DIV, into HP and continue as if they had not been destroyed.
+
+-----------------------------------------
+
+Type; Warrior
+Color; Blue
+(Gemini)
+Atributes; Multistrike, make a number of additional attacks equal to STR.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 16 + MNF (23) g(161) {16,120,000}
+ATK = 2 + STR (12) g(84)  {8,420,000}
+DEF = 4 + VIT (10) g(70)  {7,020,000}
+SPD = 3 + SEX (7)  g(49)  {4,920,000}
+MP = 14 + EGO (21) g(147) {14,720,000}
+
+Move: Diag
+Attack: Omni
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 7  {+ 20k}
+SPL = 5
+BEU = 8
+STR = 10 {+ 20k}
+FND = 9
+KNO = 7
+UND = 5
+WIS = 3
+VIT = 6  {+ 20k}
+SEX = 4  {+ 20k}
+DIV = 1
+EGO = 7  {+ 20k}
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = 2
+Emo = 7
+Sub = 0
+Con = 3
+Abs = 4
+Per = -4
+State/ 12
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/1H "Light Sword"
+Ranged/Thrown "Light Sword"
+Magic/Light "Summon Sword"
+Step/Flight "Blade Wings"
+Special/Blue "Blade Swarm"
+Trance/Overdrive "Saber Storm"
+
+-----------------------------------------
+"Light Sword" Lvl 1 {100k}
+1H/Thrown/Grey/Warrior [DeityI]
++2/4/3 +STR/VIT/SEX (+12/10/7)
+Dual Wield, RecallSTR, RebirthSTR, MultistrikeSTR
+
+-----------------------------------------
+"Summon Sword" Lvl 1 {100k}
+Light/Demon/Warrior [DeityI]
++6/1/2 +STR/VIT/SEX (+16/7/6)
+CureMNF, SpawnMNF, MultistrikeMNF
+
+-----------------------------------------
+"Blade Wings" Lvl 1 {100k}
+Flight/Grey/Warrior [DeityI]
++2/4/3 +STR/VIT/SEX (+12/10/7)
+SoaringMNF, RebirthMNF, MultistrikeMNF
+
+-----------------------------------------
+"Blade Swarm" Lvl 1 {100k}
+Blue/Demon/Warrior [DeityI]
++6/1/2 +STR/VIT/SEX (+16/7/6)
+ControlMNF, SpawnMNF, MultistrikeMNF
+
+-----------------------------------------
+"Saber Storm" Lvl 1 {100k}
+Overdrive/Demon/Warrior [DeityI]
++2/4/3 +STR/VIT/SEX (+12/10/7)
+ReleaseSTR, SpawnSTR, MultistrikeSTR
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Progenesis" Lvl 1 {100k} [DeityI]
+Head/ Grey/Warrior
+Body/ Grey/Warrior
+Hands/ Grey/Warrior
+Legs/ Grey/Warrior
+Feet/ Grey/Warrior
+Other/ Grey/Warrior
+Total; +138/72/60/42/126
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+
+
+-----------------------------------------

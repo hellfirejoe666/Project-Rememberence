@@ -1,0 +1,212 @@
+(Erosia): Level = 0 {100k}
+[Poisons, acids, and gasses]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Goblin
+Element; Water
+(Snake)
+Ability; Elude, The caster's SPD is increased by SEX + VIT until end of turn.
+
+-----------------------------------------
+
+Type; Insect
+Color; Green
+(Aries)
+Atributes; Poison, target takes damage equal to the caster's SPL for a number of turns equal to the caster's SPL.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 6  + SPL (11) g(77)  {7,720,000}
+ATK = 1 + VIT (7)  g(49)  {4,920,000}
+DEF = 2 + EGO (7)  g(49)  {4,920,000}
+SPD = 6 + STR (16) g(112) {11,220,000}
+MP = 24 + KNO (35) g(245) {24,520,000}
+
+Move: Corner Lateral
+Attack: Spread
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 3
+SPL = 5  {+ 20k}
+BEU = 4
+STR = 10 {+ 20k}
+FND = 9
+KNO = 11 {+ 20k}
+UND = 5
+WIS = 3
+VIT = 6  {+ 20k}
+SEX = 8
+DIV = 3
+EGO = 5  {+ 20k}
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = 4
+Emo = 1
+Sub = 0
+Con = -5
+Abs = 8
+Per = -4
+State/ 4
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/Staff "Walkin Stick"
+Ranged/Shotgun "Scatter Dart"
+Magic/Water "Vomit"
+Step/Evade "Twist"
+Special/Green "Toxic Gas"
+Trance/Morph "Pestilence"
+
+-----------------------------------------
+"Walkin Stick" Lvl 1 {100k}
+Staff/Goblin/Insect [DeityI]
++1/2/6 +VIT/EGO/STR (+7/7/16)
+CatalystSTR, EludeSTR/VIT, PoisonSTR
+
+-----------------------------------------
+"Scatter Dart" Lvl 1 {100k}
+Shotgun/Goblin/Insect [DeityI]
++1/2/6 +VIT/EGO/STR (+7/7/16)
+ShockwaveSTR, EludeSTR/VIT, PoisonSTR
+
+-----------------------------------------
+"Vomit" Lvl 1 {100k}
+Water/Insect [DeityI]
++VIT/EGO/STR (+6/5/10)
+HydroKNO, PoisonKNO
+
+-----------------------------------------
+"Twist" Lvl 1 {100k}
+Evade/Reptoid/Insect [DeityI]
++4/2/3 +VIT/EGO/STR (+10/7/13)
+ElusiveKNO, ImitateKNO, PoisonKNO
+
+-----------------------------------------
+"Toxic Gas" Lvl 1 {100k}
+Green/Insect [DeityI]
++VIT/EGO/STR (+6/5/10)
+GrowthKNO, PoisonKNO
+
+-----------------------------------------
+"Pestilence" Lvl 1 {100k}
+Morph/Reptoid/Undead [DeityI]
++4/2/3 +VIT/SPL/EGO (+12/7/6)
+ShiftSTR, ImitateSTR, LifelinkSTR
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Beetle Coat" Lvl 1 {100k} [DeityI]
+Head/ Goblin/Insect
+Body/ Goblin/Insect
+Hands/ Goblin/Insect
+Legs/ Goblin/Insect
+Feet/ Goblin/Insect
+Other/ Goblin/Insect
+Total; +66/42/42/96/210
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+-----------------------------------------

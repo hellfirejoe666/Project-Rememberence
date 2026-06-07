@@ -1,0 +1,235 @@
+"Kess"
+
+6 4 24 18
+
+1 5 6 5 3 1
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Missing]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Bastet Mistara" Lvl 0
+Mod/Bastet/Ghost [NoviceI]
++4/2/3 +UND/SEX/DIV (+8/7/7)
+GuideEGO, PhaseEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Here" (1m/1m)
+(Cost: $380)
+
+Type: Ghost
+
+HP  + MNF
+ATK + UND
+DEF + SEX
+SPD + DIV
+MP  + EGO
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"There" (1m/1m)
+(Cost: $1,260)
+
+Species: Bastet
+
+HP = 24
+ATK = 4
+DEF = 2
+SPD = 3
+MP  = 6
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Nowhere" (1m/1m)
+(Cost: $1,880)
+
+Species: Bastet
+Type: Ghost
+
+HP = 24 + MNF (30) g(210)
+ATK = 4 + UND (8)  g(56)
+DEF = 2 + SEX (7)  g(49)
+SPD = 3 + DIV (7)  g(49)
+MP =  6 + EGO (12) g(84)
+
+MNF = 6
+UND = 4
+SEX = 5
+DIV = 4
+EGO = 6
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: GuideEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Ghost Tank" (100k/100k)
+(Cost: $188,000)
+
+Species: Bastet
+Type: Ghost
+
+HP = 240 + MNF (300) g(2100)
+ATK = 40 + UND (80)  g(560)
+DEF = 20 + SEX (70)  g(490)
+SPD = 30 + DIV (70)  g(490)
+MP =  60 + EGO (120) g(840)
+
+MNF = 60
+UND = 40
+SEX = 50
+DIV = 40
+EGO = 60
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: GuideEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Lost City" (10k/10k)
+(Cost: $18,800,000)
+
+Species: Bastet
+Type: Ghost
+
+HP = 2400 + MNF (3000) g(21k)
+ATK = 400 + UND (800)  g(5600)
+DEF = 200 + SEX (700)  g(4900)
+SPD = 300 + DIV (700)  g(4900)
+MP =  600 + EGO (1200) g(8400)
+
+MNF = 600
+UND = 400
+SEX = 500
+DIV = 400
+EGO = 600
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: GuideEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Dark Star" (1k/1k)
+(Cost: $1,880,000,000)
+
+Species: Bastet
+Type: Ghost
+
+HP = 24k + MNF (30k) g(210k)
+ATK = 4k + UND (8k)  g(56k)
+DEF = 2k + SEX (7k)  g(49k)
+SPD = 3k + DIV (7k)  g(49k)
+MP =  6k + EGO (12k) g(84k)
+
+MNF = 6k
+UND = 4k
+SEX = 5k
+DIV = 4k
+EGO = 6k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: GuideEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Silence" (100/100)
+(Cost: $188,000,000,000)
+
+Species: Bastet
+Type: Ghost
+
+HP = 240k + MNF (300k) g(2100k)
+ATK = 40k + UND (80k)  g(560k)
+DEF = 20k + SEX (70k)  g(490k)
+SPD = 30k + DIV (70k)  g(490k)
+MP =  60k + EGO (120k) g(840k)
+
+MNF = 60k
+UND = 40k
+SEX = 50k
+DIV = 40k
+EGO = 60k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: GuideEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Missing Heart" (10/10)
+(Cost: $18,800,000,000,000)
+
+Species: Bastet
+Type: Ghost
+
+HP  = 2.4m + MNF (3m)   g(21m)
+ATK = 400k + UND (800k) g(5.6m)
+DEF = 200k + SEX (700k) g(4.9m)
+SPD = 300k + DIV (700k) g(4.9m)
+MP  = 600k + EGO (1.2m) g(8.4m)
+
+MNF = 600k
+UND = 400k
+SEX = 500k
+DIV = 400k
+EGO = 600k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: GuideEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

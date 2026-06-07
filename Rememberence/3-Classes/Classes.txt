@@ -1,0 +1,522 @@
+Classes, Skills, and Styles
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1) Melee; Basic physical attack, must be next to the target. 
+
+2) Ranged; Basic distant attack, does not have to be next to the target.
+
+3) Magic; Basic elemental abilities, does not require being next to the target.
+
+4) Step; Basic enhanced movement, changes the way a spirit moves when activated.
+
+5) Special; Basic color abilities, May effect various gameplay functions.
+
+6) Trance; Transformations, drain MP each turn depending on the trance, enhances the natural abilities of a spirit.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All Skills use the Primary Leveling System For Mastery tier progress, but they do not receive Sp. Instead, all Skill bonuses are multiplied by Mastery tier level. 
+
+You may not craft/enhance items or skills above the Spirit's mastery tier, and they may not use items or skills above their mastery. Only items and skills at, or below their mastery, may be equipped and utilized.
+
+It takes 1k of the appropriate skill shards to learn a new skill, it may then be leveled up normally. Equipping an item in your skill slot for a particular class overrides the base skill bonuses, but does not prevent you from using them separately.
+
+Skill bonuses on ATK/DEF/SPD may be added to the ATK/DEF/SPD of the material/materia equipped in that skill slot when using the base skill instead of the equipped material/materia.
+
+Any custom items/abilities you create to fill your skill slots follow this same tier system, and may be leveled up similarly to the base skills themselves. You may not equip items to your skill slots which exceed your skill mastery.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~Melee Mind Walk~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	"As swords meet shields, and armies clash. The force of mighty blows rings over the battlefield like war drums pounding to the rythm of silent nights. Taking up arms before knowing your own feet, if only to survive your dreams. Striving to bring back the hand of fate which had striken down delusions of grandure. A valliant knight, and a drunken thief, to bring the world to it's knees."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Melee Skills are controlled with STR/FND.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------------------------
+1) One Handed: [King]
+Anything wielded with a single hand.
+
+ATK + 2
+DEF + 1
+SPD + 3
+
+Pattern: Area
+Traits: Dual Wield, You may equip two of this kind of weapon at a time.
+
+------------------------------------
+2) Two Handed: [Rook]
+Anything that is too large to be wielded with one hand.
+
+ATK + 2
+DEF + 3
+SPD + 1
+
+Pattern: Lateral
+Traits: Shockwave, This kind of weapon may strike a number of targets in the same space.
+
+------------------------------------
+3) Whip: [Thief]
+Ropes, chains, anything long and flexible, a thin branch for example.
+
+ATK + 3
+DEF + 1
+SPD + 2
+
+Pattern: Corner Diag
+Traits: Sting, This kind of weapon may ignore some of a target's SPD while dodging.
+
+------------------------------------
+4) Staff: [Knight]
+A broom, a tall pipe, anything that is blunt and longer than half your height.
+
+ATK + 1
+DEF + 3
+SPD + 2
+
+Pattern: Corner Lateral
+Traits: Catalyst, This kind of weapon may increase Magic damage or counters.
+
+------------------------------------
+5) Fists: [Queen]
+Who needs a weapon? Though some brass knuckles would be great!
+
+ATK + 1
+DEF + 1
+SPD + 4
+
+Pattern: Omni
+Traits: Breaker, This kind of weapon may reduse the target's DEF.
+
+------------------------------------
+6) Chi: [Bishop]
+Use the flows of energy to defend, and attack.
+
+ATK + 1
+DEF + 4
+SPD + 1
+
+Pattern: Diagonal
+Traits: Focus, This kind of weapon may increase Special damage or counters.
+
+------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~Ranged Secrets~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	"Stars fall, bringing a fiery passion, and light fades from the darkened sky. The hunter meets their prey, a silent whisper in the distance. A shot in the dark if only to pierce their still beating heart. The final breath before molten lead splits their skull. To live and die by unseen forces is but a matter of course for low pay killers."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ranged Skills are controlled with VIT/EGO.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------------------------
+1) Thrown: [Ninja]
+Stars, Knives, or a small stone, throwing weapons unleash the inner ninja!
+
+ATK + 2
+DEF + 1
+SPD + 3
+
+Pattern: Omni
+Traits: Recall, A number of weapons that are thrown may be returned to the owner.
+
+------------------------------------
+2) Bow: [Archer]
+Archer's choice, Longbows, Compound, etc. great for the silent kill.
+
+ATK + 3
+DEF + 0
+SPD + 3
+
+Pattern: Corner Lateral
+Traits: Focus, This kind of weapon may increase special damage or counters.
+
+------------------------------------
+3) Crossbow: [Hunter]
+Mechanical bows, for the less physically inclined.
+
+ATK + 1
+DEF + 2
+SPD + 3
+
+Pattern: Corner Diagonal
+Traits: Breaker, This kind of weapon may reduse the target's DEF.
+
+------------------------------------
+4) Shotgun: [Slayer]
+Shotguns are great for clearing a room, or that unexpected corner shot.
+
+ATK + 1
+DEF + 3
+SPD + 2
+
+Pattern: Spread
+Traits: Shockwave, This kind of weapon may strike a number of targets in the same space.
+
+------------------------------------
+5) Pistol: [Trooper]
+One, or two? Pistols fire short to mid range, perfectly suited for emergencies.
+
+ATK + 3
+DEF + 1
+SPD + 2
+
+Pattern: Diagonal
+Traits: Dual Wield, You may equip two of this kind of weapon at a time.
+
+------------------------------------
+6) Rifle: [Sniper]
+Great for elusive game, or plucking off hoards of undead, one bullet, one kill.
+
+ATK + 4
+DEF + 0
+SPD + 2
+
+Pattern: Lateral
+Traits: Catalyst, This kind of weapon may increase Magic damage or counters.
+
+------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~Magic Lost, Magick Found~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	"The fires that burn in the heart of the sun. The stones beneath your feet, as you run along the road. Every breath you take while you struggle for air through ehausted gasps. The water you drink to restore your vigor and make those final steps. As day turns to night on the journey of life."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magic Skills are controlled with WIS/KNO.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------------------------
+1) Earth: [Terra]
+The stones bend at my touch, responding to the echoes of my call.
+
+ATK + 2
+DEF + 3
+SPD + 1
+
+Pattern: Area
+Traits: Quake, This kind of spell may Stun the target.
+
+------------------------------------
+2) Air: [Aero]
+Breathe, and exhale, when the winds blow I answer. They sway to me.
+
+ATK + 2
+DEF + 1
+SPD + 3
+
+Pattern: Corner Lateral
+Traits: Gust, This kind of spell may reduce the target's SPD.
+
+------------------------------------
+3) Fire: [Fira]
+The touch makes blazes burn, the heat of my soul like Fire in the night.
+
+ATK + 3
+DEF + 2
+SPD + 1
+
+Pattern: Spread
+Traits: Flare, This kind of spell may Burn the target.
+
+------------------------------------
+4) Water: [Hydra]
+Ebb and flow, as it rains upon the oceans these Moon lit evenings.
+
+ATK + 2
+DEF + 3
+SPD + 1
+
+Pattern: Corner Diagonal
+Traits: Hydro, This kind of spell may reduce the target's DEF.
+
+------------------------------------
+5) Light: [Lumos]
+The light can never die! Now we March to the Trumpets of holy might!
+
+ATK + 3
+DEF + 3
+SPD + 0
+
+Pattern: Lateral
+Traits: Cure, This kind of spell may restore a target's HP.
+
+------------------------------------
+6) Dark: [Dim]
+Darkness consumes Your Spirit, it shall be mine! Never to be seen again!
+
+ATK + 2
+DEF + 0
+SPD + 4
+
+Pattern: Diagonal
+Traits: Weaken, This kind of spell may take MP from a target.
+
+------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Mystic Steps~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	"Soaring through the cosmos on translucent wings. Floating along the surface of time like a ship at sea, running along it's shores like a child at play. Sailing from hopes and dreams in the playground of dust and decay. Tying places together for only an instant, such is a passing glance. Eluding even the most keen of prying eyes."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Step Skills are controlled with UND/BEU.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+------------------------------------
+1) Flight: [Soar]
+To soar through the night on silent wings, with the serenity of flight.
+
+ATK + 0
+DEF + 2
+SPD + 4
+
+Pattern: Omni
+Traits: Soaring, This kind of step prevents the caster from being targeted without reach.
+
+------------------------------------
+2) Float: [Slide]
+Like skating over the ground on a thin membrane of energy.
+
+ATK + 2
+DEF + 3
+SPD + 1
+
+Pattern: Diagonal
+Traits: Slide, This kind of step allows the caster to move long distances through the air.
+
+------------------------------------
+3) Dash: [Sprint]
+Bursts of speed make movement and evasion seem like child's play!
+
+ATK + 3
+DEF + 1
+SPD + 2
+
+Pattern: Lateral
+Traits: Charge, This kind of step allows the caster to trample targets.
+
+------------------------------------
+4) Acrobat: [Flip]
+Flipping and spinning, eluding obstacles with absolute ease.
+
+ATK + 3
+DEF + 3
+SPD + 0
+
+Pattern: Corner Diagonal
+Traits: Free Run, This kind of step allows the caster to reach distant targets.
+
+------------------------------------
+5) Warp: [Phase]
+No need to exert yourself too much, when you can teleport.
+
+ATK + 0
+DEF + 1
+SPD + 5
+
+Pattern: Area
+Traits: Teleport, This kind of step allows the caster to phase through walls.
+
+------------------------------------
+6) Evade: [Feint]
+Duck and Roll, switch and swerve, never taking a hit if you can help it.
+
+ATK + 1
+DEF + 4
+SPD + 1
+
+Pattern: Corner Lateral
+Traits: Elusive, This kind of step allows the caster to increase their SPD while dodging.
+
+------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~Special Power~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	"A hero risen from the ashes of a dying empire. To bring back empty souls from toxic wastelands. A rising fire, burning away the lament of eternal betrayal. The forces of nature blossom, as new life takes it's place. Only for cold reason to bring yet another cycle."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Special Skills are controlled with SPL/MNF.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+------------------------------------
+1) White: [Field]
+Order and justice will prevail over the iniquities of chaos!!!
+
+ATK + 1
+DEF + 3
+SPD + 2
+
+Pattern: Lateral
+Traits: Barrier, This kind of power can be used to prevent an ammount of damage.
+
+------------------------------------
+2) Blue: [Island]
+Knowledge and wisdom are key, one never knows what to expect.
+
+ATK + 2
+DEF + 3
+SPD + 1
+
+Pattern: Diagonal
+Traits: Control, This kind of power can be used to command lower level spirits.
+
+------------------------------------
+3) Black: [Swamp]
+Chaos and massacre are so much fun, wouldn't you agree?
+
+ATK + 3
+DEF + 1
+SPD + 2
+
+Pattern: Area
+Traits: Venom, This kind of power can be used to poison a target.
+
+------------------------------------
+4) Red: [Mountain]
+Power and direct force destroy all obstacles, let nothing stand in your way.
+
+ATK + 4
+DEF + 0
+SPD + 2
+
+Pattern: Spread
+Traits: Blast, This kind of power can be used to increase damage or counters.
+
+------------------------------------
+5) Green: [Forest]
+Life forces flow, forests grow, power rises, and nature will overtake you.
+
+ATK + 3
+DEF + 3
+SPD + 0
+
+Pattern: Corner Lateral
+Traits: Growth, This kind of power may be used to restore a target's MP.
+
+------------------------------------
+6) None: [Desert]
+The Color of death, the breath of the machine and cold as the grip of space.
+
+ATK + 2
+DEF + 2
+SPD + 2
+
+Pattern: Omni
+Traits: Token, This kind of power may spawn a number of tokens.
+
+------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~Method of Trance~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	"Pushing the limits of imagination, infusing forces and forms. One step at a time, like stairs leading to higher aspirations. Holding out despite every lethargic battle. Exuding stregnth even when your heart is weak. Changing over time to bring about desired futures."
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trance skills are controlled with DIV/SEX.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------------------------
+1) Overdrive: [Surge]
+Pushing your limits, awakening your power if only for a short while.
+
+ATK + 3
+DEF + 3
+SPD + 0
+
+Pattern: Lateral
+Traits: Release, This kind of trance may multiply the combat stats of the caster until their next turn.
+
+------------------------------------
+2) Stages: [Charge]
+Never Give up and stay determined to go beyond you limits.
+
+ATK + 1
+DEF + 3
+SPD + 2
+
+Pattern: Diagonal
+Traits: Boost, This kind of trance may increse the caster's combat stats incrimentally by a factor.
+
+------------------------------------
+3) Duration: [Generate]
+The longer the battle, the more thrilling it becomes.
+
+ATK + 2
+DEF + 0
+SPD + 4
+
+Pattern: Corner Diagonal
+Traits: Persist, This kind of trance doesn't have to be recast for a number of turns.
+
+------------------------------------
+4) Aura: [Radiate]
+The Spirits surround and envelop you, don't lose yourself to them.
+
+ATK + 4
+DEF + 2
+SPD + 0
+
+Pattern: Area
+Traits: Overwhelm, This kind of trance may inflict fear on nearby spirits.
+
+------------------------------------
+5) Armor: [Plated]
+Protecting you as a suit of pure, solid, energy.
+
+ATK + 0
+DEF + 5
+SPD + 1
+
+Pattern: Corner Lateral
+Traits: Protect, This kind of trance may be cast seperate from the caster as a token.
+
+------------------------------------
+6) Morph: [Reactive]
+Some fear change, others embrace it like a Lycanthrope.
+
+ATK + 4
+DEF + 1
+SPD + 1
+
+Pattern: Omni
+Traits: Shift, This kind of trance may change, and/or enhance, the caster's Species for a time.
+
+------------------------------------

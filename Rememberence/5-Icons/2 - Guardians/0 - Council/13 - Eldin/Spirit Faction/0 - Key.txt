@@ -1,0 +1,235 @@
+"Eldin"
+
+4 6 13 3
+
+4 4 6 2 2 2
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Maelstrom]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Maniquite Cultia" Lvl 0
+Mod/Mannequin/Spellcaster [NoviceI]
++1/2/6 +KNO/DIV/SEX (+7/10/11)
+UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Cult Grass" (1m/1m)
+(Cost: $420)
+
+Type: Spellcaster
+
+HP  + BEU
+ATK + KNO
+DEF + DIV
+SPD + SEX
+MP  + SPL
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Dolls" (1m/1m)
+(Cost: $1,200)
+
+Species: Mannequin
+
+HP  = 8
+ATK = 1
+DEF = 2
+SPD = 6
+MP = 22
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Corner Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Coven" (1m/1m)
+(Cost: $2,010)
+
+Species: Mannequin
+Type: Spellcaster
+
+HP  = 8 + BEU (15) g(105)
+ATK = 1 + KNO (7)  g(49)
+DEF = 2 + DIV (10) g(70)
+SPD = 6 + SEX (11) g(77)
+MP = 22 + SPL (34) g(238)
+
+BEU = 7
+KNO = 6
+DIV = 8
+SEX = 5
+SPL = 12
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Corvette" (100k/100k)
+(Cost: $201,000)
+
+Species: Mannequin
+Type: Spellcaster
+
+HP  = 80 + BEU (150) g(1050)
+ATK = 10 + KNO (70)  g(490)
+DEF = 20 + DIV (100) g(700)
+SPD = 60 + SEX (110) g(770)
+MP = 220 + SPL (340) g(2380)
+
+BEU = 70
+KNO = 60
+DIV = 80
+SEX = 50
+SPL = 120
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"University" (10k/10k)
+(Cost: $20,100,000)
+
+Species: Mannequin
+Type: Spellcaster
+
+HP  = 800 + BEU (1500) g(10.5k)
+ATK = 100 + KNO (700)  g(4900)
+DEF = 200 + DIV (1000) g(7000)
+SPD = 600 + SEX (1100) g(7700)
+MP = 2200 + SPL (3400) g(23.8k)
+
+BEU = 700
+KNO = 600
+DIV = 800
+SEX = 500
+SPL = 1200
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Cult Star" (1k/1k)
+(Cost: $2,010,000,000)
+
+Species: Mannequin
+Type: Spellcaster
+
+HP  = 8k + BEU (15k) g(105k)
+ATK = 1k + KNO (7k)  g(49k)
+DEF = 2k + DIV (10k) g(70k)
+SPD = 6k + SEX (11k) g(77k)
+MP = 22k + SPL (34k) g(238k)
+
+BEU = 7k
+KNO = 6k
+DIV = 8k
+SEX = 5k
+SPL = 12k
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Caster Spiral" (100/100)
+(Cost: $201,000,000,000)
+
+Species: Mannequin
+Type: Spellcaster
+
+HP  = 80k + BEU (150k) g(1050k)
+ATK = 10k + KNO (70k)  g(490k)
+DEF = 20k + DIV (100k) g(700k)
+SPD = 60k + SEX (110k) g(770k)
+MP = 220k + SPL (340k) g(2380k)
+
+BEU = 70k
+KNO = 60k
+DIV = 80k
+SEX = 50k
+SPL = 120k
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Maelstrom Nexus" (10/10)
+(Cost: $20,100,000,000,000)
+
+Species: Mannequin
+Type: Spellcaster
+
+HP  = 800k + BEU (1.5m) g(10.5m)
+ATK = 100k + KNO (700k) g(4.9m)
+DEF = 200k + DIV (1m)   g(7m)
+SPD = 600k + SEX (1.1m) g(7.7m)
+MP  = 2.2m + SPL (3.4m) g(23.8m)
+
+BEU = 700k
+KNO = 600k
+DIV = 800k
+SEX = 500k
+SPL = 1.2m
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+Traits: UnmovingSPL, ShroudSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

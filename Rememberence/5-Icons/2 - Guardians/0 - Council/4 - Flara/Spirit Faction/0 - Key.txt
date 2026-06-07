@@ -1,0 +1,235 @@
+"Flara"
+
+4 5 4 4
+
+1 1 3 5 4 5
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Ventara]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Inirium Plasmara" Lvl 0
+Mod/Iniris/Pyro [NoviceI]
++2/2/6 +KNO/WIS/STR (+9/5/12)
+LuckyKNO, BurnKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Blaze Pod" (1m/1m)
+(Cost: $340)
+
+Type: Pyro
+
+HP  + EGO
+ATK + KNO
+DEF + WIS
+SPD + STR
+MP  + SPL
+
+SEX = 3
+BEU = 1
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Bun-Bun" (1m/1m)
+(Cost: $1,130)
+
+Species: Iniris
+
+HP = 10
+ATK = 2
+DEF = 2
+SPD = 6
+MP = 20
+
+SEX = 1
+BEU = 3
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Workers" (1m/1m)
+(Cost: $1,980)
+
+Species: Iniris
+Type: Pyro
+
+HP = 10 + EGO (17) g(119)
+ATK = 2 + KNO (9)  g(63)
+DEF = 2 + WIS (5)  g(35)
+SPD = 6 + STR (12) g(84)
+MP = 20 + SPL (31) g(217)
+
+EGO = 7
+KNO = 7
+WIS = 3
+STR = 6
+SPL = 11
+
+Move: Diagnal
+Attack: Spread
+
+Traits: LuckySPL, BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Steam Engine" (100k/100k)
+(Cost: $198,000)
+
+Species: Iniris
+Type: Pyro
+
+HP = 100 + EGO (170) g(1190)
+ATK = 20 + KNO (90)  g(630)
+DEF = 20 + WIS (50)  g(350)
+SPD = 60 + STR (120) g(840)
+MP = 200 + SPL (310) g(2170)
+
+EGO = 70
+KNO = 70
+WIS = 30
+STR = 60
+SPL = 110
+
+Move: Diagnal
+Attack: Spread
+
+Traits: LuckySPL, BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Magma Generator" (10k/10k)
+(Cost: $19,800,000)
+
+Species: Iniris
+Type: Pyro
+
+HP = 1000 + EGO (1700) g(11.9k)
+ATK = 200 + KNO (900)  g(6300)
+DEF = 200 + WIS (500)  g(3500)
+SPD = 600 + STR (1200) g(8400)
+MP = 2000 + SPL (3100) g(21.7k)
+
+EGO = 700
+KNO = 700
+WIS = 300
+STR = 600
+SPL = 1100
+
+Move: Diagnal
+Attack: Spread
+
+Traits: LuckySPL, BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Plasma Duster" (1k/1k)
+(Cost: $1,980,000,000)
+
+Species: Iniris
+Type: Pyro
+
+HP = 10k + EGO (17k) g(119k)
+ATK = 2k + KNO (9k)  g(63k)
+DEF = 2k + WIS (5k)  g(35k)
+SPD = 6k + STR (12k) g(84k)
+MP = 20k + SPL (31k) g(217k)
+
+EGO = 7k
+KNO = 7k
+WIS = 3k
+STR = 6k
+SPL = 11k
+
+Move: Diagnal
+Attack: Spread
+
+Traits: LuckySPL, BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Molten Spiral" (100/100)
+(Cost: $198,000,000,000)
+
+Species: Iniris
+Type: Pyro
+
+HP = 100k + EGO (170k) g(1190k)
+ATK = 20k + KNO (90k)  g(630k)
+DEF = 20k + WIS (50k)  g(350k)
+SPD = 60k + STR (120k) g(840k)
+MP = 200k + SPL (310k) g(2170k)
+
+EGO = 7k
+KNO = 7k
+WIS = 3k
+STR = 6k
+SPL = 11k
+
+Move: Diagnal
+Attack: Spread
+
+Traits: LuckySPL, BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Ventara Cluster" (10/10)
+(Cost: $19,800,000,000,000)
+
+Species: Iniris
+Type: Pyro
+
+HP = 100k + EGO (1.7m) g(11.9m)
+ATK = 20k + KNO (900k) g(6.3m)
+DEF = 20k + WIS (500k) g(3.5m)
+SPD = 60k + STR (1.2m) g(8.4m)
+MP = 200k + SPL (3.1m) g(21.7m)
+
+EGO = 700k
+KNO = 700k
+WIS = 300k
+STR = 600k
+SPL = 1.1m
+
+Move: Diagnal
+Attack: Spread
+
+Traits: LuckySPL, BurnSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,233 @@
+"NaDin"
+
+5 8 9 10
+
+2 5 6 5 3 6
+
+-----------------------------------------
+Chaos Shard - NaDin [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+MP x Tier Level
+ATK x Tier Level
+
+Pattern: Corner Diag
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Legion]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+A - Icon (Lvl 1)
+B - Unit (Lvl 10)
+C - World (lvl 100)
+D - System (Lvl 1k)
+E - Galaxy (Lvl 10k)
+F - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+A - Multiversal {Lvl 1m}
+B - Exoversal {Lvl 10m}
+C - Xenoversal {Lvl 100m}
+D - Deltaversal {Lvl 1b}
+E - Tetraversal {Lvl 10b}
+F - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AI]
+"Lurker"
+(Cost: $1,260)
+
+Species: Demon
+
+HP  = 19
+ATK = 6
+DEF = 1
+SPD = 2
+MP  = 17
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AI]
+"Shadow Fruit"
+(Cost: $420)
+
+Type: Fiend
+
+HP  + SEX
+ATK + EGO
+DEF + VIT
+SPD + BEU
+MP  + STR
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AI]
+"Anon"
+(Cost: $7,840)
+
+Species: Demon
+Type: Fiend
+
+HP  = 19 + SEX (20)
+ATK = 6  + EGO (7)
+DEF = 1  + VIT (6)
+SPD = 2  + BEU (5)
+MP  = 17 + STR (30)
+
+SEX = 1
+EGO = 1
+VIT = 5
+BEU = 3
+STR = 13
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: PoisonEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BI]
+"Obsidian Cube"
+(Cost: $78,400)
+
+Species: Demon
+Type: Fiend
+
+HP  = 190 + SEX (200)
+ATK = 60  + EGO (70)
+DEF = 10  + VIT (60)
+SPD = 20  + BEU (50)
+MP  = 170 + STR (300)
+
+SEX = 10
+EGO = 10
+VIT = 50
+BEU = 30
+STR = 130
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CI]
+"Devil Core"
+(Cost: $7,840,000)
+
+Species: Demon
+Type: Fiend
+
+HP  = 1900 + SEX (2000)
+ATK = 600  + EGO (700)
+DEF = 100  + VIT (600)
+SPD = 200  + BEU (500)
+MP  = 1700 + STR (3000)
+
+SEX = 100
+EGO = 100
+VIT = 500
+BEU = 300
+STR = 1300
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnEGO, FearEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DI]
+"Black Hole"
+(Cost: $784,000,000)
+
+Species: Demon
+Type: Fiend
+
+HP  = 19k + SEX (20k)
+ATK = 6k  + EGO (7k)
+DEF = 1k  + VIT (6k)
+SPD = 2k  + BEU (5k)
+MP  = 17k + STR (30k)
+
+SEX = 1k
+EGO = 1k
+VIT = 5k
+BEU = 3k
+STR = 13k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnEGO, FearEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [EI]
+"Void Cutter"
+(Cost: $78,400,000,000)
+
+Species: Demon
+Type: Fiend
+
+HP  = 190k + SEX (200k)
+ATK = 60k  + EGO (70k)
+DEF = 10k  + VIT (60k)
+SPD = 20k  + BEU (50k)
+MP  = 170k + STR (300k)
+
+SEX = 10k
+EGO = 10k
+VIT = 50k
+BEU = 30k
+STR = 130k
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnEGO, FearEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [FI]
+"Daemon-Verse"
+(Cost: $7,840,000,000,000)
+
+Species: Demon
+Type: Fiend
+
+HP  = 1.9m + SEX (2m)
+ATK = 600k + EGO (700k)
+DEF = 100k + VIT (600k)
+SPD = 200k + BEU (500k)
+MP  = 1.7m + STR (3m)
+
+SEX = 100k
+EGO = 100k
+VIT = 500k
+BEU = 300k
+STR = 1.3m
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+Traits: SpawnEGO, FearEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

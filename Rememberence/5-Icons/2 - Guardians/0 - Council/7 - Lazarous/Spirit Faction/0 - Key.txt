@@ -1,0 +1,235 @@
+"Lazarous"
+
+9 6 7 17
+
+2 1 5 5 3 2
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Psylon]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Gokium Mentalia" Lvl 0
+Mod/Goki/Psychic [NoviceI]
++4/3/2 +KNO/BEU/SPL (+7/13/9)
+PrideBEU, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Psy Plasm" (1m/1m)
+(Cost: $460)
+
+Type: Psychic
+
+HP  + STR
+ATK + KNO
+DEF + BEU
+SPD + SPL
+MP  + DIV
+
+SEX = 9
+BEU = 7
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Monkey" (1m/1m)
+(Cost: $1,240)
+
+Species: Goki
+
+HP = 16
+ATK = 4
+DEF = 3
+SPD = 2
+MP = 14
+
+SEX = 7
+DEU = 9
+
+Product: 1/4turns
+
+Move: Omni
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Militant" (1m/1m)
+(Cost: $1,940)
+
+Species: Goki
+Type: Psychic
+
+HP = 16 + STR (22) g(154)
+ATK = 4 + KNO (7)  g(49)
+DEF = 3 + BEU (13) g(91)
+SPD = 2 + SPL (9)  g(63)
+MP = 14 + DIV (19) g(133)
+
+STR = 6
+KNO = 3
+BEU = 10
+SPL = 7
+DIV = 5
+
+Move: Omni
+Attack: Corner Lateral
+
+Traits: PrideSTR, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Warthog" (100k/100k)
+(Cost: $194,000)
+
+Species: Goki
+Type: Psychic
+
+HP = 160 + STR (220) g(1540)
+ATK = 40 + KNO (70)  g(490)
+DEF = 30 + BEU (130) g(910)
+SPD = 20 + SPL (90)  g(630)
+MP = 140 + DIV (190) g(1330)
+
+STR = 60
+KNO = 30
+BEU = 100
+SPL = 70
+DIV = 50
+
+Move: Omni
+Attack: Corner Lateral
+
+Traits: PrideSTR, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Stadium" (10k/10k)
+(Cost: $19,400,000)
+
+Species: Goki
+Type: Psychic
+
+HP = 1600 + STR (220) g(15.4k)
+ATK = 400 + KNO (70)  g(4900)
+DEF = 300 + BEU (130) g(9100)
+SPD = 200 + SPL (90)  g(6300)
+MP = 1400 + DIV (190) g(13.3k)
+
+STR = 600
+KNO = 300
+BEU = 1000
+SPL = 700
+DIV = 500
+
+Move: Omni
+Attack: Corner Lateral
+
+Traits: PrideSTR, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Command" (1k/1k)
+(Cost: $1,940,000,000)
+
+Species: Goki
+Type: Psychic
+
+HP = 16k + STR (22k) g(154k)
+ATK = 4k + KNO (7k)  g(49k)
+DEF = 3k + BEU (13k) g(91k)
+SPD = 2k + SPL (9k)  g(63k)
+MP = 14k + DIV (19k) g(133k)
+
+STR = 6k
+KNO = 3k
+BEU = 10k
+SPL = 7k
+DIV = 5k
+
+Move: Omni
+Attack: Corner Lateral
+
+Traits: PrideSTR, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Arena" (100/100)
+(Cost: $194,000,000,000)
+
+Species: Goki
+Type: Psychic
+
+HP = 160k + STR (220k) g(1540k)
+ATK = 40k + KNO (70k)  g(490k)
+DEF = 30k + BEU (130k) g(910k)
+SPD = 20k + SPL (90k)  g(630k)
+MP = 140k + DIV (190k) g(1330k)
+
+STR = 60k
+KNO = 30k
+BEU = 100k
+SPL = 70k
+DIV = 50k
+
+Move: Omni
+Attack: Corner Lateral
+
+Traits: PrideSTR, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Psylon Federation" (10/10)
+(Cost: $19,400,000,000,000)
+
+Species: Goki
+Type: Psychic
+
+HP  = 1.6m + STR (2.2m) g(15.4m)
+ATK = 400k + KNO (700k) g(4.9m)
+DEF = 300k + BEU (1.3m) g(9.1m)
+SPD = 200k + SPL (900k) g(6.3m)
+MP  = 1.4m + DIV (1.9m) g(13.3m)
+
+STR = 600k
+KNO = 300k
+BEU = 1m
+SPL = 700k
+DIV = 500k
+
+Move: Omni
+Attack: Corner Lateral
+
+Traits: PrideSTR, ConfusionBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

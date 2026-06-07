@@ -1,0 +1,233 @@
+"Gateway"
+
+0 0 0 0
+
+0 0 0 0 0 0
+
+-----------------------------------------
+Chaos Shard - VoSti [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+HP x Tier Level
+MP x Tier Level
+
+Pattern: Omni
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Glitch]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Virus - Icon (Lvl 1)
+Plague - Unit (Lvl 10)
+Wyrm - World (lvl 100)
+Tracker - System (Lvl 1k)
+Malfunction - Galaxy (Lvl 10k)
+Infestation - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Virus - Multiversal {Lvl 1m}
+Plague - Exoversal {Lvl 10m}
+Wyrm - Xenoversal {Lvl 100m}
+Tracker - Deltaversal {Lvl 1b}
+Malfunction - Tetraversal {Lvl 10b}
+Infestation - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [VirusI]
+"Error"
+(Cost: $1,160)
+
+Species: Phantom
+
+HP  = 18
+ATK = 5
+DEF = 1
+SPD = 3
+MP  = 12
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Corner Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [VirusI]
+"Static Fruit"
+(Cost: $380)
+
+Type: Ghost
+
+HP  + MNF
+ATK + UND
+DEF + SEX
+SPD + DIV
+MP  + EGO
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [VirusI]
+"Probe"
+(Cost: $7,640)
+
+Species: Phantom
+Type: Ghost
+
+HP  = 18 + MNF (20)
+ATK = 5  + UND (6)
+DEF = 1  + SEX (4)
+SPD = 3  + DIV (5)
+MP  = 12 + EGO (30)
+
+MNF = 2
+UND = 1
+SEX = 3
+DIV = 2
+EGO = 18
+
+Move: Corner Diag
+Attack: Corner Diag
+
+Traits: VanishDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [PlagueI]
+"Vessel"
+(Cost: $76,400)
+
+Species: Phantom
+Type: Ghost
+
+HP  = 180 + MNF (200)
+ATK = 50  + UND (60)
+DEF = 10  + SEX (40)
+SPD = 30  + DIV (50)
+MP  = 120 + EGO (300)
+
+MNF = 20
+UND = 10
+SEX = 30
+DIV = 20
+EGO = 180
+
+Move: Corner Diag
+Attack: Corner Diag
+
+Traits: VanishDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [WyrmI]
+"Mirror Core"
+(Cost: $7,640,000)
+
+Species: Phantom
+Type: Ghost
+
+HP  = 1800 + MNF (2000)
+ATK = 500  + UND (600)
+DEF = 100  + SEX (400)
+SPD = 300  + DIV (500)
+MP  = 1200 + EGO (3000)
+
+MNF = 200
+UND = 100
+SEX = 300
+DIV = 200
+EGO = 1800
+
+Move: Corner Diag
+Attack: Corner Diag
+
+Traits: VanishDIV, CopyDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [TrackerI]
+"Inverse Horizon"
+(Cost: $764,000,000)
+
+Species: Phantom
+Type: Ghost
+
+HP  = 18k + MNF (20k)
+ATK = 5k  + UND (6k)
+DEF = 1k  + SEX (4k)
+SPD = 3k  + DIV (5k)
+MP  = 12k + EGO (30k)
+
+MNF = 2k
+UND = 1k
+SEX = 3k
+DIV = 2k
+EGO = 18k
+
+Move: Corner Diag
+Attack: Corner Diag
+
+Traits: VanishDIV, CopyDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MalfunctionI]
+"Anti Matter"
+(Cost: $76,400,000,000)
+
+Species: Phantom
+Type: Ghost
+
+HP  = 180k + MNF (200k)
+ATK = 50k  + UND (60k)
+DEF = 10k  + SEX (40k)
+SPD = 30k  + DIV (50k)
+MP  = 120k + EGO (300k)
+
+MNF = 20k
+UND = 10k
+SEX = 30k
+DIV = 20k
+EGO = 180k
+
+Move: Corner Diag
+Attack: Corner Diag
+
+Traits: VanishDIV, CopyDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [InfestationI]
+"Final-Verse"
+(Cost: $7,640,000,000,000)
+
+Species: Phantom
+Type: Ghost
+
+HP  = 1.8m + MNF (2m)
+ATK = 500k + UND (600k)
+DEF = 100k + SEX (400k)
+SPD = 300k + DIV (500k)
+MP  = 1.2m + EGO (3m)
+
+MNF = 200k
+UND = 100k
+SEX = 300k
+DIV = 200k
+EGO = 1.8m
+
+Move: Corner Diag
+Attack: Corner Diag
+
+Traits: VanishDIV, CopyDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,235 @@
+"Pluto"
+
+5 12 11 13
+
+1 4 3 1 6 5
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Riders]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Drakium Devotia" Lvl 0
+Mod/Drakian/Dragoon [NoviceI]
++5/2/2 +STR/VIT/SPL (+13/8/7)
+ResurgenceSTR,s VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Dragon Fruit" (1m/1m)
+(Cost: $450)
+
+Type: Dragoon
+
+HP  + DIV
+ATK + STR
+DEF + VIT
+SPD + SPL
+MP  + WIS
+
+SEX = 8
+BEU = 6
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Drakes" (1m/1m)
+(Cost: $)
+
+Species: Drakian
+
+HP = 17
+ATK = 5
+DEF = 2
+SPD = 2
+MP = 13
+
+SEX = 6
+BEU = 8
+
+Product: 1/4turns
+
+Move: Omni
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Dusk Knights" (1m/1m)
+(Cost: $1,920)
+
+Species: Drakian
+Type: Dragoon
+
+HP = 17 + DIV (22) g(154)
+ATK = 5 + STR (13) g(91)
+DEF = 2 + VIT (8)  g(56)
+SPD = 2 + SPL (7)  g(49)
+MP = 13 + WIS (18) g(126)
+
+DIV = 5
+STR = 8
+VIT = 6
+SPL = 5
+WIS = 5
+
+Move: Omni
+Attack: Omni
+
+Traits: ResurgenceSTR, VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Chariot" (100k/100k)
+(Cost: $192,000)
+
+Species: Drakian
+Type: Dragoon
+
+HP = 170 + DIV (220) g(1540)
+ATK = 50 + STR (130) g(910)
+DEF = 20 + VIT (80)  g(560)
+SPD = 20 + SPL (70)  g(490)
+MP = 130 + WIS (180) g(1260)
+
+DIV = 50
+STR = 80
+VIT = 60
+SPL = 50
+WIS = 50
+
+Move: Omni
+Attack: Omni
+
+Traits: ResurgenceSTR, VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Dragon Wing" (10k/10k)
+(Cost: $19,200,000)
+
+Species: Drakian
+Type: Dragoon
+
+HP = 1700 + DIV (2200) g(15.4k)
+ATK = 500 + STR (1300) g(9100)
+DEF = 200 + VIT (800)  g(5600)
+SPD = 200 + SPL (700)  g(4900)
+MP = 1300 + WIS (1800) g(12.6k)
+
+DIV = 500
+STR = 800
+VIT = 600
+SPL = 500
+WIS = 500
+
+Move: Omni
+Attack: Omni
+
+Traits: ResurgenceSTR, VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Scalar" (1k/1k)
+(Cost: $1,920,000,000)
+
+Species: Drakian
+Type: Dragoon
+
+HP = 17k + DIV (22k) g(154k)
+ATK = 5k + STR (13k) g(91k)
+DEF = 2k + VIT (8k)  g(56k)
+SPD = 2k + SPL (7k)  g(49k)
+MP = 13k + WIS (18k) g(126k)
+
+DIV = 5k
+STR = 8k
+VIT = 6k
+SPL = 5k
+WIS = 5k
+
+Move: Omni
+Attack: Omni
+
+Traits: ResurgenceSTR, VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Dominion" (100/100)
+(Cost: $192,000,000,000)
+
+Species: Drakian
+Type: Dragoon
+
+HP = 170k + DIV (220k) g(1540k)
+ATK = 50k + STR (130k) g(910k)
+DEF = 20k + VIT (80k)  g(560k)
+SPD = 20k + SPL (70k)  g(490k)
+MP = 130k + WIS (180k) g(1260k)
+
+DIV = 50k
+STR = 80k
+VIT = 60k
+SPL = 50k
+WIS = 50k
+
+Move: Omni
+Attack: Omni
+
+Traits: ResurgenceSTR, VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Rider Heart" (10/10)
+(Cost: $19,200,000,000,000)
+
+Species: Drakian
+Type: Dragoon
+
+HP  = 1.7m + DIV (2.2m) g(15.4m)
+ATK = 500k + STR (1.3m) g(9.1m)
+DEF = 200k + VIT (800k) g(5.6m)
+SPD = 200k + SPL (700k) g(4.9m)
+MP  = 1.3m + WIS (1.8m) g(12.6m)
+
+DIV = 500k
+STR = 800k
+VIT = 600k
+SPL = 500k
+WIS = 500k
+
+Move: Omni
+Attack: Omni
+
+Traits: ResurgenceSTR, VigilanceSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
