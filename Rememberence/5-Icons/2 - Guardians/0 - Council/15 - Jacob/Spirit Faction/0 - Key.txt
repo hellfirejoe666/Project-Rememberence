@@ -1,0 +1,235 @@
+"Jacob"
+
+12 4 15 18
+
+1 6 3 6 1 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Grizzlo]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Grizzlite Mistara" Lvl 0
+Mod/Grizzly/Ghost [NoviceI]
++2/4/3 +UND/SEX/DIV (+6/9/9)
+RoarEGO, PhaseEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Mist Berries" (1m/1m)
+(Cost: $400)
+
+Type: Ghost
+
+HP  + MNF
+ATK + UND
+DEF + SEX
+SPD + DIV
+MP  + EGO
+
+SEX = 6
+BEU = 4
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Teddy" (1m/1m)
+(Cost: $1,080)
+
+Species: Grizzly
+
+HP = 23
+ATK = 2
+DEF = 4
+SPD = 3
+MP  = 7
+
+SEX = 4
+BEU = 6
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Deputies" (1m/1m)
+(Cost: $1,980)
+
+Species: Grizzly
+Type: Ghost
+
+HP = 23 + MNF (33) g(231)
+ATK = 2 + UND (6)  g(42)
+DEF = 4 + SEX (9)  g(63)
+SPD = 3 + DIV (9)  g(63)
+MP =  7 + EGO (17) g(119)
+
+MNF = 10
+UND = 4
+SEX = 5
+DIV = 6
+EGO = 10
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: RoarEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Hummer" (100k/100k)
+(Cost: $198,000)
+
+Species: Grizzly
+Type: Ghost
+
+HP = 230 + MNF (330) g(2310)
+ATK = 20 + UND (60)  g(420)
+DEF = 40 + SEX (90)  g(630)
+SPD = 30 + DIV (90)  g(630)
+MP =  70 + EGO (170) g(1190)
+
+MNF = 100
+UND = 40
+SEX = 50
+DIV = 60
+EGO = 100
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: RoarEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Paws" (10k/10k)
+(Cost: $19,800,000)
+
+Species: Grizzly
+Type: Ghost
+
+HP = 2300 + MNF (3300) g(23.1k)
+ATK = 200 + UND (600)  g(4200)
+DEF = 400 + SEX (900)  g(6300)
+SPD = 300 + DIV (900)  g(6300)
+MP =  700 + EGO (1700) g(11.9k)
+
+MNF = 1000
+UND = 400
+SEX = 500
+DIV = 600
+EGO = 1000
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: RoarEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Hammer" (1k/1k)
+(Cost: $1,980,000,000)
+
+Species: Grizzly
+Type: Ghost
+
+HP = 23k + MNF (33k) g(231k)
+ATK = 2k + UND (6k)  g(42k)
+DEF = 4k + SEX (9k)  g(63k)
+SPD = 3k + DIV (9k)  g(63k)
+MP =  7k + EGO (17k) g(119k)
+
+MNF = 10k
+UND = 4k
+SEX = 5k
+DIV = 6k
+EGO = 10k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: RoarEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Ursa Magnum" (100/100)
+(Cost: $198,000,000,000)
+
+Species: Grizzly
+Type: Ghost
+
+HP = 230k + MNF (330k) g(2310k)
+ATK = 20k + UND (60k)  g(420k)
+DEF = 40k + SEX (90k)  g(630k)
+SPD = 30k + DIV (90k)  g(630k)
+MP =  70k + EGO (170k) g(1190k)
+
+MNF = 100k
+UND = 40k
+SEX = 50k
+DIV = 60k
+EGO = 100k
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: RoarEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Grizzlo Maximus" (10/10)
+(Cost: $19,800,000,000,000)
+
+Species: Grizzly
+Type: Ghost
+
+HP =  2.3m + MNF (3.3m) g(23.1m)
+ATK = 200k + UND (600k) g(4.2m)
+DEF = 400k + SEX (900k) g(6.3m)
+SPD = 300k + DIV (900k) g(6.3m)
+MP =  700k + EGO (1.7m) g(11.9m)
+
+MNF = 1m
+UND = 400k
+SEX = 500k
+DIV = 600k
+EGO = 1m
+
+Move: Lateral
+Attack: Corner Diag
+
+Traits: RoarEGO, PhaseMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

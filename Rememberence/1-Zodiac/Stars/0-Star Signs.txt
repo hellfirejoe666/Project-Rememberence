@@ -1,0 +1,335 @@
+Reading Your Stars
+#) Sign; [Style]
+
+This is not a game.
+Or isn't it?
+Keep reading and you will know...
+
+------------------------------------
+
+Each Star sign is divided into halfs corresponding to Type.
+
+------------------------------------
+1) Constellation Aries; [Creative]
+March 21 - April 19
+
+Aries are the epitome of creativity and adaptability, driven by a fiery spirit that fuels their ambition and spontaneity. They are often overachievers, setting high goals and pursuing them with relentless energy. Their fiery nature can sometimes lead to quick tempers, but this passion is also what makes them so vibrant and engaging. Aries possess a sharp wit and a knack for socializing, making them the life of any gathering. Despite their impatience, Aries are deeply loyal, standing by their friends, family, and causes with unwavering support. They champion the underdog, reflecting their own spirited fight against life's challenges.
+
+Biorhythms:
+MNF = 2
+SPL = 1
+BEU = 0
+STR = 5
+FND = 3
+KNO = 6
+UND = 2
+WIS = 3
+VIT = 4
+SEX = 5
+DIV = 1
+EGO = 4
+
+Colors: None/White
+
+Types: 
+Insect, HP + KNO
+Vortex, MP + KNO
+
+------------------------------------
+2) Constellation Taurus; [Stubborn]
+
+April 20 - May 20
+
+Taurus embodies strength, endurance, and an unwavering will, often seen as stubbornness. They stand firm in their beliefs, sometimes to a fault, but this also reflects their reliability and commitment. Beneath their resolute exterior, Taurus Spirits are deeply compassionate, offering a listening ear and sympathetic heart when others need to share their burdens. Their patience, practicality, and efficiency make them excellent in business and education, where they can impart knowledge with a steady hand. While initially self-focused, Taurus individuals ultimately show boundless generosity with their time, resources, and affection.
+
+Biorhythms:
+MNF = 3
+SPL = 2
+BEU = 1
+STR = 6
+FND = 4
+KNO = 5
+UND = 1
+WIS = 2
+VIT = 3
+SEX = 4
+DIV = 0
+EGO = 5
+
+Colors: Green/Red
+
+Types: 
+Warrior, HP + STR 
+Beast,   MP + STR
+
+------------------------------------
+3) Constellation Gemini; [Flexable]
+
+May 21 - June 20
+
+Gemini is defined by flexibility, balance, and adaptability, quickly understanding and responding to situations with often positive outcomes. Their dual nature can make them unpredictable, with mood swings that shift from warm to cool. Despite this, Geminis are inherently generous, affectionate, and highly imaginative. Their ability to self-motivate and inspire others is contagious, making them charismatic leaders. In careers involving communication, sales, or negotiation, Geminis excel, leveraging their charm and persuasive skills to drive results and support those around them.
+
+Biorhythms:
+MNF = 4
+SPL = 3
+BEU = 2
+STR = 5
+FND = 5
+KNO = 4
+UND = 0
+WIS = 1
+VIT = 2
+SEX = 3
+DIV = 1
+EGO = 6
+
+Color: None/Blue
+
+Types: 
+Normal, HP + EGO
+Undead, MP + EGO
+
+------------------------------------
+4) Constellation Cancer; [Reserved]
+
+June 21 - July 22
+
+Cancerians cherish the comforts of home, family, and tradition, finding joy in the roots and history of things. Governed by the moon, they can be moody and contradictory, yet they often keep these emotions concealed due to their conservative nature. Despite a reputation for fickleness, Cancerians are deeply loyal and empathetic friends. They value their personal space, retreating inward when needed, and it's important to respect this aspect of their nature. In their personal sanctuaries, Cancerians cultivate environments of warmth and security, where they can express their nurturing side freely. Their connection to tradition isn't merely sentimental; it's a grounding force in their life, offering stability amidst change.
+
+Biorhythms:
+MNF = 5
+SPL = 4
+BEU = 3
+STR = 4
+FND = 6
+KNO = 3
+UND = 1
+WIS = 0
+VIT = 1
+SEX = 2
+DIV = 2
+EGO = 5
+
+Colors: Blue/White
+
+Types: 
+Crystal, HP + FND
+Ghost,   MP + FND
+
+------------------------------------
+5) Constellation Leo; [Expanded]
+
+July 23 - August 22
+
+Leos embody expansiveness, power, and exuberance, naturally stepping into leadership roles with confidence. They are vocal about their views, often with a high-minded perspective, yet their insights are usually on point, reflecting their keen judgment and leadership instincts. Beneath their bold exterior, Leos possess a generous, sensitive heart, though they might not readily show this side. Their assertiveness stems from a desire to do good rather than from mere ego, making their occasional bossiness more about guidance than domination.
+
+Biorhythms:
+MNF = 6
+SPL = 5
+BEU = 4
+STR = 3
+FND = 5
+KNO = 2
+UND = 2
+WIS = 1
+VIT = 0
+SEX = 1
+DIV = 3
+EGO = 4
+
+Colors: Red/Green
+
+Types: 
+Blood, HP + MNF
+Pyro,  MP + MNF
+
+------------------------------------
+6) Constellation Virgo; [Intuitive]
+
+August 23 - September 22
+
+Virgos possess sharp minds, engaging others with their charm and ability to weave compelling narratives. Their inquisitiveness and skill in extracting information from others, combined with a strong memory, make them highly intuitive and analytical. However, Virgos need balance to avoid becoming irritable, impatient, or overly self-focused. They excel in teamwork, both in professional and social settings, often offering their opinions freely, which can sometimes be unsolicited but is usually well-intentioned.
+
+Biorhythms:
+MNF = 5
+SPL = 6
+BEU = 5
+STR = 2
+FND = 4
+KNO = 1
+UND = 3
+WIS = 2
+VIT = 1
+SEX = 0
+DIV = 4
+EGO = 3
+
+Colors: Black/Blue
+
+Types:
+Psychic,     HP + SPL
+Spellcaster, MP + SPL
+
+------------------------------------
+7) Constellation Libra; [Balanced]
+
+September 23 - October 22
+
+Libras are the epitome of balance, justice, and harmony, often creating environments filled with beauty and peace. Their pursuit of equilibrium can sometimes lead to extremes, especially if their aspirations are unrealistic or detrimental. Libras are inherently empathetic, supportive, and often advocate for those less fortunate. Despite their sharp intuition, they tend to undervalue their own insights. While they can be reserved and shy, Libras possess a surprising talent for debate, articulating points with unexpected eloquence, showcasing their intellectual depth beneath a calm exterior.
+
+Biorhythms:
+MNF = 4
+SPL = 5
+BEU = 6
+STR = 1
+FND = 3
+KNO = 0
+UND = 4
+WIS = 3
+VIT = 2
+SEX = 1
+DIV = 5
+EGO = 2
+
+Color: White/Black
+
+Types: 
+Holy,  HP + BEU
+Curse, MP + BEU
+
+------------------------------------
+8) Constellation Scorpio; [Unshaken]
+
+October 23 - November 21
+
+Scorpios are often misunderstood, known for their boldness and capability to tackle grand endeavors with calm assurance. They possess an unshakable focus, overcoming obstacles with a tenacity that's hard to match. Despite their outward confidence, Scorpios can be secretive, always observing from behind a reserved demeanor. When they reemerge, it's with renewed force, vigor, and determination. Their argumentative nature isn't about conflict but seeing every challenge as an opportunity for growth.
+
+Biorhythms:
+MNF = 3
+SPL = 4
+BEU = 5
+STR = 0
+FND = 2
+KNO = 1
+UND = 5
+WIS = 4
+VIT = 3
+SEX = 2
+DIV = 6
+EGO = 1
+
+Color: Red/None
+
+Types: 
+Fiend,   HP + DIV
+Thunder, MP + DIV
+
+------------------------------------
+9) Constellation Sagittarius; [Focused]
+
+November 22 - December 21
+
+Sagittarius embodies the philosopher of the zodiac, with a profound ability to focus intensely on pursuits that capture their interest. However, they must manage their energy to avoid scattering it across too many directions, which can lead to burnout. They are not known for patience, often seeking immediate results. Yet, when faced with setbacks, Sagittarians are remarkable in their resilience, making comebacks against all odds. While they are loyal in friendships and love, Sagittarians struggle with long-term commitments, valuing their freedom to explore philosophical and adventurous quests.
+
+Biorhythms:
+MNF = 2
+SPL = 3
+BEU = 4
+STR = 1
+FND = 1
+KNO = 2
+UND = 6
+WIS = 5
+VIT = 4
+SEX = 3
+DIV = 5
+EGO = 0
+
+Color: White/Red
+
+Types: 
+Fairy,  HP + UND
+Avatar, MP + UND
+
+------------------------------------
+10) Constellation Capricorn; [Practical]
+
+December 22 - January 19
+
+Capricorns are philosophical yet highly practical, applying their intelligence to maintain order and stability. They excel in organization, achieving their objectives through methodical, step-by-step processes. Intuitive by nature, Capricorns keep this trait close to the chest. They handle opposition poorly, though mature Capricorns learn to brush off personal criticism. Known for their patience and perseverance, Capricorns tackle tasks with a clear plan, confident in their ability to succeed through diligence. They often shoulder others' burdens with ease, yet keep their own troubles private, occasionally succumbing to periods of introspection and melancholy.
+
+Biorhythms:
+MNF = 1
+SPL = 2
+BEU = 3
+STR = 2
+FND = 0
+KNO = 3
+UND = 5
+WIS = 6
+VIT = 5
+SEX = 4
+DIV = 4
+EGO = 1
+
+Color: Green/None
+
+Types: 
+Plant, HP + WIS
+Rock,  MP + WIS
+
+------------------------------------
+11) Constellation Aquarius; [Silent]
+
+January 20 - February 18
+
+Aquarians are often understated, achieving their goals through quiet, unconventional methods that prove surprisingly effective. They are the humanitarians of the zodiac, driven by a desire to improve the world, honest, loyal, and intellectually sharp. Their easy-going nature fosters natural friendships, though they must guard against tendencies towards laziness. Aquarians are self-aware, striving to motivate themselves when needed. They are deeply philosophical, often expressing themselves through art or poetry.
+
+Biorhythms:
+MNF = 0
+SPL = 1
+BEU = 2
+STR = 3
+FND = 1
+KNO = 4
+UND = 4
+WIS = 5
+VIT = 6
+SEX = 5
+DIV = 3
+EGO = 2
+
+Colors: Blue/Black
+
+Types: 
+Metal, HP + VIT
+Aqua,  MP + VIT
+
+------------------------------------
+12) Constellation Pisces; [Victory]
+
+February 19 - March 20
+
+Pisceans quietly amass vast knowledge, often keeping a low profile. They are honest, selfless, and trustworthy, with a gentle demeanor that can sometimes lead to being taken advantage of due to their cautious and occasionally gullible nature. Despite this, Pisces often emerges victorious in challenging situations, driven by an intense determination, especially when defending or supporting loved ones. Their passion becomes their strength, making them formidable in their quiet resolve.
+
+Biorhythms:
+MNF = 1
+SPL = 0
+BEU = 1
+STR = 4
+FND = 2
+KNO = 5
+UND = 3
+WIS = 4
+VIT = 5
+SEX = 6
+DIV = 2
+EGO = 3
+
+Color: Blue/Green
+
+Types: 
+Dragoon, HP + SEX
+Ice,     MP + SEX
+
+------------------------------------

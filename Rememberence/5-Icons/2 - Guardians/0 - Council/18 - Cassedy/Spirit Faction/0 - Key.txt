@@ -1,0 +1,235 @@
+"Cassedy"
+
+8 3 18 2
+
+1 1 5 1 2 1
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Bladeon]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Gretium Warraga" Lvl 0
+Mod/Grey/Warrior [NoviceI]
++2/4/3 +STR/VIT/SEX (+12/10/7)
+RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Blade Flower" (1m/1m)
+(Cost: $460)
+
+Type: Warrior
+
+hp  + MNF
+ATK + STR
+DEF + VIT
+SPD + SEX
+MP  + EGO
+
+SEX = 9
+BEU = 7
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Larva" (1m/1m)
+(Cost: $1,140)
+
+Species: Grey
+
+HP = 16
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 14
+
+SEX = 7
+BEU = 9
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Pilot" (1m/1m)
+(Cost: $1,970)
+
+Species: Grey
+Type: Warrior
+
+HP = 16 + MNF (23) g(161)
+ATK = 2 + STR (12) g(84)
+DEF = 4 + VIT (10) g(70)
+SPD = 3 + SEX (7)  g(49)
+MP = 14 + EGO (21) g(147)
+
+MNF = 7
+STR = 10
+VIT = 6
+SEX = 4
+EGO = 7
+
+Move: Diag
+Attack: Omni
+
+Traits: RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Wing Blade" (100k/100k)
+(Cost: $197,000)
+
+Species: Grey
+Type: Warrior
+
+HP = 160 + MNF (230) g(1610)
+ATK = 20 + STR (120) g(840)
+DEF = 40 + VIT (100) g(700)
+SPD = 30 + SEX (70)  g(490)
+MP = 140 + EGO (210) g(1470)
+
+MNF = 70
+STR = 100
+VIT = 60
+SEX = 40
+EGO = 70
+
+Move: Diag
+Attack: Omni
+
+Traits: RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Razor Host" (10k/10k)
+(Cost: $19,700,000)
+
+Species: Grey
+Type: Warrior
+
+HP = 1600 + MNF (2300) g(16.1k)
+ATK = 200 + STR (1200) g(8400)
+DEF = 400 + VIT (1000) g(7000)
+SPD = 300 + SEX (700)  g(4900)
+MP = 1400 + EGO (2100) g(14.7k)
+
+MNF = 700
+STR = 1000
+VIT = 600
+SEX = 400
+EGO = 700
+
+Move: Diag
+Attack: Omni
+
+Traits: RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Star Render" (1k/1k)
+(Cost: $1,970,000,000)
+
+Species: Grey
+Type: Warrior
+
+HP = 16k + MNF (23k) g(161k)
+ATK = 2k + STR (12k) g(84k)
+DEF = 4k + VIT (10k) g(70k)
+SPD = 3k + SEX (7k)  g(49k)
+MP = 14k + EGO (21k) g(147k)
+
+MNF = 7k
+STR = 10k
+VIT = 6k
+SEX = 4k
+EGO = 7k
+
+Move: Diag
+Attack: Omni
+
+Traits: RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Spiral Edge" (100/100)
+(Cost: $197,000,000,000)
+
+Species: Grey
+Type: Warrior
+
+HP = 160k + MNF (230k) g(1610k)
+ATK = 20k + STR (120k) g(840k)
+DEF = 40k + VIT (100k) g(700k)
+SPD = 30k + SEX (70k)  g(490k)
+MP = 140k + EGO (210k) g(1470k)
+
+MNF = 70k
+STR = 100k
+VIT = 60k
+SEX = 40k
+EGO = 70k
+
+Move: Diag
+Attack: Omni
+
+Traits: RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Bladeon Void" (10/10)
+(Cost: $19,700,000,000,000)
+
+Species: Grey
+Type: Warrior
+
+HP  = 1.6m + MNF (2.3m) g(16.1m)
+ATK = 200k + STR (1.2m) g(8.4m)
+DEF = 400k + VIT (1m)   g(7m)
+SPD = 300k + SEX (700k) g(4.9m)
+MP  = 1.4m + EGO (2.1m) g(14.7m)
+
+MNF = 700k
+STR = 1m
+VIT = 600k
+SEX = 400k
+EGO = 700k
+
+Move: Diag
+Attack: Omni
+
+Traits: RebirthSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

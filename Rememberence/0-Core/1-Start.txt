@@ -1,0 +1,232 @@
+"Getting Started"
+
+-----------------------------------------
+
+	Entering a deep dark space, there is a door before you. Glowing with light, yet twisted with darkness. You see 12 Animal signs floating over the door, and feel inclined to choose one.
+
+-----------------------------------------
+Zodiac/Animal;
+
+1)  (Rat)
+2)  (Ox)
+3)  (Tiger)
+4)  (Rabbit)
+5)  (Dragon)
+6)  (Snake)
+7)  (Horse)
+8)  (Goat)
+9)  (Monkey)
+10) (Rooster)
+11) (Dog)
+12) (Boar)
+
+-----------------------------------------
+
+	The door opens, into another deep emptiness, this time however, somewhat reflecting the sign you chose. Another glowing door, morphed by that sign, this time sigils of constellations obscure the door. You are again inclined to choose one.
+
+-----------------------------------------
+Zodiac/Stars;
+
+1)  (Aries)
+2)  (Taurus)
+3)  (Gemini)
+4)  (Cancer)
+5)  (Leo)
+6)  (Virgo)
+7)  (Libra)
+8)  (Scorpio)
+9)  (Sagittarius)
+10) (Capricorn)
+11) (Aquarius)
+12) (Pisces)
+
+-----------------------------------------
+
+	Seeing more clearly each time, as the space around you takes shape, and your own spirit becomes clearer. A new door, each deeper into Rememberence than the last. 36 runes, the material aspects, calling you to your origins in these realms, compelling you to select another sigil, and go even deeper.
+
+-----------------------------------------
+Spirit/Species;
+
+1)  (Avious)
+2)  (Merr)
+3)  (Geneshan)
+4)  (Iniris)
+5)  (Reptoid)
+6)  (Wolfin)
+7)  (Goki)
+8)  (Tigris)
+9)  (Demon)
+10) (Grimm)
+11) (Drakian)
+12) (Chimera)
+13) (Mannequin)
+14) (Pixie)
+15) (Grizzly)
+16) (Faun)
+17) (Vampyre)
+18) (Grey)
+19) (Chrono)
+20) (Gargoyle)
+21) (Mimic)
+22) (Elf)
+23) (Ghoul)
+24) (Bastet)
+25) (Phantom)
+26) (Banshee)
+27) (Angel)
+28) (Human)
+29) (Jackal)
+30) (Troll)
+31) (Dwarf)
+32) (Goblin)
+33) (Imp)
+34) (Arachnos)
+35) (Minotaur)
+36) (Orc)
+
+-----------------------------------------
+
+	Deeper into Rememberence, as worlds and cities, plants and creatures, beginning to take shape, a reflection of yourself, but not yet in focus. Another door, more solid than your surroundings, with 24 runes of the immaterial aspects. Calling you to give this world form, it's beginning not unlike your own.
+
+-----------------------------------------
+Spirit/Type;
+
+1)  (Thunder)
+2)  (Warrior)
+3)  (Spell)
+4)  (Pyro)
+5)  (Plant)
+6)  (Fairy)
+7)  (Beast)
+8)  (Aqua)
+9)  (Undead)
+10) (Fiend)
+11) (Insect)
+12) (Vortex)
+13) (Dragoon)
+14) (Metal)
+15) (Rock)
+16) (Normal)
+17) (Psychic)
+18) (Ghost)
+19) (Crystal)
+20) (Blood)
+21) (Ice)
+22) (Holy)
+23) (Curse)
+24) (Avatar)
+
+-----------------------------------------
+
+	Memories of lost youth fill your mind. A vague vestige of forgotten friends from other times, things once learned, now unlearned. Hints of Classes, and Skills, A fight for survival within these mysterious Realms. As if one of each was burned into the back of your conscious by a past you never really lived.
+
+-----------------------------------------
+
+	Learning of fists and feet, blades and chains, to defend yourself at close range.
+
+-----------------------------------------
+Class/Melee;
+
+1) (1H)
+2) (2H)
+3) (Whip)
+4) (Staff)
+5) (Fists)
+6) (Chi)
+
+-----------------------------------------
+
+	Of stones and bows or explosive barrels, to ward off distant threats and hunt for meet.
+
+-----------------------------------------
+Class/Ranged;
+
+1) (Thrown)
+2) (Bow)
+3) (Crossbow)
+4) (Shotgun)
+5) (Pistol)
+6) (Rifle)
+
+-----------------------------------------
+
+	Of spells and sorcery, to enlighten your mind, and commune with your nature.
+
+-----------------------------------------
+Class/Magic;
+
+1) (Earth)
+2) (Air)
+3) (Fire)
+4) (Water)
+5) (Light)
+6) (Dark)
+
+-----------------------------------------
+
+	To walk without walking, and take flight to distant shores.
+
+-----------------------------------------
+Class/Step;
+
+1) (Flight)
+2) (Float)
+3) (Dash)
+4) (Acrobat)
+5) (Warp)
+6) (Evade)
+
+-----------------------------------------
+
+	Of special traits, inherent gifts, and deeper powers.
+
+-----------------------------------------
+Class/Special;
+
+1) (White)
+2) (Blue)
+3) (Black)
+4) (Red)
+5) (Green)
+6) (None)
+
+-----------------------------------------
+
+	Of how to unleash your Spirit from within, and endure to the very last breath.
+
+-----------------------------------------
+Class/Trance;
+
+1) (Overdrive)
+2) (Stages)
+3) (Duration)
+4) (Aura)
+5) (Armor)
+6) (Morph)
+
+-----------------------------------------
+
+	As if awakening from a deep slumber, you are now greeted by Your own spirit, and their world, of your own design, as if forged from the deepest recesses of your mind. In a place of mystery and wonder for you to endlessly explore. Where your deepest desires, and worst nightmares alike, may become a reality, if only for your time within Rememberence, but be warned, for once you have heard the Spirits' call, there is no turning back, only moving forward.
+
+-----------------------------------------
+Your First Spirit:
+
+	Fill out a blank character sheet from Icons/Custom, with the selections you just made.
+
+	Every Spirit has a name, though not all may be willing to share. Choose your Spirit's name, and give them a short description, use your imagination.
+
+	Choose one Trait from both your Species and Type Profiles, these will influence your gameplay depending on their effects. You may choose one new trait at each Tier of the Game.
+
+	Your combat stats are determined by your Species added to your Biorhythms as set by your Type. Each type uses different Biorhythms to increase HP, ATK, DEF, SPD, and MP.
+
+	Your Zodiac choices determine your Biorhythms by adding stats from each sign together.
+
+	Your Spirit's Thoughts are determined by comparing Biorhythms in the Structure file and calculating their end state. This is used to discover their personality, and how they interact with other entities. Including you.
+
+	Your Class Skills determine what kinds of weapons and abilities your spirit can use, and gives them all manner of different benefits depending on the skill.
+
+	Any items, objects, or essences, you discover or create in your journeys should be placed below this point.
+
+Good Luck...
+
+-----------------------------------------

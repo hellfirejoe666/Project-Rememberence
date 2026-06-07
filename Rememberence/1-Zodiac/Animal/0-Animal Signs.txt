@@ -1,0 +1,349 @@
+Spirits of the year
+#) Sign; [Style]
+
+
+Where does it come?
+Where does it go?
+How can we find who knows?
+
+------------------------------------
+
+Each Animal Sign is divided into trimesters corresponding to Species.
+
+------------------------------------
+1) Year of the Rat; [Clever]
+
+1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020, 2032
+
+Rats are the architects of opportunity, quickly turning clever ideas into action. Natural leaders, they thrive in authoritative roles, driven by a relentless ambition that can sometimes appear as self-centeredness. Intellectually sharp and socially savvy, they often excel in business, using their charm and wit to their advantage. While Rats can be talkative, they keep their deeper thoughts private, adding an air of mystery. They are exceptional organizers, making them ideal for roles in management or finance where precision and strategy are key. In relationships, Rats offer loyalty, seeking partners who provide emotional security. Though not overtly romantic, they show love through care and commitment.
+
+Biorhythms:
+MNF = 4
+SPL = 3
+BEU = 1
+STR = 0
+FND = 1
+KNO = 2
+UND = 2
+WIS = 5
+VIT = 3
+SEX = 4
+DIV = 5
+EGO = 6
+
+Elements: Water/Dark
+
+Species: 
+Imp, ATK + EGO
+Merr, DEF + EGO
+Pixie, SPD + EGO
+
+------------------------------------
+2) Year of the Ox; [Resolute]
+
+1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021, 2033
+
+Oxen are the embodiment of determination, building their lives on solid reasoning and unwavering resolve. They are the steadfast pillars of reliability, embodying honesty and compassion. Family and tradition are their anchors, and they work tirelessly towards success, valuing patience and hard work over quick gains. In their pursuit of peace and harmony, Oxen excel in environments where they can control their destiny, often thriving in leadership roles that don't require public attention. They prefer solitude to work through their thoughts, becoming stubborn or hot-headed when their peace is disturbed. Logical and unforgiving of deceit, Oxen seek partners who match their loyalty and commitment. Their hands are skilled, making them adept in fields requiring precision and patience, like medicine, arts, or crafts. 
+
+Biorhythms:
+MNF = 3
+SPL = 4
+BEU = 0
+STR = 1
+FND = 2
+KNO = 3
+UND = 1
+WIS = 4
+VIT = 2
+SEX = 5
+DIV = 6
+EGO = 5
+
+Elements: Earth/Water
+
+Species: 
+Geneshan, ATK + DIV
+Minotaur, DEF + DIV
+Arachnos, SPD + DIV
+
+------------------------------------
+3) Year of the Tiger; [Radical]
+
+1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022, 2034
+
+Tigers embody fierce resolve and magnetic charisma, naturally commanding respect and authority. They thrive on exploring the untapped potential in unconventional scenarios, driven by an intense desire to see projects through to completion. When faced with failure, their determination can turn into stubborn self-centeredness. Born leaders, Tigers often find themselves in radical or pioneering roles, admired for their unwavering courage. However, they can become aggressive if confined or isolated for too long. In relationships, they seek partners who offer stability and independence, allowing them the freedom to pursue their diverse interests. Tigers are intellectually versatile, making them well-suited for dynamic careers like travel, design, politics, or the military, where their adventurous spirit and leadership qualities can flourish.
+
+Biorhythms:
+MNF = 2
+SPL = 5
+BEU = 1
+STR = 2
+FND = 3
+KNO = 4
+UND = 0
+WIS = 3
+VIT = 1
+SEX = 6
+DIV = 5
+EGO = 4
+
+Elements: Air/Fire
+
+Species: 
+Tigris, ATK + SEX
+Bastet, DEF + SEX
+Chrono, SPD + SEX
+
+------------------------------------
+4) Year of the Rabbit; [Generous]
+
+1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023, 2035
+
+Rabbits are the epitome of grace and generosity, preferring a life of tranquility and ease. They are naturally affable, avoiding risks and seeking comfort in routine and detail. Their approach to life is diplomatic and polite, making them beloved among peers. In relationships, Rabbits desire partners who are loving and kind, fulfilling their need for emotional security. Their outgoing nature is balanced by a conservative streak, making them resistant to change. Creativity is their forte, with a particular inclination towards art and literature. They excel in careers that allow for expression and peace, such as design, counseling, or advisory roles, where their diplomatic skills shine.
+
+Biorhythms:
+MNF = 1
+SPL = 6
+BEU = 2
+STR = 3
+FND = 4
+KNO = 5
+UND = 1
+WIS = 2
+VIT = 0
+SEX = 5
+DIV = 4
+EGO = 3
+
+Elements: Light/Earth
+
+Species: 
+Mannequin, ATK + SPL
+Iniris,    DEF + SPL
+Angel,     SPD + SPL
+
+------------------------------------
+5) Year of the Dragon; [Noble]
+
+1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024, 2036
+
+Dragons are vibrant, self-assured, and naturally charismatic, adept at capturing attention and making a lasting impression. Their environment is one of energy and action, where they thrive as the focal point. With a keen sense of timing, Dragons excel at navigating and resolving complex situations, often stepping in at critical moments. Their determination is matched by a noble approach to life, viewing themselves as heroic figures in their own narrative. In relationships, Dragons seek partners who offer both space and passion, appreciating romance but also requiring respect for their independence. Career-wise, they are drawn to fields where they can lead or influence, such as acting, law, or management, where their charisma and strategic mind can shine. Dragons detest confinement, always aiming for roles that reflect their grand aspirations.
+
+Biorhythms:
+MNF = 0
+SPL = 5
+BEU = 3
+STR = 4
+FND = 5
+KNO = 6
+UND = 2
+WIS = 1
+VIT = 1
+SEX = 4
+DIV = 3
+EGO = 2
+
+Elements: Fire/Air
+
+Species: 
+Drakian,  ATK + KNO
+Gargoyle, DEF + KNO
+Demon,    SPD + KNO
+
+------------------------------------
+6) Year of the Snake; [Cunning]
+
+1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025, 2037
+
+Snakes are captivating and enigmatic, exuding a control that is both intriguing and calculated. They possess a remarkable endurance, thriving even in adversity, with an almost supernatural alertness that makes them seem otherworldly. In relationships, Snakes crave deep emotional connections, valuing togetherness and intimacy. They seek partners who appreciate a cozy, snug environment and offer constant support and encouragement. Patience is their virtue; Snakes can wait for the perfect moment to act, often observing silently before making their move. Their career paths often lead them to fields requiring patience, insight, and control, such as public relations, philosophy, or law, where their strategic mind can excel.
+
+Biorhythms:
+MNF = 1
+SPL = 4
+BEU = 4
+STR = 5
+FND = 6
+KNO = 5
+UND = 3
+WIS = 0
+VIT = 2
+SEX = 3
+DIV = 2
+EGO = 1
+
+Elements: Dark/Water
+
+Species: 
+Reptoid, ATK + FND
+Ghoul,   DEF + FND
+Vampyre, SPD + FND
+
+------------------------------------
+7) Year of the Horse; [Honest]
+
+1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026, 2038
+
+Horses are epitomes of self-reliance and tenacity, driven by an honest and unwavering spirit. They tirelessly strive for recognition, dedicating themselves fully to their endeavors, be it work, family, or personal projects. Their approach to life is marked by a relentless forward momentum, even in the face of adversity, showcasing their incredible self-determination. Horses are committed to excellence, focusing intensely on their goals with a loyal devotion. In relationships, they seek partners who provide care while allowing them the freedom to pursue their ambitious ventures. Career-wise, Horses are well-suited for roles that require exploration, creativity, or leadership, such as politics, exploration, or the arts, where their dedication and honesty can truly shine.
+
+Biorhythms:
+MNF = 2
+SPL = 3
+BEU = 5
+STR = 6
+FND = 5
+KNO = 4
+UND = 4
+WIS = 1
+VIT = 3
+SEX = 2
+DIV = 1
+EGO = 0
+
+Elements: Light/Fire
+
+Species: 
+Dwarf, ATK + STR
+Human, DEF + STR
+Troll, SPD + STR
+
+------------------------------------
+8) Year of the Goat; [Sturdy]
+
+1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027, 2039
+
+Goats are the embodiment of patience and foresight, maintaining control and planning in all areas of life. They bear immense responsibilities with a sturdy resilience, often working hard behind the scenes without seeking recognition. Their hardworking nature makes them reliable team players, always ready to take on more than their fair share. Goats prefer to stay out of the spotlight, valuing their role in the background where they can contribute effectively. In relationships, Goats look for partners who offer protection and space for their creative expression. Career-wise, they thrive in fields that allow for creativity and service, such as arts, research, or emergency relief, where their steady nature and foresight can make a significant impact.
+
+Biorhythms:
+MNF = 3
+SPL = 2
+BEU = 6
+STR = 5
+FND = 4
+KNO = 3
+UND = 5
+WIS = 2
+VIT = 4
+SEX = 1
+DIV = 0
+EGO = 1
+
+Elements: Earth/Light
+
+Species: 
+Faun, ATK + BEU
+Elf,  DEF + BEU
+Grey, SPD + BEU
+
+------------------------------------
+9) Year of the Monkey; [Active]
+
+1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028, 2040
+
+Monkeys are the epitome of activity, driven by an innate passion and intellectual curiosity. They possess a brilliant mind, quick to learn and innovate, always eager to expand their knowledge. Their playful nature often leads them to mischief, which can sometimes make them seem inconsiderate or restless. Despite their lively spirit, Monkeys can be quite determined and adaptable when it comes to achieving their goals. Their fast-paced lifestyle might challenge their ability to settle down, often leading to a dynamic social and romantic life. Career-wise, Monkeys excel in fields that require creativity, quick thinking, and strategic planning, such as design, media management, or public relations, where their agility and wit can truly shine.
+
+Biorhythms:
+MNF = 4
+SPL = 1
+BEU = 5
+STR = 4
+FND = 3
+KNO = 2
+UND = 6
+WIS = 3
+VIT = 5
+SEX = 0
+DIV = 1
+EGO = 2
+
+Element: Air/Earth
+
+Species: 
+Goki,   ATK + UND
+Goblin, DEF + UND
+Mimic,  SPD + UND
+
+------------------------------------
+10) Year of the Rooster; [Defiant]
+
+1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029, 2041
+
+Roosters embody tenacity, defiance, and sharp insight. They are naturally creative, with a deep appreciation for music and the arts, fueled by a vivid imagination. Their perseverance is notable, often displaying immediate strength in pursuing their desires. Excellent communicators, Roosters can be persuasive and insightful, making them adept at navigating social dynamics. They seek companionship, valuing deep connections where they can observe and engage with their partners on an intellectual level. Professionally, Roosters thrive in fields requiring creativity, communication, and strategic thinking, such as politics, public relations, or the arts, where their imagination and persuasive skills can flourish.
+
+Biorhythms:
+MNF = 5
+SPL = 0
+BEU = 4
+STR = 3
+FND = 2
+KNO = 1
+UND = 5
+WIS = 4
+VIT = 6
+SEX = 1
+DIV = 2
+EGO = 3
+
+Element: Fire/Air
+
+Species: 
+Avious,  ATK + VIT
+Grimm,   DEF + VIT
+Banshee, SPD + VIT
+
+------------------------------------
+11) Year of the Dog; [Loyal]
+
+1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030, 2042
+
+Dogs are the epitome of loyalty, sincerity, and straightforwardness. They balance work and play with equal enthusiasm, earning them respect and admiration. Known for their courage and commitment, Dogs rarely back down from their promises or betray trust. Their inner strength and physical vigor make them valuable in any setting, especially where teamwork and reliability are key. Dogs are truthful and honorable, seeking partners who fully support and stand by them. In careers, they excel in roles that allow them to serve others, such as teaching, counseling, medicine, or social work, where their patience, loyalty, and wisdom can make a significant impact.
+
+Biorhythms:
+MNF = 6
+SPL = 1
+BEU = 3
+STR = 2
+FND = 1
+KNO = 0
+UND = 4
+WIS = 5
+VIT = 5
+SEX = 2
+DIV = 3
+EGO = 4
+
+Elements: Dark/Earth
+
+Species: 
+Jackal,  ATK + MNF
+Wolfin,  DEF + MNF
+Phantom, SPD + MNF
+
+------------------------------------
+12) Year of the Boar; [Mellow]
+
+1935, 1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031, 2043
+
+Boars are known for their hospitality, honor, and mellow nature, possessing a remarkable tolerance for life's ups and downs. They are cherished for their sincerity and warmth, always seeing the good in others and respecting diverse viewpoints. Despite often being blessed with wealth and support, Boars are content with simplicity, not driven by material accumulation. Their forgiving nature means they hold no grudges, leading to harmonious relationships without enmity. In love, Boars are generous with affection, expecting the same in return. Their determination is quiet but strong; once committed to a goal, they pursue it with unwavering resolve. Career-wise, Boars thrive in fields that offer natural, simple pleasures or service, such as music, culinary arts, writing, or nursing, where their wisdom and contentment can truly shine.
+
+Biorhythms:
+MNF = 5
+SPL = 2
+BEU = 2
+STR = 1
+FND = 0
+KNO = 1
+UND = 3
+WIS = 6
+VIT = 4
+SEX = 3
+DIV = 4
+EGO = 5
+
+Elements: Water/Dark
+
+Species: 
+Grizzly, ATK + WIS
+Chimera, DEF + WIS
+Orc,     SPD + WIS
+
+------------------------------------

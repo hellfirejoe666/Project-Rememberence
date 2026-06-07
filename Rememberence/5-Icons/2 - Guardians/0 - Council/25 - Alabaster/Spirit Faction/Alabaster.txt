@@ -1,0 +1,214 @@
+(Alabaster): Level = 0 {100k}
+[WE ARE MANY]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Demon
+Element; Dark
+(Dragon)
+Ability; Spawn, Conjure a number of demon tokens amounting to DIV, who have ATK/DEF/SPD equal to DIV.
+
+-----------------------------------------
+
+Type; Fiend
+Color; Green
+(Scorpio)
+Atributes; Fear, Target's ATK/DEF/SPD are reduced by caster's WIS for a number of turns equal to the caster's WIS.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 19 + SEX (25) g(175) {17,520,000}
+ATK = 6 + EGO (9)  g(63)  {6,320,000}
+DEF = 1 + VIT (5)  g(35)  {3,520,000}
+SPD = 2 + BEU (10) g(70)  {7,020,000}
+MP = 11 + STR (21) g(147) {14,720,000}
+
+Move: Corner Lateral
+Attack: Corner Lateral
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 3
+SPL = 9
+BEU = 8 {+ 20k}
+STR = 4 {+ 20k}
+FND = 7
+KNO = 7
+UND = 7
+WIS = 5
+VIT = 4 {+ 20k}
+SEX = 6 {+ 20k}
+DIV = 9
+EGO = 3 {+ 20k}
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = 4
+Emo = -1
+Sub = 2
+Con = 3
+Abs = 2
+Per = 0
+State/ 10
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/2H "Buster Sword"
+Ranged/Thrown "Buster Sword"
+Magic/Dark "Black Hands"
+Step/Acrobat "Shadow Step"
+Special/Green "Devour"
+Trance/Aura "Legion"
+
+-----------------------------------------
+"Buster Sword" Lvl 1 {100k}
+2H/Thrown/Demon/Fiend [DeityI]
++6/1/2 +EGO/VIT/BEU (+9/5/10)
+ShockwaveBEU, RecallBEU, SpawnBEU, FearBEU
+
+-----------------------------------------
+"Black Hands" Lvl 1 {100k}
+Dark/Fiend/Undead [DeityI]
++EGO/VIT/BEU (+3/4/8)
+WeakenSEX, FearSEX, LifelinkSEX
+
+-----------------------------------------
+"Shadow Step" Lvl 1 {100k}
+Acrobat/Ghost/Fiend [DeityI]
++EGO/VIT/BEU (+3/4/8)
+FreeRunBEU, PhaseBEU, FearBEU
+
+-----------------------------------------
+"Devour" Lvl 1 {100k}
+Green/Demon/Undead [DeityI]
++EGO/VIT/BEU (+3/4/8)
+GrowthSEX, SpawnSEX, LifelinkSEX
+
+-----------------------------------------
+"Legion" Lvl 1 {100k}
+Aura/Demon/Undead [DeityI]
++EGO/VIT/BEU (+3/4/8)
+OverwhelmBEU, SpawnBEU, LifelinkBEU
+
+-----------------------------------------
+"Puppets" Lvl 1 {100k}
+Token/Mimic/Mannequin/Fiend
+ATK = 4 + EGO (7)
+DEF = 2 + VIT (6)
+SPD = 6 + BEU (14)
+Traits: CopyBEU, UnmovingBEU, FearBEU
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Legion Plates" Lvl 1 {100k} [DietyI]
+Head/ Demon/Fiend
+Body/ Demon/Fiend
+Hands/ Demon/Fiend
+Legs/ Demon/Fiend
+Feet/ Demon/Fiend
+Other/ Demon/Fiend
+Total; +150/54/30/60/126
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+-----------------------------------------

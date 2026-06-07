@@ -1,0 +1,235 @@
+"Ryu"
+
+7 10 28 18
+
+5 5 2 4 5 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Mod-Corp]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Humite Mistara" Lvl 0
+Mod/Human/Ghost [NoviceI]
++3/3/3 +UND/SEX/DIV (+12/9/8)
+IndomitableDIV, PhaseDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Soul Shroom" (1m/1m)
+(Cost: $380)
+
+Type: Ghost
+
+HP  + MNF 
+ATK + UND
+DEF + SEX
+SPD + DIV
+MP  + EGO
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Empty" (1m/1m)
+(Cost: $1,160)
+
+Species: Human
+
+HP = 15
+ATK = 3
+DEF = 3
+SPD = 3
+MP = 15
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Omni
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Subjects" (1m/1m)
+(Cost: $1,870)
+
+Species: Human
+Type: Ghost
+
+HP = 15 + MNF (18) g(136)
+ATK = 3 + UND (12) g(84)
+DEF = 3 + SEX (9)  g(63)
+SPD = 3 + DIV (8)  g(56)
+MP = 15 + EGO (16) g(112)
+
+MNF = 3
+UND = 9
+SEX = 6
+DIV = 5
+EGO = 1
+
+Move: Omni
+Attack: Corner Diagnal
+
+Traits: IndomitableUND, PhaseUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Rider" (100k/100k)
+(Cost: $187,000)
+
+Species: Human
+Type: Ghost
+
+HP = 150 + MNF (180) g(1360)
+ATK = 30 + UND (120) g(840)
+DEF = 30 + SEX (90)  g(630)
+SPD = 30 + DIV (80)  g(560)
+MP = 150 + EGO (160) g(1120)
+
+MNF = 30
+UND = 90
+SEX = 60
+DIV = 50
+EGO = 10
+
+Move: Omni
+Attack: Corner Diagnal
+
+Traits: IndomitableUND, PhaseUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Soul Center" (10k/10k)
+(Cost: $18,700,000)
+
+Species: Human
+Type: Ghost
+
+HP = 1500 + MNF (1800) g(13.6k)
+ATK = 300 + UND (1200) g(8400)
+DEF = 300 + SEX (900)  g(6300)
+SPD = 300 + DIV (800)  g(5600)
+MP = 1500 + EGO (1600) g(11.2k)
+
+MNF = 300
+UND = 900
+SEX = 600
+DIV = 500
+EGO = 100
+
+Move: Omni
+Attack: Corner Diagnal
+
+Traits: IndomitableUND, PhaseUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Ghost Ship" (1k/1k)
+(Cost: $1,870,000,000)
+
+Species: Human
+Type: Ghost
+
+HP = 15k + MNF (18k) g(136k)
+ATK = 3k + UND (12k) g(84k)
+DEF = 3k + SEX (9k)  g(63k)
+SPD = 3k + DIV (8k)  g(56k)
+MP = 15k + EGO (16k) g(112k)
+
+MNF = 3k
+UND = 9k
+SEX = 6k
+DIV = 5k
+EGO = 1k
+
+Move: Omni
+Attack: Corner Diagnal
+
+Traits: IndomitableUND, PhaseUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Celesta Mortis" (100/100)
+(Cost: $187,000,000,000)
+
+Species: Human
+Type: Ghost
+
+HP = 150k + MNF (180k) g(1360k)
+ATK = 30k + UND (120k) g(840k)
+DEF = 30k + SEX (90k)  g(630k)
+SPD = 30k + DIV (80k)  g(560k)
+MP = 150k + EGO (160k) g(1120k)
+
+MNF = 30k
+UND = 90k
+SEX = 60k
+DIV = 50k
+EGO = 10k
+
+Move: Omni
+Attack: Corner Diagnal
+
+Traits: IndomitableUND, PhaseUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Mod-Corp Dynasty" (10/10)
+(Cost: $18,700,000,000,000)
+
+Species: Human
+Type: Ghost
+
+HP  = 1.5m + MNF (1.8m) g(13.6m)
+ATK = 300k + UND (1.2m) g(8.4m)
+DEF = 300k + SEX (900k) g(6.3m)
+SPD = 300k + DIV (800k) g(5.6m)
+MP  = 1.5m + EGO (1.6m) g(11.2m)
+
+MNF = 300k
+UND = 900k
+SEX = 600k
+DIV = 500k
+EGO = 100k
+
+Move: Omni
+Attack: Corner Diagnal
+
+Traits: IndomitableUND, PhaseUND
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

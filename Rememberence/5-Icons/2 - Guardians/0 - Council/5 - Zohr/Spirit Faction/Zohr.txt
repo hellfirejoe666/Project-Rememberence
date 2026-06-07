@@ -1,0 +1,212 @@
+(Zohr): Level = 0 {100k}
+[Always tinkering in his garage]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Reptoid
+Element; Air
+(Snake)
+Ability; ImitateMNF, Use the Target's Type rather than your own for a number of turns equal to MNF
+
+-----------------------------------------
+
+Type; Thunder
+Color; Blue
+(Scorpio)
+Atributes; StunSPL, for a number of turns equal to SPL target may not take action.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 20 + SPL (28) g(196) {19,620,000}
+ATK = 4 + KNO (10) g(70)  {7,020,000}
+DEF = 2 + WIS (6)  g(42)  {4,220,000}
+SPD = 3 + DIV (11) g(77)  {7,720,000}
+MP = 10 + SEX (15) g(105) {10,520,000}
+
+Move: Lateral
+Attack: Diag
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 4
+SPL = 8 {+ 20k}
+BEU = 9
+STR = 5
+FND = 8
+KNO = 6 {+ 20k}
+UND = 8
+WIS = 4 {+ 20k}
+VIT = 5
+SEX = 5 {+ 20k}
+DIV = 8 {+ 20k}
+EGO = 2
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = 6
+Emo = 1
+Sub = 0
+Con = -1
+Abs = 2
+Per = 0
+State/ 8
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/Fists "Tazer Fist"
+Ranged/Pistol "Blasters"
+Magic/Air "Lightning"
+Step/Dash "Charge Step"
+Special/Blue "Thunder"
+Trance/Stages "Electric Storm"
+
+-----------------------------------------
+"Tazer Fist" Lvl 1 {100k}
+Fists/Reptoid/Thunder [DeityI]
++4/2/3 +KNO/WIS/DIV (+10/6/11)
+BreakerDIV, ImitateDIV, StunDIV
+
+-----------------------------------------
+"Blasters" Lvl 1 {100k}
+Pistol/Reptoid/Thunder [DeityI]
++4/2/3 +KNO/WIS/DIV (+10/6/11)
+Dual Wield, ImitateDIV, StunDIV
+
+-----------------------------------------
+"Lightning" Lvl 1 {100k}
+Air/Thunder [DeityI]
++KNO/WIS/DIV (+6/4/8)
+GustSPL, StunSPL
+
+-----------------------------------------
+"Charge Step" Lvl 1 {100k}
+Dash/Reptoid/Thunder [DeityI]
++KNO/WIS/DIV (+6/4/8)
+TrampleSPL, ImitateSPL, StunSPL
+
+-----------------------------------------
+"Thunder" Lvl 1 {100k}
+Blue/Thunder [DeityI]
++KNO/WIS/DIV (+6/4/8)
+ControlSPL, StunSPL
+
+-----------------------------------------
+"Electric Storm" Lvl 1 {100k}
+Stages/Reptoid/Thunder [DeityI]
++4/2/3 +KNO/WIS/DIV (+10/6/11)
+BoostDIV, ImitateDIV, StunDIV
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Static Skin" Lvl 1 {100k} [DeityI]
+Head/ Reptoid/Thunder
+Body/ Reptoid/Thunder
+Hands/ Reptoid/Thunder
+Legs/ Reptoid/Thunder
+Feet/ Reptoid/Thunder
+Other/ Reptoid/Thunder
+Total; +168/60/36/66/90
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+-----------------------------------------

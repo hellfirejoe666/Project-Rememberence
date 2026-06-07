@@ -1,0 +1,235 @@
+"Sonya"
+
+10 8 26 1
+
+5 1 2 4 2 4
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Banded]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Banshite Thundara" Lvl 0
+Mod/Banshee/Thunder [NoviceI]
++3/2/4 +KNO/WIS/DIV (+5/10/12)
+WailDIV, StunDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Echo" (1m/1m)
+(Cost: $380)
+
+Type: Thunder
+
+HP  + SPL
+ATK + KNO
+DEF + WIS
+SPD + DIV
+MP  + SEX
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Sorrows" (1m/1m)
+(Cost: $1,160)
+
+Species: Banshee
+
+HP = 12
+ATK = 3
+DEF = 2
+SPD = 4
+MP = 18
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Corner Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Siren" (1m/1m)
+(Cost: $1,880)
+
+Species: Banshee
+Type: Thunder
+
+HP = 12 + SPL (16) g(112)
+ATK = 3 + KNO (5)  g(35)
+DEF = 2 + WIS (10) g(70)
+SPD = 4 + DIV (12) g(84)
+MP = 18 + SEX (21) g(147)
+
+SPL = 4
+KNO = 2
+WIS = 8
+DIV = 8
+SEX = 3
+
+Move: Corner Lateral
+Attack: Diag
+
+Traits: WailDIV, StunWIS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Escort" (100k/100k)
+(Cost: $188,000)
+
+Species: Banshee
+Type: Thunder
+
+HP = 120 + SPL (160) g(1120)
+ATK = 30 + KNO (50)  g(350)
+DEF = 20 + WIS (100) g(700)
+SPD = 40 + DIV (120) g(840)
+MP = 180 + SEX (210) g(1470)
+
+SPL = 40
+KNO = 20
+WIS = 80
+DIV = 80
+SEX = 30
+
+Move: Corner Lateral
+Attack: Diag
+
+Traits: WailDIV, StunWIS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Theater" (10k/10k)
+(Cost: $18,800,000)
+
+Species: Banshee
+Type: Thunder
+
+HP = 1200 + SPL (1600) g(11.2k)
+ATK = 300 + KNO (500)  g(3500)
+DEF = 200 + WIS (1000) g(7000)
+SPD = 400 + DIV (1200) g(8400)
+MP = 1800 + SEX (2100) g(14.7k)
+
+SPL = 400
+KNO = 200
+WIS = 800
+DIV = 800
+SEX = 300
+
+Move: Corner Lateral
+Attack: Diag
+
+Traits: WailDIV, StunWIS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Stage" (1k/1k)
+(Cost: $1,880,000,000)
+
+Species: Banshee
+Type: Thunder
+
+HP = 12k + SPL (16k) g(112k)
+ATK = 3k + KNO (5k)  g(35k)
+DEF = 2k + WIS (10k) g(70k)
+SPD = 4k + DIV (12k) g(84k)
+MP = 18k + SEX (21k) g(147k)
+
+SPL = 4k
+KNO = 2k
+WIS = 8k
+DIV = 8k
+SEX = 3k
+
+Move: Corner Lateral
+Attack: Diag
+
+Traits: WailDIV, StunWIS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Director" (100/100)
+(Cost: $188,000,000,000)
+
+Species: Banshee
+Type: Thunder
+
+HP = 120k + SPL (160k) g(1120k)
+ATK = 30k + KNO (50k)  g(350k)
+DEF = 20k + WIS (100k) g(700k)
+SPD = 40k + DIV (120k) g(840k)
+MP = 180k + SEX (210k) g(1470k)
+
+SPL = 40k
+KNO = 20k
+WIS = 80k
+DIV = 80k
+SEX = 30k
+
+Move: Corner Lateral
+Attack: Diag
+
+Traits: WailDIV, StunWIS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Banded Orchestra" (10/10)
+(Cost: $18,800,000,000,000)
+
+Species: Banshee
+Type: Thunder
+
+HP  = 1.2m + SPL (1.6m) g(11.2m)
+ATK = 300k + KNO (500k) g(3.5m)
+DEF = 200k + WIS (1m)   g(7m)
+SPD = 400k + DIV (1.2m) g(8.4m)
+MP  = 1.8m + SEX (2.1m) g(14.7m)
+
+SPL = 400k
+KNO = 200k
+WIS = 800k
+DIV = 800k
+SEX = 300k
+
+Move: Corner Lateral
+Attack: Diag
+
+Traits: WailDIV, StunWIS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

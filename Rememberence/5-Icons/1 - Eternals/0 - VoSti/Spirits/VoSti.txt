@@ -1,0 +1,173 @@
+(VoSti): Level = 0 {100b}
+[Cloaked One]
+
+-----------------------------------------
+
+Species; Phantom
+Element; All
+(Dog)
+Ability; Vanish, Caster may not be targeted, but they may not move either.
+
+-----------------------------------------
+
+Type; Ghost
+Color; All
+(Cancer)
+Attributes; Phase, this spirit may move through a number of walls equal to DIV.
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 18 + MNF (29) g(137){14,028,800,000,000}
+ATK = 5 + UND (10) g(40) {4,096,000,000,000}
+DEF = 1 + SEX (5)  g(11) {1,126,400,000,000}
+SPD = 3 + DIV (8)  g(26) {2,662,400,000,000}
+MP = 12 + EGO (21) g(93) {9,523,200,000,000}
+
+Move: Corner Diag
+Attack: Corner Diag
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 11 {+ 20b}
+SPL = 5
+BEU = 6
+STR = 6
+FND = 7
+KNO = 3
+UND = 5 {+ 20b}
+WIS = 5
+VIT = 6
+SEX = 4 {+ 20b}
+DIV = 5 {+ 20b}
+EGO = 9 {+ 20b}
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = -2
+Emo = 1
+Sub = 0
+Con = 7
+Abs = -2
+Per = 0
+State/ 4
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/All "Target Skill"
+Ranged/All "Target Skill"
+Magic/All "Target Skill" "Summon Glyph"
+Step/All "Target Skill"
+Special/All "Target Skill" "Summon Glyph"
+Trance/All "Traget Skill"
+
+-----------------------------------------
+"Summon Glyph" Lvl 1 {100b}
+Mimic/Reptoid [DeityII]
+ATK = Target
+DEF = Target
+SPD = Target
+Attributes: This Spirit's ATK/DEF/SPD are equal to the target used to summon it, use the Target's Type.
+
+-----------------------------------------
+"Target Skill"  Lvl 1 {100b}
+Any/All [DietyII]
+Create and equip a token weapon, spell, or ability, that is a duplicate of the target's weapon, spell, or ability, for the target skill, for a number of turns equal to EGO.
+
+-----------------------------------------
+
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Head/Phantom
+Body/Phantom
+Hands/Phantom
+Legs/Phantom
+Feet/Phantom
+Other/Phantom
+Total; 108/30/6/18/72
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	Vo  (Shroud)
+	Sti (Guard)
+	Pel (Confusion)
+	Sul (BioEGO)
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------

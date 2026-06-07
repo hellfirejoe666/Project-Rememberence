@@ -1,0 +1,235 @@
+"Star"
+
+3 7 8 22
+
+4 2 5 2 1 4
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Ministry]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Tigrite Blessara" Lvl 0
+Mod/Tigris/Holy [NoviceI]
++3/2/4 +UND/WIS/EGO (+7/8/10)
+StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Shine Lotus" (!m/1m)
+(Cost: $420)
+
+Type: Holy
+
+HP  + DIV
+ATK + UND
+DEF + WIS
+SPD + EGO
+MP  + BEU
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Minx" (1m/1m)
+(Cost: $1,200)
+
+Species: Tigris
+
+HP = 14
+ATK = 3
+DEF = 2
+SPD = 4
+MP = 16
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Clergy" (1m/1m)
+(Cost: $1,960)
+
+Species: Tigris
+Type: Holy
+
+HP = 14 + DIV (24) g(168)
+ATK = 3 + UND (7)  g(49)
+DEF = 2 + WIS (8)  g(56)
+SPD = 4 + EGO (10) g(70)
+MP = 16 + BEU (23) g(161)
+
+DIV = 10
+UND = 4
+WIS = 6
+EGO = 6
+BEU = 7
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Low Rider" (100k/100k)
+(Cost: $196,000)
+
+Species: Tigris
+Type: Holy
+
+HP = 140 + DIV (240) g(1680)
+ATK = 30 + UND (70)  g(490)
+DEF = 20 + WIS (80)  g(560)
+SPD = 40 + EGO (100) g(700)
+MP = 160 + BEU (230) g(1610)
+
+DIV = 100
+UND = 40
+WIS = 60
+EGO = 60
+BEU = 70
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Temple" (10k/10k)
+(Cost: $19,600,000)
+
+Species: Tigris
+Type: Holy
+
+HP = 1400 + DIV (2400) g(16.8k)
+ATK = 300 + UND (700)  g(4900)
+DEF = 200 + WIS (800)  g(5600)
+SPD = 400 + EGO (1000) g(7000)
+MP = 1600 + BEU (2300) g(16.1k)
+
+DIV = 1000
+UND = 400
+WIS = 600
+EGO = 600
+BEU = 700
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Divine Cruiser" (1k/1k)
+(Cost: $1,960,000,000)
+
+Species: Tigris
+Type: Holy
+
+HP = 14k + DIV (24k) g(168k)
+ATK = 3k + UND (7k)  g(49k)
+DEF = 2k + WIS (8k)  g(56k)
+SPD = 4k + EGO (10k) g(70k)
+MP = 16k + BEU (23k) g(161k)
+
+DIV = 10k
+UND = 4k
+WIS = 6k
+EGO = 6k
+BEU = 7k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Hyper Drive" (100/100)
+(Cost: $196,000,000,000)
+
+Species: Tigris
+Type: Holy
+
+HP = 140k + DIV (240k) g(1680k)
+ATK = 30k + UND (70k)  g(490k)
+DEF = 20k + WIS (80k)  g(560k)
+SPD = 40k + EGO (100k) g(700k)
+MP = 160k + BEU (230k) g(1610k)
+
+DIV = 100k
+UND = 40k
+WIS = 60k
+EGO = 60k
+BEU = 70k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Tigrin Order" (10/10)
+(Cost: $19,600,000,000,000)
+
+Species: Tigris
+Type: Holy
+
+HP  = 1.4m + DIV (2.4m) g(16.8m)
+ATK = 300k + UND (700k) g(4.9m)
+DEF = 200k + WIS (800k) g(5.6m)
+SPD = 400k + EGO (1m)   g(7m)
+MP  = 1.6m + BEU (2.3m) g(16.1m)
+
+DIV = 1m
+UND = 400k
+WIS = 600k
+EGO = 600k
+BEU = 700k
+
+Move: Lateral
+Attack: Corner Lateral
+
+Traits: StalkDIV, VigilanceDIV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

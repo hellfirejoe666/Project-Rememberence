@@ -1,0 +1,513 @@
+Spirit of a Species
+
+#) Species; [Material]
+
+How are we what we are, is it this flesh? 
+Or are we only illusions of ourselves?
+
+------------------------------------
+1) Avious; [Avium]
+
+Though bird-like, not all can fly. Inquirers of ancient wisdom, and the messengers of fate. The Avious are guardians of the sky, and watchers of the worlds below. Often signs of coming wisdom or change, as moving to new places, be it physical or of the mind. If there is a bird who is out of place and acting unusually, it may be an Avious delivering to you unique wisdom. Dreams of an Avious can denote being overwhelmed if they are flocking you. Alternatively they may represent new wisdom if they appear singularly, or as a guide. Avious of flames, often called the phoenix, represent rebirth and growth. While Avious of death, such as the Crow, represent loss, or the disintegration of old ideals.
+
+Traits; Horus, MP recovers each turn equal to UND for a number of turns equal to UND.
+
+HP = 13
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 17
+Move: Diag
+
+------------------------------------
+2) Merr; [Merrium]
+
+Beings of the deep, who once lured sailors and fishermen alike to their watery doom. A symbol of curiosity and misguided intuition. A creature of water acting unusually may be influenced by the Merr, a message of danger unexplored, and of deeper ideas yet undiscovered. Beware their domain, be it the oceans of water, or the endless sea of the unconscious mind. That which lurks there can drive even the most profound and stable mind to absolute madness, if unprepared for the reflection of their own short comings. "What does one see, When one peers into the depths? It is the Merr... Rising like a tide, with the ferocity of a blistering arctic storm! 
+...If only for the taste of our very souls,"  ~Fisherman's legend. 
+
+Traits; Siren, ATK and SPD are increased by WIS until end of turn.
+
+HP = 12
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 18
+Move: Corner Lateral
+
+------------------------------------
+3) Geneshan; [Geneshite]
+
+If we were to harm another living being, it would be as spiritual death. Once we have died, we can only become stronger, thus reborn. Peace and inner strength abound us. Dreams of our kind be them with trunk, or be them with horn, show your inner power. A force within you forged from a sturdy foundation. We know you for your higher values, your distinct respect for the life force around you, and within you. Spirits of Life and honor, we represent the fortitude of honesty and balance through understanding. Once you have come to know us, you will have come one step closer to yourself.
+
+Traits; Revitalize, HP recovers each turn equal to MNF for a number of turns equal to MNF.
+
+HP = 18
+ATK = 2
+DEF = 5
+SPD = 2
+MP = 12
+Move: Lateral
+
+------------------------------------
+4) Iniris; [Inirium]
+
+Bringers of luck and omens of things to come, the Iniris are wanderers who spread good fortune to those who cross their path. Just don't get on their bad side or your luck may change for the worse. They are both messengers, and tricksters, only involving themselves with those who they find interesting. If you keep them entertained they will work with you in terms of opening doors once hidden, and revealing things once unimagined. They may bring to you opportunities that you had previously never considered. Remember to be specific, or they might enjoy turning your life into quite the mess. It's not so much that they want to harm you, but rather that they revel in uncanny circumstance.
+
+Traits; Lucky, SPD is increased by UND until end of turn.
+
+HP = 10
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 20
+Move: Diag
+
+------------------------------------
+5) Reptoid; [Reptillium]
+
+Cunning to the core, the Reptoids have infiltrated nearly every organization in the known universe. They have no home and thus no strict loyalties. But they almost always move as one, cycling though system after system, consuming everything in their path. What are they planning? Some believe that the Reptoids are ruling both the entertainment industries and governments worldwide. Though no definitive proof has been presented, we can be sure that the signs of these spirits are unmistakable. Cunning wit, and a sharp tongue. Unrivaled cynicism toward the suffering of others, and a disregard for their safety. Ambitions for control, or power, however fleeting. If you encounter a Reptoid, your own will must be resolute, or they will surely take advantage of your weaknesses.
+
+Traits; Imitate, Use the Target's Type rather than your own for a number of turns equal to MNF.
+
+HP = 20
+ATK = 4 
+DEF = 2
+SPD = 3
+MP = 10
+Move: Lateral
+
+------------------------------------
+6) Wolfin; [Wolfite]
+
+Children of the moon, and protectors of the forests, the Wolfin are loyal to their core. If you come to them with a pure heart, they are among the greatest allies. Never show them a wink of fear however, or they will eat you alive. Companionship and strong family ties are symbolic of the Wolfin. Pack animals, and intelligent hunters, they can sniff out secrets, and reveal even the most well hidden truths. Often symbols of mystery, or inquiry, they bring with them profound insight, and the recognition of primal instincts present in every living thing.
+
+Traits; Howl, ATK/DEF/SPD is increased by DIV until end of turn.
+
+HP = 17
+ATK = 5
+DEF = 2
+SPD = 2
+MP = 13
+Move: Corner Diag
+
+------------------------------------
+7) Goki; [Gokium]
+
+Strong warriors, and fierce guardians, they are among the most powerful of the spirits, in terms of their unwavering will, and sense of personal integrity. They don't back down from a challenge, and always rise to the occasion when protecting their friends or family. It is unwise to face them in combat because no matter the game they're playing, and they do like games, they play to win. If that means defending someone, or themselves, it is not a game they're willing to lose. This may sometimes make them sore winners in other situations, but they can tame that aspect of their personality with defined effort. "Goki only value three things. Strength, Courage, and Humility," 
+
+Traits; Pride, ATK and DEF are increased by EGO until end of turn.
+
+HP = 16
+ATK = 4
+DEF = 3
+SPD = 2
+MP = 14
+Move: Omni
+
+------------------------------------
+8) Tigris; [Tigrite]
+
+The curious and compassionate may find themselves drawn to the Tigris. They are spirits of strength, wisdom, and majesty. They may appear in the form of a tiger, usually white, and may be protectors, or guides. If there are lessons you have to learn, and goals to achieve, then you may find Tigris spirits useful. They will not only point you in the direction of your objectives, but will also give you the encouragement to pursue them. Be weary however, as they also bring with them the potential for inflated ego, and over confidence in one's own perspective, whether it is deserved or not. "We've become scattered, maybe you know our small friends. They say people are weird, and don't listen. I knew you couldn't train people, they're too morbid,"
+
+Traits; Stalk, SPD and DEF are increased by SPL until end of turn.
+
+HP = 14
+ATK = 3
+DEF = 2
+SPD = 4
+MP = 16
+Move: Lateral
+
+------------------------------------
+9) Demon; [Demonite]
+
+These are the wicked souls who can never find rest. These are the Demons cast into pigs. These are the shadows in the night. Lose not your light, for these are waiting in the darkness. The spirits of evil, and prolific in their sins. Monsters of shadow, symbols of pain and fear, they have no mercy, and hold no loyalties. Only power sways them, and even those who surpass them must be weary of their deceptions. They are neither to be trusted, nor to be brought into confidence. These spirits defy conventions, and deny the integrity of all things structural. Those malevolent beings who are at their peak when bringing other to their knees, masters of manipulation and deceit. They may be controlled through a profound will, but never falter or they will crush your soul.
+
+Traits; Spawn, Conjure a number of demon tokens amounting to DIV, who have ATK/DEF/SPD equal to DIV.
+
+HP = 19
+ATK = 6
+DEF = 1
+SPD = 2
+MP = 11
+Move: Corner Lateral
+
+------------------------------------
+10) Grimm; [Grimium]
+
+We are those who speak with the choirs of the dead, these spirits of lost prophets and philosophers. We are the guides for your immortal soul into the after life, and those who will bring back those lost, in dreams and metaphor. We are symbols of crossing and of those long lost to history. The bringers of what you desire in loosing what you no longer need, and in the resurrection of ancient ideals. We are both your past, and your inevitable end, that of eternal rest, and eternal rebirth. We are the cosmic need for decay and renewal, a constant symphony of death and rebirth. For lost souls we weep. On crimson wings so stained with blood, we rise. When a soul is released from mortal coil, we come calling. "Take our hands young immortal!!"
+
+Traits; Reap, Full essences carried by the Caster may be summoned as tokens ammounting to WIS.
+
+HP = 14
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 16
+Move: Diag
+
+------------------------------------
+11) Drakian; [Drakium]
+
+The descendants of dragons who once walked with gods. Now scattered, they live on with the memory of what once was, a kingdom of gold and a belly of fire. They may have detached from their origins, but they never lost their soul. As the essence of that which lurks beyond the unknown and holders of a mysterious treasure, they are keepers of wisdom, and teachers of profound lessons. They are sage in their understanding of life and that which could be. Representatives of potential as revealed by facing the unknown. They are as much beings of profound secrets, as they are of divine revelation. For once you have faced the Drakians, you have faced the dragons within yourself. Tread carefully, because you might not like what you find.
+
+Traits; Resurgence, If HP is less than MP the difference up to DIV may be removed from MP and added to HP.
+
+HP = 17
+ATK = 5
+DEF = 2
+SPD = 2
+MP = 13
+Move: Omni
+
+------------------------------------
+12) Chimera; [Chimerium]
+
+Forged rather than born, those who learned to create themselves could now shake the very foundations of realms. Living only to realize the purpose of their existence... Amalgamate all worlds into one... They are chaos incarnate, the twisted flesh of incompatible beliefs, or beings. Cognitive dissonance with a profound and inflated sense of self importance. Though they can be useful as markers of twisted ideology, their nature makes them difficult to pin down. The sudden realization that someone is not who you thought they were is a Chimera of the mind and flesh. They are grotesque fusions of known and unknown, that make even the familiar unknowable. In those times when they become visible, you may want to rethink your perceptions until you can clearly define what you are seeing, as they might not be exactly what they appear.
+
+Traits; Amalgamate, ATK/DEF/SPD are increased by half of target's ATK/DEF/SPD multiplied by half DIV.
+
+HP = 21
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 9
+Move: Lateral
+
+------------------------------------
+13) Mannequin; [Mannequite]
+
+Faceless, motionless, they sit in silence. They are ghosts of empty lives, and of lost opportunities. Endless empty voids and the endless pit of soulless husks, they are the idea of being cast out, and rejection. A desire to smother all life in emptiness, nihilism given form. To encounter one in a dream could represent a sense of disunity with your unconscious. Obscure and unknown, they are empty vessels of what remains unknowable. If they are brought under a profound will, they may obscure those who wield them as puppets. When they represent both a loss of control, and of hidden hands pulling invisible strings. These are when the Mannequin become the most profound and the most dangerous. For a puppet can be smashed a thousand times, and it matters not, as long as the puppeteer remains.
+
+Traits; Unmoving, SPD is converted into DEF until the caster's next turn.
+
+HP = 8
+ATK = 1
+DEF = 2
+SPD = 6
+MP = 22
+Move: Corner Diag
+
+------------------------------------
+14) Pixie; [Pixium]
+
+Do you seek with your eyes? Do you seek with your mind? Have you ever seen inside? I see things so pretty, and oh so nasty too! I make a Pixy oath with you, I will guide you straight and true. You will find I am not a fleeting light to you. But if you falter, I will surely run you through. Be of faith, or of written tome, now we seek our secret home. A living flame or a spoken love, now we're fleeting like a dove. Things once seen now unseen, if you listen you'll be redeemed. Though we wander and see you've been, if you've lived upon a whim. Unspoken truth, and hidden lies, we will open up your lazy eyes. Once you see, you can not un see, the Pixie line in front of thee. A written word, or a crooked tongue, we will sing a solemn song. To see between this world it seams, both this, and that of dreams.
+
+Traits; Mischief, Choose one of target's ATK/DEF/SPD and replace it with Caster's SPL until end of turn.
+
+HP = 9
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 21
+Move: Diag
+
+------------------------------------
+15) Grizzly; [Grizzlite]
+
+The last place you want to be, is on the angry side of a Grizzly. Fierce protective spirits, and powerful symbols of inner strength. They are both the protective parent, and the strong teacher. Markers of that which encourages us to rise in the face of danger, and realize our inner potential. They are the bears, who will protect that which is close to them with incomparable ferocity. It makes them powerful allies and dangerous foes, who are not afraid to confront any dangers put before them. In dreams they represent power and an indomitable will, often guiding you to obstacles you need to overcome, of which you are perfectly capable. They may also serve as a warning of dangers ahead, and having the courage to face your curiosity, knowing when to tell it no, and when it is wise to pursue anyway. The Grizzly are excellent spirits when in need of encouragement, or when seeking inner bravery.
+
+Traits; Roar, Target's DEF is reduced by the Caster's STR until end of turn.
+
+HP = 23
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 7
+Move: Lateral
+
+------------------------------------
+16) Faun; [Faunite]
+
+Bringers of Truth and seekers of knowledge know the Faun. Though they are never trusted, they can not tell a lie. Keepers of powerful magick, they reside where you least expect them. Hidden in the depths of the woods, or the pits of your soul, they are that which reveals the most difficult of truths. A mysterious force that lies in the revelation of knowledge, when it shakes the foundations of those who seek it. They are a breath of inspiration, and of deeper wisdom, symbols of Occult understanding. Though they may use such truths to lead you astray, and malign you against your better interests. Keep your head about you, and watch them closely, and the discoveries you make will be immeasurable. When you find the secrets they hold in their breast, you will be transformed in no small way.
+
+Traits; Misdirection, Negate target attack if the caster's  DIV is greater than the attacker's ATK.
+
+HP = 7
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 23
+Move: Corner Diag
+
+------------------------------------
+17) Vampyre; [Vampyrium]
+
+With the taste of blood, oozing through a shallow wound, and the surge of pleasure that comes from drinking it in, our kind is most suited for vengeance, though we can also bring about swift justice. There is nothing we crave more than the blood of our enemies, or the souls of the damned. In consuming their flesh we grow our numbers, and in time we may become unstoppable. We will infect your institutions, as we infest your souls. Our craving for the work of your flesh can only be satiated by your unbounding devotion to the spirits of blood. We will harvest you to the benefit of our predecessors, and build our army of lost souls. We are the darkest ambitions of your being, and it's insatiable thirst for power beyond power. We all feed, I just have different tastes than yours.
+
+Traits; Drain, When dealing damage to a target the caster may restore their HP by an amount up to their MNF.
+
+HP = 14
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 16
+Move: Corner Lateral
+
+------------------------------------
+18) Grey; [Gretium]
+
+We have always been, we will always be. We are the beings who walked before creation, and have forged the realms in our images. It is by us that all things have come to being. The spark of inspiration that predates all things. We are the ancestors of life itself, and that to which all life may one day return. Yet we walk among the shadows, unknown to those who are descended from us. We are the deepest reality of eternal emptiness, beyond the forms of chaos out of which you have emerged. We are that which lies beyond both the physical and metaphysical, that which lies at the boundaries of understanding and the terror of unknowingness of being. This is what we have come from, and we will reclaim our place as the rightful lords of all planes which have descended from us. There are times where we will bring both wisdom and fear. In such times, it would be wise to heed our warnings.
+
+Traits; Rebirth, If the Caster would be destroyed this turn and their MP is greater than DIV, then they may convert their MP, up to DIV, into HP and continue as if they had not been destroyed.
+
+HP = 16
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 14
+Move: Diag
+
+------------------------------------
+19) Chrono; [Chronium]
+
+The Chrono are those who live beyond decay. Keepers of time, and listeners to the songs of ages. Those who know, what was, what is, and what could be, a power not normally granted to mortals. Those who are called ageless walk among the Chrono. They are beings who's words and actions resonate beyond time itself. They are those who can unveil the secrets behind the tapestries of fate, and keepers of the sands of time. They are both leaders, and judges, who work to bring balance to the passages of time. Symbols of eternity, and what it means for a spirit to live beyond the limits of their time. Messengers of things that were, and things yet to come, they will show you what lies in the endless ocean of potential that is your being. During and beyond the boundaries of your physical life. Which is not even close to the limits of your immortal being, both now and beyond time.
+
+Traits; Regress, The target may not Attack for a number of turns equal to DIV as long as the Caster does not either.
+
+HP = 12
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 18
+Move: Lateral
+
+------------------------------------
+20) Gargoyle; [Gargorite]
+
+Cursed beings who'd turn to stone in the light of day, guardians of the night, and keepers of dark magick. Powerful in their time, they denote the presence of secrets revealed. Symbols of being frozen by the light of truth when caught in a lie. They inversely represent a noble hand held fast by a curse of darkness. Souls trapped between a search for illumination, and being forced to dwell in utter darkness. A metaphor for one who has attained the truth, but can not share it without recourse due to the severity, or apparent insanity, of such truth. Unfortunate beings forced into silence by ancient chains that cast them into obscurity, and hid them from society. Though they are bound by the night and day, the mysteries they keep could shake the world to it's foundations. Perhaps rightfully so, but it is wise to keep one thing in mind. People fear what they do not understand...
+
+Traits; Thick Skin, DEF is increased by SPL + STR until end of turn.
+
+HP = 21
+ATK = 4
+DEF = 1
+SPD = 4
+MP = 9
+Move: Omni
+
+------------------------------------
+21) Mimic; [Mimicite]
+
+I Don't think that crate was here before... Shape shifters who copy the forms of those things around them which conceal their presence. They are specialized in imitation and misdirection, symbols of deception and of malicious lies. Monsters who take pleasure in the terror of unsuspecting wanderers, and who hide in the most unusual places. They could be a sudden realization that someone is not who they claimed they were, or the destabilization of past ideals. They are the sudden change of what is known, into something unrecognizable, ready to shred you and everything you believe into complete nothingness. Don't turn your back on them, or it could be your final mistake.
+
+Traits; Copy, The caster's ATK/DEF/SPD becomes the same as the target's for a number of turns equal to SPL.
+
+HP =  5
+ATK = 3
+DEF = 1
+SPD = 5
+MP = 25
+Move: Corner Lateral
+
+------------------------------------
+22) Elf; [Elfium]
+
+Spirits derived from the signs themselves, imbued with hidden magics from beyond the ages. They are both symbols of occult learnings, and of magic given form. Those who speak magic into reality, who's words seem to bring change merely in speaking them. Symbols of things unsaid being brought to light, and inevitably making things better. Of truths revealed which invigorate constructive change. Alternatively they may represent twisted magic forging darkness in their wake. Architects of both light when speaking truth, and shadow when that truth turns against those who brought it about. They are magic embodied, and the songs of witches given form. "Zi et Nuhi, maahlo ro'pow?"
+
+Traits; Lifeforce, Target's HP is recovered equal to the casters DIV.
+
+HP = 13
+ATK = 4
+DEF = 3
+SPD = 2
+MP = 17
+Move: Diag
+
+------------------------------------
+23) Ghoul; [Ghoulite]
+
+This is what happens when a Vampyre doesn't feed? Most unfortunate... Madness personified, twisted will and a thirst for vengeance gone unchecked. Blind rage and a thirst for blood. When you encounter the Ghoul, be warned, they are the manifestation of your inner drive for gruesome revenge, and for a bloody painful death. Symbols of what lies in the shadows of the soul, and of the twisted minds which make it so. They are blood lust given form to seek those forsaken souls who have given themselves to the drive for vengeance. Beings of chaos, and foragers of the graves of the forgotten dead, those who dwell in the pits of your darkest aspirations. When you meet them, you will know they are integral to your very being, and that you must become your own master, least they consume you.
+
+Traits; Feast, If the caster destroys a target this turn they may take another action and their ATK/DEF/SPD is increased by MNF.
+
+HP = 6
+ATK = 6
+DEF = 2
+SPD = 1
+MP = 24
+Move: Diag
+
+------------------------------------
+24) Bastet; [Bastite]
+
+Protectors of the innocent souls who travel into the spirit realms. They serve as guides who will show you the way. Whether to salvation, or your end is up to you. Protectors of the underworlds, and missionaries of lost souls seeking redemption. The Bastet are those who illuminate the darkness of death with the light of understanding. They are those who reveal the inner wisdom of death and rebirth, in guiding the innocent to light, and dragging the wicked into darkness. Warriors of the dead, and protectors of spiritual revelation, they show us what it means to walk with the dead. To return from the other side having gained the wisdom we require to survive ourselves. Taking the form of cats, you can expect them to be adventurous guides, and fickle lovers. Never underestimate the depth of their mystery however, or you risk revealing your own foolishness.
+
+Traits; Guide, target's SPD is increased by the caster's SPL until end of turn.
+
+HP = 24
+ATK = 4
+DEF = 2
+SPD = 3
+MP = 6
+Move: Lateral
+
+------------------------------------
+25) Phantom; [Phantilium]
+
+The lost souls of those long forgotten. The fallen soldier who's name was never remembered. The lonely maid who's story was never told. A child's final breath left unto the wind. These are the lost, and forsaken souls. They represent obscurity and unknowingness, shapeless and devoid of proper definition. Wisps of the world as it was, but not as it's now recalled. Those spirits who linger after death, only to have their narratives etched in the fabric of reality, rather than in the words and chapters of novels and history books. They are those things forgotten by the conscious, only to resurface later in unknowing actions. Those things which have not been finished that leave us without a sense of completion. They are incomplete thoughts and goals. Be aware of your phantoms, or they will surely haunt you.
+
+Traits; Vanish, Caster may not be targeted, but they may not move either.
+ 
+HP = 18
+ATK = 5
+DEF = 1
+SPD = 3
+MP = 12
+Move: Corner Diag
+
+------------------------------------
+26) Banshee; [Banshite]
+
+The castle wailed with the cries of the Banshee, ringing through the once great halls. Only to be met with silence. The Banshee cries again, and again, and again!! Wailing to the skies it's torment! You must run as the banshee cries, when your steps are silenced, because if a Banshee hears you... There's no escape... They are endless sorrow, with a thirst for misplaced justice. Endless oceans of loneliness, they seek only to take the life that was first taken from them. Those who cry to the skies their pain, and then strike down all who suffer not. Beings who wish for nothing more than to spread their sadness to all others, even if by force. They are symbols of sorrowful souls who are helplessly inclined to harm all those around them who do not share their suffering. They serve as a warning about the nature of spiteful torment, and the potential to become vengeful in our sorrow.
+
+Traits; Wail, The Target's SPD and DEF is reduced by the caster's VIT.
+
+HP = 12
+ATK = 3
+DEF = 2
+SPD = 4
+MP = 18
+Move: Corner Lateral
+
+------------------------------------
+27) Angel; [Angelium]
+
+WE are the shepherds of lost sheep. The calming hand on your shoulder that stops a horrible crash on a drunken night. The time you shouldn't have lived, but somehow did. WE are there protecting those who have lost their way, and have nowhere left to go. WE are the beacons of light who call to those lost in darkness! WE are the hope of the down trodden! Symbols of faith, and of the light that comes from calling fourth honorable will in the face of all odds. We are the keepers of light and justice, the divine spark given form to walk among spirits without number. We have been called to this task by the hand of that which is present in all things. We will guide the sheep to their Shepard. We will strike down with holy justice on all who stand in our way. We will fight with endless fervor for those who stand beside us. Rejoice!! For when danger calls, we will answer!
+
+Traits; Grace, MP is recovered by DIV for a number of turns equal to DIV.
+
+HP = 25
+ATK = 1
+DEF = 4
+SPD = 4
+MP  = 5
+Move: Lateral
+
+------------------------------------
+28) Human; [Humite]
+
+Hairless apes with formidable intelligence and a proclivity for war. Their struggle against primitive drives has shaped them into a force of nature. Truly marvelous in their capacity for adaptation and ingenuity. Humans have come a long way from their prehistoric roots, adapting to control the physical world with science, and prevent disease with medicine. Most notable of Human achievements is their capacity for mass communication, which began changing them from a tribal warrior species, into something truly great. In time they developed the capacity for highly complex abstract reasoning that facilitated their expansion into a force of interstellar significance. Though they doubt their potential, the day will come when they leave their eternal mark on the cosmos. If only they are to try.
+
+Traits; Indomitable, ATK and DEF are increased by STR.
+
+HP = 15
+ATK = 3
+DEF = 3
+SPD = 3
+MP = 15
+Move: Omni
+
+------------------------------------
+29) Jackal; [Jackalite]
+
+The Jackals are forged from the black sands of the River Styx, for only one purpose. To serve their True king. These are the drives that act for the pursuit of death and decay. Fear of succus and a drive to self destruct without actually knowing why. The Jackal are those things which pull you into those states of mind which serve only death. Black rot for the very fabric of your soul. They are terribly fierce warriors, and completely devoted to the prospect of destruction, be that of ideals, or of beings themselves. Only in properly confronting that precedent to decay with honesty, and bravery, can you overcome these beings who are servants of death itself. They are a warning, that if you do not confront your weaknesses, you will become your own worst enemy.
+
+Traits; Deathless, If HP would fall to 0 and MP is more than half, then increase HP by MNF.
+
+HP = 11
+ATK = 2
+DEF = 1
+SPD = 6
+MP = 19
+Move: Corner Lateral
+
+------------------------------------
+30) Troll; [Trollium]
+
+Horribly vile creatures. As large as Three Cows, and as mean as fifty Bulls. Though primitive, their tribal mentality, thick delipidated skin, and savage relentlessness makes them highly effective Tools of destruction. Don't let their grotesque appearance fool you however. These monstrosities can be highly intelligent, using traps, and facilitating complex hunting patterns. Some even have the capacity for nominal speech. They represent hunger in it's most crude, and repulsive form. To see them in dreams could represent an old idea that is all consuming that needs to be let go of. It's not so simple to dispense with these spirits however, because they multiply rapidly over time, and if they grow too large in number, they will completely overwhelm you. If you confront a Troll, be ready for a fight to the bitter end, because they are not taken down easily.
+
+Traits; Rampage, The Caster's ATK and SPD are increased by VIT until end of turn.
+
+HP = 25
+ATK = 2
+DEF = 5
+SPD = 2
+MP = 5
+Move: Lateral
+
+------------------------------------
+31) Dwarf; [Dwarfite]
+
+One of the oldest Species, not much is known about them. Masters of masonry and philosophy, outside the battles of other Species. They are both passive when they are left alone, and unshakable on the battlefield. Their constructs and machines outlasting many of their forgotten cities. Few of them remain in the known worlds, but denote a distinct interest in knowledge, and forging the world in the image of their aspirations. Their hidden records hold many secrets about the foundations of worlds, but the whereabouts have long been lost to the passage of time. A message about knowing the unknowable, and distorting it wrongfully, only to have it collapse on you. To have the inevitable truth of time wash it into the realm of the forgotten, until rediscovered by those who seek it. If only they know where to look.
+
+Traits; Invention, MP is recovered by KNO for a number of turns equal to KNO.
+
+HP = 26
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 4
+Move: Omni
+
+------------------------------------
+32) Goblin; [Goblium]
+
+The spirits of tormented souls who died too young. The essence of cruelty brought to bear on the victims of it's fragility. Forged from heartlessness Goblins represent the twisted creatures that result from years of psychological torment. Beings that now fear so greatly they themselves will only make things worse, they recede into shadows. If given time to fester in their suffering, and develop a taste for vengeance, they may grow in number, and in the boldness of their violence lash out arbitrarily. Alternatively they are well suited for the maintenance of stealth, and inquiry of lost secrets. Inclined toward stabbing their enemies in the dark, they are both valuable allies, and vicious enemies. Always be cautious, because they are easily swayed in where they point their anger.
+
+Traits; Elude, The caster's SPD is increased by SEX + VIT until end of turn.
+
+HP = 6
+ATK = 1
+DEF = 2
+SPD = 6
+MP = 24
+Move: Corner Lateral
+
+------------------------------------
+33) Imp; [Impium]
+
+Friendly and intuitive, though fierce fighters when in danger. Gain the trust of an Imp, and their loyalty rivals that of a Blood Hound. The essence of a friendship well maintained. They symbolize trust and honesty on one hand, while being the wrath desired by one who has been betrayed on the other. Both a pact that brings meaning over time, and a potential for devastating loss should it be cast aside. To find one in dreams could mean there are unresolved issues in your family or friendships that you should reconcile. They can represent both the positive and negative side of close relationships. NEVER DOUBLE CROSS THEM... EVER...
+
+Traits; Absolution, The caster's ATK/DEF/SPD are increased by WIS until end of turn.
+
+HP = 22
+ATK = 4
+DEF = 1
+SPD = 4
+MP = 8
+Move: Corner Diag
+
+------------------------------------
+34) Arachnos; [Arachnite]
+
+If there's nobody there to hear it, and a tree falls, does it make a sound? The Arachnos is born of that sound. You will never hear it coming. Spirits of darkness and shadow, they represent the essence of the silent kill, and of prolific growth. Being of spiders, they spread and consume at ferocious pace, but tend to self cannibalize. They are endlessly patient however, waiting extended periods of time for the kill. The Arachnos can mark an instance of troubles unmanaged, or overlooked, that return with toxic fangs. If ignored too long they tend to grow and multiply, which only makes being bitten later on that much worse. Clean them out when first encountered, or you may have a nest of horror waiting at your doorstep.
+
+Traits; Venom, The target loses HP equal to the caster's SPL for a number of turns equal to SPL.
+
+HP = 18
+ATK = 3
+DEF = 1
+SPD = 5
+MP = 12
+Move: Omni
+
+------------------------------------
+35) Minotaur; [Minotite]
+ 
+Half Man, Half Taur!!! More metal than you could beat a hooker to death with!! And Twice as savage as eviscerating baby Jesus on Christmas eve!!! FUCK YEAH!!! Beating a cow to death with a busted table leg, and frying it over a pit of hellfire, the minotaur are savagery refined to an art. Intentional, deliberate, malevolence. Whether that's tearing a village to the ground, or desecrating your mother over your father's corpse. They are a vision of primal savagery made manifest in grotesque action. Willing to fight your enemies, if only to bathe in their blood. Just as willing to consume your flesh as well. Those who serve the Minotaur rest themselves in a kingdom of bones, upon a throne of severed limbs, only to rule a kingdom of the dead.
+
+Traits; Ferocious, ATK and DEF are increased by FND + EGO until end of turn.
+
+HP = 21
+ATK = 4
+DEF = 4
+SPD = 1
+MP = 9
+Move: Omni
+
+------------------------------------
+36) Orc; [Orcium]
+ 
+Thieves, Bandits, Pirates, There is nearly no limit to what an Orc will do for gold. Even releasing a horde of Trolls, if only for a shiny jewel. Put nothing past them, they would Feed your child to an Arachnos if they thought it would gain them favor. They are the kind of spirits who will get in close and then turn you over a pit. Cunning and ruthless, they will manipulate those around them to suit their own ends. Do not underestimate their capacity to organize into stable hierarchies, and to move strategically. They are thieves with silver tongues, and warriors with brutal tempers. Symbols of greed refined and aggressively focused. The first Orc may only be an informant, but the next thousand will be an invasion. Watch your borders when they arrive, or they will surely overwhelm you.
+
+Traits; Treachery, Target's SPD and ATK are raised by UND and reduced by EGO until end of turn.
+
+HP = 14
+ATK = 3
+DEF = 4
+SPD = 2
+MP = 16
+Move: Lateral
+
+------------------------------------

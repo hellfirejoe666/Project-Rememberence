@@ -1,0 +1,235 @@
+"Davy"
+
+9 2 25 2
+
+2 6 1 3 4 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Phantasm]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Phantilium Warraga" Lvl 0
+Mod/Phantom/Warrior [NoviceI]
++5/1/3 +STR/VIT/SEX (+15/9/7)
+VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Blade Shroom" (1m/1m)
+(Cost: $420)
+
+Type: Warrior
+
+HP  + MNF
+ATK + STR
+DEF + VIT
+SPD + SEX
+MP  + EGO
+
+SEX = 7
+BEU = 5
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Grouper" (1m/1m)
+(Cost: $1,200)
+
+Species: Phantom
+
+HP = 18
+ATK = 5
+DEF = 1
+SPD = 3
+MP = 12
+
+SEX = 5
+BEU = 7
+
+Product: 1/4turns
+
+Move: Corner Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Shield Knight" (1m/1m)
+(Cost: $1,990)
+
+Species: Phantom
+Type: Warrior
+
+HP = 18 + MNF (25) g(175)
+ATK = 5 + STR (15) g(105)
+DEF = 1 + VIT (9)  g(63)
+SPD = 3 + SEX (7)  g(49)
+MP = 12 + EGO (19) g(133)
+
+MNF = 7
+STR = 10
+VIT = 8
+SEX = 4
+EGO = 7
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Plate Glider" (100k/100k)
+(Cost: $199,000)
+
+Species: Phantom
+Type: Warrior
+
+HP = 180 + MNF (250) g(1750)
+ATK = 50 + STR (150) g(1050)
+DEF = 10 + VIT (90)  g(630)
+SPD = 30 + SEX (70)  g(490)
+MP = 120 + EGO (190) g(1330)
+
+MNF = 70
+STR = 100
+VIT = 80
+SEX = 40
+EGO = 70
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Red Order" (10k/10k)
+(Cost: $19,900,000)
+
+Species: Phantom
+Type: Warrior
+
+HP = 1800 + MNF (2500) g(17.5k)
+ATK = 500 + STR (1500) g(10.5k)
+DEF = 100 + VIT (900)  g(6300)
+SPD = 300 + SEX (700)  g(4900)
+MP = 1200 + EGO (1900) g(13.3k)
+
+MNF = 700
+STR = 1000
+VIT = 800
+SEX = 400
+EGO = 700
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Star Cannon" (1k/1k)
+(Cost: $1,990,000,000)
+
+Species: Phantom
+Type: Warrior
+
+HP = 18k + MNF (25k) g(175k)
+ATK = 5k + STR (15k) g(105k)
+DEF = 1k + VIT (9k)  g(63k)
+SPD = 3k + SEX (7k)  g(49k)
+MP = 12k + EGO (19k) g(133k)
+
+MNF = 7k
+STR = 10k
+VIT = 8k
+SEX = 4k
+EGO = 7k
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Shield Spiral" (100/100)
+(Cost: $199,000,000,000)
+
+Species: Phantom
+Type: Warrior
+
+HP = 180k + MNF (250k) g(1750k)
+ATK = 50k + STR (150k) g(1050k)
+DEF = 10k + VIT (90k)  g(630k)
+SPD = 30k + SEX (70k)  g(490k)
+MP = 120k + EGO (190k) g(1330k)
+
+MNF = 70k
+STR = 100k
+VIT = 80k
+SEX = 40k
+EGO = 70k
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Phantasm Armory" (10/10)
+(Cost: $19,900,000,000,000)
+
+Species: Phantom
+Type: Warrior
+
+HP  = 1.8m + MNF (2.5m) g(17.5m)
+ATK = 500k + STR (1.5m) g(10.5m)
+DEF = 100k + VIT (900k) g(6.3m)
+SPD = 300k + SEX (700k) g(4.9m)
+MP  = 1.2m + EGO (1.9m) g(13.3m)
+
+MNF = 700k
+STR = 1m
+VIT = 800k
+SEX = 400k
+EGO = 700k
+
+Move: Corner Diag
+Attack: Omni
+
+Traits: VanishSTR, MultistrikeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,235 @@
+"Fyo"
+
+8 9 22 24
+
+1 5 5 5 1 1
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Knights]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Elfium Runaga" Lvl 0
+Mod/Elf/Avatar [NoviceI]
++4/3/2 +STR/FND/SEX (+10/8/6)
+LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Multi-Root" (1m/1m)
+(Cost: $400)
+
+Type: Avatar
+
+HP  + VIT
+ATK + STR
+DEF + FND
+SPD + SEX
+MP  + WIS
+
+SEX = 6
+BEU = 4
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Life-Stock" (1m/1m)
+(Cost: $1,180)
+
+Species: Elf
+
+HP = 13
+ATK = 4
+DEF = 3
+SPD = 2
+MP = 17
+
+SEX = 4
+BEU = 6
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Bringer" (1m/1m)
+(Cost: $1,930)
+
+Species: Elf
+Type: Avatar
+
+HP = 13 + VIT (21) g(147)
+ATK = 4 + STR (10) g(70)
+DEF = 3 + FND (8)  g(56)
+SPD = 2 + SEX (6)  g(42)
+MP = 17 + WIS (24) g(168)
+
+VIT = 8
+STR = 6
+FND = 5
+SEX = 4
+WIS = 7
+
+Move: Diag
+Attack: Omni
+
+Traits: LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"E-Racer" (100k/100k)
+(Cost: $193,000)
+
+Species: Elf
+Type: Avatar
+
+HP = 130 + VIT (210) g(1470)
+ATK = 40 + STR (100) g(700)
+DEF = 30 + FND (80)  g(560)
+SPD = 20 + SEX (60)  g(420)
+MP = 170 + WIS (240) g(1680)
+
+VIT = 80
+STR = 60
+FND = 50
+SEX = 40
+WIS = 70
+
+Move: Diag
+Attack: Omni
+
+Traits: LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"White Tower" (10k/10k)
+(Cost: $19,300,000)
+
+Species: Elf
+Type: Avatar
+
+HP = 1300 + VIT (2100) g(14.7k)
+ATK = 400 + STR (1000) g(7000)
+DEF = 300 + FND (800)  g(5600)
+SPD = 200 + SEX (600)  g(4200)
+MP = 1700 + WIS (2400) g(16.8k)
+
+VIT = 800
+STR = 600
+FND = 500
+SEX = 400
+WIS = 700
+
+Move: Diag
+Attack: Omni
+
+Traits: LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Diviner" (1k/1k)
+(Cost: $1,930,000,000)
+
+Species: Elf
+Type: Avatar
+
+HP = 13k + VIT (21k) g(147k)
+ATK = 4k + STR (10k) g(70k)
+DEF = 3k + FND (8k)  g(56k)
+SPD = 2k + SEX (6k)  g(42k)
+MP = 17k + WIS (24k) g(168k)
+
+VIT = 8k
+STR = 6k
+FND = 5k
+SEX = 4k
+WIS = 7k
+
+Move: Diag
+Attack: Omni
+
+Traits: LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Light Spiral" (100/100)
+(Cost: $193,000,000,000)
+
+Species: Elf
+Type: Avatar
+
+HP = 130k + VIT (210k) g(1470k)
+ATK = 40k + STR (100k) g(700k)
+DEF = 30k + FND (80k)  g(560k)
+SPD = 20k + SEX (60k)  g(420k)
+MP = 170k + WIS (240k) g(1680k)
+
+VIT = 80k
+STR = 60k
+FND = 50k
+SEX = 40k
+WIS = 70k
+
+Move: Diag
+Attack: Omni
+
+Traits: LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Knights of Dawn" (10/10)
+(Cost: $19,300,000,000,000)
+
+Species: Elf
+Type: Avatar
+
+HP  = 1.3m + VIT (2.1m) g(14.7m)
+ATK = 400k + STR (1m)   g(7m)
+DEF = 300k + FND (800k) g(5.6m)
+SPD = 200k + SEX (600k) g(4.2m)
+MP  = 1.7m + WIS (2.4m) g(16.8m)
+
+VIT = 800k
+STR = 600k
+FND = 500k
+SEX = 400k
+WIS = 700k
+
+Move: Diag
+Attack: Omni
+
+Traits: LifeforceVIT, MultistrikeVIT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,234 @@
+(Tiff): Level = 0 {100k}
+[Summoner of the goddess]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Elf
+Element; Light
+(Goat)
+Ability; LifeforceDIV, Target's HP is recovered equal to the casters DIV.
+
+-----------------------------------------
+
+Type; Spellcaster
+Color; Green
+(Virgo)
+Atributes; ShroudSPL, may not be the target of spells or abilities for a number of turns equal to SPL.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 13 + BEU (24) g(168) {16,820,000}
+ATK = 4 + KNO (8)  g(56)  {5,620,000}
+DEF = 3 + DIV (7)  g(49)  {4,920,000}
+SPD = 2 + SEX (3)  g(21)  {2,120,000}
+MP = 17 + SPL (25) g(175) {17,520,000}
+
+Move: Diag
+Attack: Corner Lateral
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 8
+SPL = 8  {+ 20k}
+BEU = 11 {+ 20k}
+STR = 7
+FND = 8
+KNO = 4  {+ 20k}
+UND = 8
+WIS = 4
+VIT = 5
+SEX = 1  {+ 20k}
+DIV = 4  {+ 20k}
+EGO = 4
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = 4
+Emo = 7
+Sub = 0
+Con = 7
+Abs = 0
+Per = -2
+State/ 16
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/1H "Rods"
+Ranged/Bow "Shortbow"
+Magic/Light "Summon"
+Step/Evade "Substitute"
+Special/Green "Summon"
+Trance/Aura "Wrath"
+
+-----------------------------------------
+"Rods" Lvl 1 {100k}
+1H/Elf/Spellcaster [DietyI]
++4/3/2 +KNO/DIV/SEX (+8/7/3)
+Dual Wield, LifeforceSPL, ShroudSPL
+
+-----------------------------------------
+"Shortbow" Lvl 1 {100k}
+Bow/Elf/Spellcaster [DietyI]
++4/3/2 +KNO/DIV/SEX (+8/7/3)
+FocusSPL, LifeforceSPL, ShroudSPL
+
+-----------------------------------------
+"Summon" Lvl 1 {100k}
+Light/Green/Demon [DietyI]
++6/1/2 +KNO/DIV/SEX (+10/5/3)
+CureBEU, GrowthBEU, SpawnBEU
+
+"Razor" Lvl 1 {100k}
+Token/Demon/Insect [DietyI]
+ATK = 6 + BEU (17)
+DEF = 1 + DIV (5)
+SPD = 2 + SPL (10)
+Traits: SpawnKNO, PoisonKNO
+
+"Brute" Lvl 1 {100k}
+Token/Demon/Undead [DietyI]
+ATK = 6 + SPL (14)
+DEF = 1 + BEU (12)
+SPD = 2 + DIV (6)
+Traits: SpawnKNO, LifelinkKNO
+
+"Wisp" Lvl 1 {100k}
+Token/Demon/Vortex [DietyI]
+ATK = 6 + DIV (10)
+DEF = 1 + SPL (9)
+SPD = 2 + BEU (13)
+Traits: SpawnDIV, FlyingDIV
+
+"Baphomet" Lvl 1 {100k}
+Token/Demon/Dragoon [DietyI]
+ATK = 6 + BEU (17)
+DEF = 1 + SPL (9)
+SPD = 2 + DIV (6)
+Traits: SpawnDIV, VigilanceDIV
+
+-----------------------------------------
+"Substitute" Lvl 1 {100k}
+Evade/Elf/Rock [DietyI]
++6/1/2 +KNO/DIV/SEX (+10/5/3)
+ElusiveBEU, LifeforceBEU, DefenderBEU
+
+-----------------------------------------
+"Wrath" Lvl 1 {100k}
+Aura/Demon/Avatar [DietyI]
++6/1/2 +KNO/DIV/SEX (+10/5/3)
+OverwhelmSPL, SpawnSPL, MultistrikeSPL
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Luminatia" Lvl 1 {100k} [DeityI]
+Head/ Elf/Spell
+Body/ Elf/Spell
+Hands/ Elf/Spell
+Legs/ Elf/Spell
+Feet/ Elf/Spell
+Other/ Elf/Spell
+Total; +144/48/42/18/150
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+-----------------------------------------

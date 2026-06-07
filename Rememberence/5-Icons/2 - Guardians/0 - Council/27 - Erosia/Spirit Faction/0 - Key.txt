@@ -1,0 +1,235 @@
+"Erosia"
+
+6 1 32 11
+
+4 4 4 6 5 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Acidia]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Goblite Infestia" Lvl 0
+Mod/Goblin/Insect [NoviceI]
++1/2/6 +VIT/EGO/STR (+7/7/16)
+EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Swarm" (1m/1m)
+(Cost: $460)
+
+Type: Insect
+
+HP  + SPL
+ATK + VIT
+DEF + EGO
+SPD + STR
+MP  + KNO
+
+SEX = 9
+BEU = 7
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Fodder" (1m/1m)
+(Cost: $1,240)
+
+Species: Goblin
+
+HP  = 6
+ATK = 1
+DEF = 2
+SPD = 6
+MP = 24
+
+SEX = 7
+BEU = 9
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Roaches" (1m/1m)
+(Cost: $2,000)
+
+Species: Goblin
+Types: Insect
+
+HP = 6  + SPL (11) g(77)
+ATK = 1 + VIT (7)  g(49)
+DEF = 2 + EGO (7)  g(49)
+SPD = 6 + STR (16) g(112)
+MP = 24 + KNO (35) g(245)
+
+SPL = 5
+VIT = 6
+EGO = 5
+STR = 10
+KNO = 11
+
+Move: Corner Lateral
+Attack: Spread
+
+Traits: EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Coach" (100k/100k)
+(Cost: $200,000)
+
+Species: Goblin
+Types: Insect
+
+HP  = 60 + SPL (110) g(770)
+ATK = 10 + VIT (70)  g(490)
+DEF = 20 + EGO (70)  g(490)
+SPD = 60 + STR (160) g(1120)
+MP = 240 + KNO (350) g(2450)
+
+SPL = 50
+VIT = 60
+EGO = 50
+STR = 100
+KNO = 110
+
+Move: Corner Lateral
+Attack: Spread
+
+Traits: EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Hive" (10k/10k)
+(Cost: $20,000,000)
+
+Species: Goblin
+Types: Insect
+
+HP  = 600 + SPL (1100) g(7700)
+ATK = 100 + VIT (700)  g(4900)
+DEF = 200 + EGO (700)  g(4900)
+SPD = 600 + STR (1600) g(11.2k)
+MP = 2400 + KNO (3500) g(24.5k)
+
+SPL = 500
+VIT = 600
+EGO = 500
+STR = 1000
+KNO = 1100
+
+Move: Corner Lateral
+Attack: Spread
+
+Traits: EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Injectors" (1k/1k)
+(Cost: $2,000,000,000)
+
+Species: Goblin
+Types: Insect
+
+HP  = 6k + SPL (11k) g(77k)
+ATK = 1k + VIT (7k)  g(49k)
+DEF = 2k + EGO (7k)  g(49k)
+SPD = 6k + STR (16k) g(112k)
+MP = 24k + KNO (35k) g(245k)
+
+SPL = 5k
+VIT = 6k
+EGO = 5k
+STR = 10k
+KNO = 11k
+
+Move: Corner Lateral
+Attack: Spread
+
+Traits: EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Grand Mandible" (100/100)
+(Cost: $200,000,000,000)
+
+Species: Goblin
+Types: Insect
+
+HP  = 60k + SPL (110k) g(770k)
+ATK = 10k + VIT (70k)  g(490k)
+DEF = 20k + EGO (70k)  g(490k)
+SPD = 60k + STR (160k) g(1120k)
+MP = 240k + KNO (350k) g(2450k)
+
+SPL = 50k
+VIT = 60k
+EGO = 50k
+STR = 100k
+KNO = 110k
+
+Move: Corner Lateral
+Attack: Spread
+
+Traits: EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Acidia of Decay" (10/10)
+(Cost: $20,000,000,000,000)
+
+Species: Goblin
+Types: Insect
+
+HP  = 600k + SPL (1.1m) g(7.7m)
+ATK = 100k + VIT (700k) g(4.9m)
+DEF = 200k + EGO (700k) g(4.9m)
+SPD = 600k + STR (1.6m) g(11.2m)
+MP  = 2.4m + KNO (3.5m) g(24.5m)
+
+SPL = 500k
+VIT = 600k
+EGO = 500k
+STR = 1m
+KNO = 1.1m
+
+Move: Corner Lateral
+Attack: Spread
+
+Traits: EludeSTR/KNO, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

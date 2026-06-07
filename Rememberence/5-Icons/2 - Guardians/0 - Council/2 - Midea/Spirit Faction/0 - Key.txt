@@ -1,0 +1,235 @@
+"Midea"
+
+1 4 2 21
+
+4 2 4 2 2 4
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Atlantia]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Merrium Solidia" Lvl 0
+Mod/Merr/Ice [NoviceI]
++3/4/2 +SPL/UND/EGO (+10/7/13)
+SirenSPL, FrostbiteSPL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Frost Blossom" (1m/1m)
+(Cost: $440)
+
+Type: Ice
+
+HP  + FND
+ATK + SPL
+DEF + UND
+SPD + EGO
+MP  + SEX
+
+SEX = 8
+BEU = 6
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Trout" (1m/1m)
+(Cost: $1,220)
+
+Species: Merr
+
+HP  = 12
+ATK = 3
+DEF = 4
+SPD = 2
+MP  = 18
+
+SEX = 6
+BEU = 8
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Freezer" (1m/1m)
+(Cost: $1,970)
+
+Species: Merr
+Type: Ice
+
+HP = 12 + FND (19) g(133)
+ATK = 3 + SPL (10) g(70)
+DEF = 4 + UND (7)  g(49)
+SPD = 2 + EGO (13) g(91)
+MP = 18 + SEX (24) g(168)
+
+FND = 7
+SPL = 7
+UND = 3
+EGO = 11
+SEX = 6
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: SirenEGO, FrostbiteEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Ice Truck" (100k/100k)
+(Cost: $197,000)
+
+Species: Merr
+Type: Ice
+
+HP = 120 + FND (190) g(1330)
+ATK = 30 + SPL (100) g(700)
+DEF = 40 + UND (70)  g(490)
+SPD = 20 + EGO (130) g(910)
+MP = 180 + SEX (240) g(1680)
+
+FND = 70
+SPL = 70
+UND = 30
+EGO = 110
+SEX = 60
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: SirenEGO, FrostbiteEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Chill Center" (10k/10k)
+(Cost: $19,700,000)
+
+Species: Merr
+Type: Ice
+
+HP = 1200 + FND (1900) g(13.3k)
+ATK = 300 + SPL (1000) g(7000)
+DEF = 400 + UND (700)  g(4900)
+SPD = 200 + EGO (1300) g(9100)
+MP = 1800 + SEX (2400) g(16.8k)
+
+FND = 700
+SPL = 700
+UND = 300
+EGO = 1100
+SEX = 600
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: SirenEGO, FrostbiteEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Cold Fusion" (1k/1k)
+(Cost: $1,970,000,000)
+
+Species: Merr
+Type: Ice
+
+HP = 12k + FND (19k) g(133k)
+ATK = 3k + SPL (10k) g(70k)
+DEF = 4k + UND (7k)  g(49k)
+SPD = 2k + EGO (13k) g(91k)
+MP = 18k + SEX (24k) g(168k)
+
+FND = 7k
+SPL = 7k
+UND = 3k
+EGO = 11k
+SEX = 6k
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: SirenEGO, FrostbiteEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Ice Horizon" (100/100)
+(Cost: $197,000,000,000)
+
+Species: Merr
+Type: Ice
+
+HP = 120k + FND (190k) g(1330k)
+ATK = 30k + SPL (100k) g(700k)
+DEF = 40k + UND (70k)  g(490k)
+SPD = 20k + EGO (130k) g(910k)
+MP = 180k + SEX (240k) g(1680k)
+
+FND = 70k
+SPL = 70k
+UND = 30k
+EGO = 110k
+SEX = 60k
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: SirenEGO, FrostbiteEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Atlantia of Frost" (10/10)
+(Cost: $19,700,000,000,000)
+
+Species: Merr
+Type: Ice
+
+HP  = 1.2m + FND (1.9m) g(13.3m)
+ATK = 300k + SPL (1m)   g(7m)
+DEF = 400k + UND (700k) g(4.9m)
+SPD = 200k + EGO (1.3m) g(9.1m)
+MP  = 1.8m + SEX (2.4m) g(16.8m)
+
+FND = 700k
+SPL = 700k
+UND = 300k
+EGO = 1.1m
+SEX = 600k
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: SirenEGO, FrostbiteEGO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

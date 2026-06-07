@@ -1,0 +1,233 @@
+"NaZi"
+
+1 11 2 8
+
+3 3 4 2 2 1
+
+-----------------------------------------
+Chaos Shard - NaZi [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+MP x Tier Level
+DEF x Tier Level
+
+Pattern: Diag
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Cyanide]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Scrub - Icon (Lvl 1)
+Crew - Unit (Lvl 10)
+Mate - World (lvl 100)
+Captain - System (Lvl 1k)
+Admiral - Galaxy (Lvl 10k)
+Commodor - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Scrub - Multiversal {Lvl 1m}
+Crew - Exoversal {Lvl 10m}
+Mate - Xenoversal {Lvl 100m}
+Captain - Deltaversal {Lvl 1b}
+Admiral - Tetraversal {Lvl 10b}
+Commodor - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ScrubI]
+"Shark"
+(Cost: $1,180)
+
+Species: Merr
+
+HP  = 12
+STK = 3
+DEF = 4
+SPD = 2
+MP  = 18
+
+SEX = 4
+BEU = 6
+
+Product: 1/4turns
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ScrubI]
+"Island Fruit"
+(Cost:)
+
+Type: Aqua
+
+HP  + WIS
+STK + KNO
+DEF + SEX
+SPD + DIV
+MP  + SPL
+
+SEX = 6
+BEU = 4
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ScrubI]
+"Pirate"
+(Cost: $7,640)
+
+Species: Merr
+Type: Aqua
+
+HP  = 12 + WIS (20)
+ATK = 3  + KNO (5)
+DEF = 4  + SEX (5)
+SPD = 2  + DIV (5)
+MP  = 18 + SPL (30)
+
+WIS = 8
+KNO = 2
+SEX = 1
+DIV = 3
+SPL = 12
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: FrostbiteKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CrewI]
+"Battle Ship"
+(Cost: $76,400)
+
+Species: Merr
+Type: Aqua
+
+HP  = 120 + WIS (200)
+ATK = 30  + KNO (50)
+DEF = 40  + SEX (50)
+SPD = 20  + DIV (50)
+MP  = 180 + SPL (300)
+
+WIS = 80
+KNO = 20
+SEX = 10
+DIV = 30
+SPL = 120
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: FrostbiteKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MateI]
+"Tidal Core"
+(Cost: $7,640,000)
+
+Species: Merr
+Type: Aqua
+
+HP  = 1200 + WIS (2000)
+ATK = 300  + KNO (500)
+DEF = 400  + SEX (500)
+SPD = 200  + DIV (500)
+MP  = 1800 + SPL (3000)
+
+WIS = 800
+KNO = 200
+SEX = 100
+DIV = 300
+SPL = 1200
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: FrostbiteKNO, ShroudKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CaptainI]
+"Star Surfer"
+(Cost: $764,000,000)
+
+Species: Merr
+Type: Aqua
+
+HP  = 12k + WIS (20k)
+ATK = 3k  + KNO (5k)
+DEF = 4k  + SEX (5k)
+SPD = 2k  + DIV (5k)
+MP  = 18k + SPL (30k)
+
+WIS = 8k
+KNO = 2k
+SEX = 1k
+DIV = 3k
+SPL = 12k
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: FrostbiteKNO, ShroudKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdmiralI]
+"Flux Buster"
+(Cost: $76,400,000,000)
+
+Species: Merr
+Type: Aqua
+
+HP  = 120k + WIS (200k)
+ATK = 30k  + KNO (50k)
+DEF = 40k  + SEX (50k)
+SPD = 20k  + DIV (50k)
+MP  = 180k + SPL (300k)
+
+WIS = 80k
+KNO = 20k
+SEX = 10k
+DIV = 30k
+SPL = 120k
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: FrostbiteKNO, ShroudKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CommodorI]
+"Ocean-Verse"
+(Cost: $7,640,000,000,000)
+
+Species: Merr
+Type: Aqua
+
+HP  = 1.2m + WIS (2m)
+ATK = 300k + KNO (500k)
+DEF = 400k + SEX (500k)
+SPD = 200k + DIV (500k)
+MP  = 1.8m + SPL (3m)
+
+WIS = 800k
+KNO = 200k
+SEX = 100k
+DIV = 300k
+SPL = 1.2m
+
+Move: Corner Lateral
+Attack: Lateral
+
+Traits: FrostbiteKNO, ShroudKNO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

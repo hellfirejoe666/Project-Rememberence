@@ -1,0 +1,211 @@
+(Guy): Level = 0 {100k}
+[All in due time]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Chrono
+Element; Air
+(Tiger)
+Ability; Regress, The target may not Attack for a number of turns equal to DIV as long as the Caster does not either.
+
+-----------------------------------------
+
+Type; Vortex
+Color; None
+(Aries)
+Atributes; Flying, This spirit may move over a number of walls equal to UND.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP = 12 + UND (14) g(98)  {9,820,000}
+ATK = 3 + KNO (13) g(91)  {9,120,000}
+DEF = 4 + WIS (10) g(70)  {7,020,000}
+SPD = 2 + SEX (13) g(91)  {9,120,000}
+MP = 18 + DIV (24) g(168) {16,820,000}
+
+Move: Lateral
+Attack: Omni
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 4
+SPL = 6
+BEU = 1
+STR = 7
+FND = 6
+KNO = 10 {+ 20k}
+UND = 2  {+ 20k}
+WIS = 6  {+ 20k}
+VIT = 5
+SEX = 11 {+ 20k}
+DIV = 6  {+ 20k}
+EGO = 8
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = -2
+Emo = -5
+Sub = 4
+Con = -7
+Abs = 4
+Per = -2
+State/ -8
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/Staff "Temperence"
+Ranged/Thrown "Temperence"
+Magic/Air "Slow Time"
+Step/Warp "Stop Time"
+Special/None "Future Sight"
+Trance/Duration "Sands of Time"
+
+-----------------------------------------
+"Temperence" Lvl 1 {100k}
+Staff/Thrown/Chrono/Vortex [DeityI]
++3/4/2 +KNO/WIS/SEX (+13/10/13)
+CatalystSEX, RecallSEX, RegressSEX
+
+-----------------------------------------
+"Slow Time" Lvl 1 {100k}
+Air/Chrono/Vortex [DeityI]
++3/4/2 +KNO/WIS/SEX (+13/10/13)
+GustKNO, RegressKNO, FlyingKNO
+
+-----------------------------------------
+"Stop Time" Lvl 1 {100k}
+Warp/Vortex [DeityI]
++KNO/WIS/SEX (+10/6/11)
+AreaKNO, TeleportKNO, FlyingKNO
+
+-----------------------------------------
+"Future Sight" Lvl 1 {100k}
+None/Vortex [DeityI]
++3/4/2 +KNO/WIS/SEX (+13/10/13)
+TokensKNO, FlyingKNO
+
+"Probabilities" Lvl 1 {100k}
+Token/Chrono/Vortex [DeityI]
++3/4/2 +KNO/WIS/SEX (+13/10/13)
+RegressKNO, FlyingKNO
+
+-----------------------------------------
+"Sands of Time" Lvl 1 {100k}
+Duration/Chrono/Vortex [DeityI]
++3/4/2 +KNO/WIS/SEX (+13/10/13)
+PersistSEX, RegressSEX, FlyingSEX
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Dusty Coat" Lvl 1 {100k} [DeityI]
+Head/ Chrono/Vortex
+Body/ Chrono/Vortex
+Hands/ Chrono/Vortex
+Legs/ Chrono/Vortex
+Feet/ Chrono/Vortex
+Other/ Chrono/Vortex
+Total; +84/78/60/78/144
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+-----------------------------------------

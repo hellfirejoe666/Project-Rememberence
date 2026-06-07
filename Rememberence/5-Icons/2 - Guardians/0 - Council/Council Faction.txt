@@ -1,0 +1,204 @@
+"Council Faction"
+
+0 0 0 0
+
+0 0 0 0 0 0
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Council]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+Construct [NoviceI]
+"Drones" (1m/1m)
+(Recipe: $22,840)[Sell: $2,840]
+
+Species: Mimic
+Type: Metal
+
+HP  = 20 + VIT (50)
+ATK = 10 + STR (20)
+DEF = 15 + BEU (20)
+SPD = 5  + SEX (20)
+MP  = 30 + DIV (50)
+
+VIT = 30
+STR = 10
+BEU = 5
+SEX = 15
+DIV = 20
+
+Product: 20/Turn
+
+Move: Omni
+Attack: Corner Diag
+
+Traits: CopyBEU, LivingArmorBEU
+
+-----------------------------------------
+Construct [BeginnerI]
+"Mech Suit" (100k/100k)
+(Recipe: $297,400)[Sell: $97,400]
+
+Species: Mimic
+Type: Metal
+
+HP = 300 + FND (500)
+ATK = 30 + SEX (50)
+DEF = 30 + DIV (50)
+SPD = 40 + BEU (50)
+MP = 100 + SPL (200)
+
+FND = 200
+SEX = 20
+DIV = 20
+BEU = 10
+SPL = 100
+
+Product: 20/Turn
+
+Move: Omni
+Attack: Corner Diag
+
+Traits: CopyBEU, LivingArmorBEU
+
+-----------------------------------------
+Construct [MediateI]
+"Shuttle" (10k/10k)
+(Recipe: $29,740,000)[Sell: $9,740,000]
+
+Species: Mimic
+Type: Metal
+
+HP =  3k  + FND (5k)
+ATK = 600 + SEX (1k)
+DEF = 600 + DIV (1k)
+SPD = 800 + BEU (1k)
+MP =  1k  + SPL (2k)
+
+FND = 2k
+SEX = 400
+DIV = 400
+BEU = 200
+SPL = 1k
+
+Product: 200/Turn
+
+Move: Omni
+Attack: Corner Diag
+
+Traits:
+CopyBEU, LivingArmorBEU, MultistrikeBEU
+
+-----------------------------------------
+Construct [AdvancedI]
+"Cruiser" (1k/1k)
+(Recipe: $2974000000)[Sell: $974000000]
+
+Species: Mimic
+Type: Metal
+
+HP = 30k + FND (50k)
+ATK = 6k + SEX (10k)
+DEF = 6k + DIV (10k)
+SPD = 8k + BEU (10k)
+MP = 10k + SPL (20k)
+
+FND = 20k
+SEX = 4k
+DIV = 4k
+BEU = 2k
+SPL = 10k
+
+Product: 2k/Turn
+
+Move: Omni
+Attack: Corner Diag
+
+Traits: 
+CopyBEU, LivingArmorBEU, MultistrikeBEU
+
+-----------------------------------------
+Construct [MasterI]
+"Flagship" (100/100)
+(Recipe: $297400000000)[Sell: $97400000000]
+
+Species: Demon
+Type: Crystal
+
+HP = 300k + FND (500k)
+ATK = 60k + SEX (100k)
+DEF = 60k + DIV (100k)
+SPD = 80k + BEU (100k)
+MP = 100k + SPL (200k)
+
+FND = 200k
+SEX = 40k
+DIV = 40k
+BEU = 20k
+SPL = 100k
+
+Product: 20k/Turn
+
+Move: Omni
+Attack: Corner Diag
+
+Traits: 
+CopyBEU, LivingArmorBEU, MultistrikeBEU
+
+-----------------------------------------
+Construct [DeityI]
+"Source" (10/10)
+(Recipe: $29,740b)[Sell: $9,740b]
+
+Species: Mimic
+Type: Metal
+
+HP =  3m   + FND (5m)
+ATK = 600k + SEX (1m)
+DEF = 600k + DIV (1m)
+SPD = 800k + BEU (1m)
+MP =  1m   + SPL (2m)
+
+FND = 2m
+SEX = 400k
+DIV = 400k
+BEU = 200k
+SPL = 1m
+
+Product: 200k/Turn
+
+Move: Omni
+Attack: Corner Diag
+
+Traits: 
+CopyBEU, LivingArmorBEU, MultistrikeBEU
+
+-----------------------------------------

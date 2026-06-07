@@ -1,0 +1,235 @@
+"Leon"
+
+11 7 9 20
+
+2 6 1 4 3 5
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Tarr]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Demonite Vitalia" Lvl 0
+Mod/Demon/Blood [NoviceI]
++6/1/2 +SPL/EGO/STR (+12/7/5)
+SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Swamp Grass" (1m/1m)
+(Cost: $440)
+
+Type: Blood
+
+HP  + MNF
+ATK + SPL
+DEF + EGO
+SPD + STR
+MP  + UND
+
+SEX = 8
+BEU = 6
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Minge" (1m/1m)
+(Cost: $1,220)
+
+Species: Demon
+
+HP = 19
+ATK = 6
+DEF = 1
+SPD = 2
+MP = 11
+
+SEX = 6
+BEU = 8
+
+Product: 1/4turn
+
+Move: Corner Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Grunge" (1m/1m)
+(Cost: $2,020)
+
+Species: Demon
+Type: Blood
+
+HP = 19 + MNF (29) g(203)
+ATK = 6 + SPL (12) g(84)
+DEF = 1 + EGO (7)  g(49)
+SPD = 2 + STR (5)  g(35)
+MP = 11 + UND (25) g(175)
+
+MNF = 10
+SPL = 6
+EGO = 6
+STR = 3
+UND = 8
+
+Move: Corner Lateral
+Attack: Area
+
+Traits: SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Drill" (100k/100k)
+(Cost: $202,000)
+
+Species: Demon
+Type: Blood
+
+HP = 190 + MNF (290) g(2030)
+ATK = 60 + SPL (120) g(840)
+DEF = 10 + EGO (70)  g(490)
+SPD = 20 + STR (50)  g(350)
+MP = 110 + UND (250) g(1750)
+
+MNF = 100
+SPL = 60
+EGO = 60
+STR = 30
+UND = 80
+
+Move: Corner Lateral
+Attack: Area
+
+Traits: SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Refinery" (10k/10k)
+(Cost: $20,200,000)
+
+Species: Demon
+Type: Blood
+
+HP = 1900 + MNF (2900) g(20.3k)
+ATK = 600 + SPL (1200) g(8400)
+DEF = 100 + EGO (700)  g(4900)
+SPD = 200 + STR (500)  g(3500)
+MP = 1100 + UND (2500) g(17.5k)
+
+MNF = 1000
+SPL = 600
+EGO = 600
+STR = 300
+UND = 800
+
+Move: Corner Lateral
+Attack: Area
+
+Traits: SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Factory" (1k/1k)
+(Cost: $2,020,000,000)
+
+Species: Demon
+Type: Blood
+
+HP = 19k + MNF (29k) g(203k)
+ATK = 6k + SPL (12k) g(84k)
+DEF = 1k + EGO (7k)  g(49k)
+SPD = 2k + STR (5k)  g(35k)
+MP = 11k + UND (25k) g(175k)
+
+MNF = 10k
+SPL = 6k
+EGO = 6k
+STR = 3k
+UND = 8k
+
+Move: Corner Lateral
+Attack: Area
+
+Traits: SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Industry" (100/100)
+(Cost: $202,000,000,000)
+
+Species: Demon
+Type: Blood
+
+HP = 190k + MNF (290k) g(2030k)
+ATK = 60k + SPL (120k) g(840k)
+DEF = 10k + EGO (70k)  g(490k)
+SPD = 20k + STR (50k)  g(350k)
+MP = 110k + UND (250k) g(1750k)
+
+MNF = 100k
+SPL = 60k
+EGO = 60k
+STR = 30k
+UND = 80k
+
+Move: Corner Lateral
+Attack: Area
+
+Traits: SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Tarr Federation" (100/100)
+(Cost: $20,200,000,000,000)
+
+Species: Demon
+Type: Blood
+
+HP  = 1.9m + MNF (2.9m) g(20.3m)
+ATK = 600k + SPL (1.2m) g(8.4m)
+DEF = 100k + EGO (700k) g(4.9m)
+SPD = 200k + STR (500k) g(3.5m)
+MP  = 1.1m + UND (2.5m) g(17.5m)
+
+MNF = 1m
+SPL = 600k
+EGO = 600k
+STR = 300k
+UND = 800k
+
+Move: Corner Lateral
+Attack: Area
+
+Traits: SpawnMNF, LifelinkMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

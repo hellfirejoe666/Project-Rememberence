@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblio Remembrancia</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="nav-content">
+            <h2>Biblio Remembrancia</h2>
+            <div class="nav-buttons">
+                <button class="mode-button active" data-mode="homepage">Homepage</button>
+                <button class="mode-button" data-mode="character-generator">Character Generator</button>
+                <button class="mode-button" data-mode="forge">Forge</button>
+                <button class="mode-button" data-mode="map">Map</button>
+                <button class="mode-button" data-mode="board-hub">The Grid</button>
+                <button class="mode-button" data-mode="Messages">Messages</button>
+            </div>
+        </div>
+    </nav>
+    <div class="main-content">
+        <div id="brain" style="display: none;"></div>
+        <div id="homepage" class="content-panel">
+            <h1>Welcome to Biblio Remembrancia</h1>
+            <div id="home-hub"></div>
+        </div>
+        <div id="character-generator" class="content-panel" style="display: none;">
+            <h1>Rememberence Character Generator</h1>
+            <div class="container">
+                <div class="input-column">
+                    <label for="spirit-name">Spirit's Name:</label>
+                    <input type="text" id="spirit-name">
+                    <label for="description">Description:</label>
+                    <textarea id="description"></textarea>
+                    <label for="level">Level:</label>
+                    <input type="number" id="level" min="1" value="1">
+                    <label for="animal-sign">Animal Sign:</label>
+                    <select id="animal-sign"></select>
+                    <label for="star-sign">Star Sign:</label>
+                    <select id="star-sign"></select>
+                    <label for="species">Species:</label>
+                    <select id="species"></select>
+                    <label for="species2">Secondary Species (Crossbreed):</label>
+                    <select id="species2">
+                        <option value="">None</option>
+                    </select>
+                    <label for="species-active-skill">Species Active Skill:</label>
+                    <select id="species-active-skill"></select>
+                    <label for="type">Type:</label>
+                    <select id="type"></select>
+                    <label for="type2">Secondary Type (Cross Type):</label>
+                    <select id="type2">
+                        <option value="">None</option>
+                    </select>
+                    <label for="type-active-skill">Type Active Skill:</label>
+                    <select id="type-active-skill"></select>
+                    <label for="melee-skill">Melee Skill:</label>
+                    <select id="melee-skill"></select>
+                    <label for="ranged-skill">Ranged Skill:</label>
+                    <select id="ranged-skill"></select>
+                    <label for="magic-skill">Magic Skill:</label>
+                    <select id="magic-skill"></select>
+                    <label for="step-skill">Step Skill:</label>
+                    <select id="step-skill"></select>
+                    <label for="special-skill">Special Skill:</label>
+                    <select id="special-skill"></select>
+                    <label for="trance-skill">Trance Skill:</label>
+                    <select id="trance-skill"></select>
+                    <div class="button-group">
+                        <div class="button-row">
+                            <button id="generate-random">Random</button>
+                            <button id="generate-sheet">Generate</button>
+                            <button id="breed-spirits">Breed</button>
+                        </div>
+                        <div class="button-row">
+                            <button id="save-state">Save</button>
+                            <button id="load-state">Load</button>
+                            <button id="delete-state">Delete</button>
+                        </div>
+                    </div>
+                    <div class="spirit-panel">
+                        <h3>Saved Spirits</h3>
+                        <div class="spirit-actions">
+                            <button id="refresh-spirits">Refresh</button>
+                            <button id="simulate-spirits">Simulate</button>
+                        </div>
+                        <div id="saved-spirits-list" class="spirit-list"></div>
+                    </div>
+                </div>
+                <div class="sheet-column">
+                    <div id="character-sheet"></div>
+                </div>
+            </div>
+        </div>
+        <div id="forge" class="content-panel" style="display: none;">
+            <h1>Essence Forge</h1>
+            <p>Placeholder for Forge module: Craft runes (e.g., Cu + Zic = Poisoned Bond, $200).</p>
+        </div>
+        <div id="map" class="content-panel" style="display: none;">
+            <h1>Cosmic Map</h1>
+            <p>Placeholder for Map module: Navigate planes (X-Y-Z, Y-Z-Q).</p>
+        </div>
+       <div id="board-hub" class="content-panel" style="display: none;">
+    <h1>Enter the Grid</h1>
+        </div>
+        <div id="Messages" class="content-panel" style="display: none;">
+            <h1>Messages</h1>
+            <p>Placeholder for Interactions module: Handle Talk/Trade (±5 Loyalty).</p>
+        </div>
+    </div>
+    <script src="js/constants.js"></script>
+    <script src="js/generator.js"></script>
+    <script src="js/brain.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/board.js"></script>
+    <script>
+        document.querySelectorAll('.mode-button').forEach(button => {
+            button.addEventListener('click', () => {
+                document.querySelectorAll('.mode-button').forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                document.querySelectorAll('.content-panel').forEach(panel => panel.style.display = 'none');
+                document.getElementById(button.dataset.mode).style.display = 'block';
+            });
+        });
+    </script>
+</body>
+</html>

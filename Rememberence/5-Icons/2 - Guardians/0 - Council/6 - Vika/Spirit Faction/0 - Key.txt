@@ -1,0 +1,235 @@
+"Vika"
+
+11 10 6 5
+
+3 5 1 6 5 6
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Lunis]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Wolfite Herbalia" Lvl 0
+Mod/Wolfin/Plant [NoviceI]
++5/2/2 +BEU/STR/EGO (+13/10/3)
+HowlSTR, PoisonSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Roses" (1m/1m)
+(Cost: $380)
+
+Type: Plant
+
+HP  + FND
+ATK + BEU
+DEF + STR
+SPD + EGO
+MP  + MNF
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Wolves" (1m/1m)
+(Cost: $1,160)
+
+Species: Wolfin
+
+HP = 17
+ATK = 5
+DEF = 2
+SPD = 2
+MP = 13
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turns
+
+Move: Corner Diagonal
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"The Pack" (1m/1m)
+(Cost: $1,880)
+
+Species: Wolfin
+Type: Plant
+
+HP = 17 + FND (22) g(154)
+ATK = 5 + BEU (13) g(91)
+DEF = 2 + STR (10) g(70)
+SPD = 2 + EGO (3)  g(21)
+MP = 13 + MNF (16) g(112)
+
+FND = 5
+BEU = 8
+STR = 8
+EGO = 1
+MNF = 3
+
+Move: Corner Diagonal
+Attack: Area
+
+Traits: HowlSTR, PoisonBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"YETI" (100k/100k)
+(Cost: $188,000)
+
+Species: Wolfin
+Type: Plant
+
+HP = 170 + FND (220) g(1540)
+ATK = 50 + BEU (130) g(910)
+DEF = 20 + STR (100) g(700)
+SPD = 20 + EGO (30)  g(210)
+MP = 130 + MNF (160) g(1120)
+
+FND = 50
+BEU = 80
+STR = 80
+EGO = 10
+MNF = 30
+
+Move: Corner Diagonal
+Attack: Area
+
+Traits: HowlSTR, PoisonBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Foundation" (10k/10k)
+(Cost: $18,800,000)
+
+Species: Wolfin
+Type: Plant
+
+HP = 1700 + FND (2200) g(15.4k)
+ATK = 500 + BEU (1300) g(9100)
+DEF = 200 + STR (1000) g(7000)
+SPD = 200 + EGO (300)  g(2100)
+MP = 1300 + MNF (1600) g(11.2k)
+
+FND = 500
+BEU = 800
+STR = 800
+EGO = 100
+MNF = 300
+
+Move: Corner Diagonal
+Attack: Area
+
+Traits: HowlSTR, PoisonBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Celestial Branch" (1k/1k)
+(Cost: $1,880,000,000)
+
+Species: Wolfin
+Type: Plant
+
+HP = 17k + FND (22k) g(154k)
+ATK = 5k + BEU (13k) g(91k)
+DEF = 2k + STR (10k) g(70k)
+SPD = 2k + EGO (3k)  g(21k)
+MP = 13k + MNF (16k) g(112k)
+
+FND = 5k
+BEU = 8k
+STR = 8k
+EGO = 1k
+MNF = 3k
+
+Move: Corner Diagonal
+Attack: Area
+
+Traits: HowlSTR, PoisonBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Rose Galaxy" (100/100)
+(Cost: $188,000,000,000)
+
+Species: Wolfin
+Type: Plant
+
+HP = 170k + FND (220k) g(1540k)
+ATK = 50k + BEU (130k) g(910k)
+DEF = 20k + STR (100k) g(700k)
+SPD = 20k + EGO (30k)  g(210k)
+MP = 130k + MNF (160k) g(1120k)
+
+FND = 50k
+BEU = 80k
+STR = 80k
+EGO = 10k
+MNF = 30k
+
+Move: Corner Diagonal
+Attack: Area
+
+Traits: HowlSTR, PoisonBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Lunis of Thorns" (10/10)
+(Cost: $18,800,000,000,000)
+
+Species: Wolfin
+Type: Plant
+
+HP  = 1.7m + FND (2.2m) g(15.4m)
+ATK = 500k + BEU (1.3m) g(9.1m)
+DEF = 200k + STR (1m)   g(7m)
+SPD = 200k + EGO (300k) g(2.1m)
+MP  = 1.3m + MNF (1.6m) g(11.2m)
+
+FND = 500k
+BEU = 800k
+STR = 800k
+EGO = 100k
+MNF = 300k
+
+Move: Corner Diagonal
+Attack: Area
+
+Traits: HowlSTR, PoisonBEU
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

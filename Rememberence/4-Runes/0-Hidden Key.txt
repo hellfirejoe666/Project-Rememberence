@@ -1,0 +1,278 @@
+The secret language of the spirits, those who know can tell, and the spirits come when they call.
+
+	These are the stuff of magick, if you wish to create new abilities, and skills, you'll need to use these. Once you get the hang of it, the fabric of the universe will be at your call!
+
+You may collect runes at any place where they are engraved, for $100 per rune. You may engrave a rune anywhere once after you have collected it. Runes can be used to modify effect text, change Bio-data, and alter gameplay functions. Using them in conjunction with Essence shards enables you to transfigure the very fabric of creation, through new undiscovered combinations of your own design.
+
+------------------------------------
+1) Cu - Togetherness, more than oneself (Target Other)
+
+------------------------------------
+2) Jo - Justice, liberty, respect, freedom (Changes bio to VIT)
+
+------------------------------------
+3) Mi - Pertaining to self, me, myself, I (Target Self)
+
+------------------------------------
+4) Ah - Tranquility, peace, rationality, sanity, enlightening (End Action/Phase)
+
+------------------------------------
+5) Lo - Friendship, family, compassion, care (Target Ally)
+
+------------------------------------
+6) So - And, above, up, over, more (Reach)
+
+------------------------------------
+7) Un - Make, change, adapt, build (Changes bio to WIS)
+
+------------------------------------
+8) Vel - Strength, power, ego, confidence, pride (Changes bio to STR)
+
+------------------------------------
+9) Aye - Stillness, motionless, unbiased, silence, steady (Changes bio to FND)
+
+------------------------------------
+10) Sl - Sight, vision, to see clearly (Vanish)
+
+------------------------------------
+11) Ge - Knowledge, understanding, intelligence (Changes bio to UND)
+
+------------------------------------
+12) O - Avoid, or, dodge, around (Dodge)
+
+------------------------------------
+13) Zeb - No, not, but (Invert effect)
+
+------------------------------------
+14) Ta - Before, the past, unfinished, lazy, sloth (Stun)
+
+------------------------------------
+15) Fol - Wedged, stuck, curious, indecisive, narrow (Frostbite)
+
+------------------------------------
+16) Web - Life, nature, smell, wild, scent (LifeLink)
+
+------------------------------------
+17) Ic - Bring, keep, capture, closeness, to establish (Living Armor)
+
+------------------------------------
+18) Sai - Time, patience, perception, future, later (Change bio to MNF)
+
+------------------------------------
+19) I - Small, short, close, tiny (Reduction)
+
+------------------------------------
+20) Ki - Toward, with, through, in the direction of (Trample)
+
+------------------------------------
+21) Ro - Unity, Love, connection (ManaLink)
+
+------------------------------------
+22) Zic - Wound, pain, illness, hurt (Poison)
+
+------------------------------------
+23) Lin - Forward, determination, ambition (Vigilance)
+
+------------------------------------
+24) Gi - Balance, agreement, earth, north, well founded (Element Earth)
+
+------------------------------------
+25) Ba - Crossroads, gathering, acceptance, to bring together (Change bio to SPL)
+
+------------------------------------
+26) Na - Everything, everyone, whole (Target Area)
+
+------------------------------------
+27) Ga - Shield, guardian, protection (Changes to DEF)
+
+------------------------------------
+28) Ya - Wall, obstacle, stop, barrier (Defender)
+
+------------------------------------
+29) Hi - Hope, faith, belief (Charge)
+
+------------------------------------
+30) Zi - Flow, pattern, circulation, water, west (Element Water)
+
+------------------------------------
+31) Oc - Truth, fact, logic, math (Change bio to KNO)
+
+------------------------------------
+32) Ru - Reality, creation, dimensions, planes of existence (Change bio to DIV)
+
+------------------------------------
+33) Sti - One, single, rest, comfort (Guard)
+
+------------------------------------
+34) Din - Destruction, death, mayhem, chaos, havoc (Element Dark)
+
+------------------------------------
+35) Wa - Focus, attraction, attention, envy (Changes bio to BEU)
+
+------------------------------------
+36) Par - Healing, regeneration, cleansing, recovery, purity (Changes to HP)
+
+------------------------------------
+37) Ma - Much, abundance, wealth, glutton (Trade)
+
+------------------------------------
+38) Fa - Consumption, Greed, Money (Ranged)
+
+------------------------------------
+39) Po - Give, provide, allow, contribute, donate (Increase)
+
+------------------------------------
+40) Cel - Two, also, as well (MultiStrike)
+
+------------------------------------
+41) Pow - Being-ness, existence, am/are, higher self (Trance)
+
+------------------------------------
+42) Kai - Result, outcome, solution, answer (Changes to MP)
+
+------------------------------------
+43) Te - Grace, beauty, blessed, elegance (Element Light)
+
+------------------------------------
+44) El - Acceptance, belonging, taste (Magic)
+
+------------------------------------
+45) Re - Excitement, imagination, games (Special)
+
+------------------------------------
+46) Bo - Promise, obligation, loyalty, devotion (Loyalty+)
+
+------------------------------------
+47) Nu - Group, society, country, nation, union (Battle-cry)
+
+------------------------------------
+48) Rey - Caring, virtue, kindness, joy, nobility (Color White)
+
+------------------------------------
+49) Vo - Hidden, disguised, secret (Shroud)
+
+------------------------------------
+50) Kel - Anger, aggression, rage, wrath (Burn)
+
+------------------------------------
+51) Et - Want, urge, compulsion, lust (Color Red)
+
+------------------------------------
+52) Soo - Lost, solitary, alone (Dispel)
+
+------------------------------------
+53) Ni - Different, strange, unusual (Step)
+
+------------------------------------
+54) Ve - Own, possess, shape, inside (Faction)
+
+------------------------------------
+55) Sul - Decision, choice, free will, will power (Changes bio to EGO)
+
+------------------------------------
+56) Zyn - Leader, master, guidance, boss (Target Ally)
+
+------------------------------------
+57) Wi - Energy, spark, heat, bright, fire, south (Element Fire)
+
+------------------------------------
+58) Ap - Hear, listen, voice, sound (Talk)
+
+------------------------------------
+59) Ta - Sadness, lonesome, sorrow, lament, to cry (Fear)
+
+------------------------------------
+60) Zyl - Release, awaken, loose, refresh, open (Flight)
+
+------------------------------------
+61) Coh - Cut, separate, sharp (Changes to ATK)
+
+------------------------------------
+62) Xep - Growth, progress, evolution (Color Green)
+
+------------------------------------
+63) Del - Fall, forget, drop, loss, reflection (Reverse meaning)
+
+------------------------------------
+64) Cho - Big, tall, large, giant, territory (Combat)
+
+------------------------------------
+65) Sen - Under, below, beneath, down (Examine)
+
+------------------------------------
+66) Co - Follower, slave, dominated, servant, unwilling (Target Servant)
+
+------------------------------------
+67) Pel - Rotate, mix, stir, congeal, start, begin (Confusion)
+
+------------------------------------
+68) Fi - Fly, levitate, transgress, rise, air, west (Element Air)
+
+------------------------------------
+69) Deb - Reproduce, rebirth, transformation, intercourse (Changes bio to SEX)
+
+------------------------------------
+70) Zo - Nothing, no one, void (Color Black)
+
+------------------------------------
+71) Wic - Magick, spell, ritual, witch, mind (Color Blue)
+
+------------------------------------
+72) Nai - Essence, aura, spirit (Phase)
+
+------------------------------------
+73) Ket - Rebuttal, frustrate, belittle, prejudice (Battle)
+
+------------------------------------
+74) Tos - Speed, movement, quickly, to run (Changes to SPD)
+
+------------------------------------
+75) Ex - Cover, disguise, veil, screen, shelter (Phase)
+
+------------------------------------
+76) Kon - Twist, bend, manipulate, fluxuate (Loyalty-)
+
+------------------------------------
+77) Dus - Touch, feel, sense (Casting)
+
+------------------------------------
+
+------------------------------------
+Cypher:
+
+When translating English to VoKai double letters are removed and consonant blends are reversed. Exe; Channel = Xpitos. 
+
+Sai rlintsirutw Otswuxn Ki VoKai Cel soroln Pow Zyl So pytnytitr smotqn Pow Del. Ojo; Xpitos = Channel.
+
+A = I
+E = O
+I = U
+O = Y
+U = A
+Y = E
+
+R = L
+S = N
+T = R
+L = S
+N = T
+
+B = M
+C = P
+D = Q
+F = V
+G = W
+H = X
+J = Z
+K = B
+M = C
+P = D
+Q = F
+V = G
+W = H
+X = J
+Z = K
+
+------------------------------------
+
+------------------------------------

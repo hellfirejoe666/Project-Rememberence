@@ -1,0 +1,235 @@
+(Eldin): Level = 0 {100k}
+[Potion crafting dark mage]
+
+-----------------------------------------
+$$$ = 0
+
+-----------------------------------------
+
+Species; Mannequin
+Element; Dark
+(Rabbit)
+Ability; Unmoving, SPD is converted into DEF until the caster's next turn.
+
+-----------------------------------------
+
+Type; Spellcaster
+Color; Blue
+(Virgo)
+Atributes; Shroud, may not be the target of spells or abilities for a number of turns equal to SPL.
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Combat]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+HP  = 8 + BEU (15) g(105) {10,520,000}
+ATK = 1 + KNO (7)  g(49)  {4,920,000}
+DEF = 2 + DIV (10) g(70)  {7,020,000}
+SPD = 6 + SEX (11) g(77)  {7,720,000}
+MP = 22 + SPL (34) g(238) {23,820,000}
+
+Move: Corner Diag
+Attack: Corner Lateral
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~[Biorhythms]~~~~~~~~~~~~~~~
+-----------------------------------------
+
+MNF = 6
+SPL = 12 {+ 20k}
+BEU = 7  {+ 20k}
+STR = 5
+FND = 8
+KNO = 6  {+ 20k}
+UND = 4
+WIS = 4
+VIT = 1
+SEX = 5  {+ 20k}
+DIV = 8  {+ 20k}
+EGO = 6
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Thoughts]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+Env = 2
+Emo = -1
+Sub = 8
+Con = 1
+Abs = 2
+Per = -4
+State/ 8
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~[Class Styles]~~~~~~~~~~~~~~
+-----------------------------------------
+
+Melee/Staff "Mage Staff"
+Ranged/Shotgun "Mage Staff"
+Magic/Dark "Nowhere"
+"Flame" "Thunder" "Frost" "Stone"
+Step/Float "Levitate"
+Special/Blue "Mana Blast
+Trance/Stages "Shadow Skill"
+
+-----------------------------------------
+"Mage Staff" Lvl 1 {100k}
+Staff/Shotgun/Mannequin/Spell [DeityI]
++1/2/6 +KNO/DIV/SEX (+7/10/11)
+CatalystDIV, ShockwaveDIV, UnmovingDIV
+
+-----------------------------------------
+
+-----------------------------------------
+"Nowhere" Lvl 1 {100k}
+Dark/Spell [DeityI]
++KNO/DIV/SEX (+6/8/5)
+WeakenSPL, ShroudSPL
+
+-----------------------------------------
+"Flame" Lvl 1 {100k}
+Dark/Pyro [DeityI]
++SPL/KNO/DIV (+12/6/8)
+WeakenSPL, BurnSPL
+
+-----------------------------------------
+"Thunder" Lvl 1 {100k}
+Dark/Thunder [DeityI]
++KNO/DIV/SPL (+6/8/12)
+WeakenSPL, StunSPL
+
+-----------------------------------------
+"Frost" Lvl 1 {100k}
+Dark/Ice [DeityI]
++KNO/SPL/DIV (+6/12/8)
+WeakenSPL, FrostbiteSPL
+
+-----------------------------------------
+"Stone" Lvl 1 {100k}
+Dark/Rock [DeityI]
++DIV/SPL/KNO (+8/12/6)
+WeakenSPL, DefenderSPL
+
+-----------------------------------------
+
+-----------------------------------------
+"Levitate" Lvl 1 {100k}
+Float/Spell [DeityI]
++KNO/DIV/SEX (+6/8/5)
+SlideSPL, ShroudSPL
+
+-----------------------------------------
+"Mana Blast" Lvl 1 {100k}
+Blue/Spell [DeityI]
++KNO/DIV/SEX (+6/8/5)
+ControlSPL, ShroudSPL
+
+-----------------------------------------
+"Shadow Skill" Lvl 1 {100k}
+Stages/Mannequin/Warrior [DeityI]
++1/2/6 +KNO/DIV/SEX (+7/10/11)
+BoostDIV, UnmovingDIV, MultistrikeDIV
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Gear]~~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+"Sage Coat" Lvl 1 {100k} [DeityI]
+Head/ Mannequin/Spellcaster
+Body/ Mannequin/Spellcaster
+Hands/ Mannequin/Spellcaster
+Legs/ Mannequin/Spellcaster
+Feet/ Mannequin/Spellcaster
+Other/ Mannequin/Spellcaster
+Total; +90/42/60/66/204
+
+-----------------------------------------
+~~~~~~~~~~~~~~~[Essences]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Shards]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+Spirit:
+
+	Species:
+		
+
+	Type:
+		
+
+-----------------------------------------
+Zodiac:
+
+	Animal:
+		
+
+	Star:
+		
+
+-----------------------------------------
+Combat:
+
+	HP = 
+	ATK = 
+	DEF = 
+	SPD = 
+	MP = 
+
+-----------------------------------------
+Rhythm:
+
+	MNF = 
+	SPL = 
+	BEU = 
+	STR = 
+	FND = 
+	KNO = 
+	UND = 
+	WIS = 
+	VIT = 
+	SEX = 
+	DIV = 
+	EGO = 
+
+-----------------------------------------
+Effect:
+	
+
+-----------------------------------------
+Mobility:
+	
+
+-----------------------------------------
+Skill:
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Runes]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+	
+
+-----------------------------------------
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~~[Items]~~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+-----------------------------------------

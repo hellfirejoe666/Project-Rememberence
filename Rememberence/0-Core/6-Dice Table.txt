@@ -1,0 +1,247 @@
+World actions;
+
+https://anydice.com/program/126cb
+
+Evens/Odds, Heads/Tails, answers Yes/No questions, and selects between pairs.
+
+You may use any equivalent set of dice and "Throw Bones" for any combat or status check to improve, or hinder, you chances of success. This also increases or decreases the resulting outcome of those checks, including an element of chance into gameplay.
+
+The resulting values can be multiplied by tier level for any interaction, which allows the dice to modulate for every layer of game play.
+
+Throwing bones allows even weaker spirits a slim chance of victory against overwhelming opponents, and gives things a more natural feel, where even the tiniest mouse could carry a plague that can topple giants.
+
+Rememberence plays well without throwing bones, but the element of chance always makes things more interesting. Take a risk, and throw bones, or play it safe, and avoid the spirit that has an advantage on you, your call.
+
+-----------------------------------------
+Search D6; (Check Materia/Material)
+(World) - [Local]
+
+1 - (Spirits)    - [Spirits]
+2 - (Structures) - [Objects]
+3 - (Runes)      - [Runes]
+4 - (Treasure)   - [Treasure]
+5 - (Dungeons)   - [Styles]
+6 - (Portals)    - [Portals]
+
+-----------------------------------------
+Structures D6; (Check Materia/Material)
+(World) - [Local]
+
+1 - (Camps)  - [Beds]
+2 - (Towns)  - [Tables]
+3 - (Cities) - [Chairs]
+4 - (Farms)  - [Container]
+5 - (Labs)   - [Utilities]
+6 - (Forts)  - [Safe]
+
+-----------------------------------------
+Dungeons D6; (Check Materia/Material)
+(World) - [Local]
+
+1 - (Cave)   - [Melee]
+2 - (Mine)   - [Ranged]
+3 - (Bunker) - [Magic]
+4 - (Tower)  - [Step]
+5 - (Maze)   - [Power]
+6 - (Shrine) - [Trance]
+
+-----------------------------------------
+Treasure D6;
+
+1 - (Weapons)  - [Melee/Ranged]
+2 - (Potions)  - [Check Materia]
+3 - (Books)    - [Magic/Special]
+4 - (Mono $$$) - [D20 * Tier]
+5 - (Scrolls)  - [Step/Trance]
+6 - (Gear)     - [Check Material]
+
+-----------------------------------------
+Animal Signs D6 * 2 (D12)
+(Sign) - [Forge]
+
+1  - (Rat)     - [Clever]
+2  - (Ox)      - [Resolute]
+3  - (Tiger)   - [Radical]
+4  - (Rabbit)  - [Generous]
+5  - (Dragon)  - [Noble]
+6  - (Snake)   - [Cunning]
+7  - (Horse)   - [Honest]
+8  - (Goat)    - [Sturdy]
+9  - (Monkey)  - [Active]
+10 - (Rooster) - [Defiant]
+11 - (Dog)     - [Loyal]
+12 - (Boar)    - [Mellow]
+
+-----------------------------------------
+Star Signs D6 * 2 (D12)
+(Sign) - [Forge]
+
+1  - (Aries)       - [Creative]
+2  - (Taurus)      - [Stubborn]
+3  - (Gemini)      - [Flexable]
+4  - (Cancer)      - [Reserved]
+5  - (Leo)         - [Expanded]
+6  - (Virgo)       - [Intuitive]
+7  - (Libra)       - [Balanced]
+8  - (Scorpio)     - [Unshaken]
+9  - (Sagittarius) - [Focused]
+10 - (Capricorn)   - [Practical]
+11 - (Aquarius)    - [Silent]
+12 - (Pisces)      - [Victory]
+
+-----------------------------------------
+Species D6 * 6 (D36);
+(Species) - [Material]
+
+Materials are components that can be modified into various different forms through Materia. Each Material may modify Materia in different ways.
+
+*These are used for Weapon/Gear creation.
+
+1)  (Avious)    - [Avium]
+2)  (Merr)      - [Merrium]
+3)  (Geneshan)  - [Geneshite]
+4)  (Iniris)    - [Inirium]
+5)  (Reptoid)   - [Reptillium]
+6)  (Wolfin)    - [Wolfite]
+7)  (Goki)      - [Gokium]
+8)  (Tigris)    - [Tigrite]
+9)  (Demon)     - [Demonite]
+10) (Grimm)     - [Grimium]
+11) (Drakian)   - [Drakium]
+12) (Chimera)   - [Chimerium]
+13) (Mannequin) - [Mannequite]
+14) (Pixie)     - [Pixium]
+15) (Grizzly)   - [Grizzlite]
+16) (Faun)      - [Faunite]
+17) (Vampyre)   - [Vampyrium]
+18) (Grey)      - [Gretium]
+19) (Chrono)    - [Chronium]
+20) (Gargoyle)  - [Gargorite]
+21) (Mimic)     - [Mimicite]
+22) (Elf)       - [Elfium]
+23) (Ghoul)     - [Ghoulite]
+24) (Bastet)    - [Bastite]
+25) (Phantom)   - [Phantilium]
+26) (Banshee)   - [Banshite]
+27) (Angel)     - [Angelium]
+28) (Human)     - [Humite]
+29) (Jackal)    - [Jackalite]
+30) (Troll)     - [Trollium]
+31) (Dwarf)     - [Dwarfite]
+32) (Goblin)    - [Goblium]
+33) (Imp)       - [Impium]
+34) (Arachnos)  - [Arachnite]
+35) (Minotaur)  - [Minotite]
+36) (Orc)       - [Orcium]
+
+--------------------------------------
+Types D6 * 4 (D24);
+(Type) - [Materia]
+
+Materia changes strength depending on the biorhythms of the spirit using it. Each Materia may alter Materials in different ways.
+
+*These are used for Spell/Ability creation.
+
+1)  (Thunder) - [Voltara]
+2)  (Warrior) - [Warraga]
+3)  (Spell)   - [Cultia]
+4)  (Pyro)    - [Plasmara]
+5)  (Plant)   - [Herbalia]
+6)  (Fairy)   - [Powdara]
+7)  (Beast)   - [Creatura]
+8)  (Aqua)    - [Liquidia]
+9)  (Undead)  - [Plaguara]
+10) (Fiend)   - [Mutatia]
+11) (Insect)  - [Infestia]
+12) (Vortex)  - [Gasaga]
+13) (Dragoon) - [Devotia]
+14) (Metal)   - [Mechara]
+15) (Rock)    - [Petrifica]
+16) (Normal)  - [Forsaga]
+17) (Psychic) - [Mentalia]
+18) (Ghost)   - [Mistara]
+19) (Crystal) - [Gemia]
+20) (Blood)   - [Vitalia]
+21) (Ice)     - [Solidia]
+22) (Holy)    - [Blessara]
+23) (Curse)   - [Hexia]
+24) (Avatar)  - [Runaga]
+
+--------------------------------------
+Gear D6; (Check Material/Materia)
+(Gear) - [Container]
+
+1 - (Head)  - [Jug]
+2 - (Body)  - [Crate]
+3 - (Hands) - [Chest]
+4 - (Legs)  - [Barrel]
+5 - (Feet)  - [Cabinet]
+6 - (Other) - [Box]
+
+-----------------------------------------
+Melee D6; (Check Material/Materia)
+(Skill) - [Style]
+
+1 - (1H)    - [King]
+2 - (2H)    - [Rook]
+3 - (Whip)  - [Thief]
+4 - (Staff) - [Knight]
+5 - (Fists) - [Queen]
+6 - (Chi)   - [Bishop]
+
+-----------------------------------------
+Ranged D6; (Check Material/Materia)
+(Skill) - [Style]
+
+1 - (Thrown)   - [Ninja]
+2 - (Bow)      - [Archer]
+3 - (Crossbow) - [Hunter]
+4 - (Shotgun)  - [Slayer]
+5 - (Pistol)   - [Trooper]
+6 - (Rifle)    - [Sniper]
+
+-----------------------------------------
+Magic D6; (Check Material/Materia)
+(Skill) - [Style]
+
+1 - (Earth) - [Terra]
+2 - (Air)   - [Aero]
+3 - (Fire)  - [Fira]
+4 - (Water) - [Hydra]
+5 - (Light) - [Lumos]
+6 - (Dark)  - [Dim]
+
+-----------------------------------------
+Step D6; (Check Material/Materia)
+(Skill) - [Style]
+
+1 - (Flight)  - [Soar]
+2 - (Float)   - [Slide]
+3 - (Dash)    - [Sprint]
+4 - (Acrobat) - [Flip]
+5 - (Warp)    - [Phase]
+6 - (Evade)   - [Feint]
+
+-----------------------------------------
+Special D6; (Check Material/Materia)
+(Skill) - [Style]
+
+1 - (White) - [Field]
+2 - (Blue)  - [Island]
+3 - (Black) - [Swamp]
+4 - (Red)   - [Mountain]
+5 - (Green) - [Forest]
+6 - (None)  - [Desert]
+
+-----------------------------------------
+Trance D6; (Check Material/Materia)
+(Skill) - [Style]
+
+1 - (Overdrive) - [Surge]
+2 - (Stages)    - [Charge]
+3 - (Duration)  - [Generate]
+4 - (Aura)      - [Radiate]
+5 - (Armor)     - [Plated]
+6 - (Morph)     - [Reactive]
+
+-----------------------------------------

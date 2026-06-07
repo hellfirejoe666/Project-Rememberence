@@ -1,0 +1,235 @@
+"Noctra"
+
+10 7 10 23
+
+4 1 6 5 3 3
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Grave]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Novice   - Icon (Lvl 1)
+Beginner - Unit (Lvl 10)
+Mediate  - World (lvl 100)
+Advanced - System (Lvl 1k)
+Master   - Galaxy (Lvl 10k)
+Deity    - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Novice   - Multiversal {Lvl 1m}
+Beginner - Exoversal {Lvl 10m}
+Mediate  - Xenoversal {Lvl 100m}
+Advanced - Deltaversal {Lvl 1b}
+Master   - Tetraversal {Lvl 10b}
+Deity    - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+~~~~~~~~~~~~~~~~[Faction]~~~~~~~~~~~~~~~~
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [Skill Mod]
+"Grimium Hexia" Lvl 0
+Mod/Grim/Curse [NoviceI]
++2/4/3 +KNO/MNF/VIT (+3/13/11)
+ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Hex Root" (1m/1m)
+(Cost: $460)
+
+Type: Curse
+
+HP  + FND
+ATK + KNO
+DEF + MNF
+SPD + VIT
+MP  + SEX
+
+SEX = 9
+BEU = 7
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Lost" (1m/1m)
+(Cost: $1,140)
+
+Species: Grim
+
+HP = 14
+ATK = 2
+DEF = 4
+SPD = 3
+MP = 16
+
+SEX = 7
+BEU = 9
+
+Product: 1/4turns
+
+Move: Diag
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [NoviceI]
+"Reapers" (1m/1m)
+(Cost: $1,880)
+
+Species: Grim
+Type: Curse
+
+HP = 14 + FND (19) g(133)
+ATK = 2 + KNO (3)  g(21)
+DEF = 4 + MNF (13) g(91)
+SPD = 3 + VIT (11) g(77)
+MP = 16 + SEX (18) g(126)
+
+FND = 5
+KNO = 1
+MNF = 9
+VIT = 8
+SEX = 2
+
+Move: Diag
+Attack: Corner Diag
+
+Traits: ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [BeginnerI]
+"Bone Cycle" (100k/100k)
+(Cost: $188,000)
+
+Species: Grim
+Type: Curse
+
+HP = 140 + FND (190) g(1330)
+ATK = 20 + KNO (30)  g(210)
+DEF = 40 + MNF (130) g(910)
+SPD = 30 + VIT (110) g(770)
+MP = 160 + SEX (180) g(1260)
+
+FND = 50
+KNO = 10
+MNF = 90
+VIT = 80
+SEX = 20
+
+Move: Diag
+Attack: Corner Diag
+
+Traits: ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MediateI]
+"Graveyard" (10k/10k)
+(Cost: $18,800,000)
+
+Species: Grim
+Type: Curse
+
+HP = 1400 + FND (1900) g(13.3k)
+ATK = 200 + KNO (300)  g(2100)
+DEF = 400 + MNF (1300) g(9100)
+SPD = 300 + VIT (1100) g(7700)
+MP = 1600 + SEX (1800) g(12.6k)
+
+FND = 500
+KNO = 100
+MNF = 900
+VIT = 800
+SEX = 200
+
+Move: Diag
+Attack: Corner Diag
+
+Traits: ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [AdvancedI]
+"Leviathin" (1k/1k)
+(Cost: $1,880,000,000)
+
+Species: Grim
+Type: Curse
+
+HP = 14k + FND (19k) g(133k)
+ATK = 2k + KNO (3k)  g(21k)
+DEF = 4k + MNF (13k) g(91k)
+SPD = 3k + VIT (11k) g(77k)
+MP = 16k + SEX (18k) g(126k)
+
+FND = 5k
+KNO = 1k
+MNF = 9k
+VIT = 8k
+SEX = 2k
+
+Move: Diag
+Attack: Corner Diag
+
+Traits: ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [MasterI]
+"Grim Horizon" (100/100)
+(Cost: $188,000,000,000)
+
+Species: Grim
+Type: Curse
+
+HP = 140k + FND (190k) g(1330k)
+ATK = 20k + KNO (30k)  g(210k)
+DEF = 40k + MNF (130k) g(910k)
+SPD = 30k + VIT (110k) g(770k)
+MP = 160k + SEX (180k) g(1260k)
+
+FND = 50k
+KNO = 10k
+MNF = 90k
+VIT = 80k
+SEX = 20k
+
+Move: Diag
+Attack: Corner Diag
+
+Traits: ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DeityI]
+"Watch Tower" (10/10)
+(Cost: $18,800,000,000,000)
+
+Species: Grim
+Type: Curse
+
+HP  = 1.4m + FND (1.9m) g(13.3m)
+ATK = 200k + KNO (300k) g(2.1m)
+DEF = 400k + MNF (1.3m) g(9.1m)
+SPD = 300k + VIT (1.1m) g(7.7m)
+MP  = 1.6m + SEX (1.8m) g(12.6m)
+
+FND = 500k
+KNO = 100k
+MNF = 900k
+VIT = 800k
+SEX = 200k
+
+Move: Diag
+Attack: Corner Diag
+
+Traits: ReapMNF, FearMNF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

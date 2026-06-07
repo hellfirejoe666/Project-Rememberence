@@ -1,0 +1,87 @@
+Welcome, Dreamwalkers!
+
+Embark on your journey through Rememberence, a universe teeming with mysteries and challenges, spun from the threads of your soul’s deepest visions. Dive into the game's files to uncover hidden mechanics, secrets, and the intricate design behind this world. Here, every mystery is a reflection, every challenge a riddle from the cosmos. Every module, every system, is a piece of the grand puzzle of Rememberence. Let your intuition and curiosity guide you as you explore, learning the game's complexities, where each discovery shapes your path to mastery.
+
+For a structured approach to mastering Rememberence, refer to the Dream Path Tutorials below. This roadmap, rooted in your Spirit Key, will guide you through the game's mechanics and tiers, weaving your gameplay into a personal odyssey with six dream paths per tier.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dreamscape:
+
+Within the mystical expanse of the Gateway, the world between worlds, the Dreamscape lies hidden, a secret realm of dreams and meditation within the mind's labyrinth. Here, in this ethereal sanctuary, you can master game mechanics without waking consequences, practicing skills or exploring modules in a safe, hypothetical environment. Each moment in the Dreamscape is a step toward unveiling your truth, a dance with the shadow and self that binds mastery to the essence of your being.
+
+Dreamscape Mechanics:
+
+Skill Training: Skills reach Level 1 at 1000 exp, allowing weapon or ability enhancements. Beyond this, mastering modules offers an enhanced understanding of Rememberence and it's mechanics. Skills are acquired by practicing with relevant weapons or abilities, initially using only base skill values until reaching Level 1 where Material/Materia values and traits may also be applied.
+
+Module Mastery: Engage with the Dreamscape to refine skills or delve into game modules, gaining deep mechanical understanding, and tactical advantages in both combat and conversation.
+
+Narrative and Thematic Integration:
+
+The Dreamscape is more than a training ground, it is a mirror of the Narrative, where self-discovery and mastery intertwine. Your triumphs here ripple into the waking world, personalizing your path through Rememberence. Each skill honed, each secret unveiled, pierces the illusions that veil reality.
+
+The game begins immediately after you create your character using the Start file (0-Core/1-Start). A lucid dream where you face your own reflection, your shadow, learning basic communication and combat mechanics. Should you emerge victorious, or not, you awaken in your hometown, on your home world, as built from your Spirit Key, ready to begin your journey.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dream Path Tutorials:
+
+------------------------------------
+Novice Tier - (Level 1 - 10) - Icon
+
+Dream 1: Basic Movement and Interaction
+Dream 2: Combat Basics
+Dream 3: Magic and Special Abilities
+Dream 4: Crafting and Resource Gathering
+Dream 5: Social Interaction and Trade
+Dream 6: Comprehensive Test
+
+------------------------------------
+Beginner Tier - (Level 10 - 100) - Unit
+
+Dream 1: Unit Command
+Dream 2: Basic Tactics
+Dream 3: Influence and Leadership
+Dream 4: Environmental Manipulation
+Dream 5: Complex Crafting
+Dream 6: Resource and Unit Management
+
+------------------------------------
+Mediate Tier - (Level 100 - 1k) - World
+
+Dream 1: Global Command
+Dream 2: Interstellar Diplomacy
+Dream 3: Advanced Warfare
+Dream 4: Cosmic Engineering
+Dream 5: Mass Production and Trade
+Dream 6: Strategic Governance
+
+------------------------------------
+Advanced Tier - (Level 1k - 10k) - Star
+
+Dream 1: Galactic Command
+Dream 2: Cosmic Diplomacy
+Dream 3: Space Warfare
+Dream 4: Galactic Engineering
+Dream 5: Interstellar Trade and Production
+Dream 6: Cosmic Governance
+
+------------------------------------
+Master Tier - (Level 10k - 100k) - Galaxy
+
+Dream 1: Cosmic Command
+Dream 2: Universal Diplomacy
+Dream 3: Intergalactic Warfare
+Dream 4: Cosmic Engineering
+Dream 5: Intergalactic Trade and Production
+Dream 6: Universal Governance
+
+------------------------------------
+Deity Tier - (Level 100k - 1m) - Universe
+
+Dream 1: Cosmic Governance
+Dream 2: Trans-Universal Diplomacy
+Dream 3: Metaphysical Warfare
+Dream 4: Universal Engineering
+Dream 5: Cosmic Trade and Production
+Dream 6: Reality Governance
+
+------------------------------------

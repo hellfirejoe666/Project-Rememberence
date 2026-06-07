@@ -1,0 +1,233 @@
+"NaGi"
+
+2 10 3 15
+
+5 4 1 4 5 5
+
+-----------------------------------------
+Chaos Shard - NaGi [FlawlessII]
+(Recipe:None)[Sell:Priceless]
+
+HP x Tier Level
+DEF x Tier Level
+
+Pattern: Area
+
+-----------------------------------------
+
+-----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Faction; [Crusher]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Macro, TiersI:
+
+Underclass - Icon (Lvl 1)
+Proletariat - Unit (Lvl 10)
+Union - World (lvl 100)
+Party - System (Lvl 1k)
+Counsel - Galaxy (Lvl 10k)
+Dictator - Universe (Lvl 100k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meta, TiersII:
+
+Underclass - Multiversal {Lvl 1m}
+Proletariat - Exoversal {Lvl 10m}
+Union - Xenoversal {Lvl 100m}
+Party - Deltaversal {Lvl 1b}
+Counsel - Tetraversal {Lvl 10b}
+Dictator - Omniversal {Lvl 100b}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [UnderclassI]
+"Battle Pig"
+(Cost: $1,060)
+
+Species: Geneshan
+
+HP  = 18
+ATK = 2
+DEF = 5
+SPD = 2
+MP  = 12
+
+SEX = 3
+BEU = 5
+
+Product: 1/4turn
+
+Move: Lateral
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [UnderclassI]
+"Geode Fruit"
+(Cost: $380)
+
+Type: Rock
+
+HP  + FND
+ATK + STR
+DEF + MNF
+SPD + EGO
+MP  + KNO
+
+SEX = 5
+BEU = 3
+
+Product: 4/turn
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [UnderclassI]
+"Tusker"
+(Cost: $5,300)
+
+Species: Geneshan
+Type: Rock
+
+HP  = 18 + FND (30)
+ATK = 2  + STR (5)
+DEF = 5  + MNF (6)
+SPD = 2  + EGO (4)
+MP  = 12 + KNO (20)
+
+FND = 12
+STR = 3
+MNF = 1
+EGO = 2
+KNO = 8
+
+Move: Lateral
+Attack: Lateral
+
+Traits: StunSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [ProletariatI]
+"Monster Truck"
+(Cost: $53,000)
+
+Species: Geneshan
+Type: Rock
+
+HP  = 180 + FND (300)
+ATK = 20  + STR (50)
+DEF = 50  + MNF (60)
+SPD = 20  + EGO (40)
+MP  = 120 + KNO (200)
+
+FND = 120
+STR = 30
+MNF = 10
+EGO = 20
+KNO = 80
+
+Move: Lateral
+Attack: Lateral
+
+Traits: StunSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [UnionI]
+"Stone Core"
+(Cost: $5,300,000)
+
+Species: Geneshan
+Type: Rock
+
+HP  = 1800 + FND (3000)
+ATK = 200  + STR (500)
+DEF = 500  + MNF (600)
+SPD = 200  + EGO (400)
+MP  = 1200 + KNO (2000)
+
+FND = 1200
+STR = 300
+MNF = 100
+EGO = 200
+KNO = 800
+
+Move: Lateral
+Attack: Lateral
+
+Traits: StunSTR, RevitalizeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [PartyI]
+"Asteroid Forge"
+(Cost: $530,000,000)
+
+Species: Geneshan
+Type: Rock
+
+HP  = 18k + FND (30k)
+ATK = 2k  + STR (5k)
+DEF = 5k  + MNF (6k)
+SPD = 2k  + EGO (4k)
+MP  = 12k + KNO (20k)
+
+FND = 12k
+STR = 3k
+MNF = 1k
+EGO = 2k
+KNO = 8k
+
+Move: Lateral
+Attack: Lateral
+
+Traits: StunSTR, RevitalizeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [CounselI]
+"Gravity Storm"
+(Cost: $53,000,000,000)
+
+Species: Geneshan
+Type: Rock
+
+HP  = 180k + FND (300k)
+ATK = 20k  + STR (50k)
+DEF = 50k  + MNF (60k)
+SPD = 20k  + EGO (40k)
+MP  = 120k + KNO (200k)
+
+FND = 120k
+STR = 30k
+MNF = 10k
+EGO = 20k
+KNO = 80k
+
+Move: Lateral
+Attack: Lateral
+
+Traits: StunSTR, RevitalizeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Construct [DictatorI]
+"Crusher-Verse"
+(Cost: $5,300,000,000,000)
+
+Species: Geneshan
+Type: Rock
+
+HP  = 1.8m + FND (3m)
+ATK = 200k + STR (500k)
+DEF = 500k + MNF (600k)
+SPD = 200k + EGO (400k)
+MP  = 1.2m + KNO (2m)
+
+FND = 1.2m
+STR = 300k
+MNF = 100k
+EGO = 200k
+KNO = 800k
+
+Move: Lateral
+Attack: Lateral
+
+Traits: StunSTR, RevitalizeSTR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

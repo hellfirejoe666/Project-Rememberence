@@ -1,0 +1,365 @@
+------------------------------------------
+Layers of Creation;
+
+	"This is no undertaking for mere mortals, nor that of gods. It is essential we become something more than either, or we will certainly fail."
+
+For modular scale spirit generation, multiply all stats by the number of Icons for that scale. Units scale spirits are 10x the base Icon (A Goblin Engine for example), World spirits are 100x Unit scale spirits (Something like a Death Star), and so on down the list. This method can also be used to amplify the strength of an essence by fusing many essences together. Constructs made of multiple essences, and components, also fit into this system, scaling as their constituent parts reach certain numbers. 
+
+For tier randomization, roll d10 and multiply those values by the minimum count for each applicable tier. This is useful, because many if not most characters will be stronger than the minimum.
+
+----------------[Essence]---------------
+Micro 1; Step 1 "Time"
+	Zodiac, (Star + Animal) Determines an entity's Bio-data by combining the Zodiac Signs.
+
+Micro 2; Step 2 "Space"
+	Spirit, (Species + Type) Detrmines an entity's Combat-Data with Base values and Bio-Modifiers respectively.
+
+Micro 3; Step 3 "Being"
+	Classes, Determines what kind of weapons and abilities an entity may equip.
+
+Micro 4; Step 4 "Will"
+	Shards, Various gameplay values. The individual components of everything in game as defined in the Guide under Forge.
+
+Micro 5; Step 5 "Fate"
+	Runes, Changes Equip/Spell Effect. The Enchanting system of Rememberence that allows entities to create their own Effects.
+
+Micro 6; Step 6 "Rebirth"
+	Essence, Tapestry of a Spirit. The complete sum of all shards that compose an entity.
+
+---------------[Thought]----------------
+Mental 1; "Conscientiousness" (EGO/FND)
+	Environment, Chaos - Order.
+
+Mental 2; "Neuroticism" (DIV/BEU)
+	Emotion, Fear - Love.
+
+Mental 3; "Openness" (UND/SPL)
+	Subconscious, Reject - Embrace.
+
+Mental 4; "Extraversion" (SEX/MNF)
+	Conscious, Passive - Active.
+
+Mental 5; "Education" (WIS/KNO)
+	Abstraction, Lived - Learned.
+
+Mental 6; "Agreeableness" (STR/VIT)
+	Perception, Negative - Positive.
+
+----------------[Grid]------------------
+Macro 1; Lvl = 1 | Spirits = (1 - 10)
+	Icon, Small groups and single Spirits.
+
+Macro 2; Lvl = 10 | Icons = (10 - 100)
+	Unit, Groups like towns/armies.
+
+Macro 3; Lvl = 100 | Units = (100 - 1k)
+	World, Planets with integrated Units.
+
+Macro 4; Lvl = 1k | Worlds = (1 - 10)
+	System, Stars with multiple Worlds.
+
+Macro 5; Lvl = 10k | Systems = (10 - 100)
+	Galactic, Clusters of Systems.
+
+Macro 6; Lvl = 100k | Galaxies = (100 - 1k)
+	Universal, Networks of Galaxies.
+
+----------------[Matrix]-----------------
+Meta 1; Lvl = 1m | Universe = (1 - 10)
+	Multiversal, Parallel Universes.
+
+Meta 2; Lvl = 10m | Multiverse = (10 - 100)
+	Exoversal, Linked Multiverse.
+
+Meta 3; Lvl = 100m | Exoverse = (100 - 1k)
+	Xenoversal, Exoverse Structures.
+
+Meta 4; Lvl = 1b | Xenoverse = (1 - 10)
+	Deltaversal, Xenoverse Clusters.
+
+Meta 5; Lvl = 10b | Deltaverse = (10 - 100)
+	Tetraversal, Aligned Deltaverse.
+
+Meta 6; Lvl = 100b | Tetraverse = (100 - 1k)
+	Omniversal, Harmonic Tetraverse.
+
+----------------[Mythic]-----------------
+Mythic 1; Lvl = 1t | Lvl = 100q
+	[Novice3] | [Deity3]
+
+Mythic 2; Lvl = 1p | Lvl = 100h
+	[Novice4] | [Deity4]
+
+Mythic 3; Lvl = 1s | Lvl = 100o
+	[Novice5] | [Deity5]
+
+Mythic 4; Lvl = 1n | Lvl = 100d
+	[Novice6] | [Deity6]
+
+Mythic 5; Lvl = 1ud | Lvl = 100dd
+	[Novice7] | [Deity7]
+
+Mythic 6; Lvl = 1td | Lvl = 100qd
+	[Novice8] | [Deity8]
+
+Mythic 7; Lvl = 1pd | Lvl = 100hd
+	[Novice9] | [Deity9]
+
+Mythic 8; Lvl = 1sd | Lvl = 100od
+	[Novice10] | [Deity10]
+
+Mythic 9; Lvl = 1nd | Lvl = 100v
+	[Novice11] | [Deity11]
+
+Mythic 10; Lvl = 1uv | Lvl = 100dv
+	[Novice12] | [Deity12]
+
+Mythic 11; Lvl = 1tv | Lvl = 100qv
+	[Novice13] | [Deity13]
+
+Mythic 12; Lvl = 1pv | Lvl = 100hv
+	[Novice14] | [Deity14]
+
+Mythic 13; Lvl = 1sv | Lvl = 100ov
+	[Novice15] | [Deity15]
+
+Mythic 14; Lvl = 1nv | Lvl = 100x
+	[Novice16] | [Deity16]
+
+Mythic 15; Lvl = 1ux | Lvl = 100dx
+	[Novice17] | [Deity17]
+
+Mythic 16; Lvl = 1tx | Lvl = 100qx
+	[Novice18] | [Deity18]
+
+Mythic 17; Lvl = 1px | Lvl = 100hx
+	[Novice19] | [Deity19]
+
+Mythic 18; Lvl = 1sx | Lvl = 100ox
+	[Novice20] | [Deity20]
+
+Mythic 19; Lvl = 1nx | Lvl = 100y
+	[Novice21] | [Deity21]
+
+Mythic 20; Lvl = 1uy | Lvl = 100dy
+	[Novice22] | [Deity22]
+
+Mythic 21; Lvl = 1ty | Lvl = 100qy
+	[Novice23] | [Deity23]
+
+Mythic 22; Lvl = 1py | Lvl = 100hy
+	[Novice24] | [Deity24]
+
+Mythic 23; Lvl = 1sy | Lvl = 100oy
+	[Novice25] | [Deity25]
+
+Mythic 24; Lvl = 1ny | Lvl = 100z
+	[Novice26] | [Deity26]
+
+Mythic 25; Lvl = 1uz | Lvl = 100dz
+	[Novice27] | [Deity27]
+
+Mythic 26; Lvl = 1tz | Lvl = 100qz
+	[Novice28] | [Deity28]
+
+Mythic 27; Lvl = 1pz | Lvl = 100hz
+	[Novice29] | [Deity29]
+
+Mythic 28; Lvl = 1sz | Lvl = 100oz
+	[Novice30] | [Deity30]
+
+Mythic 29; Lvl = 1nz | Lvl = 100j
+	[Novice31] | [Deity31]
+
+Mythic 30; Lvl = 1uj | Lvl = 100dj
+	[Novice32] | [Deity32]
+
+Mythic 31; Lvl = 1tj | Lvl = 100qj
+	[Novice33] | [Deity33]
+
+Mythic 32; Lvl = 1pj | Lvl = 100hj
+	[Novice34] | [Deity34]
+
+Mythic 33; Lvl = 1sj | Lvl = 100oj
+	[Novice35] | [Deity35]
+
+Mythic 34; Lvl = 1nj | Lvl = 100l
+	[Novice36] | [Deity36]
+
+Mythic 35; Lvl = 1ul | Lvl = 100dl
+	[Novice37] | [Deity37]
+
+Mythic 36; Lvl = 1tl | Lvl = 100ql
+	[Novice38] | [Deity38]
+
+Mythic 37; Lvl = 1pl | Lvl = 100hl
+	[Novice39] | [Deity39]
+
+Mythic 38; Lvl = 1sl | Lvl = 100ol
+	[Novice40] | [Deity40]
+
+Mythic 39; Lvl = 1nl | Lvl = 100r
+	[Novice41] | [Deity41]
+
+Mythic 40; Lvl = 1ur | Lvl = 100dr
+	[Novice42] | [Deity42]
+
+Mythic 41; Lvl = 1tr | Lvl = 100qr
+	[Novice43] | [Deity43]
+
+Mythic 42; Lvl = 1pr | Lvl = 100hr
+	[Novice44] | [Deity44]
+
+Mythic 43; Lvl = 1sr | Lvl = 100or
+	[Novice45] | [Deity45]
+
+Mythic 44; Lvl = 1nr | Lvl = 100u
+	[Novice46] | [Deity46]
+
+Mythic 45; Lvl = 1uu | Lvl = 100du
+	[Novice47] | [Deity47]
+
+Mythic 46; Lvl = 1tu | Lvl = 100qu
+	[Novice48] | [Deity48]
+
+Mythic 47; Lvl = 1pu | Lvl = 100hu
+	[Novice49] | [Deity49]
+
+Mythic 48; Lvl = 1su | Lvl = 100ou
+	[Novice50] | [Deity50]
+
+Mythic 49; Lvl = 1nu | Lvl = 100c
+	[Novice51] | [Deity51]
+
+Mythic 50; Lvl = 1uc | Lvl = 100dc
+	[Novice52] | [Deity52]
+
+Mythic 51; Lvl = 1tc | Lvl = 100qc
+	[Novice53] | [Deity53]
+
+Mythic 52; Lvl = 1pc | Lvl = 100hc
+	[Novice54] | [Deity54]
+
+Mythic 53; Lvl = 1sc | Lvl = 100oc
+	[Novice55] | [Deity55]
+
+Mythic 54; Lvl = 1nc | Lvl = 100a
+	[Novice56] | [Deity56]
+
+------------------------------------------
+~Number Key~
+
+1k   = 10^3
+1m   = 10^6
+1b   = 10^9
+1t   = 10^12
+1q   = 10^15
+1p   = 10^18
+1h   = 10^21
+1s   = 10^24
+1o   = 10^27
+1n   = 10^30
+1d   = 10^33
+1ud  = 10^36
+1dd  = 10^39
+1td  = 10^42
+1qd  = 10^45
+1pd  = 10^48
+1hd  = 10^51
+1sd  = 10^54
+1od  = 10^57
+1nd  = 10^60
+1v   = 10^63
+1uv  = 10^66
+1dv  = 10^69
+1tv  = 10^72
+1qv  = 10^75
+1pv  = 10^78
+1hv  = 10^81
+1sv  = 10^84
+1ov  = 10^87
+1nv  = 10^90
+1x   = 10^93
+1ux  = 10^96
+1dx  = 10^99
+1tx  = 10^102
+1qx  = 10^105
+1px  = 10^108
+1hx  = 10^111
+1sx  = 10^114
+1ox  = 10^117
+1nx  = 10^120
+1y   = 10^123
+1uy  = 10^126
+1dy  = 10^129
+1ty  = 10^132
+1qy  = 10^135
+1py  = 10^138
+1hy  = 10^141
+1sy  = 10^144
+1oy  = 10^147
+1ny  = 10^150
+1z   = 10^153
+1uz  = 10^156
+1dz  = 10^159
+1tz  = 10^162
+1qz  = 10^165
+1pz  = 10^168
+1hz  = 10^171
+1sz  = 10^174
+1oz  = 10^177
+1nz  = 10^180
+1j   = 10^183
+1uj  = 10^186
+1dj  = 10^189
+1tj  = 10^192
+1qj  = 10^195
+1pj  = 10^198
+1hj  = 10^201
+1sj  = 10^204
+1oj  = 10^207
+1nj  = 10^210
+1l   = 10^213
+1ul  = 10^216
+1dl  = 10^219
+1tl  = 10^222
+1ql  = 10^225
+1pl  = 10^228
+1hl  = 10^231
+1sl  = 10^234
+1ol  = 10^237
+1nl  = 10^240
+1r   = 10^243
+1ur  = 10^246
+1dr  = 10^249
+1tr  = 10^252
+1qr  = 10^255
+1pr  = 10^258
+1hr  = 10^261
+1sr  = 10^264
+1or  = 10^267
+1nr  = 10^270
+1u   = 10^273
+1uu  = 10^276
+1du  = 10^279
+1tu  = 10^282
+1qu  = 10^285
+1pu  = 10^288
+1hu  = 10^291
+1su  = 10^294
+1ou  = 10^297
+1nu  = 10^300
+1c   = 10^303
+1uc  = 10^306
+1dc  = 10^309
+1tc  = 10^312
+1qc  = 10^315
+1pc  = 10^318
+1hc  = 10^321
+1sc  = 10^324
+1oc  = 10^327
+1nc  = 10^330
+1a   = 10^333
+
+(This can keep going forever...)
+------------------------------------------
